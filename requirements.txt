@@ -1,0 +1,7 @@
+requests
+python-jobspy
+python-docx
+lxml
+playwright
+pypdf
+docx2pdf

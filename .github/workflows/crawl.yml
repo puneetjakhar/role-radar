@@ -1,0 +1,143 @@
+name: Hourly Daytime Job Crawl + Notify
+
+# Times are UTC (GitHub cron has no DST). Calibrated for Amsterdam summer (CEST = UTC+2).
+# Hourly 09:00-19:00 CEST plus one at 00:00 CEST (midnight). 14:00 CEST run also sends daily 24h summary.
+# In winter (CET = UTC+1) local times shift one hour earlier.
+# Required GitHub Secrets:
+#   GMAIL_APP_PASSWORD  = Gmail App Password
+#   GH_PAT              = PAT with repo scope, only used to push HTML to the
+#                         nl-jobs-dashboard Pages repo (checkout uses github.token)
+#   ANTHROPIC_API_KEY   = Claude API key for notify.py scoring
+#   SENDER_EMAIL        = Gmail address the crawler sends from
+#   NOTIFY_EMAIL        = Address that receives the digests
+
+on:
+  schedule:
+    - cron: '0 7-11,13-17 * * *'  # hourly 09:00-19:00 CEST, minus 14:00 (handled below): new jobs email
+    - cron: '0 22 * * *'          # 00:00 CEST (Amsterdam midnight): new jobs email
+    - cron: '0 12 * * *'          # 14:00 CEST: new jobs email + daily 24h summary
+  workflow_dispatch:
+    inputs:
+      daily:
+        description: 'Send daily report'
+        required: false
+        default: 'false'
+
+jobs:
+  crawl-and-notify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ github.token }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install -q requests python-jobspy python-docx lxml playwright anthropic
+
+      # Key the browser cache on the resolved Playwright version so a Playwright
+      # upgrade invalidates it. Without this, a stale cache serves an old browser
+      # build and every SPA site fails with "Executable doesn't exist".
+      - name: Resolve Playwright version
+        id: pw
+        run: |
+          PW_VER=$(python -c "import importlib.metadata as m; print(m.version('playwright'))")
+          echo "version=$PW_VER" >> "$GITHUB_OUTPUT"
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ steps.pw.outputs.version }}
+
+      # Unconditional: on a version-matched cache hit this verifies the binary and
+      # skips the download (fast); on a miss it installs the correct build. --with-deps
+      # also (re)installs the system libraries the browser needs.
+      - name: Install Playwright chromium + system deps
+        run: playwright install chromium --with-deps
+
+      - name: Run portal + LinkedIn crawl in parallel
+        run: |
+          python crawl_jobs.py --force --no-linkedin &
+          PORTAL_PID=$!
+          python crawl_jobs.py linkedin --force &
+          LINKEDIN_PID=$!
+          wait $PORTAL_PID
+          PORTAL_EXIT=$?
+          wait $LINKEDIN_PID
+          exit $PORTAL_EXIT
+
+      - name: Send hourly new-jobs email
+        if: "!(github.event_name == 'workflow_dispatch' && github.event.inputs.daily == 'true')"
+        run: python notify.py
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+          DASHBOARD_URL: https://puneetjakhar.github.io/nl-jobs-dashboard/
+
+      - name: Send daily 24h summary (12:00 UTC = 14:00 CEST)
+        if: >
+          github.event.schedule == '0 12 * * *' ||
+          (github.event_name == 'workflow_dispatch' && github.event.inputs.daily == 'true')
+        run: python notify.py --daily
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+          DASHBOARD_URL: https://puneetjakhar.github.io/nl-jobs-dashboard/
+
+      - name: Rebuild dashboard with AI scores
+        run: |
+          python - <<'EOF'
+          import json, sys
+          sys.path.insert(0, '.')
+          from crawl_jobs import _inject_jobs_into_dashboard, JOBS_FILE
+          with open(JOBS_FILE) as f:
+              jobs = json.load(f)
+          _inject_jobs_into_dashboard(jobs)
+          print('Dashboard rebuilt with latest AI scores')
+          EOF
+
+      - name: Strip PII from data files before commit
+        run: python strip_pii.py
+
+      - name: Commit updated job data back to repo
+        run: |
+          git config user.email "github-actions@github.com"
+          git config user.name "GitHub Actions"
+          git add crawled_jobs.json linkedin_jobs.json job-search.html seen_jobs.json score_cache.json || true
+          git diff --staged --quiet || git commit -m "chore: job data $(date -u +%Y-%m-%dT%H:%M)Z"
+          git pull --no-rebase -X ours --no-edit origin main
+          git push
+
+      - name: Deploy dashboard to public GitHub Pages repo
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git clone --depth 1 https://x-access-token:${GH_PAT}@github.com/puneetjakhar/nl-jobs-dashboard.git _dashboard
+          cp job-search.html _dashboard/index.html
+          cp autoapply.html _dashboard/autoapply.html
+          cd _dashboard
+          git config user.email "github-actions@github.com"
+          git config user.name "GitHub Actions"
+          git add index.html autoapply.html
+          git diff --staged --quiet || git commit -m "Update dashboard $(date -u +%Y-%m-%dT%H:%M)Z"
+          git push

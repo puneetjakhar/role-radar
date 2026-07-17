@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+Resumes_2026/
+Resumes/
+crawl_cache.json
+description_cache.json
+*.log
