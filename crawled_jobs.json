@@ -183,20 +183,6 @@
   },
   {
     "company": "Adyen N.V.",
-    "job_title": "Staff Software Engineer - Identity & Risk Intelligence",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
-    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/7325482",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2025-11-26",
-    "description": "This is Adyen Adyen is the financial technology platform of choice for leading businesses, providing payments, data, and financial products in a single solution for global customers like Meta, Uber, and H&amp;M. At Adyen, everything we do is engineered for ambition. We create an environment with opportunities for our people to succeed, backed by a culture that encourages ownership and provides the support to truly own your career. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team, delivering innovative and ethical solutions that help businesses achieve their ambitions faster. About the Role&nbsp; We are seeking a highly skilled and enthusiastic Staff Software Engineer with a strong background in building reliable , scalable , and low latency systems and hands-on experience in Machine Learning (ML) applications . In this role, you will play a critical part in designing, building, and scaling systems that leverage ML to solve real-world business challenges. You are someone who is curious about new technologies , eager to learn , and passionate about using technology as a practical tool to drive meaningful business impact. You enjoy solving complex problems and thrive in environments where innovation, continuous learning, and collaboration are key. The Opportunity&nbsp; Adyen is building out its capabilities in data-driven risk management to combat financial crime and fraud across its platform. We operate at a massive global scale , enabling businesses around the world to accept payments, issue cards, and embed financial products, helping millions of business owners around the globe do business with less friction . While we have foundational elements in place, we have recently shifted our strategy to take a more holistic approach to proactively detect and mitigate financial crime and fraud.&nbsp; Key Responsibilities Design and develop robust, scalable software systems that integrate Machine Learning models into production environments. Collaborate closely with product managers, data scientists, and business stakeholders to understand business problems and translate them into technical solutions. Evaluate new technologies, frameworks, and tools, and drive their adoption where appropriate to solve real business challenges. Mentor and guide junior engineers and peers through technical leadership and knowledge sharing. Advocate for best practices in software engineering, and system architecture. Continuously learn and stay up-to-date with advancements in software engineering, infrastructure, and AI technologies. Lead technical design discussions and contribute to the strategic direction of the technology roadmap. Close cross functional collaboration with different, non-technical functions like Account Management, Compliance, Operations etc. Requirements At least 10-12 years of extensive industry hands-on experience in Software Engineering and building data intensive applications, including system desi",
-    "notes": "Dept: Development. Via Greenhouse board.",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-07-20"
-  },
-  {
-    "company": "Adyen N.V.",
     "job_title": "Team Lead - Hardware Partner Engineering ",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
@@ -1272,20 +1258,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Software Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_050320/Software-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-07-20"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "React Native Software Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1300,16 +1272,16 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Software Engineer",
+    "job_title": "Software Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051839/Senior-Software-Engineer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_050320/Software-Engineer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-04",
+    "first_seen": "2026-06-03",
     "last_seen": "2026-07-20"
   },
   {
@@ -1324,6 +1296,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-07-15",
+    "last_seen": "2026-07-20"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Software Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051839/Senior-Software-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-04",
     "last_seen": "2026-07-20"
   },
   {
@@ -2143,7 +2129,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-02-10",
-    "description": "Senior Solutions Architect",
+    "description": "We are looking for passionate technologists to join our Pre-Sales organization to ensure that our growth is grounded and guided by strong technical alignment with our platform and the needs of our customers. MongoDB Pre-Sales Solution Architects are responsible for guiding our customers and users to design and build reliable, scalable systems using our data platform. Our team is made up of seasoned technical sales professionals, software architects, entrepreneurs, and developers who take direct responsibility for customer success, including the design of their software, deployment, and operations. You'll work closely with our sales executives, helping customers solve business problems by leveraging our solutions, playing a key role in winning deals and driving the business forward. You'll be a trusted advisor to a wide range of users from startups to the world's largest enterprise IT organizations.&nbsp; We are looking to speak to candidates who are based in Amsterdam for our hybrid working model. This candidate would ideally be a Dutch speaker.&nbsp;&nbsp; As an ideal candidate, you will have: Ideally 8 to 11 years of related experience in a customer facing role, with 5 to 7 years of experience in pre-sales with enterprise software Minimum of 3 years experience with modern scripting languages (e.g. Python, Node.js, SQL) and/or popular programming languages (e.g. C/C++, Java, C#) in a professional capacity Experience designing with scalable and highly available distributed systems in the cloud and on-prem Demonstrated ability to work with customers to review complex architecture of existing applications, providing guidance on how to improve by leveraging technology Excellent presentation, communication, and interpersonal skills, with the ability to convey complex technical and business concepts in a clear and compelling manner to technology and business leadership Ability to strategize with sales teams and provide recommendations on how to drive a multi-threaded account strategy, aligning other MongoDB and ecosystem resources to move towards a mutually beneficial account plan The ability to travel up to 25% A Bachelor\u2019s degree or equivalent work experience [Placeholder for required security clearance] You may also have: Experience selling databases and/or deploying applications with any of the major cloud providers&nbsp; Experience with database programming and data models&nbsp; Experience in data engineering or AI/ML projects Experience in transforming legacy systems and platforms into modern, scalable, and efficient technology stacks Understanding of popular sales methodologies/ frameworks such as MEDDPICC/ Command of the Message A MongoDB Certification A Cloud Provider Certification What you do at MongoDB: In this role, you will work on complex opportunities where analysis of situations or data requires an in-depth evaluation of various factors. You will: Design and Architect: Design scalable and performant applications, systems and infrastruc",
     "notes": "Dept: Solutions Consulting. Via Greenhouse board.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-07-20"
@@ -2157,7 +2143,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2025-09-26",
-    "description": "Job Application for Lead Applied AI Engineer at Celonis Back to jobs Lead Applied AI Engineer Amsterdam, Netherlands Apply Celonis is the global leader in Process Intelligence and the pioneer of Process Mining technology. As one of the world\u2019s fastest-growing enterprise SaaS companies, we are changemakers pushing the boundaries of what\u2019s possible. We invest heavily in advanced AI capabilities\u2014specifically our Process Intelligence Graph\u2014to turn data insights into immediate business action. We believe there is a massive opportunity to unlock global productivity and sustainability by placing intelligence at the core of every business process. Join our mission to make processes work for people, companies, and the planet. The Team: The position of Lead Value Engineer is a trusted advisor helping customers achieve their strategic goals and realise significant value using the Celonis Process Intelligence Platform. A Value Engineer has full responsibility for the end-to-end value journey of our customers \u2013 landing, expanding, adopting and renewing. Responsibilities include translating customers\u2019 objectives into value assessments or proof-of-value projects, building specific Celonis business cases and demos, running value workshops, and engaging with multiple senior stakeholders to deliver value driven results and secure long term partnership agreements. The Role: As a Lead Value Engineer you are spearheading our mission of data-driven business transformation with our customers. You will work in partnership with the Celonis Sales Team and have full responsibility for the end-to-end value journey of our customers. You are our customers' trusted advisor and help them achieve their strategic goals and realize significant value using the Celonis Process Intelligence Platform. In collaboration with our partners and Celonis Services, you will drive measurable business impact across various processes and industries and accelerate the adoption of our platform. You will blend deep process and industry expertise with a proven consulting skill set with strong analytical skills at the forefront of one of the fastest-growing tech companies worldwide. The work you\u2019ll do: Identify & Frame Value Discover and translate customers\u2019 strategic priorities into high-impact Celonis use cases Build demos and business cases, leveraging industry benchmarks and best practices in order to win new customers Undertake Value Assessments or Proof-of-Value Projects and communicate the value opportunity and strategic roadmap to C-Level executive Realize Value Facilitate business value workshops and use Celonis to identify and qualify opportunities for process enhancement Derive improvement measures in core business functions and initiate improvement actions and enterprise-wide change initiatives Present results and realized value to senior management and C-level executives Scale Value Responsible for the end-to-end customer value journey, landing, expanding, adoption and renewing Build a strategic expansion roadmap for customers embedding Celonis Process Intelligence as a strategic business transformation platform in their organization and therefore drive adoption and expansion Provide feedback to our product development teams to enhance the Celonis platform and Apps based on new use cases The qualifications you need: Live for Customer Value: Experience in an analytical role with the objective to demonstrate or secure value through business data analysis, business process improvement and respective Software deployment. Ideally in a customer-facing role in Solution Consulting, Sales Engineering or IT/Management Consulting with a Business Software / SaaS Provider or a Consultancy. Alternatively in an Inhouse role (e.g. Center of Excellence for Data Mining / Analytics / Intelligence) within an Enterprise. Data, Analytics, Applications & IT: Good knowledge of Business Software / SaaS applications (e.g. SAP), experience with implementing RPA and/or BI Tools and/or building Dashboards, Apps and Action Flows. Knowledge of Python and/or SQL and importantly AI. Experience in collaborating with IT teams. Process Improvement & Value Realization: Experience in identifying use cases for business process improvement and deploying improvement measures, being a change agent and training users/process owners to realize value Project Management: Experience in planning and managing project scopes, expectations and timelines. You will manage multiple projects across your aligned accounts that will be at different parts of the value journey. Also, you will leverage partners from the Celonis Ecosystem wherever possible. Executive Stakeholder Management: Experience in preparing and communicating (value) roadmaps and results to stakeholders and management, both internally and externally. Excellent communication and presentation skills in English and sovereign appearance. Business Domain Expertise: Understanding of the Finance and/or Supply Chain domain as well as strategic ",
+    "description": "Celonis is the global leader in Process Intelligence and the pioneer of Process Mining technology. As one of the world\u2019s fastest-growing enterprise SaaS companies, we are changemakers pushing the boundaries of what\u2019s possible. We invest heavily in advanced AI capabilities\u2014specifically our Process Intelligence Graph\u2014to turn data insights into immediate business action. We believe there is a massive opportunity to unlock global productivity and sustainability by placing intelligence at the core of every business process. Join our mission to make processes work for people, companies, and the planet. The Team: The position of Lead&nbsp;Value Engineer is a trusted advisor helping customers achieve their strategic goals and realise significant value using the Celonis Process Intelligence Platform. A Value Engineer has full responsibility for the end-to-end value journey of our customers \u2013 landing, expanding, adopting and renewing. Responsibilities include translating customers\u2019 objectives into value assessments or proof-of-value projects, building specific Celonis business cases and demos, running value workshops, and engaging with multiple senior stakeholders to deliver value driven results and secure long term partnership agreements. The Role: As a Lead&nbsp;Value Engineer you are spearheading our mission of data-driven business transformation with our customers. You will work in partnership with the Celonis Sales Team and have full responsibility for the end-to-end value journey of our customers. You are our customers' trusted advisor and help them achieve their strategic goals and realize significant value using the Celonis Process Intelligence Platform. In collaboration with our partners and Celonis Services, you will drive measurable business impact across various processes and industries and accelerate the adoption of our platform. You will blend deep process and industry expertise with a proven consulting skill set with strong analytical skills at the forefront of one of the fastest-growing tech companies worldwide. The work you\u2019ll do: Identify &amp; Frame Value Discover and translate customers\u2019 strategic priorities into high-impact Celonis use cases Build demos and business cases, leveraging industry benchmarks and best practices in order to win new customers&nbsp; Undertake Value Assessments or Proof-of-Value Projects and communicate the value opportunity and strategic roadmap to C-Level executive Realize Value Facilitate business value workshops and use Celonis to identify and qualify opportunities for process enhancement Derive improvement measures in core business functions and initiate improvement actions and enterprise-wide change initiatives Present results and realized value to senior management and C-level executives Scale Value Responsible for the end-to-end customer value journey, landing, expanding, adoption and renewing Build a strategic expansion roadmap for customers embedding Celonis Process Intelligence as a strategic business",
     "notes": "Dept: Value Engineering. Via Greenhouse board.",
     "first_seen": "2026-06-15",
     "last_seen": "2026-07-20"
@@ -2450,6 +2436,21 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-07-20"
+  },
+  {
+    "company": "Adyen N.V.",
+    "job_title": "Staff Software Engineer - Identity & Risk Intelligence",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
+    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/7325482",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2025-11-26",
+    "description": "This is Adyen Adyen is the financial technology platform of choice for leading businesses, providing payments, data, and financial products in a single solution for global customers like Meta, Uber, and H&amp;M. At Adyen, everything we do is engineered for ambition. We create an environment with opportunities for our people to succeed, backed by a culture that encourages ownership and provides the support to truly own your career. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team, delivering innovative and ethical solutions that help businesses achieve their ambitions faster. About the Role&nbsp; We are seeking a highly skilled and enthusiastic Staff Software Engineer with a strong background in building reliable , scalable , and low latency systems and hands-on experience in Machine Learning (ML) applications . In this role, you will play a critical part in designing, building, and scaling systems that leverage ML to solve real-world business challenges. You are someone who is curious about new technologies , eager to learn , and passionate about using technology as a practical tool to drive meaningful business impact. You enjoy solving complex problems and thrive in environments where innovation, continuous learning, and collaboration are key. The Opportunity&nbsp; Adyen is building out its capabilities in data-driven risk management to combat financial crime and fraud across its platform. We operate at a massive global scale , enabling businesses around the world to accept payments, issue cards, and embed financial products, helping millions of business owners around the globe do business with less friction . While we have foundational elements in place, we have recently shifted our strategy to take a more holistic approach to proactively detect and mitigate financial crime and fraud.&nbsp; Key Responsibilities Design and develop robust, scalable software systems that integrate Machine Learning models into production environments. Collaborate closely with product managers, data scientists, and business stakeholders to understand business problems and translate them into technical solutions. Evaluate new technologies, frameworks, and tools, and drive their adoption where appropriate to solve real business challenges. Mentor and guide junior engineers and peers through technical leadership and knowledge sharing. Advocate for best practices in software engineering, and system architecture. Continuously learn and stay up-to-date with advancements in software engineering, infrastructure, and AI technologies. Lead technical design discussions and contribute to the strategic direction of the technology roadmap. Close cross functional collaboration with different, non-technical functions like Account Management, Compliance, Operations etc. Requirements At least 10-12 years of extensive industry hands-on experience in Software Engineering and building data intensive applications, including system desi",
+    "notes": "Dept: Development. Via Greenhouse board.",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-07-20",
+    "stale": true
   },
   {
     "company": "Vinted Netherlands B.V.",
