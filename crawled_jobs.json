@@ -1202,20 +1202,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "React Native Software Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051600/React-Native-Software-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-07-23"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Software Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1226,20 +1212,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-06-03",
-    "last_seen": "2026-07-23"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior .Net Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051023/Senior-Net-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-15",
     "last_seen": "2026-07-23"
   },
   {
@@ -1258,6 +1230,20 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior .Net Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051023/Senior-Net-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-23"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Golang Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1268,6 +1254,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-07-17",
+    "last_seen": "2026-07-23"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Forward Deployed Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-23",
     "last_seen": "2026-07-23"
   },
   {
@@ -1801,10 +1801,10 @@
   },
   {
     "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Engineering-L2-Bengaluru-Vice President-Software Engineering\nBengaluru\u00b7India\n\u00b7Vice President",
+    "job_title": "Cloud Engineering & Architecture - Senior Platform Engineer AI - Vice President\nLondon\u00b7United Kingdom\n\u00b7Vice President",
     "location": "Netherlands",
     "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/179763",
+    "job_url": "https://higher.gs.com/roles/177501",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -1853,20 +1853,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23"
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Senior Software Engineer, Global Banking & Markets, Front Office Technology\nNew York\u00b7United States\n\u00b7Vice President",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/169165",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-04",
     "last_seen": "2026-07-23"
   },
   {
@@ -2435,6 +2421,51 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-07-23"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "React Native Software Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051600/React-Native-Software-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-07-23",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Engineering-L2-Bengaluru-Vice President-Software Engineering\nBengaluru\u00b7India\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/179763",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Senior Software Engineer, Global Banking & Markets, Front Office Technology\nNew York\u00b7United States\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/169165",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-07-23",
+    "stale": true
   },
   {
     "company": "Fuga B.V.",
