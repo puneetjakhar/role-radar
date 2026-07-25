@@ -1925,20 +1925,6 @@
     "last_seen": "2026-07-25"
   },
   {
-    "company": "Brunel Nederland B.V.",
-    "job_title": "Field Service Technician - WA\n\nAustralia, Western Australia, Perth\n\nA$ 120000 - 140000 per year\n\nAcademic Bachelor\n\nNot ",
-    "location": "Netherlands",
-    "careers_url": "https://www.brunel.net/en-EN/jobs/Netherlands/",
-    "job_url": "https://www.brunel.net/en/jobs/field-service-technician-wa-pr-291477",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-25"
-  },
-  {
     "company": "Sigma Software Group",
     "job_title": "SENIOR DATA ENGINEER\nAlbania\nEurope\nPoland\nRomania\nUkraine\nData Engineering\nEngineering\nJava\nSoftware Development\nAPPLY",
     "location": "Netherlands",
@@ -2350,6 +2336,21 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-07-25"
+  },
+  {
+    "company": "Brunel Nederland B.V.",
+    "job_title": "Field Service Technician - WA\n\nAustralia, Western Australia, Perth\n\nA$ 120000 - 140000 per year\n\nAcademic Bachelor\n\nNot ",
+    "location": "Netherlands",
+    "careers_url": "https://www.brunel.net/en-EN/jobs/Netherlands/",
+    "job_url": "https://www.brunel.net/en/jobs/field-service-technician-wa-pr-291477",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "stale": true
   },
   {
     "company": "Vinted Netherlands B.V.",
