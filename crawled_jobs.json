@@ -1786,16 +1786,30 @@
   },
   {
     "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Asset & Wealth Management - Software Engineering Lead - Vice President - Birmingham\nBirmingham\u00b7United Kingdom\n\u00b7Vice Pres",
+    "job_title": "Global Banking & Markets, Software Engineering, Associate, Sao Paulo\nSao Paulo\u00b7Brazil\n\u00b7Associate",
     "location": "Netherlands",
     "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/168774",
+    "job_url": "https://higher.gs.com/roles/180701",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-22",
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Compliance, Senior Backend Engineer (Java & ETL Specialist), Vice President, Dallas\nDallas\u00b7United States\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/178635",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-30",
     "last_seen": "2026-07-30"
   },
   {
@@ -1810,6 +1824,20 @@
     "description": "",
     "notes": "Via KPMG lunr JSON.",
     "first_seen": "2026-05-28",
+    "last_seen": "2026-07-30"
+  },
+  {
+    "company": "CM.com International B.V.",
+    "job_title": "Senior Full Stack Developer (Mobile Service Cloud)",
+    "location": "Arnhem, Netherlands",
+    "careers_url": "https://jobs.cm.com/",
+    "job_url": "https://jobs.cm.com/o/senior-full-stack-developer-mobile-service-cloud",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-07-24",
+    "description": "We turn every customer interaction into an opportunity. We connect conversations, customer data and payments with AI Agents so that companies can deliver personal customer journeys at scale: both online and in person. \u201cThe entire customer journey. One platform\u201d What we value Every CM.com colleague, connects to our 4 shared values : Drive and Lead You take initiative, make decisions and recognize opportunities. Making mistakes is part of moving forward. Grow and Learn The growth of our colleagues and our customers is our priority. You like to experiment, learn continuously and actively share knowledge and insights with others. Together and Care We work together and we believe that diverse perspectives lead to stronger outcomes. You value the social side of work, you show genuine interest and care about one another\u2019s well-being. Speed and Change By welcoming AI Agents into our organisation, we fundamentally change how work is done. You are comfortable with change and you love working in a high paced environment. The Role As a Senior Full Stack Developer you will work on the development of the Mobile Service Cloud product of CM.com . The Mobile Service Cloud is our cloud-native contact center platform: the product that brings email, phone, live chat, contact forms, WhatsApp and Facebook Messenger together in one place, so brands like Auping, Fleurop, Revolution Beauty, AS Watson and Yoursurprise can run customer service at scale, 24/7. You'll join the team building its next chapter, where AI agents powered by HALO take on more of the conversation so human agents can focus on what actually needs them. You will: Own the development of Mobile Service Cloud, a mature platform already supporting thousands of agents and millions of customer conversations a year. Build HALO-powered AI agents into the platform, so routine inquiries get resolved autonomously and human agents are freed up for the complex cases. Strengthen the backend that keeps every channel, email, phone, live chat, WhatsApp and more, running as one seamless, reliable experience. Move fast: test ideas, ship, learn from what doesn't work, and help shape what this role looks like a year from now. Use AI tools actively to improve your own work. Experiment, automate, and share what works with your team.",
+    "notes": "Via Recruitee API.",
+    "first_seen": "2026-07-30",
     "last_seen": "2026-07-30"
   },
   {
@@ -2134,19 +2162,6 @@
   },
   {
     "company": "Rabobank Nederland",
-    "job_title": "Senior Cloud Platform Engineer",
-    "location": "Utrecht Croeselaan 18",
-    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
-    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Senior-Cloud-Platform-Engineer_JR_00143616",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-07-30"
-  },
-  {
-    "company": "Rabobank Nederland",
     "job_title": "Senior DevOps Engineer IAM",
     "location": "Utrecht Croeselaan 18",
     "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
@@ -2208,6 +2223,19 @@
     "date_posted": null,
     "notes": "Via Workday API.",
     "first_seen": "2026-06-24",
+    "last_seen": "2026-07-30"
+  },
+  {
+    "company": "Philips Electronics Nederland B.V.",
+    "job_title": "Software Engineering Excellence Consultant",
+    "location": "Eindhoven",
+    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/Software-Development-Engineer---Software-Engineering-Excellence-Enablement_577694-2",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-07-16",
     "last_seen": "2026-07-30"
   },
   {
@@ -2393,6 +2421,35 @@
     "last_seen": "2026-07-30"
   },
   {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Asset & Wealth Management - Software Engineering Lead - Vice President - Birmingham\nBirmingham\u00b7United Kingdom\n\u00b7Vice Pres",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/168774",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-07-30",
+    "stale": true
+  },
+  {
+    "company": "Rabobank Nederland",
+    "job_title": "Senior Cloud Platform Engineer",
+    "location": "Utrecht Croeselaan 18",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Senior-Cloud-Platform-Engineer_JR_00143616",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-30",
+    "stale": true
+  },
+  {
     "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Software Engineer",
     "location": "Netherlands",
@@ -2479,20 +2536,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-06-04",
-    "last_seen": "2026-07-30",
-    "stale": true
-  },
-  {
-    "company": "Philips Electronics Nederland B.V.",
-    "job_title": "Software Engineering Excellence Consultant",
-    "location": "Eindhoven",
-    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
-    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/Software-Development-Engineer---Software-Engineering-Excellence-Enablement_577694-2",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-07-16",
     "last_seen": "2026-07-30",
     "stale": true
   },
