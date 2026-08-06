@@ -1,5 +1,19 @@
 [
   {
+    "company": "Digital Realty",
+    "job_title": "Senior Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4439980171",
+    "job_url": "https://www.linkedin.com/jobs/view/4439980171",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-08-06"
+  },
+  {
     "company": "Suitsupply",
     "job_title": "Senior Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -249,20 +263,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06"
-  },
-  {
-    "company": "Digital Realty",
-    "job_title": "Senior Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4439980171",
-    "job_url": "https://www.linkedin.com/jobs/view/4439980171",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-15",
     "last_seen": "2026-08-06"
   },
   {
@@ -1036,20 +1036,6 @@
     "last_seen": "2026-08-06"
   },
   {
-    "company": "Xccelerated | Part of Xebia",
-    "job_title": "GEN AI engineer (NL)",
-    "location": "The Randstad, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4444328998",
-    "job_url": "https://www.linkedin.com/jobs/view/4444328998",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-08-06"
-  },
-  {
     "company": "Vibe Academy",
     "job_title": "Junior AI Engineer",
     "location": "'s-Hertogenbosch, North Brabant, Netherlands",
@@ -1061,6 +1047,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-04",
+    "last_seen": "2026-08-06"
+  },
+  {
+    "company": "Pilex AI",
+    "job_title": "AI Engineer",
+    "location": "Volendam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4447987900",
+    "job_url": "https://www.linkedin.com/jobs/view/4447987900",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-03",
     "last_seen": "2026-08-06"
   },
   {
@@ -1229,6 +1229,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06"
+  },
+  {
+    "company": "Vinted",
+    "job_title": "Staff Engineer, Supply",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4431740090",
+    "job_url": "https://www.linkedin.com/jobs/view/4431740090",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-22",
     "last_seen": "2026-08-06"
   },
   {
@@ -1428,20 +1442,6 @@
     "last_seen": "2026-08-06"
   },
   {
-    "company": "Vinted",
-    "job_title": "Staff Engineer, Supply",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4431740090",
-    "job_url": "https://www.linkedin.com/jobs/view/4431740090",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-08-06"
-  },
-  {
     "company": "Flow Traders",
     "job_title": "Staff Enterprise Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1568,6 +1568,21 @@
     "last_seen": "2026-08-06"
   },
   {
+    "company": "Xccelerated | Part of Xebia",
+    "job_title": "GEN AI engineer (NL)",
+    "location": "The Randstad, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4444328998",
+    "job_url": "https://www.linkedin.com/jobs/view/4444328998",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-08-06",
+    "stale": true
+  },
+  {
     "company": "Sterksen",
     "job_title": "Senior backend developer",
     "location": "Wageningen, Gelderland, Netherlands",
@@ -1669,21 +1684,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06",
-    "stale": true
-  },
-  {
-    "company": "Pilex AI",
-    "job_title": "AI Engineer",
-    "location": "Volendam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4447987900",
-    "job_url": "https://www.linkedin.com/jobs/view/4447987900",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-03",
     "last_seen": "2026-08-06",
     "stale": true
   },
