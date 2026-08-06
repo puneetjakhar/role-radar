@@ -1198,20 +1198,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Python Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_050154/Senior-Python-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-08-06"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Software Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1278,6 +1264,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-07-30",
+    "last_seen": "2026-08-06"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Forward Deployed Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-23",
     "last_seen": "2026-08-06"
   },
   {
@@ -1422,20 +1422,6 @@
   },
   {
     "company": "MyTomorrows B.V.",
-    "job_title": "Applied AI Engineer",
-    "location": "Amsterdam HQ",
-    "careers_url": "https://jobs.ashbyhq.com/myTomorrows",
-    "job_url": "https://jobs.ashbyhq.com/myTomorrows/bd4b5f44-1c0f-41ff-b0fd-e188e3df51fb",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-06-23",
-    "description": "About myTomorrows myTomorrows is a global health tech company dedicated to breaking down barriers for patients seeking treatment options. We strive to enable earlier and better treatment access by bridging the gap between those searching for possible options, and the companies who develop them. We work closely with patients, healthcare professionals, trial sites, patient advocacy groups, and BioPharma \u2013 connecting key stakeholders in the drug development ecosystem. We\u2019ve developed a cutting-edge AI-powered technology platform that simplifies and streamlines access to drugs in development. To support our users and clients, we have a range of industry-expert specialized teams ready to help. Our services include clinical trial patient recruitment, Expanded Access Program management and Real-World Data collection. With a global footprint spanning 134 countries, to date we\u2019ve supported over 17,000 patients, 3,000 physicians and 350 sites, earning the trust of 60+ BioPharma companies. In October 2025, we closed a \u20ac25M investment with Avego Healthcare Capital to fuel our global ambitions and scale the business. Join us in shaping the future of treatment access - making tomorrow\u2019s therapies accessible for people who need them today. The opportunity: Applied AI Engineer As Applied AI Engineer at myTomorrows, you will help us become more AI-native in how we work, build, and deliver value to patients, physicians, trial sites and (bio-)pharma partners. Your primary focus is internal: the teams, workflows, and operational processes inside myTomorrows. This is not a pure research role, and it is not a \u201cprompt engineer\u201d role. You are an experienced software engineer who knows how to build reliable systems, and who is experienced with the possibilities created by LLMs, agents, AI-assisted coding, retrieval, workflow automation, and internal tooling. You will work as part of our AI Acceleration initiative: a small, high-leverage team focused on safely applying AI across the organization. You embed with internal teams, e.g. Operations, Regulatory, Commercial, Marketing, to find the highest-leverage points of intervention, build production-ready solutions, and leave behind systems that teams can own and operate without you. A key part of the role is not just building things yourself, but helping myTomorrows learn how to build with AI. You will help define reusable patterns, guardrails, evaluation approaches, and engineering practices so that AI-assisted work becomes reliable, secure, maintainable, and scalable. Given that most of our team is located in the Netherlands, we only consider candidates for this position who live within commuting distance of our office in Amsterdam. How you work Each engagement follows the model of a \u201cForward Deployed Engineer\u201d: Insertion. When you start a mission, you sit with the people who do the actual work: not the people who manage them. You watch, you ask questions, and you map what's really happening: the tools, the manual steps, ",
-    "notes": "Via Ashby API.",
-    "first_seen": "2026-06-23",
-    "last_seen": "2026-08-06"
-  },
-  {
-    "company": "MyTomorrows B.V.",
     "job_title": "Senior Backend Engineer",
     "location": "Amsterdam HQ",
     "careers_url": "https://jobs.ashbyhq.com/myTomorrows",
@@ -1472,6 +1458,19 @@
     "date_posted": null,
     "notes": "Via Workday API.",
     "first_seen": "2026-07-14",
+    "last_seen": "2026-08-06"
+  },
+  {
+    "company": "NXP Semiconductors Netherlands B.V.",
+    "job_title": "Senior System Validation Engineer",
+    "location": "Eindhoven",
+    "careers_url": "https://nxp.wd3.myworkdayjobs.com/careers",
+    "job_url": "https://nxp.wd3.myworkdayjobs.com/job/Eindhoven/Senior-System-Validation-Engineer_R-10063765-1",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-08-06",
     "last_seen": "2026-08-06"
   },
   {
@@ -1531,30 +1530,30 @@
   },
   {
     "company": "Revolut Netherlands B.V.",
-    "job_title": "Software Engineer (DevOps) - Managed Storage\nOffice: Bucharest \u00b7 Dubai \u00b7 Krakow \u00b7 London \u00b7 Madrid \u00b7 Vilnius\nRemote: Lith",
+    "job_title": "Software Engineer (DevOps) - Site Reliability\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 Madrid \u00b7 Mexico City \u00b7 Sao P",
     "location": "Netherlands",
     "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-dev-ops-managed-storage-82cd3334-3e20-41dd-ae2d-2163d2c9f94b/",
+    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-dev-ops-site-reliability-e474e943-e0f9-4be1-a7a9-f037cb5e115e/",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-31",
+    "first_seen": "2026-08-04",
     "last_seen": "2026-08-06"
   },
   {
     "company": "Revolut Netherlands B.V.",
-    "job_title": "Internship Programme 2027: Software Engineer (iOS)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote:",
+    "job_title": "Platform Engineer (Java)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote: France \u00b7 Germany \u00b7 Poland",
     "location": "Netherlands",
     "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/internship-programme-2027-software-engineer-i-os-bc2ddc16-c0ca-4c39-9db7-390db7f6cb3c/",
+    "job_url": "https://www.revolut.com/en-US/careers/position/platform-engineer-java-c1908070-04d0-4c92-9afb-e2fe1f8fbb24/",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-28",
+    "first_seen": "2026-08-06",
     "last_seen": "2026-08-06"
   },
   {
@@ -1573,16 +1572,16 @@
   },
   {
     "company": "Revolut Netherlands B.V.",
-    "job_title": "Software Engineer (DevOps) - Site Reliability\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 Madrid \u00b7 Mexico City \u00b7 Sao P",
+    "job_title": "Internship Programme 2027: Software Engineer (iOS)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote:",
     "location": "Netherlands",
     "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-dev-ops-site-reliability-e474e943-e0f9-4be1-a7a9-f037cb5e115e/",
+    "job_url": "https://www.revolut.com/en-US/careers/position/internship-programme-2027-software-engineer-i-os-bc2ddc16-c0ca-4c39-9db7-390db7f6cb3c/",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-04",
+    "first_seen": "2026-05-28",
     "last_seen": "2026-08-06"
   },
   {
@@ -1674,20 +1673,6 @@
     "job_title": "Senior Software Engineer, C++",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://job-boards.greenhouse.io/flowtraders",
-    "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-06-24",
-    "description": "Flow Traders is looking for Senior C++ Software Engineers to join our growing team in Amsterdam. Software Engineers at Flow Traders provide us with our competitive edge, equipping Researchers and Traders with the information and capabilities that they need to make sound business decisions. C++ plays a critical role in our event-driven trading systems, which are designed to reliably handle vast amounts of data at ultra-low latencies. As a C++ Engineer, you will build systems used to analyze and trade tens of thousands of products across hundreds of global trading venues every day. Working closely with Technologists, Quantitative Researchers, and Traders, you\u2019ll guide the development of our in-house trading technology and optimize it to achieve market-leading performance and reliability. Our proprietary trading platform includes everything from venue connectivity (feed handlers and ordering gateways) to trading engines to shared platforms that enable us to work quickly and efficiently - we are proud of our open and collaborative culture, so you\u2019ll have plenty of opportunity to find what fits you best. Teamwork is one of our most important firm values, and end users are never more than a short walk away, guaranteeing short feedback loops and immediate insight into the value that your code provides. To foster collaboration and innovation, we maintain shared libraries, encourage code re-use, and continuously evolve our views on application architecture. What you will do: Main technical activities include: For all C++ openings: Lead the development and global rollout of our Core platform used in multiple business/focus groups (Market data, Quantitative research, Pricing, Strategies) Be involved in the development process, which will be a fast-paced iterative process where you deploy your deliverables and validate them yourself and/or together with traders or quants Develop tools/frameworks to deliver capabilities for tuning/develop data-driven systematic pricing and trading strategies Work together with focus group engineers, Quants and Technical traders to refine requirements, collect feedback, and iterate on design and implementation of platform requirements Exchange Connectivity: Write software that communicates with exchanges through their APIs, receiving market data and sending orders over the network in different protocols, such as FIX, Websocket or HTTP requests Ensure quality of software based on a set of testing suites, which you are expected to use, maintain and extend Optimize exchange communication through kernel bypass, optimizing TLS or the connection handling to an exchange Research exchange behavior in detail to align our behavior to that of an exchange Implement these solutions using the provided exchange SDKs in different languages such as C++, Rust, Python, Typescript Trading Strategies: Implement trading algorithms based on requirements provided by traders and quants Acquire and develop the necessary trading knowledge to successfull",
-    "notes": "Dept: Product Development. Via Greenhouse board.",
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-08-06"
-  },
-  {
-    "company": "Flow Traders B.V.",
-    "job_title": "Senior Software Engineer, C++",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://job-boards.greenhouse.io/flowtraders",
     "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7992594",
     "visa_support": null,
     "relocation_support": null,
@@ -1695,6 +1680,20 @@
     "description": "Flow Traders is looking for a Senior C++ Software Engineer to lead the next-generation architecture of the market data and execution platforms that power our fully systematic trading. We don't treat market data as plumbing - for us it's a source of alpha, where feed handling, order book construction, and a deep understanding of exchange microstructure are themselves a competitive edge. We're looking for a senior individual contributor who has lived this philosophy in a proprietary or systematic trading environment and can squeeze every nanosecond out of the path from wire to strategy. As a senior individual contributor, you'll help set the technical direction for the Core Platform that underpins quantitative research, pricing, strategy development, and execution across hundreds of venues - and drive its global rollout across our Market Data, Quant Research, Pricing, and Strategies groups. You'll work in a tight, iterative loop with quants and technical traders, applying deep expertise in modern C++, OS internals, CPU and memory architecture, lock-free concurrency, and low-latency networking to push our systems toward state-of-the-art performance, robustness, and observability. &nbsp; What you will do: Lead the development and global rollout of our Core market data platform used across multiple focus areas (Market data, Research engineering, Pricing, Strategies). Design and implement high\u2011performance components for market data ingestion, normalization, and distribution, as well as its usage for order execution and strategy infrastructure. Develop tools and frameworks that enable quants and technical traders to build, tune, and deploy data\u2011driven systematic pricing and trading strategies. Own the full lifecycle of your components in a fast\u2011paced, iterative environment: deploy, monitor, profile, and optimize your code in production. Work closely with focus group engineers, quants, and technical traders to refine requirements, collect feedback, and iterate on the platform's design and implementation. &nbsp; What you need to succeed: BSc, MSc, or PhD in Computer Science, Mathematics, or a related field. 7+ years of post\u2011graduation professional C++ software development experience. Experience building low\u2011latency market data ingestion, order execution, and algorithmic trading systems (proprietary trading industry preferred). Strong knowledge of algorithms and data structures. Experience in parallel, asynchronous, and multithreaded programming. Demonstrated ability to write clean, reliable, and highly scalable C++ code. Interest in extracting maximum performance from available hardware and software (CPU caches, memory layout, networking, etc.). Ability to communicate effectively with both technical and non\u2011technical colleagues. &nbsp; Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via email, ",
     "notes": "Dept: Product Development. Via Greenhouse board.",
     "first_seen": "2026-06-12",
+    "last_seen": "2026-08-06"
+  },
+  {
+    "company": "Flow Traders B.V.",
+    "job_title": "Senior Software Engineer, C++",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://job-boards.greenhouse.io/flowtraders",
+    "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-06-24",
+    "description": "Flow Traders is looking for Senior C++ Software Engineers to join our growing team in Amsterdam. Software Engineers at Flow Traders provide us with our competitive edge, equipping Researchers and Traders with the information and capabilities that they need to make sound business decisions. C++ plays a critical role in our event-driven trading systems, which are designed to reliably handle vast amounts of data at ultra-low latencies. As a C++ Engineer, you will build systems used to analyze and trade tens of thousands of products across hundreds of global trading venues every day. Working closely with Technologists, Quantitative Researchers, and Traders, you\u2019ll guide the development of our in-house trading technology and optimize it to achieve market-leading performance and reliability. Our proprietary trading platform includes everything from venue connectivity (feed handlers and ordering gateways) to trading engines to shared platforms that enable us to work quickly and efficiently - we are proud of our open and collaborative culture, so you\u2019ll have plenty of opportunity to find what fits you best. Teamwork is one of our most important firm values, and end users are never more than a short walk away, guaranteeing short feedback loops and immediate insight into the value that your code provides. To foster collaboration and innovation, we maintain shared libraries, encourage code re-use, and continuously evolve our views on application architecture. What you will do: Main technical activities include: For all C++ openings: Lead the development and global rollout of our Core platform used in multiple business/focus groups (Market data, Quantitative research, Pricing, Strategies) Be involved in the development process, which will be a fast-paced iterative process where you deploy your deliverables and validate them yourself and/or together with traders or quants Develop tools/frameworks to deliver capabilities for tuning/develop data-driven systematic pricing and trading strategies Work together with focus group engineers, Quants and Technical traders to refine requirements, collect feedback, and iterate on design and implementation of platform requirements Exchange Connectivity: Write software that communicates with exchanges through their APIs, receiving market data and sending orders over the network in different protocols, such as FIX, Websocket or HTTP requests Ensure quality of software based on a set of testing suites, which you are expected to use, maintain and extend Optimize exchange communication through kernel bypass, optimizing TLS or the connection handling to an exchange Research exchange behavior in detail to align our behavior to that of an exchange Implement these solutions using the provided exchange SDKs in different languages such as C++, Rust, Python, Typescript Trading Strategies: Implement trading algorithms based on requirements provided by traders and quants Acquire and develop the necessary trading knowledge to successfull",
+    "notes": "Dept: Product Development. Via Greenhouse board.",
+    "first_seen": "2026-06-24",
     "last_seen": "2026-08-06"
   },
   {
@@ -1709,6 +1708,20 @@
     "description": "Flow Traders is looking for a Staff Engineer to join us in our Amsterdam office. This is a unique opportunity to join a leading proprietary trading firm with an entrepreneurial and innovative culture at the heart of its business. We value quick-witted, creative minds and challenge them to make full use of their capacities.&nbsp; We are looking for a senior individual contributor to lead the architectural and technical direction for our Trading Automation and Backend Engineering teams. Operating across the full trade lifecycle (pre-trade, execution, and post-trade), you will bridge the gap between engineering, trading, and operations. As a Staff Engineer, you will tackle ambiguous, large-scale problems, set global engineering standards, and scale your impact by mentoring tech leads and engineers across multiple teams. &nbsp; What you will do: Strategic Architecture &amp; Vision &nbsp; Define and own the long-term technical architecture for our trading automation, risk, and post-trade platforms. &nbsp; Translate complex, ambiguous business problems into clear, executable technical roadmaps.&nbsp; &nbsp; Architect scalable, event-driven systems optimized for high throughput, data integrity, and reliability. &nbsp; Engineering Leadership &amp; Mentorship Elevate engineering standards across the organization, focusing on system design, observability, reliability, and scalability. Act as an IC multiplier: mentor senior engineers, guide tech leads, and drive technical alignment across fragmented systems. Lead efforts to responsibly decommission legacy systems in favor of modern, scalable services. Business &amp; Operational Impact Partner closely with trading, quant, risk, and operations teams to align technical choices with business value. Drive automation in post-trade and middle-office workflows (allocations, settlements, reconciliations) to drastically reduce operational risk. &nbsp; &nbsp; What you need to succeed 10+ years of software engineering experience, with a proven track record operating at a Staff, Principal, or cross-team Lead level. Proven ability to influence senior technical and business stakeholders and drive consensus across multiple teams.&nbsp; Deep expertise in building distributed, high-performance, and highly reliable backend systems. Strong proficiency in at least one (or more) core backend language (Python, Go, C++, or Java).Experience with event-driven architectures (e.g., Kafka, Flink, Databricks, Dataproc) and data pipelines. Solid understanding of modern infrastructure, observability, and cloud platforms. &nbsp; Nice to have &nbsp; Deep knowledge of specific financial workflows (ETF creation/redemption, clearing, custody). Experience with financial reference data, symbology, or instrument modeling. Familiarity with regulatory frameworks (MiFID II, EMIR, SFTR) and their data lineage requirements. Solid background in financial services, trading, or market making. Strong working knowledge of the trading lifecycle (order flow,",
     "notes": "Dept: Product Development. Via Greenhouse board.",
     "first_seen": "2026-07-09",
+    "last_seen": "2026-08-06"
+  },
+  {
+    "company": "Flow Traders B.V.",
+    "job_title": "Staff Enterprise Engineer",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://job-boards.greenhouse.io/flowtraders",
+    "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8110814",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-06",
+    "description": "Flow Traders is looking for an experienced Staff Enterprise Engineer in our Amsterdam office. The ideal candidate is proactive and driven, with a genuine appetite for modernizing and continuously improving our technology estate. This is a unique opportunity to join a leading proprietary trading firm with an entrepreneurial and innovative culture at the heart of its business. We value quick-witted, creative minds and challenge them to make full use of their capacities. As a senior individual contributor within the Enterprise Systems domain, you will define the long-term technical architecture and engineering standards across the estate, including identity, endpoints, compute, virtualization, operating systems, storage, databases, and the platforms beneath our enterprise SaaS. Reporting to the Global Head of IT, you will act as the senior technical authority and a mentor to our engineers, driving automation, engineering best practices, and modernization. This is a hands-on, senior IC role rather than a people-management position: an opportunity to shape technical direction and build, not to manage a team. What you will do Define and own the long-term architecture and engineering standards for Enterprise Systems, covering identity, endpoints, compute, storage, databases, and the foundations supporting enterprise SaaS platforms Act as the senior technical authority, mentoring engineers and driving high-quality architecture and design decisions Translate complex business and technology challenges into clear technical roadmaps and scalable solutions Lead modernization across identity, endpoint management, compute, and workplace technologies, and make on-premise versus cloud decisions on merit Drive automation and self-service capabilities to improve efficiency, resilience, and user experience Rationalize and optimize the technology landscape, responsibly retiring legacy systems in favor of modern, cost-effective solutions Own the underlying platforms that support enterprise applications, including SSO, provisioning, integrations, and data flows Champion engineering excellence through rigorous testing, validation, and lab-first deployment practices &nbsp; What you need to succeed 10+ years of senior enterprise infrastructure engineering experience at Staff, Principal, or Technical Lead level Deep expertise in identity and access management, cloud platforms, virtualization, and enterprise infrastructure Proven success leading cloud migrations, legacy platform retirements, and large-scale modernization initiatives Strong architectural judgment with a vendor-neutral approach to cloud and platform decisions, choosing the right target on merit rather than by default Experience integrating enterprise SaaS platforms through SSO, automated provisioning, APIs, and secure connectivity Hands-on experience with automation, Infrastructure as Code, and applying AI to improve operations Strong stakeholder management skills, with the ability to influence and drive cros",
+    "notes": "Dept: IT. Via Greenhouse board.",
+    "first_seen": "2026-08-06",
     "last_seen": "2026-08-06"
   },
   {
@@ -1765,34 +1778,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-28",
-    "last_seen": "2026-08-06"
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Engineering-L2-Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/180558",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-06"
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Engineering Division - GenAI and DocAI Engineering - Associate - Hyderabad\nHyderabad\u00b7India\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/153571",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-16",
     "last_seen": "2026-08-06"
   },
   {
@@ -1964,6 +1949,20 @@
     "last_seen": "2026-08-06"
   },
   {
+    "company": "Brunel Nederland B.V.",
+    "job_title": "Construction Supervisor (PV)\n\nQatar\n\nProfessional Bachelor\n\nNot applicable\n\n* Supervise and approve construction activit",
+    "location": "Netherlands",
+    "careers_url": "https://www.brunel.net/en-EN/jobs/Netherlands/",
+    "job_url": "https://www.brunel.net/en/jobs/construction-supervisor-pv-cr-294011",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06"
+  },
+  {
     "company": "Sigma Software Group",
     "job_title": "SENIOR FULL STACK ENGINEER WITH AI (HEALTHCARE)\nEurope\nRomania\nC#\nEngineering\nJava\nPython\nSoftware Development\nAPPLY",
     "location": "Netherlands",
@@ -2017,6 +2016,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-03",
+    "last_seen": "2026-08-06"
+  },
+  {
+    "company": "Luscii healthtech B.V.",
+    "job_title": "Senior Cloud Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://luscii.recruitee.com/",
+    "job_url": "https://luscii.recruitee.com/o/senior-cloud-engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-06",
+    "description": "At Luscii, we are creating space for care by working on multiple applications to help people manage their health. Together with healthcare professionals around the world, we build technology that helps patients receive the right care in the right place. Millions of people rely on our products every month, and behind every reliable healthcare experience is an engineering platform that simply works. As our Senior Cloud Engineer, you will play a vital role in modernising the cloud platform that powers OMRON Connect, helping us build a more reliable, scalable and future-proof foundation for millions of users worldwide. OMRON Connect is one of the largest digital health platforms in our ecosystem, connecting millions of users with their healthcare data through OMRON devices. Much of the platform has grown over many years and was originally built by external partners. Today, we're investing heavily in bringing that knowledge, ownership and technical excellence in-house. This is not about replacing everything overnight. It is about making thoughtful engineering decisions, modernising step by step, and creating a cloud platform that enables teams to deliver safely, confidently and independently. Your work will have a direct impact on the reliability, scalability and cost-efficiency of a platform serving around three million monthly active users across the world. You will help shape our engineering standards, introduce modern cloud practices where they truly add value, and make Infrastructure as Code, observability and safe continuous delivery the default rather than the exception. Along the way, you will collaborate with engineers, influence technical direction and leave the platform in a significantly better state than you found it on your first day at the job. This is a role for someone who enjoys solving difficult engineering problems without chasing complexity for complexity's sake. You are going to help us balance innovation with pragmatism, modernising a live healthcare platform while maintaining the stability that patients and healthcare professionals depend on every day. Your role You will become one of the technical driving forces behind the cloud platform powering OMRON Connect. Rather than owning a single product or service, you will help build the foundations that every engineering team relies on. Working closely with backend engineers, product teams and colleagues in Japan, you are goint to evolve our AWS platform, improve the developer experience and ensure reliability, security and scalability are built into everything we do. What you will be doing, among others: Design, build and evolve our AWS platform using Terraform as the single source of truth, while driving the gradual modernisation of our cloud landscape; Build reusable infrastructure, deployment pipelines and platform tooling that enable engineering teams to ship independently and safely; Introduce pragmatic cloud-native and event-driven solutions where they genuinely improve scal",
+    "notes": "Via Recruitee API.",
+    "first_seen": "2026-08-06",
     "last_seen": "2026-08-06"
   },
   {
@@ -2235,6 +2248,19 @@
     "last_seen": "2026-08-06"
   },
   {
+    "company": "Philips Electronics Nederland B.V.",
+    "job_title": "Software Engineering Excellence Consultant",
+    "location": "Eindhoven",
+    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/Software-Development-Engineer---Software-Engineering-Excellence-Enablement_577694-2",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-08-06"
+  },
+  {
     "company": "Prosus N.V.",
     "job_title": "AI Engineer \u2013 0 to 1 Products",
     "location": "Netherlands - Amsterdam",
@@ -2387,6 +2413,81 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-08-06"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Python Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_050154/Senior-Python-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-08-06",
+    "stale": true
+  },
+  {
+    "company": "MyTomorrows B.V.",
+    "job_title": "Applied AI Engineer",
+    "location": "Amsterdam HQ",
+    "careers_url": "https://jobs.ashbyhq.com/myTomorrows",
+    "job_url": "https://jobs.ashbyhq.com/myTomorrows/bd4b5f44-1c0f-41ff-b0fd-e188e3df51fb",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-06-23",
+    "description": "About myTomorrows myTomorrows is a global health tech company dedicated to breaking down barriers for patients seeking treatment options. We strive to enable earlier and better treatment access by bridging the gap between those searching for possible options, and the companies who develop them. We work closely with patients, healthcare professionals, trial sites, patient advocacy groups, and BioPharma \u2013 connecting key stakeholders in the drug development ecosystem. We\u2019ve developed a cutting-edge AI-powered technology platform that simplifies and streamlines access to drugs in development. To support our users and clients, we have a range of industry-expert specialized teams ready to help. Our services include clinical trial patient recruitment, Expanded Access Program management and Real-World Data collection. With a global footprint spanning 134 countries, to date we\u2019ve supported over 17,000 patients, 3,000 physicians and 350 sites, earning the trust of 60+ BioPharma companies. In October 2025, we closed a \u20ac25M investment with Avego Healthcare Capital to fuel our global ambitions and scale the business. Join us in shaping the future of treatment access - making tomorrow\u2019s therapies accessible for people who need them today. The opportunity: Applied AI Engineer As Applied AI Engineer at myTomorrows, you will help us become more AI-native in how we work, build, and deliver value to patients, physicians, trial sites and (bio-)pharma partners. Your primary focus is internal: the teams, workflows, and operational processes inside myTomorrows. This is not a pure research role, and it is not a \u201cprompt engineer\u201d role. You are an experienced software engineer who knows how to build reliable systems, and who is experienced with the possibilities created by LLMs, agents, AI-assisted coding, retrieval, workflow automation, and internal tooling. You will work as part of our AI Acceleration initiative: a small, high-leverage team focused on safely applying AI across the organization. You embed with internal teams, e.g. Operations, Regulatory, Commercial, Marketing, to find the highest-leverage points of intervention, build production-ready solutions, and leave behind systems that teams can own and operate without you. A key part of the role is not just building things yourself, but helping myTomorrows learn how to build with AI. You will help define reusable patterns, guardrails, evaluation approaches, and engineering practices so that AI-assisted work becomes reliable, secure, maintainable, and scalable. Given that most of our team is located in the Netherlands, we only consider candidates for this position who live within commuting distance of our office in Amsterdam. How you work Each engagement follows the model of a \u201cForward Deployed Engineer\u201d: Insertion. When you start a mission, you sit with the people who do the actual work: not the people who manage them. You watch, you ask questions, and you map what's really happening: the tools, the manual steps, ",
+    "notes": "Via Ashby API.",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-08-06",
+    "stale": true
+  },
+  {
+    "company": "Revolut Netherlands B.V.",
+    "job_title": "Software Engineer (DevOps) - Managed Storage\nOffice: Bucharest \u00b7 Dubai \u00b7 Krakow \u00b7 London \u00b7 Madrid \u00b7 Vilnius\nRemote: Lith",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-dev-ops-managed-storage-82cd3334-3e20-41dd-ae2d-2163d2c9f94b/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-08-06",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Engineering-L2-Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/180558",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Engineering Division - GenAI and DocAI Engineering - Associate - Hyderabad\nHyderabad\u00b7India\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/153571",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-08-06",
+    "stale": true
   },
   {
     "company": "Adyen N.V.",
@@ -2614,20 +2715,6 @@
     "stale": true
   },
   {
-    "company": "Philips Electronics Nederland B.V.",
-    "job_title": "Software Engineering Excellence Consultant",
-    "location": "Eindhoven",
-    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
-    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/Software-Development-Engineer---Software-Engineering-Excellence-Enablement_577694-2",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-07-16",
-    "last_seen": "2026-08-05",
-    "stale": true
-  },
-  {
     "company": "Bol.com B.V.",
     "job_title": "Senior Machine Learning Engineer for Search",
     "location": "Utrecht, Netherlands",
@@ -2714,21 +2801,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-31",
-    "last_seen": "2026-08-05",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Forward Deployed Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-23",
     "last_seen": "2026-08-05",
     "stale": true
   },
