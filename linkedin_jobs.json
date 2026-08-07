@@ -14,6 +14,20 @@
     "last_seen": "2026-08-07"
   },
   {
+    "company": "GKN Aerospace",
+    "job_title": "Senior Software Development Engineer",
+    "location": "Papendrecht, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4424225561",
+    "job_url": "https://www.linkedin.com/jobs/view/4424225561",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-08-07"
+  },
+  {
     "company": "Elevation Group",
     "job_title": "Senior Software Engineer",
     "location": "Nootdorp, South Holland, Netherlands",
@@ -53,6 +67,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-06",
+    "last_seen": "2026-08-07"
+  },
+  {
+    "company": "Kadaster",
+    "job_title": "Senior Software Engineer",
+    "location": "Apeldoorn, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4440683155",
+    "job_url": "https://www.linkedin.com/jobs/view/4440683155",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-17",
     "last_seen": "2026-08-07"
   },
   {
@@ -280,20 +308,6 @@
     "last_seen": "2026-08-07"
   },
   {
-    "company": "GKN Aerospace",
-    "job_title": "Senior Software Development Engineer",
-    "location": "Papendrecht, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4424225561",
-    "job_url": "https://www.linkedin.com/jobs/view/4424225561",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-08-07"
-  },
-  {
     "company": "Yuki",
     "job_title": "Sr. Back-end Developer",
     "location": "",
@@ -327,20 +341,6 @@
     "location": "The Hague, South Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4440786188",
     "job_url": "https://www.linkedin.com/jobs/view/4440786188",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-17",
-    "last_seen": "2026-08-07"
-  },
-  {
-    "company": "Kadaster",
-    "job_title": "Senior Software Engineer",
-    "location": "Apeldoorn, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4440683155",
-    "job_url": "https://www.linkedin.com/jobs/view/4440683155",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "nan",
@@ -392,6 +392,20 @@
     "last_seen": "2026-08-07"
   },
   {
+    "company": "SkillRecruit",
+    "job_title": "Back End Developer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4448023718",
+    "job_url": "https://www.linkedin.com/jobs/view/4448023718",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-07"
+  },
+  {
     "company": "PostNL",
     "job_title": "Senior Back-end Developer",
     "location": "Hoofddorp, North Holland, Netherlands",
@@ -411,6 +425,20 @@
     "location": "",
     "careers_url": "https://www.linkedin.com/jobs/view/4449044470",
     "job_url": "https://www.linkedin.com/jobs/view/4449044470",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-07"
+  },
+  {
+    "company": "Workato",
+    "job_title": "Staff Software Engineer (Ruby or GOlang)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4448869045",
+    "job_url": "https://www.linkedin.com/jobs/view/4448869045",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-08-04",
@@ -445,20 +473,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-30",
-    "last_seen": "2026-08-07"
-  },
-  {
-    "company": "Rabobank",
-    "job_title": "Dev Ops Engineer C Back-end engineer Conversational AI",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4448154740",
-    "job_url": "https://www.linkedin.com/jobs/view/4448154740",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-03",
     "last_seen": "2026-08-07"
   },
   {
@@ -546,17 +560,17 @@
     "last_seen": "2026-08-07"
   },
   {
-    "company": "DataSnipper",
-    "job_title": "Senior Software Engineer (Financial Statement Suite)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4444407569",
-    "job_url": "https://www.linkedin.com/jobs/view/4444407569",
+    "company": "Albert Heijn",
+    "job_title": "Backend Developer (Kotlin/Java, Kafka, DevOps)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4446745370",
+    "job_url": "https://www.linkedin.com/jobs/view/4446745370",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "nan",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-07",
+    "first_seen": "2026-07-30",
     "last_seen": "2026-08-07"
   },
   {
@@ -1078,6 +1092,20 @@
     "last_seen": "2026-08-07"
   },
   {
+    "company": "Vibe Academy",
+    "job_title": "Junior AI Engineer",
+    "location": "'s-Hertogenbosch, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4448820823",
+    "job_url": "https://www.linkedin.com/jobs/view/4448820823",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-07"
+  },
+  {
     "company": "NOBRAINERS",
     "job_title": "AI Engineer",
     "location": "The Hague, South Holland, Netherlands",
@@ -1218,20 +1246,6 @@
     "last_seen": "2026-08-07"
   },
   {
-    "company": "Sioux Technologies",
-    "job_title": "Machine Learning Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4450694013",
-    "job_url": "https://www.linkedin.com/jobs/view/4450694013",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-07"
-  },
-  {
     "company": "Flow Traders",
     "job_title": "Staff Enterprise Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1257,6 +1271,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-01",
+    "last_seen": "2026-08-07"
+  },
+  {
+    "company": "Dash0",
+    "job_title": "Staff Product Engineer - Backend (Revenue Engineering, Stripe)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4448442346",
+    "job_url": "https://www.linkedin.com/jobs/view/4448442346",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-07",
     "last_seen": "2026-08-07"
   },
   {
@@ -1363,20 +1391,6 @@
     "location": "Utrecht, Utrecht, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4449018160",
     "job_url": "https://www.linkedin.com/jobs/view/4449018160",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-08-07"
-  },
-  {
-    "company": "Workato",
-    "job_title": "Staff Software Engineer (Ruby or GOlang)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4448869045",
-    "job_url": "https://www.linkedin.com/jobs/view/4448869045",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-08-04",
@@ -1526,20 +1540,6 @@
     "last_seen": "2026-08-07"
   },
   {
-    "company": "Dash0",
-    "job_title": "Staff Product Engineer - Backend (Revenue Engineering, Stripe)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4448442346",
-    "job_url": "https://www.linkedin.com/jobs/view/4448442346",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-07"
-  },
-  {
     "company": "GitLab",
     "job_title": "Forward Deployed Engineer - EMEA",
     "location": "",
@@ -1568,32 +1568,47 @@
     "last_seen": "2026-08-07"
   },
   {
-    "company": "SkillRecruit",
-    "job_title": "Back End Developer",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4448023718",
-    "job_url": "https://www.linkedin.com/jobs/view/4448023718",
+    "company": "Rabobank",
+    "job_title": "Dev Ops Engineer C Back-end engineer Conversational AI",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4448154740",
+    "job_url": "https://www.linkedin.com/jobs/view/4448154740",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-08-05",
+    "date_posted": "2026-08-03",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-06",
+    "first_seen": "2026-08-03",
     "last_seen": "2026-08-07",
     "stale": true
   },
   {
-    "company": "Albert Heijn",
-    "job_title": "Backend Developer (Kotlin/Java, Kafka, DevOps)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4446745370",
-    "job_url": "https://www.linkedin.com/jobs/view/4446745370",
+    "company": "DataSnipper",
+    "job_title": "Senior Software Engineer (Financial Statement Suite)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4444407569",
+    "job_url": "https://www.linkedin.com/jobs/view/4444407569",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "nan",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-30",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
+    "stale": true
+  },
+  {
+    "company": "Sioux Technologies",
+    "job_title": "Machine Learning Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4450694013",
+    "job_url": "https://www.linkedin.com/jobs/view/4450694013",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-07",
     "last_seen": "2026-08-07",
     "stale": true
   },
@@ -1909,21 +1924,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-08-07",
-    "stale": true
-  },
-  {
-    "company": "Vibe Academy",
-    "job_title": "Junior AI Engineer",
-    "location": "'s-Hertogenbosch, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4448820823",
-    "job_url": "https://www.linkedin.com/jobs/view/4448820823",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-04",
     "last_seen": "2026-08-07",
     "stale": true
   },
