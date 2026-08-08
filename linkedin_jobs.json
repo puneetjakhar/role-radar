@@ -1,5 +1,19 @@
 [
   {
+    "company": "WeAreReasonablePeople",
+    "job_title": "Senior Software Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4450069984",
+    "job_url": "https://www.linkedin.com/jobs/view/4450069984",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-08"
+  },
+  {
     "company": "Just Eat Takeaway.com",
     "job_title": "Senior Software Engineer",
     "location": "Enschede, Overijssel, Netherlands",
@@ -11,6 +25,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-05",
+    "last_seen": "2026-08-08"
+  },
+  {
+    "company": "Bright.nl",
+    "job_title": "SENIOR BACK-END ENGINEER",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4448709744",
+    "job_url": "https://www.linkedin.com/jobs/view/4448709744",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-07",
     "last_seen": "2026-08-08"
   },
   {
@@ -112,20 +140,6 @@
     "last_seen": "2026-08-08"
   },
   {
-    "company": "TRACT",
-    "job_title": "Senior Full Stack Engineer",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4450266301",
-    "job_url": "https://www.linkedin.com/jobs/view/4450266301",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-08"
-  },
-  {
     "company": "Digital Realty",
     "job_title": "Senior Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -173,20 +187,6 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4447346471",
     "job_url": "https://www.linkedin.com/jobs/view/4447346471",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-08"
-  },
-  {
-    "company": "Augmedit",
-    "job_title": "Senior Cloud Software Engineer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4449653028",
-    "job_url": "https://www.linkedin.com/jobs/view/4449653028",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-08-05",
@@ -308,6 +308,20 @@
     "last_seen": "2026-08-08"
   },
   {
+    "company": "Builders",
+    "job_title": "Senior Software Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4406787544",
+    "job_url": "https://www.linkedin.com/jobs/view/4406787544",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-08-08"
+  },
+  {
     "company": "MSTS Tolls",
     "job_title": "Senior Software Engineer - Oracle",
     "location": "Rijswijk, South Holland, Netherlands",
@@ -333,34 +347,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-04",
-    "last_seen": "2026-08-08"
-  },
-  {
-    "company": "Airwallex",
-    "job_title": "Senior Software Engineer, Payments Platform",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4278835281",
-    "job_url": "https://www.linkedin.com/jobs/view/4278835281",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-05",
-    "last_seen": "2026-08-08"
-  },
-  {
-    "company": "Bright.nl",
-    "job_title": "SENIOR BACK-END ENGINEER",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4448709744",
-    "job_url": "https://www.linkedin.com/jobs/view/4448709744",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-07",
     "last_seen": "2026-08-08"
   },
   {
@@ -532,6 +518,20 @@
     "last_seen": "2026-08-08"
   },
   {
+    "company": "Airwallex",
+    "job_title": "Senior Software Engineer, Payments Platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4278835281",
+    "job_url": "https://www.linkedin.com/jobs/view/4278835281",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-08-08"
+  },
+  {
     "company": "Momo Medical",
     "job_title": "Senior Backend Developer",
     "location": "Delft, South Holland, Netherlands",
@@ -579,6 +579,20 @@
     "location": "Nijmegen, Gelderland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4433837513",
     "job_url": "https://www.linkedin.com/jobs/view/4433837513",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-08"
+  },
+  {
+    "company": "Salento",
+    "job_title": "Platform Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4450704777",
+    "job_url": "https://www.linkedin.com/jobs/view/4450704777",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-08-07",
@@ -683,6 +697,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-06",
+    "last_seen": "2026-08-08"
+  },
+  {
+    "company": "Nebius",
+    "job_title": "System Engineer (Compute Node)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4437663465",
+    "job_url": "https://www.linkedin.com/jobs/view/4437663465",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-14",
     "last_seen": "2026-08-08"
   },
   {
@@ -798,20 +826,6 @@
     "last_seen": "2026-08-08"
   },
   {
-    "company": "Supermetrics",
-    "job_title": "Data Platform Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4436622168",
-    "job_url": "https://www.linkedin.com/jobs/view/4436622168",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-08-08"
-  },
-  {
     "company": "Super",
     "job_title": "Staff Site Reliability Engineer - Cloud Efficiency",
     "location": "",
@@ -865,20 +879,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-07",
-    "last_seen": "2026-08-08"
-  },
-  {
-    "company": "ABN AMRO Bank N.V.",
-    "job_title": "DevOps Engineer",
-    "location": "Amstelveen, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4450700848",
-    "job_url": "https://www.linkedin.com/jobs/view/4450700848",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-08",
     "last_seen": "2026-08-08"
   },
   {
@@ -1540,17 +1540,62 @@
     "last_seen": "2026-08-08"
   },
   {
-    "company": "WeAreReasonablePeople",
-    "job_title": "Senior Software Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4450069984",
-    "job_url": "https://www.linkedin.com/jobs/view/4450069984",
+    "company": "TRACT",
+    "job_title": "Senior Full Stack Engineer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4450266301",
+    "job_url": "https://www.linkedin.com/jobs/view/4450266301",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-08-07",
+    "date_posted": "2026-08-06",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-07",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-08",
+    "stale": true
+  },
+  {
+    "company": "Augmedit",
+    "job_title": "Senior Cloud Software Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4449653028",
+    "job_url": "https://www.linkedin.com/jobs/view/4449653028",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-08",
+    "stale": true
+  },
+  {
+    "company": "Supermetrics",
+    "job_title": "Data Platform Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4436622168",
+    "job_url": "https://www.linkedin.com/jobs/view/4436622168",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-08-08",
+    "stale": true
+  },
+  {
+    "company": "ABN AMRO Bank N.V.",
+    "job_title": "DevOps Engineer",
+    "location": "Amstelveen, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4450700848",
+    "job_url": "https://www.linkedin.com/jobs/view/4450700848",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
     "stale": true
   },
@@ -1945,21 +1990,6 @@
     "stale": true
   },
   {
-    "company": "Salento",
-    "job_title": "Platform Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4450704777",
-    "job_url": "https://www.linkedin.com/jobs/view/4450704777",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-08",
-    "stale": true
-  },
-  {
     "company": "New Data",
     "job_title": "Medior Forward Deployed AI / Software Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -2016,21 +2046,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-01",
-    "last_seen": "2026-08-08",
-    "stale": true
-  },
-  {
-    "company": "Nebius",
-    "job_title": "System Engineer (Compute Node)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4437663465",
-    "job_url": "https://www.linkedin.com/jobs/view/4437663465",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-14",
     "last_seen": "2026-08-08",
     "stale": true
   },
