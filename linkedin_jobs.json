@@ -1,5 +1,19 @@
 [
   {
+    "company": "Builders",
+    "job_title": "Senior Software Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4406787544",
+    "job_url": "https://www.linkedin.com/jobs/view/4406787544",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-08-09"
+  },
+  {
     "company": "MSTS Tolls",
     "job_title": "Senior Software Engineer - Oracle",
     "location": "Rijswijk, South Holland, Netherlands",
@@ -319,20 +333,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-06",
-    "last_seen": "2026-08-09"
-  },
-  {
-    "company": "Builders",
-    "job_title": "Senior Software Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4406787544",
-    "job_url": "https://www.linkedin.com/jobs/view/4406787544",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-05-29",
     "last_seen": "2026-08-09"
   },
   {
@@ -1372,6 +1372,20 @@
     "last_seen": "2026-08-09"
   },
   {
+    "company": "ASM",
+    "job_title": "Senior Engineer II, Systems Engineering (Senior / Principal Control Engineer)",
+    "location": "Almere, Flevoland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4450607633",
+    "job_url": "https://www.linkedin.com/jobs/view/4450607633",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-09"
+  },
+  {
     "company": "Vinted",
     "job_title": "Staff Engineer, Supply",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1425,20 +1439,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-05",
-    "last_seen": "2026-08-09"
-  },
-  {
-    "company": "ENTER BV",
-    "job_title": "Systems Engineer",
-    "location": "Nijmegen, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4440518852",
-    "job_url": "https://www.linkedin.com/jobs/view/4440518852",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-15",
     "last_seen": "2026-08-09"
   },
   {
@@ -1540,6 +1540,21 @@
     "last_seen": "2026-08-09"
   },
   {
+    "company": "ENTER BV",
+    "job_title": "Systems Engineer",
+    "location": "Nijmegen, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4440518852",
+    "job_url": "https://www.linkedin.com/jobs/view/4440518852",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-08-09",
+    "stale": true
+  },
+  {
     "company": "TRACT",
     "job_title": "Senior Full Stack Engineer",
     "location": "",
@@ -1626,21 +1641,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-30",
-    "last_seen": "2026-08-09",
-    "stale": true
-  },
-  {
-    "company": "ASM",
-    "job_title": "Senior Engineer II, Systems Engineering (Senior / Principal Control Engineer)",
-    "location": "Almere, Flevoland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4450607633",
-    "job_url": "https://www.linkedin.com/jobs/view/4450607633",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-07",
     "last_seen": "2026-08-09",
     "stale": true
   },
