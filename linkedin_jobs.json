@@ -14,6 +14,20 @@
     "last_seen": "2026-08-10"
   },
   {
+    "company": "Samba",
+    "job_title": "Senior Software Engineer - Identity",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4382879326",
+    "job_url": "https://www.linkedin.com/jobs/view/4382879326",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-09",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-08-10"
+  },
+  {
     "company": "Builders",
     "job_title": "Senior Software Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -252,20 +266,6 @@
     "last_seen": "2026-08-10"
   },
   {
-    "company": "NAVARA",
-    "job_title": "Senior Software Engineer (32-40 uur)",
-    "location": "Driebergen-Rijsenburg, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4412646867",
-    "job_url": "https://www.linkedin.com/jobs/view/4412646867",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-08",
-    "last_seen": "2026-08-10"
-  },
-  {
     "company": "Databricks",
     "job_title": "Senior Software Engineer - Fullstack",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -322,20 +322,6 @@
     "last_seen": "2026-08-10"
   },
   {
-    "company": "Samba",
-    "job_title": "Senior Software Engineer - Identity",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4382879326",
-    "job_url": "https://www.linkedin.com/jobs/view/4382879326",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-05",
-    "last_seen": "2026-08-10"
-  },
-  {
     "company": "BlockTech",
     "job_title": "Senior Software Engineer | Core Tech | Python/Rust",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -347,6 +333,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-20",
+    "last_seen": "2026-08-10"
+  },
+  {
+    "company": "Mila Health",
+    "job_title": "Senior Full Stack Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4451891913",
+    "job_url": "https://www.linkedin.com/jobs/view/4451891913",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-10",
     "last_seen": "2026-08-10"
   },
   {
@@ -966,20 +966,6 @@
     "last_seen": "2026-08-10"
   },
   {
-    "company": "Haystack People",
-    "job_title": "AI Platform Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4449757325",
-    "job_url": "https://www.linkedin.com/jobs/view/4449757325",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-10"
-  },
-  {
     "company": "iO",
     "job_title": "Lead AI Engineer",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -1047,6 +1033,34 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-05",
+    "last_seen": "2026-08-10"
+  },
+  {
+    "company": "APG",
+    "job_title": "AI Engineer (Innovatie & AI)",
+    "location": "Heerlen, Limburg, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4449651351",
+    "job_url": "https://www.linkedin.com/jobs/view/4449651351",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-10"
+  },
+  {
+    "company": "iO",
+    "job_title": "Lead AI Engineer",
+    "location": "Den Bosch, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4393513436",
+    "job_url": "https://www.linkedin.com/jobs/view/4393513436",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-03",
     "last_seen": "2026-08-10"
   },
   {
@@ -1120,31 +1134,31 @@
     "last_seen": "2026-08-10"
   },
   {
-    "company": "NOBRAINERS",
+    "company": "Nationale-Nederlanden",
     "job_title": "AI Engineer",
     "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4448601444",
-    "job_url": "https://www.linkedin.com/jobs/view/4448601444",
+    "careers_url": "https://www.linkedin.com/jobs/view/4448531890",
+    "job_url": "https://www.linkedin.com/jobs/view/4448531890",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-08-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-10"
-  },
-  {
-    "company": "TomTom",
-    "job_title": "AI Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4448233221",
-    "job_url": "https://www.linkedin.com/jobs/view/4448233221",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-03",
+    "date_posted": "2026-08-04",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-04",
+    "last_seen": "2026-08-10"
+  },
+  {
+    "company": "Conflux",
+    "job_title": "Machine Learning Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4437814329",
+    "job_url": "https://www.linkedin.com/jobs/view/4437814329",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-08",
     "last_seen": "2026-08-10"
   },
   {
@@ -1173,20 +1187,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-24",
-    "last_seen": "2026-08-10"
-  },
-  {
-    "company": "Booking.com",
-    "job_title": "Machine Learning Engineer II",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4451550740",
-    "job_url": "https://www.linkedin.com/jobs/view/4451550740",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-10",
     "last_seen": "2026-08-10"
   },
   {
@@ -1526,6 +1526,81 @@
     "last_seen": "2026-08-10"
   },
   {
+    "company": "NAVARA",
+    "job_title": "Senior Software Engineer (32-40 uur)",
+    "location": "Driebergen-Rijsenburg, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4412646867",
+    "job_url": "https://www.linkedin.com/jobs/view/4412646867",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-08",
+    "last_seen": "2026-08-10",
+    "stale": true
+  },
+  {
+    "company": "Haystack People",
+    "job_title": "AI Platform Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4449757325",
+    "job_url": "https://www.linkedin.com/jobs/view/4449757325",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-10",
+    "stale": true
+  },
+  {
+    "company": "NOBRAINERS",
+    "job_title": "AI Engineer",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4448601444",
+    "job_url": "https://www.linkedin.com/jobs/view/4448601444",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-10",
+    "stale": true
+  },
+  {
+    "company": "TomTom",
+    "job_title": "AI Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4448233221",
+    "job_url": "https://www.linkedin.com/jobs/view/4448233221",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-10",
+    "stale": true
+  },
+  {
+    "company": "Booking.com",
+    "job_title": "Machine Learning Engineer II",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4451550740",
+    "job_url": "https://www.linkedin.com/jobs/view/4451550740",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-10",
+    "last_seen": "2026-08-10",
+    "stale": true
+  },
+  {
     "company": "Stacktful",
     "job_title": "Software Engineer",
     "location": "Delft, South Holland, Netherlands",
@@ -1661,36 +1736,6 @@
     "stale": true
   },
   {
-    "company": "APG",
-    "job_title": "AI Engineer (Innovatie & AI)",
-    "location": "Heerlen, Limburg, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4449651351",
-    "job_url": "https://www.linkedin.com/jobs/view/4449651351",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-10",
-    "stale": true
-  },
-  {
-    "company": "iO",
-    "job_title": "Lead AI Engineer",
-    "location": "Den Bosch, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4393513436",
-    "job_url": "https://www.linkedin.com/jobs/view/4393513436",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-08-10",
-    "stale": true
-  },
-  {
     "company": "Magno IT Recruitment",
     "job_title": "MLOps Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1706,21 +1751,6 @@
     "stale": true
   },
   {
-    "company": "Nationale-Nederlanden",
-    "job_title": "AI Engineer",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4448531890",
-    "job_url": "https://www.linkedin.com/jobs/view/4448531890",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-08-10",
-    "stale": true
-  },
-  {
     "company": "New Data",
     "job_title": "Medior Forward Deployed AI / Software Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1732,21 +1762,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-08-10",
-    "stale": true
-  },
-  {
-    "company": "Conflux",
-    "job_title": "Machine Learning Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4437814329",
-    "job_url": "https://www.linkedin.com/jobs/view/4437814329",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-08",
     "last_seen": "2026-08-10",
     "stale": true
   },
