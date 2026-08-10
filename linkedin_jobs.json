@@ -252,20 +252,6 @@
     "last_seen": "2026-08-10"
   },
   {
-    "company": "Hiyv",
-    "job_title": "Senior Developer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4447346471",
-    "job_url": "https://www.linkedin.com/jobs/view/4447346471",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-10"
-  },
-  {
     "company": "Augmedit",
     "job_title": "Senior Cloud Software Engineer",
     "location": "Amersfoort, Utrecht, Netherlands",
@@ -1510,6 +1496,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-10",
     "last_seen": "2026-08-10"
+  },
+  {
+    "company": "Hiyv",
+    "job_title": "Senior Developer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4447346471",
+    "job_url": "https://www.linkedin.com/jobs/view/4447346471",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-10",
+    "stale": true
   },
   {
     "company": "Search X Recruitment",
