@@ -644,20 +644,6 @@
     "last_seen": "2026-08-11"
   },
   {
-    "company": "Mollie B.V.",
-    "job_title": "Senior Platform Engineer",
-    "location": "Amsterdam",
-    "careers_url": "https://jobs.ashbyhq.com/mollie",
-    "job_url": "https://jobs.ashbyhq.com/mollie/9fbfa9c6-e57c-43ab-b7c1-39cd7d7d801f",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-06",
-    "description": "Build with us Businesses deserve better from finance. Less friction, more freedom. Since 2004, Mollie has been on a mission to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies trust our all-in-one platform to get paid, manage money and grow on their terms. Simple, scalable and built with real businesses in mind. We're one of Europe's fastest-growing fintechs, with 900+ Mollies across 12+ locations. Our people make this growth possible. We move fast, build with purpose and care deeply about our customers. Whether you're solving problems, building market-leading products or exploring how AI can make work smarter, you'll have the freedom to create and the trust to deliver. If you're ready to grow, shape the future of fintech and join an ambitious, high-performing team, this is the place for you. Your impact Mollie is evolving from a payment processor into a full financial services provider, and our infrastructure needs to be as ambitious as our vision. As part of our Developer Enablement domain , you'll play a crucial role in shaping the CI/CD infrastructure that drives our continuous integration, developer workflows and deployment pipelines, providing a foundation for rapid and reliable software delivery. Join us as a Senior Platform Engineer within the Build team , where you\u2019ll be at the forefront of maintaining and optimising our CI/CD tools, ensuring stability, scalability, and efficiency across our platforms. Your work will empower our engineering teams to deliver high-quality software with confidence, enabling our Engineers to build products that will eliminate the financial bureaucracy for our customers. What you'll ship Oversee the health, stability and scalability of CI/CD infrastructure to support Mollie's product delivery. Monitor and respond to outages in those systems to maintain high availability, reliability and operational standards. Develop, scale and implement strategies, guidelines, and governance of CI/CD systems while future-proofing their architecture for security, compliance and resilience concerns. Optimize and balance CI/CD compute and storage usage towards efficient resource usage while keeping developer experience in mind. Investigate, diagnose, and resolve technical issues related to CI/CD tooling with internal customers, working collaboratively with other engineering teams to minimize to maintain seamless workflows. What you'll bring Good grasp of CI Systems and hands-on experience with Gitlab or similar (such as Jenkins, Buildkite, etc.), with a strong focus on self-hosted operations. Some experience with cloud-native Deployment and GitOps solutions such as Gitlab , ArgoCD or similar(Flux, GoCD, Spinnaker, Harness, etc), with strong focus on self-hosted operations. Prior experience with at least one major cloud-based provider as well as Infrastructure-as-Code tools such as Terraform . Comfortable running, monitoring and developing systems on Kubernetes and us",
-    "notes": "Via Ashby API.",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-08-11"
-  },
-  {
     "company": "Fuga B.V.",
     "job_title": "Full Stack Engineer",
     "location": "Amsterdam, Netherlands",
@@ -1046,6 +1032,20 @@
   },
   {
     "company": "TomTom International B.V.",
+    "job_title": "Junior Software Engineer",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/a1367128-f2f1-4fd4-ad74-a74dcfbdd568/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [\"At TomTom, we are looking for a motivated Junior Software Engineer to join our data platform team. This is an entry-level position ideal for recent graduates or candidates who have just completed an internship and are excited to start building production software at scale. You'll work alongside experienced engineers to help develop and maintain the systems that power our map making and location services.\"], \"sections\": [{\"title\": \"What you will do: \", \"items\": [{\"text\": \"Work within a cross-functional team of software engineers to help design and implement scalable data pipelines, backend services, and cloud infrastructure.\"}, {\"text\": \"Contribute to the development and maintenance of platform components, with a focus on reliability and code quality.\"}, {\"text\": \"Work with data producers and consumers within the company by acting as a central critical bridge for data driven decision making and application development.\"}, {\"text\": \"Write clean, well-tested code and participate in code reviews to learn from and support your teammates.\"}, {\"text\": \"Collaborate with other teams to integrate features and services into our products.\"}, {\"text\": \"Help monitor and troubleshoot production systems, learn how to diagnose and resolve issues as they arise.\"}, {\"text\": \"Continuously learn and apply software engineering best practices, including version control, CI/CD, and testing.\"}]}, {\"title\": \"What you will need: \", \"items\": [{\"text\": \"Bachelor's degree in Computer Science, Engineering, or a related technical field (recent graduates are welcome).\"}, {\"text\": \"Some prior hands-on experience through an internship, coursework projects, or personal projects. Experience in production would be ideal.\"}, {\"text\": \"Working knowledge of at least one programming language such as Python, Java, or Scala.\"}, {\"text\": \"Some exposure to or curiosity about data engineering concepts (pipelines, data quality, working with structured/tabular data at scale) is a plus.\"}, {\"text\": \"Basic familiarity with version control (Git) and a willingness to learn tools like Docker and Kubernetes.\"}, {\"text\": \"Solid understanding of software engineering fundamentals (data structures, algorithms, testing).\"}, {\"text\": \"Good written and verbal communication skills, with a curiosity about documenting and sharing your work.\"}, {\"text\": \"Eagerness to learn, take feedback well, and grow into a strong engineer through mentorship and real-world experience.\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"is",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11"
+  },
+  {
+    "company": "TomTom International B.V.",
     "job_title": "AI Engineer",
     "location": "Amsterdam, The Netherlands",
     "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
@@ -1056,20 +1056,6 @@
     "description": "{\"body\": [\"We're looking for a skilled Software Engineer to join our team and help us build a production-ready AI product for TomTom. The work is full-stack, covering everything from new feature development to infrastructure and client-side integration.\"], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"New Feature Development: Design, implement, and deploy new features using Python to enhance our core AI functionalities.\"}, {\"text\": \"DevOps and MLOps: Contribute to the development and maintenance of our CI/CD pipelines and MLOps infrastructure. This includes automating model training, deployment, and monitoring processes to ensure product resilience and scalability.\"}, {\"text\": \"In-house Evaluation System: Develop and improve our internal evaluation system to accurately measure model performance, track key metrics, and ensure data integrity.\"}, {\"text\": \"Integration and Deployment: Manage the integration of our AI solution into client environments.\"}, {\"text\": \"AI Model Improvement: Work with our existing models to enhance their performance and efficiency. This will include tasks like fine-tuning large language models and applying advanced prompt engineering techniques.\"}, {\"text\": \"R&D Contributions: Participate in short-term research and development projects to explore new technologies and approaches that can give our product a competitive edge.\"}, {\"text\": \"Product Hardening: Take ownership of tasks focused on making the product production-ready, including improving reliability, enhancing performance, and implementing robust error handling and monitoring.\"}]}, {\"title\": \"What experience you'll need\", \"items\": [{\"text\": \"Python Development: Building new features and improving existing ones.\"}, {\"text\": \"DevOps and MLOps: Managing CI/CD pipelines and automating model deployment.\"}, {\"text\": \"Client Integration: Working on client-side integration\"}, {\"text\": \"Evaluation Systems: Developing in-house systems to monitor and measure model performance.\"}, {\"text\": \"AI/ML Techniques: Applying fine-tuning and prompt engineering to enhance model performance.\"}, {\"text\": \"Production Readiness: Making the product resilient and ready for production, including performance optimization and robust error handling.\"}]}], \"closing\": []}",
     "notes": "Via XHR interception (Playwright).",
     "first_seen": "2026-08-03",
-    "last_seen": "2026-08-11"
-  },
-  {
-    "company": "TomTom International B.V.",
-    "job_title": "Junior Software Engineer",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/3813c6f0-c49d-43a5-ae12-1c41e83eff8f/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do:\", \"items\": [{\"text\": \"Work with a team of engineers to develop high-quality software\"}, {\"text\": \"Participate to all phases of the project lifecycle \\u2013 gathering requirements, designing solutions, building new interfaces, integration with existing architectures, development, and testing code\"}, {\"text\": \"Build scalable, highly available and resilient applications by utilizing the optimal cloud technologies and programming languages and frameworks that best suit your use cases\"}, {\"text\": \"Experienced with Java\"}, {\"text\": \"Design technical solutions to solve complex technical problems at scale\"}, {\"text\": \"Build iteratively using agile methodologies\"}]}, {\"title\": \"What you'll need:\", \"items\": [{\"text\": \"Bachelor's or Master's degree in Computer Science\"}, {\"text\": \"Experience in software development experience in Java or another modern programming language. Professional experience is NOT required, university projects and/or internships are encouraged.\"}, {\"text\": \"Strong Computer Science and development fundamentals, including object-oriented design, data structures, algorithm design, and complexity analysis\"}, {\"text\": \"Proficient with written and/or verbal communication in English\"}, {\"text\": \"Desire to learn, and expand your skill set\"}, {\"text\": \"Able to solve a complex problem on his/her own by utilizing experience and other resources\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\": false}, {\"text\": \"Join annual events like our Hackathon and DevDays to bring your ideas to life with talented teammates from around the world.\", \"isHeading\": false}, {\"tex",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-08-07",
     "last_seen": "2026-08-11"
   },
   {
@@ -1226,20 +1212,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Software Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051839/Senior-Software-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-04",
-    "last_seen": "2026-08-11"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior .Net Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1250,6 +1222,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-07-15",
+    "last_seen": "2026-08-11"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Software Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051839/Senior-Software-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-04",
     "last_seen": "2026-08-11"
   },
   {
@@ -1496,7 +1482,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-07-10",
-    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 83 jobs found Product User Experience Senior Product Designer - Partner Enablement Bachelor / Master 6.200-7.600 Utrecht 4-10 year Design an infrastructure that 47,000 partners never have to question Commerce Business & Proposition Development New Business Developer bol.checkout Bachelor / Master 3.700-4.700 Utrecht Schrijf het playbook. Met mooie deals, in plaats van mooie slides. FinTech Senior Leadership Head of Product - Financial Services Core Products Bachelor / Master 8.400-10.100 Utrecht 7-10+ year Build the financial infrastructure that can scale bol\u2019s financial services Logistics Intern Internship Logistic Capacity Management Bachelor / Master Utrecht Student Kom jij dit team versterken? Marketing Intern Stage Community, Communicatie & AI-productiviteit Bachelor / Master Utrecht Student Ready to help shape learning communities, improve employee experiences, and discover how AI can make work smarter? Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Marketing Marketing Marketing Automation & Channel Optimization Specialist Bachelor / Master Utrecht 4-10 year Bouw mee aan schaalbare, datagedreven partnercommunicatie binnen het grootste retail tech platform van Nederland en Belgi\u00eb. Marketing Subject Matter Expertise Marketing Manager Bachelor / Master Utrecht 7-10 year Vergroot propositiebekendheid, productadoptie en klantbetrokkenheid via data-gedreven marketing Commerce Buying Buyer Zakelijke laptops & Print Bachelor / Master Utrecht 4-10 year Data-gedreven en proactieve inkoper met een hands-on mentaliteit Finance & Business Support Leadership Teammanager B2B Customer Service Bachelor / Master 3.800-4.500 Utrecht Inspirerend coach en continue ontwikkelaar van onze partnerspecialisten FinTech Business Partnering Financial Services Strategy & Proposition Developer Bachelor / Master 6.100-7.500 Utrecht 7-10+ year Turn financial opportunities into customer-loved propositions 1 2 3 \u2026 9 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
+    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 84 jobs found Product User Experience Senior Product Designer - Partner Enablement Bachelor / Master 6.200-7.600 Utrecht 4-10 year Design an infrastructure that 47,000 partners never have to question Commerce Business & Proposition Development New Business Developer bol.checkout Bachelor / Master 3.700-4.700 Utrecht Schrijf het playbook. Met mooie deals, in plaats van mooie slides. FinTech Senior Leadership Head of Product - Financial Services Core Products Bachelor / Master 8.400-10.100 Utrecht 7-10+ year Build the financial infrastructure that can scale bol\u2019s financial services Logistics Intern Internship Logistic Capacity Management Bachelor / Master Utrecht Student Kom jij dit team versterken? Marketing Intern Stage Community, Communicatie & AI-productiviteit Bachelor / Master Utrecht Student Ready to help shape learning communities, improve employee experiences, and discover how AI can make work smarter? Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Marketing Marketing Marketing Automation & Channel Optimization Specialist Bachelor / Master Utrecht 4-10 year Bouw mee aan schaalbare, datagedreven partnercommunicatie binnen het grootste retail tech platform van Nederland en Belgi\u00eb. Marketing Subject Matter Expertise Marketing Manager Bachelor / Master Utrecht 7-10 year Vergroot propositiebekendheid, productadoptie en klantbetrokkenheid via data-gedreven marketing Commerce Buying Buyer Zakelijke laptops & Print Bachelor / Master Utrecht 4-10 year Data-gedreven en proactieve inkoper met een hands-on mentaliteit Finance & Business Support Leadership Teammanager B2B Customer Service Bachelor / Master 3.800-4.500 Utrecht Inspirerend coach en continue ontwikkelaar van onze partnerspecialisten Logistics Intern Afstudeer stagiair Supply Chain Excellence Bachelor / Master Utrecht Student Kan je niet wachten om onze Supply Chain Excellence collega\u2019s te ondersteunen bij hun uitdagende projecten? 1 2 3 \u2026 9 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
     "notes": "Dept: Technology. Via Greenhouse board.",
     "first_seen": "2026-07-10",
     "last_seen": "2026-08-11"
@@ -1510,7 +1496,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-06-23",
-    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 83 jobs found Product User Experience Senior Product Designer - Partner Enablement Bachelor / Master 6.200-7.600 Utrecht 4-10 year Design an infrastructure that 47,000 partners never have to question Commerce Business & Proposition Development New Business Developer bol.checkout Bachelor / Master 3.700-4.700 Utrecht Schrijf het playbook. Met mooie deals, in plaats van mooie slides. FinTech Senior Leadership Head of Product - Financial Services Core Products Bachelor / Master 8.400-10.100 Utrecht 7-10+ year Build the financial infrastructure that can scale bol\u2019s financial services Logistics Intern Internship Logistic Capacity Management Bachelor / Master Utrecht Student Kom jij dit team versterken? Marketing Intern Stage Community, Communicatie & AI-productiviteit Bachelor / Master Utrecht Student Ready to help shape learning communities, improve employee experiences, and discover how AI can make work smarter? Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Marketing Marketing Marketing Automation & Channel Optimization Specialist Bachelor / Master Utrecht 4-10 year Bouw mee aan schaalbare, datagedreven partnercommunicatie binnen het grootste retail tech platform van Nederland en Belgi\u00eb. Marketing Subject Matter Expertise Marketing Manager Bachelor / Master Utrecht 7-10 year Vergroot propositiebekendheid, productadoptie en klantbetrokkenheid via data-gedreven marketing Commerce Buying Buyer Zakelijke laptops & Print Bachelor / Master Utrecht 4-10 year Data-gedreven en proactieve inkoper met een hands-on mentaliteit Finance & Business Support Leadership Teammanager B2B Customer Service Bachelor / Master 3.800-4.500 Utrecht Inspirerend coach en continue ontwikkelaar van onze partnerspecialisten FinTech Business Partnering Financial Services Strategy & Proposition Developer Bachelor / Master 6.100-7.500 Utrecht 7-10+ year Turn financial opportunities into customer-loved propositions 1 2 3 \u2026 9 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
+    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 84 jobs found Product User Experience Senior Product Designer - Partner Enablement Bachelor / Master 6.200-7.600 Utrecht 4-10 year Design an infrastructure that 47,000 partners never have to question Commerce Business & Proposition Development New Business Developer bol.checkout Bachelor / Master 3.700-4.700 Utrecht Schrijf het playbook. Met mooie deals, in plaats van mooie slides. FinTech Senior Leadership Head of Product - Financial Services Core Products Bachelor / Master 8.400-10.100 Utrecht 7-10+ year Build the financial infrastructure that can scale bol\u2019s financial services Logistics Intern Internship Logistic Capacity Management Bachelor / Master Utrecht Student Kom jij dit team versterken? Marketing Intern Stage Community, Communicatie & AI-productiviteit Bachelor / Master Utrecht Student Ready to help shape learning communities, improve employee experiences, and discover how AI can make work smarter? Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Marketing Marketing Marketing Automation & Channel Optimization Specialist Bachelor / Master Utrecht 4-10 year Bouw mee aan schaalbare, datagedreven partnercommunicatie binnen het grootste retail tech platform van Nederland en Belgi\u00eb. Marketing Subject Matter Expertise Marketing Manager Bachelor / Master Utrecht 7-10 year Vergroot propositiebekendheid, productadoptie en klantbetrokkenheid via data-gedreven marketing Commerce Buying Buyer Zakelijke laptops & Print Bachelor / Master Utrecht 4-10 year Data-gedreven en proactieve inkoper met een hands-on mentaliteit Finance & Business Support Leadership Teammanager B2B Customer Service Bachelor / Master 3.800-4.500 Utrecht Inspirerend coach en continue ontwikkelaar van onze partnerspecialisten Logistics Intern Afstudeer stagiair Supply Chain Excellence Bachelor / Master Utrecht Student Kan je niet wachten om onze Supply Chain Excellence collega\u2019s te ondersteunen bij hun uitdagende projecten? 1 2 3 \u2026 9 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
     "notes": "Dept: Technology. Via Greenhouse board.",
     "first_seen": "2026-07-08",
     "last_seen": "2026-08-11"
@@ -1524,9 +1510,51 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-07-06",
-    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 83 jobs found Product User Experience Senior Product Designer - Partner Enablement Bachelor / Master 6.200-7.600 Utrecht 4-10 year Design an infrastructure that 47,000 partners never have to question Commerce Business & Proposition Development New Business Developer bol.checkout Bachelor / Master 3.700-4.700 Utrecht Schrijf het playbook. Met mooie deals, in plaats van mooie slides. FinTech Senior Leadership Head of Product - Financial Services Core Products Bachelor / Master 8.400-10.100 Utrecht 7-10+ year Build the financial infrastructure that can scale bol\u2019s financial services Logistics Intern Internship Logistic Capacity Management Bachelor / Master Utrecht Student Kom jij dit team versterken? Marketing Intern Stage Community, Communicatie & AI-productiviteit Bachelor / Master Utrecht Student Ready to help shape learning communities, improve employee experiences, and discover how AI can make work smarter? Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Marketing Marketing Marketing Automation & Channel Optimization Specialist Bachelor / Master Utrecht 4-10 year Bouw mee aan schaalbare, datagedreven partnercommunicatie binnen het grootste retail tech platform van Nederland en Belgi\u00eb. Marketing Subject Matter Expertise Marketing Manager Bachelor / Master Utrecht 7-10 year Vergroot propositiebekendheid, productadoptie en klantbetrokkenheid via data-gedreven marketing Commerce Buying Buyer Zakelijke laptops & Print Bachelor / Master Utrecht 4-10 year Data-gedreven en proactieve inkoper met een hands-on mentaliteit Finance & Business Support Leadership Teammanager B2B Customer Service Bachelor / Master 3.800-4.500 Utrecht Inspirerend coach en continue ontwikkelaar van onze partnerspecialisten FinTech Business Partnering Financial Services Strategy & Proposition Developer Bachelor / Master 6.100-7.500 Utrecht 7-10+ year Turn financial opportunities into customer-loved propositions 1 2 3 \u2026 9 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
+    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 84 jobs found Product User Experience Senior Product Designer - Partner Enablement Bachelor / Master 6.200-7.600 Utrecht 4-10 year Design an infrastructure that 47,000 partners never have to question Commerce Business & Proposition Development New Business Developer bol.checkout Bachelor / Master 3.700-4.700 Utrecht Schrijf het playbook. Met mooie deals, in plaats van mooie slides. FinTech Senior Leadership Head of Product - Financial Services Core Products Bachelor / Master 8.400-10.100 Utrecht 7-10+ year Build the financial infrastructure that can scale bol\u2019s financial services Logistics Intern Internship Logistic Capacity Management Bachelor / Master Utrecht Student Kom jij dit team versterken? Marketing Intern Stage Community, Communicatie & AI-productiviteit Bachelor / Master Utrecht Student Ready to help shape learning communities, improve employee experiences, and discover how AI can make work smarter? Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Marketing Marketing Marketing Automation & Channel Optimization Specialist Bachelor / Master Utrecht 4-10 year Bouw mee aan schaalbare, datagedreven partnercommunicatie binnen het grootste retail tech platform van Nederland en Belgi\u00eb. Marketing Subject Matter Expertise Marketing Manager Bachelor / Master Utrecht 7-10 year Vergroot propositiebekendheid, productadoptie en klantbetrokkenheid via data-gedreven marketing Commerce Buying Buyer Zakelijke laptops & Print Bachelor / Master Utrecht 4-10 year Data-gedreven en proactieve inkoper met een hands-on mentaliteit Finance & Business Support Leadership Teammanager B2B Customer Service Bachelor / Master 3.800-4.500 Utrecht Inspirerend coach en continue ontwikkelaar van onze partnerspecialisten Logistics Intern Afstudeer stagiair Supply Chain Excellence Bachelor / Master Utrecht Student Kan je niet wachten om onze Supply Chain Excellence collega\u2019s te ondersteunen bij hun uitdagende projecten? 1 2 3 \u2026 9 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
     "notes": "Dept: Cybersecurity. Via Greenhouse board.",
     "first_seen": "2026-07-08",
+    "last_seen": "2026-08-11"
+  },
+  {
+    "company": "Revolut Netherlands B.V.",
+    "job_title": "Software Engineer (DevOps) - Managed Storage\nOffice: Bucharest \u00b7 Dubai \u00b7 Krakow \u00b7 London \u00b7 Madrid \u00b7 Vilnius\nRemote: Lith",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-dev-ops-managed-storage-82cd3334-3e20-41dd-ae2d-2163d2c9f94b/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-08-11"
+  },
+  {
+    "company": "Revolut Netherlands B.V.",
+    "job_title": "Graduate Programme 2027: Software Engineer (iOS)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote: P",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/graduate-programme-2027-software-engineer-i-os-726455bb-b707-4798-831d-253f7c8773de/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-11"
+  },
+  {
+    "company": "Revolut Netherlands B.V.",
+    "job_title": "Software Engineer (DevOps) - Site Reliability\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 Madrid \u00b7 Mexico City \u00b7 Sao P",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-dev-ops-site-reliability-e474e943-e0f9-4be1-a7a9-f037cb5e115e/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-04",
     "last_seen": "2026-08-11"
   },
   {
@@ -1604,20 +1632,6 @@
     "job_title": "Senior Software Engineer, C++",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://job-boards.greenhouse.io/flowtraders",
-    "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7992594",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-06-12",
-    "description": "Flow Traders is looking for a Senior C++ Software Engineer to lead the next-generation architecture of the market data and execution platforms that power our fully systematic trading. We don't treat market data as plumbing - for us it's a source of alpha, where feed handling, order book construction, and a deep understanding of exchange microstructure are themselves a competitive edge. We're looking for a senior individual contributor who has lived this philosophy in a proprietary or systematic trading environment and can squeeze every nanosecond out of the path from wire to strategy. As a senior individual contributor, you'll help set the technical direction for the Core Platform that underpins quantitative research, pricing, strategy development, and execution across hundreds of venues - and drive its global rollout across our Market Data, Quant Research, Pricing, and Strategies groups. You'll work in a tight, iterative loop with quants and technical traders, applying deep expertise in modern C++, OS internals, CPU and memory architecture, lock-free concurrency, and low-latency networking to push our systems toward state-of-the-art performance, robustness, and observability. &nbsp; What you will do: Lead the development and global rollout of our Core market data platform used across multiple focus areas (Market data, Research engineering, Pricing, Strategies). Design and implement high\u2011performance components for market data ingestion, normalization, and distribution, as well as its usage for order execution and strategy infrastructure. Develop tools and frameworks that enable quants and technical traders to build, tune, and deploy data\u2011driven systematic pricing and trading strategies. Own the full lifecycle of your components in a fast\u2011paced, iterative environment: deploy, monitor, profile, and optimize your code in production. Work closely with focus group engineers, quants, and technical traders to refine requirements, collect feedback, and iterate on the platform's design and implementation. &nbsp; What you need to succeed: BSc, MSc, or PhD in Computer Science, Mathematics, or a related field. 7+ years of post\u2011graduation professional C++ software development experience. Experience building low\u2011latency market data ingestion, order execution, and algorithmic trading systems (proprietary trading industry preferred). Strong knowledge of algorithms and data structures. Experience in parallel, asynchronous, and multithreaded programming. Demonstrated ability to write clean, reliable, and highly scalable C++ code. Interest in extracting maximum performance from available hardware and software (CPU caches, memory layout, networking, etc.). Ability to communicate effectively with both technical and non\u2011technical colleagues. &nbsp; Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via email, ",
-    "notes": "Dept: Product Development. Via Greenhouse board.",
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-08-11"
-  },
-  {
-    "company": "Flow Traders B.V.",
-    "job_title": "Senior Software Engineer, C++",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://job-boards.greenhouse.io/flowtraders",
     "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
     "visa_support": null,
     "relocation_support": null,
@@ -1625,6 +1639,20 @@
     "description": "Flow Traders is looking for Senior C++ Software Engineers to join our growing team in Amsterdam. Software Engineers at Flow Traders provide us with our competitive edge, equipping Researchers and Traders with the information and capabilities that they need to make sound business decisions. C++ plays a critical role in our event-driven trading systems, which are designed to reliably handle vast amounts of data at ultra-low latencies. As a C++ Engineer, you will build systems used to analyze and trade tens of thousands of products across hundreds of global trading venues every day. Working closely with Technologists, Quantitative Researchers, and Traders, you\u2019ll guide the development of our in-house trading technology and optimize it to achieve market-leading performance and reliability. Our proprietary trading platform includes everything from venue connectivity (feed handlers and ordering gateways) to trading engines to shared platforms that enable us to work quickly and efficiently - we are proud of our open and collaborative culture, so you\u2019ll have plenty of opportunity to find what fits you best. Teamwork is one of our most important firm values, and end users are never more than a short walk away, guaranteeing short feedback loops and immediate insight into the value that your code provides. To foster collaboration and innovation, we maintain shared libraries, encourage code re-use, and continuously evolve our views on application architecture. What you will do: Main technical activities include: For all C++ openings: Lead the development and global rollout of our Core platform used in multiple business/focus groups (Market data, Quantitative research, Pricing, Strategies) Be involved in the development process, which will be a fast-paced iterative process where you deploy your deliverables and validate them yourself and/or together with traders or quants Develop tools/frameworks to deliver capabilities for tuning/develop data-driven systematic pricing and trading strategies Work together with focus group engineers, Quants and Technical traders to refine requirements, collect feedback, and iterate on design and implementation of platform requirements Exchange Connectivity: Write software that communicates with exchanges through their APIs, receiving market data and sending orders over the network in different protocols, such as FIX, Websocket or HTTP requests Ensure quality of software based on a set of testing suites, which you are expected to use, maintain and extend Optimize exchange communication through kernel bypass, optimizing TLS or the connection handling to an exchange Research exchange behavior in detail to align our behavior to that of an exchange Implement these solutions using the provided exchange SDKs in different languages such as C++, Rust, Python, Typescript Trading Strategies: Implement trading algorithms based on requirements provided by traders and quants Acquire and develop the necessary trading knowledge to successfull",
     "notes": "Dept: Product Development. Via Greenhouse board.",
     "first_seen": "2026-06-24",
+    "last_seen": "2026-08-11"
+  },
+  {
+    "company": "Flow Traders B.V.",
+    "job_title": "Senior Software Engineer, C++",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://job-boards.greenhouse.io/flowtraders",
+    "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7992594",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-06-12",
+    "description": "Flow Traders is looking for a Senior C++ Software Engineer to lead the next-generation architecture of the market data and execution platforms that power our fully systematic trading. We don't treat market data as plumbing - for us it's a source of alpha, where feed handling, order book construction, and a deep understanding of exchange microstructure are themselves a competitive edge. We're looking for a senior individual contributor who has lived this philosophy in a proprietary or systematic trading environment and can squeeze every nanosecond out of the path from wire to strategy. As a senior individual contributor, you'll help set the technical direction for the Core Platform that underpins quantitative research, pricing, strategy development, and execution across hundreds of venues - and drive its global rollout across our Market Data, Quant Research, Pricing, and Strategies groups. You'll work in a tight, iterative loop with quants and technical traders, applying deep expertise in modern C++, OS internals, CPU and memory architecture, lock-free concurrency, and low-latency networking to push our systems toward state-of-the-art performance, robustness, and observability. &nbsp; What you will do: Lead the development and global rollout of our Core market data platform used across multiple focus areas (Market data, Research engineering, Pricing, Strategies). Design and implement high\u2011performance components for market data ingestion, normalization, and distribution, as well as its usage for order execution and strategy infrastructure. Develop tools and frameworks that enable quants and technical traders to build, tune, and deploy data\u2011driven systematic pricing and trading strategies. Own the full lifecycle of your components in a fast\u2011paced, iterative environment: deploy, monitor, profile, and optimize your code in production. Work closely with focus group engineers, quants, and technical traders to refine requirements, collect feedback, and iterate on the platform's design and implementation. &nbsp; What you need to succeed: BSc, MSc, or PhD in Computer Science, Mathematics, or a related field. 7+ years of post\u2011graduation professional C++ software development experience. Experience building low\u2011latency market data ingestion, order execution, and algorithmic trading systems (proprietary trading industry preferred). Strong knowledge of algorithms and data structures. Experience in parallel, asynchronous, and multithreaded programming. Demonstrated ability to write clean, reliable, and highly scalable C++ code. Interest in extracting maximum performance from available hardware and software (CPU caches, memory layout, networking, etc.). Ability to communicate effectively with both technical and non\u2011technical colleagues. &nbsp; Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via email, ",
+    "notes": "Dept: Product Development. Via Greenhouse board.",
+    "first_seen": "2026-06-12",
     "last_seen": "2026-08-11"
   },
   {
@@ -1723,6 +1751,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-28",
+    "last_seen": "2026-08-11"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "AI Engineer - Global Banking & Markets - Vice President - Warsaw\nWarsaw\u00b7Poland\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/170132",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-11",
     "last_seen": "2026-08-11"
   },
   {
@@ -2207,19 +2249,6 @@
     "last_seen": "2026-08-11"
   },
   {
-    "company": "Philips Electronics Nederland B.V.",
-    "job_title": "Data Scientist \u2013 Agentic AI Engineer",
-    "location": "Eindhoven",
-    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
-    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/Data-Scientist--Generative-AI-Engineer_559002-2",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-08-11"
-  },
-  {
     "company": "Prosus N.V.",
     "job_title": "AI Engineer \u2013 0 to 1 Products",
     "location": "Netherlands - Amsterdam",
@@ -2372,6 +2401,50 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-08-11"
+  },
+  {
+    "company": "Mollie B.V.",
+    "job_title": "Senior Platform Engineer",
+    "location": "Amsterdam",
+    "careers_url": "https://jobs.ashbyhq.com/mollie",
+    "job_url": "https://jobs.ashbyhq.com/mollie/9fbfa9c6-e57c-43ab-b7c1-39cd7d7d801f",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-06",
+    "description": "Build with us Businesses deserve better from finance. Less friction, more freedom. Since 2004, Mollie has been on a mission to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies trust our all-in-one platform to get paid, manage money and grow on their terms. Simple, scalable and built with real businesses in mind. We're one of Europe's fastest-growing fintechs, with 900+ Mollies across 12+ locations. Our people make this growth possible. We move fast, build with purpose and care deeply about our customers. Whether you're solving problems, building market-leading products or exploring how AI can make work smarter, you'll have the freedom to create and the trust to deliver. If you're ready to grow, shape the future of fintech and join an ambitious, high-performing team, this is the place for you. Your impact Mollie is evolving from a payment processor into a full financial services provider, and our infrastructure needs to be as ambitious as our vision. As part of our Developer Enablement domain , you'll play a crucial role in shaping the CI/CD infrastructure that drives our continuous integration, developer workflows and deployment pipelines, providing a foundation for rapid and reliable software delivery. Join us as a Senior Platform Engineer within the Build team , where you\u2019ll be at the forefront of maintaining and optimising our CI/CD tools, ensuring stability, scalability, and efficiency across our platforms. Your work will empower our engineering teams to deliver high-quality software with confidence, enabling our Engineers to build products that will eliminate the financial bureaucracy for our customers. What you'll ship Oversee the health, stability and scalability of CI/CD infrastructure to support Mollie's product delivery. Monitor and respond to outages in those systems to maintain high availability, reliability and operational standards. Develop, scale and implement strategies, guidelines, and governance of CI/CD systems while future-proofing their architecture for security, compliance and resilience concerns. Optimize and balance CI/CD compute and storage usage towards efficient resource usage while keeping developer experience in mind. Investigate, diagnose, and resolve technical issues related to CI/CD tooling with internal customers, working collaboratively with other engineering teams to minimize to maintain seamless workflows. What you'll bring Good grasp of CI Systems and hands-on experience with Gitlab or similar (such as Jenkins, Buildkite, etc.), with a strong focus on self-hosted operations. Some experience with cloud-native Deployment and GitOps solutions such as Gitlab , ArgoCD or similar(Flux, GoCD, Spinnaker, Harness, etc), with strong focus on self-hosted operations. Prior experience with at least one major cloud-based provider as well as Infrastructure-as-Code tools such as Terraform . Comfortable running, monitoring and developing systems on Kubernetes and us",
+    "notes": "Via Ashby API.",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-11",
+    "stale": true
+  },
+  {
+    "company": "TomTom International B.V.",
+    "job_title": "Junior Software Engineer",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/3813c6f0-c49d-43a5-ae12-1c41e83eff8f/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do:\", \"items\": [{\"text\": \"Work with a team of engineers to develop high-quality software\"}, {\"text\": \"Participate to all phases of the project lifecycle \\u2013 gathering requirements, designing solutions, building new interfaces, integration with existing architectures, development, and testing code\"}, {\"text\": \"Build scalable, highly available and resilient applications by utilizing the optimal cloud technologies and programming languages and frameworks that best suit your use cases\"}, {\"text\": \"Experienced with Java\"}, {\"text\": \"Design technical solutions to solve complex technical problems at scale\"}, {\"text\": \"Build iteratively using agile methodologies\"}]}, {\"title\": \"What you'll need:\", \"items\": [{\"text\": \"Bachelor's or Master's degree in Computer Science\"}, {\"text\": \"Experience in software development experience in Java or another modern programming language. Professional experience is NOT required, university projects and/or internships are encouraged.\"}, {\"text\": \"Strong Computer Science and development fundamentals, including object-oriented design, data structures, algorithm design, and complexity analysis\"}, {\"text\": \"Proficient with written and/or verbal communication in English\"}, {\"text\": \"Desire to learn, and expand your skill set\"}, {\"text\": \"Able to solve a complex problem on his/her own by utilizing experience and other resources\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\": false}, {\"text\": \"Join annual events like our Hackathon and DevDays to bring your ideas to life with talented teammates from around the world.\", \"isHeading\": false}, {\"tex",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-11",
+    "stale": true
+  },
+  {
+    "company": "Philips Electronics Nederland B.V.",
+    "job_title": "Data Scientist \u2013 Agentic AI Engineer",
+    "location": "Eindhoven",
+    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/Data-Scientist--Generative-AI-Engineer_559002-2",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-06-24",
+    "last_seen": "2026-08-11",
+    "stale": true
   },
   {
     "company": "Optiver Holding B.V.",
@@ -2600,21 +2673,6 @@
   },
   {
     "company": "Revolut Netherlands B.V.",
-    "job_title": "Software Engineer (DevOps) - Managed Storage\nOffice: Bucharest \u00b7 Dubai \u00b7 Krakow \u00b7 London \u00b7 Madrid \u00b7 Vilnius\nRemote: Lith",
-    "location": "Netherlands",
-    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-dev-ops-managed-storage-82cd3334-3e20-41dd-ae2d-2163d2c9f94b/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-31",
-    "last_seen": "2026-08-10",
-    "stale": true
-  },
-  {
-    "company": "Revolut Netherlands B.V.",
     "job_title": "Platform Engineer (Java)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote: France \u00b7 Germany \u00b7 Poland",
     "location": "Netherlands",
     "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
@@ -2625,21 +2683,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-06",
-    "last_seen": "2026-08-10",
-    "stale": true
-  },
-  {
-    "company": "Revolut Netherlands B.V.",
-    "job_title": "Graduate Programme 2027: Software Engineer (iOS)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote: P",
-    "location": "Netherlands",
-    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/graduate-programme-2027-software-engineer-i-os-726455bb-b707-4798-831d-253f7c8773de/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-01",
     "last_seen": "2026-08-10",
     "stale": true
   },
@@ -2790,21 +2833,6 @@
     "description": "",
     "notes": "Via Picnic RSC slug extraction.",
     "first_seen": "2026-05-28",
-    "last_seen": "2026-08-10",
-    "stale": true
-  },
-  {
-    "company": "Revolut Netherlands B.V.",
-    "job_title": "Software Engineer (DevOps) - Site Reliability\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 Madrid \u00b7 Mexico City \u00b7 Sao P",
-    "location": "Netherlands",
-    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-dev-ops-site-reliability-e474e943-e0f9-4be1-a7a9-f037cb5e115e/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-04",
     "last_seen": "2026-08-10",
     "stale": true
   },
