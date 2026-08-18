@@ -350,20 +350,6 @@
     "last_seen": "2026-08-18"
   },
   {
-    "company": "Dow Jones",
-    "job_title": "Staff Software Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4427063534",
-    "job_url": "https://www.linkedin.com/jobs/view/4427063534",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-14",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-11",
-    "last_seen": "2026-08-18"
-  },
-  {
     "company": "Get-e",
     "job_title": "Senior Backend Developer",
     "location": "Hoofddorp, North Holland, Netherlands",
@@ -375,6 +361,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-13",
+    "last_seen": "2026-08-18"
+  },
+  {
+    "company": "Manychat",
+    "job_title": "Senior Python Engineer, Billing & Accounts",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4452910756",
+    "job_url": "https://www.linkedin.com/jobs/view/4452910756",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-13",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-18",
     "last_seen": "2026-08-18"
   },
   {
@@ -714,17 +714,17 @@
     "last_seen": "2026-08-18"
   },
   {
-    "company": "Robin Radar Systems",
-    "job_title": "DevOps Engineer",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4367192401",
-    "job_url": "https://www.linkedin.com/jobs/view/4367192401",
+    "company": "Manychat",
+    "job_title": "Staff Site Reliability Engineer \u2014 AI Platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4452912734",
+    "job_url": "https://www.linkedin.com/jobs/view/4452912734",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-08-13",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-14",
+    "first_seen": "2026-08-18",
     "last_seen": "2026-08-18"
   },
   {
@@ -798,20 +798,6 @@
     "last_seen": "2026-08-18"
   },
   {
-    "company": "Reddit, Inc.",
-    "job_title": "Machine Learning Systems Engineer, Ads ML Platform",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4442726882",
-    "job_url": "https://www.linkedin.com/jobs/view/4442726882",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-11",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-20",
-    "last_seen": "2026-08-18"
-  },
-  {
     "company": "TomTom",
     "job_title": "Platform Engineer - Kubernetes",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -823,6 +809,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-28",
+    "last_seen": "2026-08-18"
+  },
+  {
+    "company": "Eneco",
+    "job_title": "IoT / DevOps Engineer - Home Energy Management",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4445160354",
+    "job_url": "https://www.linkedin.com/jobs/view/4445160354",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-18",
     "last_seen": "2026-08-18"
   },
   {
@@ -980,20 +980,6 @@
     "last_seen": "2026-08-18"
   },
   {
-    "company": "Searchability\u00ae",
-    "job_title": "Artificial Intelligence Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4454388290",
-    "job_url": "https://www.linkedin.com/jobs/view/4454388290",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-14",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-14",
-    "last_seen": "2026-08-18"
-  },
-  {
     "company": "Huisartsopleiding Erasmus MC",
     "job_title": "AI engineer Digizorg",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1064,6 +1050,20 @@
     "last_seen": "2026-08-18"
   },
   {
+    "company": "Datacation",
+    "job_title": "AI Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4454081124",
+    "job_url": "https://www.linkedin.com/jobs/view/4454081124",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-13",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-08-18"
+  },
+  {
     "company": "Harnham",
     "job_title": "AI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1083,20 +1083,6 @@
     "location": "Baarn, Utrecht, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4451994086",
     "job_url": "https://www.linkedin.com/jobs/view/4451994086",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-12",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-12",
-    "last_seen": "2026-08-18"
-  },
-  {
-    "company": "Haystack People",
-    "job_title": "AI Engineer",
-    "location": "The Randstad, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4452703396",
-    "job_url": "https://www.linkedin.com/jobs/view/4452703396",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-08-12",
@@ -1176,6 +1162,20 @@
     "last_seen": "2026-08-18"
   },
   {
+    "company": "Haystack People",
+    "job_title": "Machine Learning Engineer",
+    "location": "The Randstad, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4454491724",
+    "job_url": "https://www.linkedin.com/jobs/view/4454491724",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-18"
+  },
+  {
     "company": "Priva",
     "job_title": "Embedded Staff Engineer",
     "location": "De Lier, South Holland, Netherlands",
@@ -1209,6 +1209,20 @@
     "location": "De Lier, South Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4455266416",
     "job_url": "https://www.linkedin.com/jobs/view/4455266416",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-17",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-18"
+  },
+  {
+    "company": "Darwin Recruitment",
+    "job_title": "Senior Systems Engineer",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4454242780",
+    "job_url": "https://www.linkedin.com/jobs/view/4454242780",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-08-17",
@@ -1288,20 +1302,6 @@
     "last_seen": "2026-08-18"
   },
   {
-    "company": "Stoneridge",
-    "job_title": "Subsystem Engineer",
-    "location": "Barneveld, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4445229791",
-    "job_url": "https://www.linkedin.com/jobs/view/4445229791",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-18"
-  },
-  {
     "company": "Dash0",
     "job_title": "Staff Product Engineer, Backend (Go, Java)",
     "location": "",
@@ -1313,6 +1313,34 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-10",
+    "last_seen": "2026-08-18"
+  },
+  {
+    "company": "Dow Jones",
+    "job_title": "Staff Software Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4427063534",
+    "job_url": "https://www.linkedin.com/jobs/view/4427063534",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-14",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-08-18"
+  },
+  {
+    "company": "IC Resources",
+    "job_title": "Senior Validation Engineer",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4420900446",
+    "job_url": "https://www.linkedin.com/jobs/view/4420900446",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-14",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-14",
     "last_seen": "2026-08-18"
   },
   {
@@ -1372,20 +1400,6 @@
     "last_seen": "2026-08-18"
   },
   {
-    "company": "Reddit, Inc.",
-    "job_title": "Staff Machine Learning Engineer, ML Efficiency",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4442733633",
-    "job_url": "https://www.linkedin.com/jobs/view/4442733633",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-11",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-20",
-    "last_seen": "2026-08-18"
-  },
-  {
     "company": "SOURCE.ME",
     "job_title": "Platform Engineer",
     "location": "",
@@ -1442,20 +1456,6 @@
     "last_seen": "2026-08-18"
   },
   {
-    "company": "Darwin Recruitment",
-    "job_title": "Senior Systems Engineer",
-    "location": "Delft, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4454242780",
-    "job_url": "https://www.linkedin.com/jobs/view/4454242780",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-08-18"
-  },
-  {
     "company": "GreenFlux",
     "job_title": "Senior Principal Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1468,6 +1468,96 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-17",
     "last_seen": "2026-08-18"
+  },
+  {
+    "company": "Robin Radar Systems",
+    "job_title": "DevOps Engineer",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4367192401",
+    "job_url": "https://www.linkedin.com/jobs/view/4367192401",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-13",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-14",
+    "last_seen": "2026-08-18",
+    "stale": true
+  },
+  {
+    "company": "Reddit, Inc.",
+    "job_title": "Machine Learning Systems Engineer, Ads ML Platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4442726882",
+    "job_url": "https://www.linkedin.com/jobs/view/4442726882",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-11",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-08-18",
+    "stale": true
+  },
+  {
+    "company": "Searchability\u00ae",
+    "job_title": "Artificial Intelligence Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4454388290",
+    "job_url": "https://www.linkedin.com/jobs/view/4454388290",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-14",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-14",
+    "last_seen": "2026-08-18",
+    "stale": true
+  },
+  {
+    "company": "Haystack People",
+    "job_title": "AI Engineer",
+    "location": "The Randstad, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4452703396",
+    "job_url": "https://www.linkedin.com/jobs/view/4452703396",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-08-18",
+    "stale": true
+  },
+  {
+    "company": "Stoneridge",
+    "job_title": "Subsystem Engineer",
+    "location": "Barneveld, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4445229791",
+    "job_url": "https://www.linkedin.com/jobs/view/4445229791",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-18",
+    "stale": true
+  },
+  {
+    "company": "Reddit, Inc.",
+    "job_title": "Staff Machine Learning Engineer, ML Efficiency",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4442733633",
+    "job_url": "https://www.linkedin.com/jobs/view/4442733633",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-11",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-08-18",
+    "stale": true
   },
   {
     "company": "JD.COM",
@@ -1871,21 +1961,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "stale": true
-  },
-  {
-    "company": "Datacation",
-    "job_title": "AI Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4454081124",
-    "job_url": "https://www.linkedin.com/jobs/view/4454081124",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-13",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-13",
     "last_seen": "2026-08-18",
     "stale": true
   },
@@ -3836,21 +3911,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-06",
-    "last_seen": "2026-08-17",
-    "stale": true
-  },
-  {
-    "company": "IC Resources",
-    "job_title": "Senior Validation Engineer",
-    "location": "South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4420900446",
-    "job_url": "https://www.linkedin.com/jobs/view/4420900446",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-14",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-14",
     "last_seen": "2026-08-17",
     "stale": true
   },
