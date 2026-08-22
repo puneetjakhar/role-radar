@@ -1214,20 +1214,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Software Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_050320/Software-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-08-22"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Lead Data Security Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1238,48 +1224,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-07",
-    "last_seen": "2026-08-22"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior .Net Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051023/Senior-Net-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-15",
-    "last_seen": "2026-08-22"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Forward Deployed Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-08-22"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Android Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051547/Senior-Android-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-04",
     "last_seen": "2026-08-22"
   },
   {
@@ -1298,6 +1242,34 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
+    "job_title": "Software Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_050320/Software-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-08-22"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior .Net Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051023/Senior-Net-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-08-22"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Software Developer (Backend)",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1308,6 +1280,34 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-29",
+    "last_seen": "2026-08-22"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Software Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051509/Senior-Software-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-08-22"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Forward Deployed Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-23",
     "last_seen": "2026-08-22"
   },
   {
@@ -1575,6 +1575,20 @@
   },
   {
     "company": "Revolut Netherlands B.V.",
+    "job_title": "Software Engineer (Java)\nOffice: Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 Madrid\nRemote: Cyprus \u00b7 Czech Republic \u00b7 Greece \u00b7 Poland \u00b7 Po",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-java-530d3bfd-bdca-4390-8f8a-bc88ddc1eb51/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-22"
+  },
+  {
+    "company": "Revolut Netherlands B.V.",
     "job_title": "Graduate Programme 2027: Software Engineer (Java)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote: ",
     "location": "Netherlands",
     "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
@@ -1585,20 +1599,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-29",
-    "last_seen": "2026-08-22"
-  },
-  {
-    "company": "Revolut Netherlands B.V.",
-    "job_title": "Software Engineer (Java)\nOffice: Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 Madrid\nRemote: Cyprus \u00b7 Czech Republic \u00b7 France \u00b7 Germany \u00b7 G",
-    "location": "Netherlands",
-    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-java-530d3bfd-bdca-4390-8f8a-bc88ddc1eb51/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-21",
     "last_seen": "2026-08-22"
   },
   {
@@ -1746,20 +1746,6 @@
     "job_title": "Senior Software Engineer, C++",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://job-boards.greenhouse.io/flowtraders",
-    "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-06-24",
-    "description": "Flow Traders is looking for Senior C++ Software Engineers to join our growing team in Amsterdam. Software Engineers at Flow Traders provide us with our competitive edge, equipping Researchers and Traders with the information and capabilities that they need to make sound business decisions. C++ plays a critical role in our event-driven trading systems, which are designed to reliably handle vast amounts of data at ultra-low latencies. As a C++ Engineer, you will build systems used to analyze and trade tens of thousands of products across hundreds of global trading venues every day. Working closely with Technologists, Quantitative Researchers, and Traders, you\u2019ll guide the development of our in-house trading technology and optimize it to achieve market-leading performance and reliability. Our proprietary trading platform includes everything from venue connectivity (feed handlers and ordering gateways) to trading engines to shared platforms that enable us to work quickly and efficiently - we are proud of our open and collaborative culture, so you\u2019ll have plenty of opportunity to find what fits you best. Teamwork is one of our most important firm values, and end users are never more than a short walk away, guaranteeing short feedback loops and immediate insight into the value that your code provides. To foster collaboration and innovation, we maintain shared libraries, encourage code re-use, and continuously evolve our views on application architecture. What you will do: Main technical activities include: For all C++ openings: Lead the development and global rollout of our Core platform used in multiple business/focus groups (Market data, Quantitative research, Pricing, Strategies) Be involved in the development process, which will be a fast-paced iterative process where you deploy your deliverables and validate them yourself and/or together with traders or quants Develop tools/frameworks to deliver capabilities for tuning/develop data-driven systematic pricing and trading strategies Work together with focus group engineers, Quants and Technical traders to refine requirements, collect feedback, and iterate on design and implementation of platform requirements Exchange Connectivity: Write software that communicates with exchanges through their APIs, receiving market data and sending orders over the network in different protocols, such as FIX, Websocket or HTTP requests Ensure quality of software based on a set of testing suites, which you are expected to use, maintain and extend Optimize exchange communication through kernel bypass, optimizing TLS or the connection handling to an exchange Research exchange behavior in detail to align our behavior to that of an exchange Implement these solutions using the provided exchange SDKs in different languages such as C++, Rust, Python, Typescript Trading Strategies: Implement trading algorithms based on requirements provided by traders and quants Acquire and develop the necessary trading knowledge to successfull",
-    "notes": "Dept: Product Development. Via Greenhouse board.",
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-08-22"
-  },
-  {
-    "company": "Flow Traders B.V.",
-    "job_title": "Senior Software Engineer, C++",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://job-boards.greenhouse.io/flowtraders",
     "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7992594",
     "visa_support": null,
     "relocation_support": null,
@@ -1767,6 +1753,20 @@
     "description": "Flow Traders is looking for a Senior C++ Software Engineer to lead the next-generation architecture of the market data and execution platforms that power our fully systematic trading. We don't treat market data as plumbing - for us it's a source of alpha, where feed handling, order book construction, and a deep understanding of exchange microstructure are themselves a competitive edge. We're looking for a senior individual contributor who has lived this philosophy in a proprietary or systematic trading environment and can squeeze every nanosecond out of the path from wire to strategy. As a senior individual contributor, you'll help set the technical direction for the Core Platform that underpins quantitative research, pricing, strategy development, and execution across hundreds of venues - and drive its global rollout across our Market Data, Quant Research, Pricing, and Strategies groups. You'll work in a tight, iterative loop with quants and technical traders, applying deep expertise in modern C++, OS internals, CPU and memory architecture, lock-free concurrency, and low-latency networking to push our systems toward state-of-the-art performance, robustness, and observability. &nbsp; What you will do: Lead the development and global rollout of our Core market data platform used across multiple focus areas (Market data, Research engineering, Pricing, Strategies). Design and implement high\u2011performance components for market data ingestion, normalization, and distribution, as well as its usage for order execution and strategy infrastructure. Develop tools and frameworks that enable quants and technical traders to build, tune, and deploy data\u2011driven systematic pricing and trading strategies. Own the full lifecycle of your components in a fast\u2011paced, iterative environment: deploy, monitor, profile, and optimize your code in production. Work closely with focus group engineers, quants, and technical traders to refine requirements, collect feedback, and iterate on the platform's design and implementation. &nbsp; What you need to succeed: BSc, MSc, or PhD in Computer Science, Mathematics, or a related field. 7+ years of post\u2011graduation professional C++ software development experience. Experience building low\u2011latency market data ingestion, order execution, and algorithmic trading systems (proprietary trading industry preferred). Strong knowledge of algorithms and data structures. Experience in parallel, asynchronous, and multithreaded programming. Demonstrated ability to write clean, reliable, and highly scalable C++ code. Interest in extracting maximum performance from available hardware and software (CPU caches, memory layout, networking, etc.). Ability to communicate effectively with both technical and non\u2011technical colleagues. &nbsp; Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via email, ",
     "notes": "Dept: Product Development. Via Greenhouse board.",
     "first_seen": "2026-06-12",
+    "last_seen": "2026-08-22"
+  },
+  {
+    "company": "Flow Traders B.V.",
+    "job_title": "Senior Software Engineer, C++",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://job-boards.greenhouse.io/flowtraders",
+    "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-06-24",
+    "description": "Flow Traders is looking for Senior C++ Software Engineers to join our growing team in Amsterdam. Software Engineers at Flow Traders provide us with our competitive edge, equipping Researchers and Traders with the information and capabilities that they need to make sound business decisions. C++ plays a critical role in our event-driven trading systems, which are designed to reliably handle vast amounts of data at ultra-low latencies. As a C++ Engineer, you will build systems used to analyze and trade tens of thousands of products across hundreds of global trading venues every day. Working closely with Technologists, Quantitative Researchers, and Traders, you\u2019ll guide the development of our in-house trading technology and optimize it to achieve market-leading performance and reliability. Our proprietary trading platform includes everything from venue connectivity (feed handlers and ordering gateways) to trading engines to shared platforms that enable us to work quickly and efficiently - we are proud of our open and collaborative culture, so you\u2019ll have plenty of opportunity to find what fits you best. Teamwork is one of our most important firm values, and end users are never more than a short walk away, guaranteeing short feedback loops and immediate insight into the value that your code provides. To foster collaboration and innovation, we maintain shared libraries, encourage code re-use, and continuously evolve our views on application architecture. What you will do: Main technical activities include: For all C++ openings: Lead the development and global rollout of our Core platform used in multiple business/focus groups (Market data, Quantitative research, Pricing, Strategies) Be involved in the development process, which will be a fast-paced iterative process where you deploy your deliverables and validate them yourself and/or together with traders or quants Develop tools/frameworks to deliver capabilities for tuning/develop data-driven systematic pricing and trading strategies Work together with focus group engineers, Quants and Technical traders to refine requirements, collect feedback, and iterate on design and implementation of platform requirements Exchange Connectivity: Write software that communicates with exchanges through their APIs, receiving market data and sending orders over the network in different protocols, such as FIX, Websocket or HTTP requests Ensure quality of software based on a set of testing suites, which you are expected to use, maintain and extend Optimize exchange communication through kernel bypass, optimizing TLS or the connection handling to an exchange Research exchange behavior in detail to align our behavior to that of an exchange Implement these solutions using the provided exchange SDKs in different languages such as C++, Rust, Python, Typescript Trading Strategies: Implement trading algorithms based on requirements provided by traders and quants Acquire and develop the necessary trading knowledge to successfull",
+    "notes": "Dept: Product Development. Via Greenhouse board.",
+    "first_seen": "2026-06-24",
     "last_seen": "2026-08-22"
   },
   {
@@ -1865,20 +1865,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-28",
-    "last_seen": "2026-08-22"
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Asset & Wealth Management - AI Engineering - Vice President - London\nLondon\u00b7United Kingdom\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/178498",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-21",
     "last_seen": "2026-08-22"
   },
   {
@@ -1995,20 +1981,6 @@
   },
   {
     "company": "Brunel Nederland B.V.",
-    "job_title": "Project Controls Manager\n\nUsa\n\nProfessional Bachelor\n\n> 10 Years\n\nBrunel is currently searching for a Project Controls M",
-    "location": "Netherlands",
-    "careers_url": "https://www.brunel.net/en-EN/jobs/Netherlands/",
-    "job_url": "https://www.brunel.net/en/jobs/project-controls-manager-cr-253165",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-08-22"
-  },
-  {
-    "company": "Brunel Nederland B.V.",
     "job_title": "Project Controls Manager - Miami\n\nUsa\n\nProfessional Bachelor\n\n> 10 Years\n\n* Guide and direct resolution of project diffi",
     "location": "Netherlands",
     "careers_url": "https://www.brunel.net/en-EN/jobs/Netherlands/",
@@ -2019,6 +1991,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-30",
+    "last_seen": "2026-08-22"
+  },
+  {
+    "company": "Brunel Nederland B.V.",
+    "job_title": "Project Controls Manager\n\nUsa\n\nProfessional Bachelor\n\n> 10 Years\n\nBrunel is currently searching for a Project Controls M",
+    "location": "Netherlands",
+    "careers_url": "https://www.brunel.net/en-EN/jobs/Netherlands/",
+    "job_url": "https://www.brunel.net/en/jobs/project-controls-manager-cr-253165",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-05-28",
     "last_seen": "2026-08-22"
   },
   {
@@ -2433,6 +2419,36 @@
     "last_seen": "2026-08-22"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Android Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051547/Senior-Android-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-08-22",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Asset & Wealth Management - AI Engineering - Vice President - London\nLondon\u00b7United Kingdom\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/178498",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-22",
+    "stale": true
+  },
+  {
     "company": "TomTom International B.V.",
     "job_title": "AI Engineer",
     "location": "Amsterdam, The Netherlands",
@@ -2505,21 +2521,6 @@
     "notes": "Via XHR interception (Playwright).",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-22",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Software Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051509/Senior-Software-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-30",
-    "last_seen": "2026-08-21",
     "stale": true
   },
   {
