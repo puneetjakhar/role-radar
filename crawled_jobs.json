@@ -1325,6 +1325,20 @@
     "last_seen": "2026-08-25"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Software Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051509/Senior-Software-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-08-25"
+  },
+  {
     "company": "Workato Netherlands B.V.",
     "job_title": "Principal Software Engineer, GO & Rust (Engine)",
     "location": "Amsterdam, Netherlands",
@@ -1938,20 +1952,6 @@
     "last_seen": "2026-08-25"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Market Risk Eng, Dallas, Vice President, AI Engineer\nDallas\u00b7United States\n\u00b7Vice President",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/179023",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-25"
-  },
-  {
     "company": "KPMG Staffing B.V.",
     "job_title": "Senior Power Platform &amp; AI Developer",
     "location": "Netherlands",
@@ -2149,10 +2149,10 @@
   },
   {
     "company": "Brunel Nederland B.V.",
-    "job_title": "Mechanical Engineer - Technical Cooling Loop\n\nCanada, Calgary\n\nCA$ 100000 - 140000 per year\n\nAcademic Bachelor\n\n> 10 Yea",
+    "job_title": "ES&H Professional\n\nUsa, Houston\n\nAcademic Bachelor\n\nNot applicable\n\nJob Summary In this position, you will incorporate s",
     "location": "Netherlands",
     "careers_url": "https://www.brunel.net/en-EN/jobs/Netherlands/",
-    "job_url": "https://www.brunel.net/en/jobs/mechanical-engineer-technical-cooling-loop-pr-294812",
+    "job_url": "https://www.brunel.net/en/jobs/esandh-professional-tr-294933",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -2163,10 +2163,10 @@
   },
   {
     "company": "Brunel Nederland B.V.",
-    "job_title": "ES&H Professional\n\nUsa, Houston\n\nAcademic Bachelor\n\nNot applicable\n\nJob Summary In this position, you will incorporate s",
+    "job_title": "Mechanical Engineer - Technical Cooling Loop\n\nCanada, Calgary\n\nCA$ 100000 - 140000 per year\n\nAcademic Bachelor\n\n> 10 Yea",
     "location": "Netherlands",
     "careers_url": "https://www.brunel.net/en-EN/jobs/Netherlands/",
-    "job_url": "https://www.brunel.net/en/jobs/esandh-professional-tr-294933",
+    "job_url": "https://www.brunel.net/en/jobs/mechanical-engineer-technical-cooling-loop-pr-294812",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -2601,6 +2601,21 @@
     "last_seen": "2026-08-25"
   },
   {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Market Risk Eng, Dallas, Vice President, AI Engineer\nDallas\u00b7United States\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/179023",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-25",
+    "stale": true
+  },
+  {
     "company": "Optiver Holding B.V.",
     "job_title": "Software Engineer - Build Platform",
     "location": "Netherlands",
@@ -2687,21 +2702,6 @@
     "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"3+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
     "notes": "Via XHR interception (Playwright).",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-08-25",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Software Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051509/Senior-Software-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-30",
     "last_seen": "2026-08-25",
     "stale": true
   },
