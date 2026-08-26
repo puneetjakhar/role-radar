@@ -295,6 +295,20 @@
   },
   {
     "company": "Databricks",
+    "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://www.databricks.com/company/careers/open-positions?department=Engineering&location=Netherlands%7CAmsterdam%2C%20Netherlands",
+    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8747605002",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-26",
+    "description": "AI Engineer - FDE (Forward Deployed Engineer) Req ID: CSQ427R332 Mission The AI Forward Deployed Engineering (AI FDE) team is a highly specialized customer-facing AI team at Databricks. We deliver professional services engagements to help our customers build and productionize first-of-its-kind AI applications. We work cross-functionally to shape long-term strategic priorities and initiatives alongside engineering, product, and developer relations, as well as support internal subject matter expert (SME) teams. We view our team as an ensemble: we look for individuals with strong, unique specializations to improve the overall strength of the team. This team is the right fit for you if you love working with customers, teammates, and fueling your curiosity for the latest trends in GenAI, LLMOps, and ML more broadly. We welcome remote applicants located near our offices. Preferred locations: Amsterdam, NL Reporting to: Senior Manager - AI FDE, EMEA The impact you will have: Develop cutting-edge GenAI solutions, incorporating the latest techniques from Databricks AI research to solve customer problems Own production rollouts of consumer and internally facing GenAI applications Serve as a trusted technical advisor to customers across a variety of domains Present at conferences such as Data + AI Summit, recognized as a thought leader internally and externally Collaborate cross-functionally with the product and engineering teams to influence priorities and shape the product roadmap&nbsp; What we look for: Experience building GenAI applications, including RAG, multi-agent systems, Text2SQL, fine-tuning, etc., with tools such as HuggingFace, LangChain, and DSPy Expertise in deploying production-grade GenAI applications, including evaluation and optimizations&nbsp; Extensive years of hands-on industry data science experience, leveraging common machine learning and data science tools, i.e. pandas, scikit-learn, PyTorch, etc. Experience building production-grade machine learning deployments on AWS, Azure, or GCP Graduate degree in a quantitative discipline (Computer Science, Engineering, Statistics, Operations Research, etc.) or equivalent practical experience Experience communicating and/or teaching technical concepts to non-technical and technical audiences alike Passion for collaboration, life-long learning, and driving business value through AI [Preferred] Experience using the Databricks Intelligence Platform and Apache Spark\u2122 to process large-scale distributed datasets Willing to travel once every 4-8 weeks to see customers (as needed) About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 \u2014 rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lak",
+    "notes": "Dept: Professional Services Operations. Via Greenhouse board.",
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26"
+  },
+  {
+    "company": "Databricks",
     "job_title": "Engineering Manager - Backend",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://www.databricks.com/company/careers/open-positions?department=Engineering&location=Netherlands%7CAmsterdam%2C%20Netherlands",
@@ -750,7 +764,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-07-01",
-    "description": "We are on a mission to pioneer the world\u2019s next era of play. As we grow across Europe and Latin America, we\u2019re building The Playstack - the technology powering the next generation of sports, gaming, and fan experiences. Join us, and help make it the most widely used platform in the world! From operations, to marketing, to product, we are looking for talented people who will shape how millions of customers play, watch, and connect every day. You will be joining the Core AI tribe within Super's Platform organisation, a team responsible for building the general-purpose infrastructure that enables product and engineering teams to leverage AI capabilities with greater effectiveness. As an AI Platform Engineer , you will design and build the core infrastructure and developer-facing tooling that powers AI and agent development across Super. The infrastructure you build will be used by every engineering and product team, making this one of the most impactful platform roles in the organisation. We are currently growing the team and hiring multiple engineers at the senior and staff track level. What the role involves Design, build, and operate general-purpose AI platform infrastructure \u2014 including MCP gateways, the internal agentic platform, context engineering services, and supporting SDKs and tooling. Build secure, governed data-access and identity layers that serve both human users and autonomous agents, with appropriate access controls, auditing, and observability. Develop developer-facing tooling and paved paths that make it straightforward for product and engineering teams to build, deploy, and observe AI-powered and agentic workflows. Own services end to end: from architecture and implementation through to deployment, monitoring, and on-call operation on a Kubernetes-based cloud platform. Define and codify infrastructure using infrastructure-as-code; improve the reliability, networking, and performance of the platform. Partner with product, security, and infrastructure teams to ensure platform capabilities are safe, compliant, and production-ready. Set engineering standards and mentor others; act as a force multiplier for how AI is adopted across the organisation. What we are looking for 4+ years of software engineering experience building full-stack or backend-heavy product systems. 3+ years of meaningful cloud infrastructure experience, including hands-on work with Kubernetes, infrastructure-as-code, and networking. Credible, practical experience leveraging AI tools \u2014 including agents, SDKs, and coding assistants \u2014 to augment developer productivity and ship software more effectively. Strong fundamentals in distributed systems, API design, security, and operational excellence. A bias towards simplicity, paved paths, and building infrastructure that others can safely build on. Nice to have Experience with one or more of Python, TypeScript, Go, or Rust. Experience building developer platforms, internal tooling, or platform-as-a-product. Familiarity w",
+    "description": "Job Application for AI Platform Engineer at Super Technologies Back to jobs AI Platform Engineer Netherlands Apply We are on a mission to pioneer the world\u2019s next era of play. As we grow across Europe and Latin America, we\u2019re building The Playstack - the technology powering the next generation of sports, gaming, and fan experiences. Join us, and help make it the most widely used platform in the world! From operations, to marketing, to product, we are looking for talented people who will shape how millions of customers play, watch, and connect every day. You will be joining the Core AI tribe within Super's Platform organisation, a team responsible for building the general-purpose infrastructure that enables product and engineering teams to leverage AI capabilities with greater effectiveness. As an AI Platform Engineer , you will design and build the core infrastructure and developer-facing tooling that powers AI and agent development across Super. The infrastructure you build will be used by every engineering and product team, making this one of the most impactful platform roles in the organisation. We are currently growing the team and hiring multiple engineers at the senior and staff track level. What the role involves Design, build, and operate general-purpose AI platform infrastructure \u2014 including MCP gateways, the internal agentic platform, context engineering services, and supporting SDKs and tooling. Build secure, governed data-access and identity layers that serve both human users and autonomous agents, with appropriate access controls, auditing, and observability. Develop developer-facing tooling and paved paths that make it straightforward for product and engineering teams to build, deploy, and observe AI-powered and agentic workflows. Own services end to end: from architecture and implementation through to deployment, monitoring, and on-call operation on a Kubernetes-based cloud platform. Define and codify infrastructure using infrastructure-as-code; improve the reliability, networking, and performance of the platform. Partner with product, security, and infrastructure teams to ensure platform capabilities are safe, compliant, and production-ready. Set engineering standards and mentor others; act as a force multiplier for how AI is adopted across the organisation. What we are looking for 4+ years of software engineering experience building full-stack or backend-heavy product systems. 3+ years of meaningful cloud infrastructure experience, including hands-on work with Kubernetes, infrastructure-as-code, and networking. Credible, practical experience leveraging AI tools \u2014 including agents, SDKs, and coding assistants \u2014 to augment developer productivity and ship software more effectively. Strong fundamentals in distributed systems, API design, security, and operational excellence. A bias towards simplicity, paved paths, and building infrastructure that others can safely build on. Nice to have Experience with one or more of Python, TypeScript, Go, or Rust. Experience building developer platforms, internal tooling, or platform-as-a-product. Familiarity with the Model Context Protocol (MCP), agent orchestration, RAG, or context engineering. Experience designing data-access, identity, or governance layers for AI/agentic systems. Experience operating in a regulated environment. What we offer Medical / Health Insurance Open Annual Leave Employee Assistance Programme Training & Learning Development Additional benefits vary by country and will be shared during the hiring process. About Super We are a global technology group, dedicated to building the future of entertainment and fan-centric experiences. With commercial markets in Brazil, Belgium, Poland, Romania, Greece and Serbia, and a network of offices across Spain, Croatia, Malta, Gibraltar, the Netherlands and the UK, we are a truly international organization. Our purpose at Super has evolved from sports and betting into creating the platform that stretches into the wider world of technology-driven entertainment. With a growing and diverse team of more than 5,000 people, we create immersive, responsible, and personalised experiences for millions of customers worldwide. Shaping the Future of Play Everything we do at Super is rooted in doing what is right: for customers, for each other, and for our long-term vision. Our Culture Manifesto is our North Star. It captures our purpose, mission, and the six core beliefs that shape how we think, make decisions, and act every day. Want to explore our culture in more detail? Visit our careers page: super.xyz/careers Super is committed to the highest standards of compliance, safety, and responsibility. As such, we are active members of the International Betting Integrity Association (IBIA) and the European Gaming & Betting Association (EGBA). At Super, we operate as a high-performing team. We hire and grow talent based on ability and potential, regardless of background and identity because we know diverse perspecti",
     "notes": "Dept: Product & Technology . Via Greenhouse board.",
     "first_seen": "2026-07-08",
     "last_seen": "2026-08-26"
@@ -851,6 +865,19 @@
     "description": "We are on a mission to pioneer the world\u2019s next era of play. As we grow across Europe and Latin America, we\u2019re building The Playstack - the technology powering the next generation of sports, gaming, and fan experiences. Join us, and help make it the most widely used platform in the world! From operations, to marketing, to product, we are looking for talented people who will shape how millions of customers play, watch, and connect every day. Staff Platform Engineer As a Staff Software Engineer / Staff Platform Engineer , you'll join our platform area, where we build the foundations every product team relies on to ship quickly and run safely in production. You'll work alongside a team of strong senior engineers, setting technical direction, raising the reliability bar, and helping the whole team sharpen its skills \u2014 when they hit a wall, they'll escalate to you. What the role involves Reliability &amp; Operational Excellence Make operational processes \u2014 deployments, upgrades, migrations \u2014 routine, safe, and reversible Lead incident response end-to-end, owning postmortems and turning findings into lasting systemic improvements Automate repeated manual work, treating recurring tasks as issues to be resolved rather than accepted Observability Depth Build monitoring and alerting that reflects customer impact, so any engineer can move from \"something broke\" to \"here's why\" in minutes Own the reliability and efficiency roadmap, identifying the biggest gaps and coordinating fixes across teams Technical Leadership &amp; Culture Set technical direction through design reviews, RFCs, and pairing, raising the bar for strong senior engineers Champion rigour and consistency across the platform, ensuring teams understand trade-offs, not just rules Run blameless postmortems that surface causes rather than blame, helping the team learn and improve each cycle What we are looking for Extensive experience in SRE, software, and platform engineering, including operating, debugging, and reasoning about large-scale distributed systems in production Proven track record in incident leadership and reliability work, including running complex incidents, writing postmortems, and delivering systemic changes that stick Hands-on experience with observability stacks (metrics, logs, traces), including tools such as Prometheus/VictoriaMetrics, Loki, Grafana, and OpenTelemetry, alongside distributed tracing Sound judgement to identify when an architecture is unsuitable for a given workload and to define what should replace it Strong software engineering skills, ideally in Go, with deep experience in AWS and Kubernetes A mindset that treats repeated manual work as a problem to solve, with automation as second nature Ability to act as a technical reference for senior engineers and drive change across teams without formal authority, through design rigour and credibility Comfortable operating in ambiguous, high-impact environments, with the ability to plan a year or two ahead for platform",
     "notes": "Dept: Engineering, Data Products. Via Greenhouse board.",
     "first_seen": "2026-07-17",
+    "last_seen": "2026-08-26"
+  },
+  {
+    "company": "Booking.com B.V.",
+    "job_title": "Full Stack Software Engineer I",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://jobs.booking.com/booking/jobs?location=Netherlands&woe=12&regionCode=NL&stretchUnit=MILES&stretch=25&categories=Engineering",
+    "job_url": "https://jobs.booking.com/booking/jobs/14791",
+    "visa_support": null,
+    "relocation_support": true,
+    "date_posted": "2026-08-26",
+    "notes": "Via iCIMS/Jibe API.",
+    "first_seen": "2026-08-26",
     "last_seen": "2026-08-26"
   },
   {
@@ -1911,6 +1938,34 @@
   },
   {
     "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Engineering-L2-Bengaluru-Vice President-Software Engineering\nBengaluru\u00b7India\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/182438",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Engineering-L2-Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/182439",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
     "job_title": "The Core Engineering-Dallas-Vice President- Lead Product Manager\nDallas\u00b7United States\n\u00b7Vice President",
     "location": "Netherlands",
     "careers_url": "https://higher.gs.com/roles",
@@ -2019,20 +2074,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-26"
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "The Core Engineering, New York, Vice President, AI/ML Engineer\nNew York\u00b7United States\n\u00b7Vice President",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/173084",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-04",
     "last_seen": "2026-08-26"
   },
   {
@@ -2491,32 +2532,6 @@
     "last_seen": "2026-08-26"
   },
   {
-    "company": "Rabobank Nederland",
-    "job_title": "Business Resilience Expert/Engineer - Senior Operational Continuity Manager",
-    "location": "Utrecht Croeselaan 18",
-    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
-    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Business-Resilience-Expert-Engineer---Senior-Operational-Continuity-Manager_JR_00142679-1",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-07-21",
-    "last_seen": "2026-08-26"
-  },
-  {
-    "company": "Philips Electronics Nederland B.V.",
-    "job_title": "Software Engineering Excellence Consultant",
-    "location": "Eindhoven",
-    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
-    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/Software-Development-Engineer---Software-Engineering-Excellence-Enablement_577694-2",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-07-16",
-    "last_seen": "2026-08-26"
-  },
-  {
     "company": "Prosus N.V.",
     "job_title": "ML Engineering Intern - LLM Research & Development",
     "location": "Netherlands - Amsterdam",
@@ -2655,6 +2670,49 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-26"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "The Core Engineering, New York, Vice President, AI/ML Engineer\nNew York\u00b7United States\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/173084",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-08-26",
+    "stale": true
+  },
+  {
+    "company": "Rabobank Nederland",
+    "job_title": "Business Resilience Expert/Engineer - Senior Operational Continuity Manager",
+    "location": "Utrecht Croeselaan 18",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Business-Resilience-Expert-Engineer---Senior-Operational-Continuity-Manager_JR_00142679-1",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-08-26",
+    "stale": true
+  },
+  {
+    "company": "Philips Electronics Nederland B.V.",
+    "job_title": "Software Engineering Excellence Consultant",
+    "location": "Eindhoven",
+    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/Software-Development-Engineer---Software-Engineering-Excellence-Enablement_577694-2",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-08-26",
+    "stale": true
   },
   {
     "company": "Optiver Holding B.V.",
