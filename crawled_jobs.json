@@ -1629,6 +1629,20 @@
   },
   {
     "company": "Revolut Netherlands B.V.",
+    "job_title": "Software Engineer (Java) - Credit - Relocation to Poland, Spain, or UAE\nRemote: Poland \u00b7 Spain \u00b7 UAE",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-java-credit-relocation-to-poland-spain-or-uae-3525fff0-8787-4868-9d35-92ea79892a1a/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-09-06"
+  },
+  {
+    "company": "Revolut Netherlands B.V.",
     "job_title": "Lead Software Engineer (Java) - SSO\nRemote: Cyprus \u00b7 France \u00b7 Germany \u00b7 Ireland \u00b7 Portugal \u00b7 Romania \u00b7 Serbia \u00b7 Singapor",
     "location": "Netherlands",
     "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
@@ -1653,20 +1667,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-29",
-    "last_seen": "2026-09-06"
-  },
-  {
-    "company": "Revolut Netherlands B.V.",
-    "job_title": "Software Engineer (Java) - Credit - Relocation to Poland, Spain, or UAE\nRemote: Poland \u00b7 Spain \u00b7 UAE",
-    "location": "Netherlands",
-    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-java-credit-relocation-to-poland-spain-or-uae-3525fff0-8787-4868-9d35-92ea79892a1a/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-23",
     "last_seen": "2026-09-06"
   },
   {
