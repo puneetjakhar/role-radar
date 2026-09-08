@@ -155,20 +155,6 @@
   },
   {
     "company": "Adyen N.V.",
-    "job_title": "Senior Partner Solution Engineer",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
-    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/8132417",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-19",
-    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Senior Partner Solutions Engineer Adyen is looking for a Senior Partner Solutions Engineer with a hands-on track record of working with technologies like APIs and front end development. You can plan and execute complex system integration projects, and your mastery of our technologies enables you to build and maintain deep technical relationships with our most important strategic partners. This role focuses on ensuring our partners can successfully leverage the full potential of the Adyen platform for their customers through expert technical guidance and problem solving, product roadmap alignment, and architectural recommendations. As a Partner Solutions Engineer, you will be a subject matter expert in Adyen\u2019s product offerings down to the API level, enabling you to serve as the primary long-term technical counterpart for our partners' engineering and product management teams. Your goal is to ensure partners architect and implement solutions that deliver the best of Adyen, driving mutual success and innovation. This position requires a blend of technical expertise, strategic thinking, and strong stakeholder management skills to influence both partner implementations and Adyen's internal product development. This role is critical in ensuring Adyen's platform is scalably supportable by our partners and that partner feedback effectively shapes our product evolution. The ideal candidate possesses a strong technical foundation, excellent communication skills, and the ability to build lasting, influential relationships internally and with partners. What You'll Do Utilize software development and programming expertise to help partners create robust, scalable solutions that deliver Adyen\u2019s products to their customers quickly and at high quality. Act as the long-term, trusted technical contact for partners' engineering and product teams, guiding them on Adyen's platform capabilities and integration best practices. Provide ongoing support for technical inquiries, hands-on assistance during the implementation process, and lead troubleshooting efforts to ensure the timely delivery of solutions. Develop a comprehensive understanding of both Adyen's and key partners' product roadmaps. Provide strategic architectural recommendations to ensure partners optimally integrate Adyen's solutions, maximizing value for their end-customer",
-    "notes": "Dept: Payments Partnership. Via Greenhouse board.",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-09-08"
-  },
-  {
-    "company": "Adyen N.V.",
     "job_title": "Senior Platform Engineer - Observability",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
@@ -561,6 +547,20 @@
   },
   {
     "company": "JetBrains N.V.",
+    "job_title": "AI Technical Lead - Developer Tooling",
+    "location": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia",
+    "careers_url": "https://job-boards.eu.greenhouse.io/jetbrains?field_11295787101%5B%5D=25001123101&offices%5B%5D=4029436101",
+    "job_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4901288101",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-06-17",
+    "description": "AI is fundamentally changing how developers write, understand, debug, and maintain software. At JetBrains, we're exploring what an AI-native development experience should look like for C++ developers. We are looking for a senior technical leader to help shape this future by building AI-powered workflows, integrating coding agents into developer tools, and defining how CLion can become a first-class environment for AI-assisted software development. This is a highly hands-on role focused on technical leadership rather than people management. You should expect to spend most of your time prototyping, implementing, and validating AI-powered workflows while helping shape technical direction through hands-on engineering. You'll work at the intersection of developer tools, AI agents, IDE architecture, and product strategy while helping define how software developers work with AI in the future. Example problems you'll work on: How can coding agents become more effective when working with large C++ codebases? How can CLion's debugging, code understanding, and navigation capabilities be integrated into AI-assisted development workflows? How should AI-powered developer experiences be evaluated and benchmarked in real-world development scenarios? What capabilities should AI agents have access to inside a modern IDE? How can we make CLion a better environment for developers who increasingly collaborate with AI tools and agents? In this role, you will: Shape and deliver AI-powered features for CLion and C++ development workflows. Design the architecture for AI integrations, agent tools, and C++-specific AI capabilities. Build practical benchmarks and evaluation frameworks for AI-assisted C++ development scenarios. Prototype and validate new AI workflows, including debugging, code understanding, refactoring, and project navigation. Collaborate with product managers, ML engineers, QA engineers, stakeholders, and senior developers to shape and deliver the roadmap. Work closely with JetBrains AI, ML, and product teams to help define the AI strategy for the C++ ecosystem. Evaluate and prioritize AI initiatives, bringing new ideas and proposals that align with the broader JetBrains AI strategy. Contribute hands-on to technical design, software architecture, and implementation in a large, mature codebase. Help define a technical roadmap for AI agent and tool integrations in C++ development workflows. Build trust and alignment across the C++ Ecosystem, AI, Product, QA, and ML organizations We'd love to talk if you have:&nbsp; Significant software engineering experience as a Staff Engineer, Principal Engineer, Technical Lead, or similar senior technical role. Strong experience with Kotlin, Java, or other JVM technologies, or the ability to quickly become productive in a JVM-based codebase. Experience building AI-powered products, developer tools, coding assistants, agents, or LLM-based workflows. Strong understanding of how modern coding agents operate, including tool c",
+    "notes": "Dept: C/C++ Ecosystem. Via Greenhouse board.",
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-08"
+  },
+  {
+    "company": "JetBrains N.V.",
     "job_title": "Founding ML Engineer (Spectrum)",
     "location": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia",
     "careers_url": "https://job-boards.eu.greenhouse.io/jetbrains?field_11295787101%5B%5D=25001123101&offices%5B%5D=4029436101",
@@ -655,6 +655,20 @@
     "description": "At JetBrains, code is our passion. Ever since we started, back in 2000, we have strived to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers to grow, discover, and create. We just unveiled JetBrains Central,&nbsp; a platform for agent-driven software development that connects tools, agents, and infrastructure. It enables automated AI workflows to run, be monitored, and be managed across teams \u2013 with clear visibility into results, costs, and performance. JetBrains Central provides three core capabilities: Governance and control: Policy enforcement, identity and access management, observability, auditability, and cost attribution for agent-driven work. Some of these functionalities are already available via the JetBrains Central Console . Agent execution infrastructure:&nbsp; Cloud agent runtimes and computation provisioning that allow agents to run reliably across development environments. Agent optimization and context: Shared semantic context across repositories and projects, enabling agents to access relevant knowledge, and task routing to the most appropriate models or tools. Inside the Professional Services department, we are building a team of Forward Deployed Engineers to help our customers adopt AI-native development with JetBrains Central and enable JetBrains consulting partners to transform their customers\u2019 AI-native software development lifecycle. About the role As a Principal Forward Deployed Engineer, you will work directly with early adopter customers to deploy JetBrains Central platform into complex enterprise environments and help them move from experimental AI usage to governed, scalable AI-native development. You will act as a trusted advisor to customer engineering teams and consulting partners, while also mentoring other Forward Deployed Engineers and helping with complex deployments. In this role, you will help establish best practices for enterprise AI adoption and influence how organizations implement AI-driven software development. This role is often a strong fit for engineers who have previously served as Principal or Staff Engineers, Heads of Engineering, CTOs, or Solutions Architects and who enjoy working directly with customers while staying deeply involved with complex technical systems. This role combines consulting, architecture, and hands-on engineering. Your work in the field will directly influence how our platform evolves and how enterprises adopt AI-driven development. You will work directly with the world\u2019s most innovative companies \u2014 our client base includes 420 of the Fortune 500 \u2014 ensuring they maximize the value of their JetBrains investments. What you\u2019ll do Deploy JetBrains Central platform into enterprise development environments, CI/CD systems, and internal developer platforms. Help organizations transition from ad-hoc AI experimentation to governed AI-native development workflows. Implement enterpr",
     "notes": "Dept: Professional Services. Via Greenhouse board.",
     "first_seen": "2026-05-28",
+    "last_seen": "2026-09-08"
+  },
+  {
+    "company": "JetBrains N.V.",
+    "job_title": "Staff/Lead Software Developer (AI Agents & Integrations)",
+    "location": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia",
+    "careers_url": "https://job-boards.eu.greenhouse.io/jetbrains?field_11295787101%5B%5D=25001123101&offices%5B%5D=4029436101",
+    "job_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4970937101",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-08",
+    "description": "AI is fundamentally changing how developers write, understand, debug, and maintain software. At JetBrains, we're exploring what an AI-native development experience should look like for C++ developers. We are looking for a senior technical leader to help shape this future by building AI-powered workflows, integrating coding agents into developer tools, and defining how CLion can become a first-class environment for AI-assisted software development. This is a highly hands-on role focused on technical leadership rather than people management. You should expect to spend most of your time prototyping, implementing, and validating AI-powered workflows while helping shape technical direction through hands-on engineering. You'll work at the intersection of developer tools, AI agents, IDE architecture, and product strategy while helping define how software developers work with AI in the future. Example problems you'll work on: How can coding agents become more effective when working with large C++ codebases? How can CLion's debugging, code understanding, and navigation capabilities be integrated into AI-assisted development workflows? How should AI-powered developer experiences be evaluated and benchmarked in real-world development scenarios? What capabilities should AI agents have access to inside a modern IDE? How can we make CLion a better environment for developers who increasingly collaborate with AI tools and agents? In this role, you will: Shape and deliver AI-powered features for CLion and C++ development workflows. Design the architecture for AI integrations, agent tools, and C++-specific AI capabilities. Build practical benchmarks and evaluation frameworks for AI-assisted C++ development scenarios. Prototype and validate new AI workflows, including debugging, code understanding, refactoring, and project navigation. Collaborate with product managers, ML engineers, QA engineers, stakeholders, and senior developers to shape and deliver the roadmap. Work closely with JetBrains AI, ML, and product teams to help define the AI strategy for the C++ ecosystem. Evaluate and prioritize AI initiatives, bringing new ideas and proposals that align with the broader JetBrains AI strategy. Contribute hands-on to technical design, software architecture, and implementation in a large, mature codebase. Help define a technical roadmap for AI agent and tool integrations in C++ development workflows. Build trust and alignment across the C++ Ecosystem, AI, Product, QA, and ML organizations We'd love to talk if you have:&nbsp; Significant software engineering experience as a Staff Engineer, Principal Engineer, Technical Lead, or similar senior technical role. Strong experience with Kotlin, Java, or other JVM technologies, or the ability to quickly become productive in a JVM-based codebase. Experience building AI-powered products, developer tools, coding assistants, agents, or LLM-based workflows. Strong understanding of how modern coding agents operate, including tool c",
+    "notes": "Dept: C/C++ Ecosystem. Via Greenhouse board.",
+    "first_seen": "2026-09-08",
     "last_seen": "2026-09-08"
   },
   {
@@ -1282,6 +1296,20 @@
     "last_seen": "2026-09-08"
   },
   {
+    "company": "TomTom International B.V.",
+    "job_title": "Platform Engineer - Observability",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/c99537c7-0a5f-4eb9-8230-f2aab8236691/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [\"Observability Platform is responsible for managing the capabilities that help identify the issues within TomTom\\u2019s online products and ensure they are timely fixed to enable best customer experience. We drive improving the quality and effectiveness of the service and aim to enable self-service for our users through system engineering and software development.\\u00a0\\n\\u00a0\\nAs an SRE you will work on addressing reliability, availability, scalability, efficiency for your team and\\u00a0the rest\\u00a0of the company.\"], \"sections\": [{\"title\": \"What you\\u2019ll do: \", \"items\": [{\"text\": \"You will contribute to the architecture, design, standards, and implementation of new and existing observability systems to enhance their reliability, efficiency, and scalability with a high level of autonomy.\"}, {\"text\": \"You will manage existing Observability tools and help customers master them.\"}, {\"text\": \"You will scale systems and increase their reliability in a diverse environment ensuring the mission critical systems meet 99.95 % SLOs.\"}, {\"text\": \"You will participate in an on-call rotation with a sustainable schedule and strong tooling\"}, {\"text\": \"You will be an important part of the Incident Management process and will help improve TomTom\\u2019s MTTR.\"}, {\"text\": \"You will support navigation tooling in the world.\"}]}, {\"title\": \"What you\\u2019ll need: \", \"items\": [{\"text\": \"At least 2 years of experience working in SRE/Platform/Infra organizations with cloud-native infrastructure, including Kubernetes on public cloud platforms and related technologies and tooling for cloud runtime platforms\"}, {\"text\": \"Experience managing a wide scale vendor and/or self-hosted Observability tools responsible for at least several following areas: logs, metrics, traces, black box monitoring and alerting.\"}, {\"text\": \"Proficiency in modern coding/infrastructure related languages such as Python or similar\"}, {\"text\": \"GitOps practices and infrastructure automation, including infrastructure as code. Building tooling around Kubernetes (Helm/Operators/CRDs a plus)\"}, {\"text\": \"Experience with SRE best practices, observability, incident management and SLIs.\"}, {\"text\": \"Experience with Cloud-native architecture, technology, engineering, and operations (CNCF)\"}, {\"text\": \"Understanding of security, privacy, and compliance essentials\"}, {\"text\": \"Strong fundamentals Linux, containers, networking (TCP/IP, DNS, TLS), distributed systems knowledge\"}]}, {\"title\": \"General skills and experience:\", \"items\": [{\"text\": \"Experience building and operating mission critical systems.\"}, {\"text\": \"Product mindset\"}, {\"text\": \"Excellent communication and collaboration skills\"}]}, {\"title\": \"Nice to have: \", \"items\": [{\"text\": \"CI/CD technologies, including source code management (GitHub), pipelines, secrets, artefacts.\"}, {\"text\": \"Experience with OpenTelemetry.\"}, {\"text\": \"BSc in computer engineering or equivalent desirable\"}, {\"text\": \"Customer support experience\"}]}], \"closing",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-09-08"
+  },
+  {
     "company": "Tiqets International B.V.",
     "job_title": "Senior Platform Engineer\n\nFull-time\n\nAmsterdam",
     "location": "Netherlands",
@@ -1421,20 +1449,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Head of Engineering - Data Platforms",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052064/Head-of-Engineering-Data-Platforms",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-09-08"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior .Net Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1445,6 +1459,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-07-15",
+    "last_seen": "2026-09-08"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Lead Data Security Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051119/Lead-Data-Security-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-07",
     "last_seen": "2026-09-08"
   },
   {
@@ -1593,7 +1621,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-07-10",
-    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 57 jobs found Logistics Excellence & Improvement Logistics Specialist Delivery Operations Bachelor / Master 4.238-5.300 Utrecht 4-10 year Help om het wijdvertakte delivery landschap van bol steeds verder te verbeteren Marketing Marketing Marketing Intelligence Analyst Bachelor / Master Utrecht 1-7 year Commerce Project Management Strategic Consultant Delivery Bachelor / Master 5.500-7.000 Utrecht 7-10 year Aanjager van bezorgexcellentie en strategische groei Commerce Buying Category Manager Internationale Boeken Bachelor / Master Utrecht 1-10 year Leest de wereldmarkt als geen ander Finance & Business Support Excellence & Improvement Supply Chain Expert Logistics Bachelor / Master 5.500-7.500 Utrecht 7-10+ year Help 100 miljoen pakketten per jaar op de juiste weg Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Finance & Business Support Excellence & Improvement Supply Chain Expert Availability & Inventory Bachelor / Master 5.500-7.500 Utrecht 7-10+ year Vertaal inkoopcomplexiteit naar de juiste voorraadbeslissingen Marketing Intern Stage Community, Communicatie & AI-productiviteit Bachelor / Master Utrecht Student Ready to help shape learning communities, improve employee experiences, and discover how AI can make work smarter? Marketing Intern Meewerk stagiair Supply Chain Excellence Bachelor / Master Utrecht Student Kan je niet wachten om onSupply Chain Excellence collega\u2019s te ondersteunen bij hun uitdagende projecten? Marketing Marketing Marketing Automation & Channel Optimization Specialist Bachelor / Master 4.800-5.400 Utrecht 4-10 year Bouw mee aan schaalbare, datagedreven partnercommunicatie binnen het grootste retail tech platform van Nederland en Belgi\u00eb. Commerce Commercial Partnering Partnership Growth Specialist Bachelor / Master 4.300-5.500 Utrecht Develop long-term bonds with international e-commerce ecosystems 1 2 3 \u2026 6 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
+    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 56 jobs found Logistics Excellence & Improvement Logistics Specialist Delivery Operations Bachelor / Master 4.238-5.300 Utrecht 4-10 year Help om het wijdvertakte delivery landschap van bol steeds verder te verbeteren Marketing Marketing Marketing Intelligence Analyst Bachelor / Master Utrecht 1-7 year Commerce Project Management Strategic Consultant Delivery Bachelor / Master 5.500-7.000 Utrecht 7-10 year Aanjager van bezorgexcellentie en strategische groei Commerce Buying Category Manager Internationale Boeken Bachelor / Master Utrecht 1-10 year Leest de wereldmarkt als geen ander Finance & Business Support Excellence & Improvement Supply Chain Expert Logistics Bachelor / Master 5.500-7.500 Utrecht 7-10+ year Help 100 miljoen pakketten per jaar op de juiste weg Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Finance & Business Support Excellence & Improvement Supply Chain Expert Availability & Inventory Bachelor / Master 5.500-7.500 Utrecht 7-10+ year Vertaal inkoopcomplexiteit naar de juiste voorraadbeslissingen Marketing Intern Stage Community, Communicatie & AI-productiviteit Bachelor / Master Utrecht Student Ready to help shape learning communities, improve employee experiences, and discover how AI can make work smarter? Marketing Intern Meewerk stagiair Supply Chain Excellence Bachelor / Master Utrecht Student Kan je niet wachten om onSupply Chain Excellence collega\u2019s te ondersteunen bij hun uitdagende projecten? Marketing Marketing Marketing Automation & Channel Optimization Specialist Bachelor / Master 4.800-5.400 Utrecht 4-10 year Bouw mee aan schaalbare, datagedreven partnercommunicatie binnen het grootste retail tech platform van Nederland en Belgi\u00eb. Commerce Commercial Partnering Partnership Growth Specialist Bachelor / Master 4.300-5.500 Utrecht Develop long-term bonds with international e-commerce ecosystems 1 2 3 \u2026 6 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
     "notes": "Dept: Technology. Via Greenhouse board.",
     "first_seen": "2026-07-10",
     "last_seen": "2026-09-08"
@@ -1757,20 +1785,6 @@
     "job_title": "Senior Software Engineer, C++",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://job-boards.greenhouse.io/flowtraders",
-    "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-06-24",
-    "description": "Flow Traders is looking for Senior C++ Software Engineers to join our growing team in Amsterdam. Software Engineers at Flow Traders provide us with our competitive edge, equipping Researchers and Traders with the information and capabilities that they need to make sound business decisions. C++ plays a critical role in our event-driven trading systems, which are designed to reliably handle vast amounts of data at ultra-low latencies. As a C++ Engineer, you will build systems used to analyze and trade tens of thousands of products across hundreds of global trading venues every day. Working closely with Technologists, Quantitative Researchers, and Traders, you\u2019ll guide the development of our in-house trading technology and optimize it to achieve market-leading performance and reliability. Our proprietary trading platform includes everything from venue connectivity (feed handlers and ordering gateways) to trading engines to shared platforms that enable us to work quickly and efficiently - we are proud of our open and collaborative culture, so you\u2019ll have plenty of opportunity to find what fits you best. Teamwork is one of our most important firm values, and end users are never more than a short walk away, guaranteeing short feedback loops and immediate insight into the value that your code provides. To foster collaboration and innovation, we maintain shared libraries, encourage code re-use, and continuously evolve our views on application architecture. What you will do: Main technical activities include: For all C++ openings: Lead the development and global rollout of our Core platform used in multiple business/focus groups (Market data, Quantitative research, Pricing, Strategies) Be involved in the development process, which will be a fast-paced iterative process where you deploy your deliverables and validate them yourself and/or together with traders or quants Develop tools/frameworks to deliver capabilities for tuning/develop data-driven systematic pricing and trading strategies Work together with focus group engineers, Quants and Technical traders to refine requirements, collect feedback, and iterate on design and implementation of platform requirements Exchange Connectivity: Write software that communicates with exchanges through their APIs, receiving market data and sending orders over the network in different protocols, such as FIX, Websocket or HTTP requests Ensure quality of software based on a set of testing suites, which you are expected to use, maintain and extend Optimize exchange communication through kernel bypass, optimizing TLS or the connection handling to an exchange Research exchange behavior in detail to align our behavior to that of an exchange Implement these solutions using the provided exchange SDKs in different languages such as C++, Rust, Python, Typescript Trading Strategies: Implement trading algorithms based on requirements provided by traders and quants Acquire and develop the necessary trading knowledge to successfull",
-    "notes": "Dept: Product Development. Via Greenhouse board.",
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-09-08"
-  },
-  {
-    "company": "Flow Traders B.V.",
-    "job_title": "Senior Software Engineer, C++",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://job-boards.greenhouse.io/flowtraders",
     "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7992594",
     "visa_support": null,
     "relocation_support": null,
@@ -1778,6 +1792,20 @@
     "description": "Flow Traders is looking for a Senior C++ Software Engineer to lead the next-generation architecture of the market data and execution platforms that power our fully systematic trading. We don't treat market data as plumbing - for us it's a source of alpha, where feed handling, order book construction, and a deep understanding of exchange microstructure are themselves a competitive edge. We're looking for a senior individual contributor who has lived this philosophy in a proprietary or systematic trading environment and can squeeze every nanosecond out of the path from wire to strategy. As a senior individual contributor, you'll help set the technical direction for the Core Platform that underpins quantitative research, pricing, strategy development, and execution across hundreds of venues - and drive its global rollout across our Market Data, Quant Research, Pricing, and Strategies groups. You'll work in a tight, iterative loop with quants and technical traders, applying deep expertise in modern C++, OS internals, CPU and memory architecture, lock-free concurrency, and low-latency networking to push our systems toward state-of-the-art performance, robustness, and observability. &nbsp; What you will do: Lead the development and global rollout of our Core market data platform used across multiple focus areas (Market data, Research engineering, Pricing, Strategies). Design and implement high\u2011performance components for market data ingestion, normalization, and distribution, as well as its usage for order execution and strategy infrastructure. Develop tools and frameworks that enable quants and technical traders to build, tune, and deploy data\u2011driven systematic pricing and trading strategies. Own the full lifecycle of your components in a fast\u2011paced, iterative environment: deploy, monitor, profile, and optimize your code in production. Work closely with focus group engineers, quants, and technical traders to refine requirements, collect feedback, and iterate on the platform's design and implementation. &nbsp; What you need to succeed: BSc, MSc, or PhD in Computer Science, Mathematics, or a related field. 7+ years of post\u2011graduation professional C++ software development experience. Experience building low\u2011latency market data ingestion, order execution, and algorithmic trading systems (proprietary trading industry preferred). Strong knowledge of algorithms and data structures. Experience in parallel, asynchronous, and multithreaded programming. Demonstrated ability to write clean, reliable, and highly scalable C++ code. Interest in extracting maximum performance from available hardware and software (CPU caches, memory layout, networking, etc.). Ability to communicate effectively with both technical and non\u2011technical colleagues. &nbsp; Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via email, ",
     "notes": "Dept: Product Development. Via Greenhouse board.",
     "first_seen": "2026-06-12",
+    "last_seen": "2026-09-08"
+  },
+  {
+    "company": "Flow Traders B.V.",
+    "job_title": "Senior Software Engineer, C++",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://job-boards.greenhouse.io/flowtraders",
+    "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-06-24",
+    "description": "Flow Traders is looking for Senior C++ Software Engineers to join our growing team in Amsterdam. Software Engineers at Flow Traders provide us with our competitive edge, equipping Researchers and Traders with the information and capabilities that they need to make sound business decisions. C++ plays a critical role in our event-driven trading systems, which are designed to reliably handle vast amounts of data at ultra-low latencies. As a C++ Engineer, you will build systems used to analyze and trade tens of thousands of products across hundreds of global trading venues every day. Working closely with Technologists, Quantitative Researchers, and Traders, you\u2019ll guide the development of our in-house trading technology and optimize it to achieve market-leading performance and reliability. Our proprietary trading platform includes everything from venue connectivity (feed handlers and ordering gateways) to trading engines to shared platforms that enable us to work quickly and efficiently - we are proud of our open and collaborative culture, so you\u2019ll have plenty of opportunity to find what fits you best. Teamwork is one of our most important firm values, and end users are never more than a short walk away, guaranteeing short feedback loops and immediate insight into the value that your code provides. To foster collaboration and innovation, we maintain shared libraries, encourage code re-use, and continuously evolve our views on application architecture. What you will do: Main technical activities include: For all C++ openings: Lead the development and global rollout of our Core platform used in multiple business/focus groups (Market data, Quantitative research, Pricing, Strategies) Be involved in the development process, which will be a fast-paced iterative process where you deploy your deliverables and validate them yourself and/or together with traders or quants Develop tools/frameworks to deliver capabilities for tuning/develop data-driven systematic pricing and trading strategies Work together with focus group engineers, Quants and Technical traders to refine requirements, collect feedback, and iterate on design and implementation of platform requirements Exchange Connectivity: Write software that communicates with exchanges through their APIs, receiving market data and sending orders over the network in different protocols, such as FIX, Websocket or HTTP requests Ensure quality of software based on a set of testing suites, which you are expected to use, maintain and extend Optimize exchange communication through kernel bypass, optimizing TLS or the connection handling to an exchange Research exchange behavior in detail to align our behavior to that of an exchange Implement these solutions using the provided exchange SDKs in different languages such as C++, Rust, Python, Typescript Trading Strategies: Implement trading algorithms based on requirements provided by traders and quants Acquire and develop the necessary trading knowledge to successfull",
+    "notes": "Dept: Product Development. Via Greenhouse board.",
+    "first_seen": "2026-06-24",
     "last_seen": "2026-09-08"
   },
   {
@@ -2005,20 +2033,6 @@
     "last_seen": "2026-09-08"
   },
   {
-    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
-    "job_title": "DBA / platform engineer\nwerklocatie:\nUtrecht\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nBachelor",
-    "location": "Netherlands",
-    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
-    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/08/dba-platform-engineer/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-25",
-    "last_seen": "2026-09-08"
-  },
-  {
     "company": "Brunel Nederland B.V.",
     "job_title": "Mechanical Engineer - Technical Cooling Loop\n\nCanada, Calgary\n\nCA$ 100000 - 140000 per year\n\nAcademic Bachelor\n\n> 10 Yea",
     "location": "Netherlands",
@@ -2044,20 +2058,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-29",
-    "last_seen": "2026-09-08"
-  },
-  {
-    "company": "Brunel Nederland B.V.",
-    "job_title": "Engineering Lead (Electrical - Power Supply)\n\nQatar\n\nProfessional Bachelor\n\nNot applicable\n\nAccountable for ensuring exe",
-    "location": "Netherlands",
-    "careers_url": "https://www.brunel.net/en-EN/jobs/Netherlands/",
-    "job_url": "https://www.brunel.net/en/jobs/engineering-lead-electrical-power-supply-cr-296126",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-31",
     "last_seen": "2026-09-08"
   },
   {
@@ -2173,20 +2173,6 @@
     "last_seen": "2026-09-08"
   },
   {
-    "company": "Dataiku B.V.",
-    "job_title": "Fullstack Software Engineer - Core",
-    "location": "France, Remote; Germany, Remote; Netherlands, Remote; Spain, Remote; United Kingdom, Remote",
-    "careers_url": "https://job-boards.greenhouse.io/dataiku",
-    "job_url": "https://job-boards.greenhouse.io/dataiku/jobs/5420293004",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2025-10-22",
-    "description": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data platforms, cloud infrastructure, and AI services, Dataiku connects the full enterprise AI stack - empowering organizations to run AI across multi-vendor environments with centralized governance. The world\u2019s leading companies rely on Dataiku to operationalize AI and run it as a true business performance engine delivering measurable value. For more, visit the Dataiku blog , LinkedIn , X , and YouTube . Why Engineering at Dataiku? Dataiku\u2019s on-premise, cloud, or SaaS-deployed platform connects many data science technologies, and our technology stack reflects our commitment to quality and innovation. We integrate the best of data and AI tech, selecting tools that truly enhance our product. From the latest LLMs to our dedication to open source communities, you'll work with a dynamic range of technologies and contribute to the collective knowledge of global tech innovators. You can find out even more about working in Engineering at Dataiku by taking a look here . Here are some useful links so you preview what we do at Dataiku: Dataiku's Key Capabilities ; Dataiku's Github , you can also take a look at the Gallery , a public instance showcasing some example projects (note editing is very limited and will be regularly reset).&nbsp; Our product is called Dataiku DSS which stands for Dataiku Data Science Studio. If you\u2019d like to know more about it, you can watch the demo here or try the free version here . How you\u2019ll make an impact As a Fullstack Engineer, you\u2019ll contribute to building Dataiku DSS core features by joining one of the following themes: Data Preparation : Develop tools for data integration, transformation, and cataloging, as well as Jupyter notebooks, SQL workbenches, and APIs. Add new capabilities for data integration, transformation, and visualization using LLMs Optimize workflows for large-scale datasets and improve database support Strengthen developer tools like Jupyter notebooks and SQL workbenches Tech stack: Java, Python, AngularJS, Angular AI &amp; Machine Learning : Collaborate on next-gen AI features, from statistics and time series forecasting to LLM inference. Build next-generation features like cross-provider LLM APIs or integration with the latest Machine Learning models Collaborate with research teams on innovative machine learning experiments Tech stack: Python, scikit-learn, TensorFlow, PyTorch, Java, Angular, AngularJS Data Consumption:&nbsp; build the experience that makes data accessible and actionable for everyone. Enhance our collaborative Workspaces to organize and explore charts, dashboards, datasets and more Create innovative &nbsp; interfaces &nbsp; that answer business questions and surface relevant insights using LLMs ",
-    "notes": "Dept: Engineering. Via Greenhouse board.",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-09-08"
-  },
-  {
     "company": "Pure Storage Netherlands B.V.",
     "job_title": "Senior Systems Engineer, Enterprise (Netherlands)",
     "location": "Amsterdam, Netherlands",
@@ -2293,19 +2279,6 @@
     "date_posted": null,
     "notes": "Via Workday API.",
     "first_seen": "2026-07-15",
-    "last_seen": "2026-09-08"
-  },
-  {
-    "company": "Rabobank Nederland",
-    "job_title": "Senior Data Engineer",
-    "location": "Utrecht Croeselaan 18",
-    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
-    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Senior-Data-Engineer_JR_00144482-1",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-08-31",
     "last_seen": "2026-09-08"
   },
   {
@@ -2487,17 +2460,91 @@
     "last_seen": "2026-09-08"
   },
   {
+    "company": "Adyen N.V.",
+    "job_title": "Senior Partner Solution Engineer",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
+    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/8132417",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-19",
+    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Senior Partner Solutions Engineer Adyen is looking for a Senior Partner Solutions Engineer with a hands-on track record of working with technologies like APIs and front end development. You can plan and execute complex system integration projects, and your mastery of our technologies enables you to build and maintain deep technical relationships with our most important strategic partners. This role focuses on ensuring our partners can successfully leverage the full potential of the Adyen platform for their customers through expert technical guidance and problem solving, product roadmap alignment, and architectural recommendations. As a Partner Solutions Engineer, you will be a subject matter expert in Adyen\u2019s product offerings down to the API level, enabling you to serve as the primary long-term technical counterpart for our partners' engineering and product management teams. Your goal is to ensure partners architect and implement solutions that deliver the best of Adyen, driving mutual success and innovation. This position requires a blend of technical expertise, strategic thinking, and strong stakeholder management skills to influence both partner implementations and Adyen's internal product development. This role is critical in ensuring Adyen's platform is scalably supportable by our partners and that partner feedback effectively shapes our product evolution. The ideal candidate possesses a strong technical foundation, excellent communication skills, and the ability to build lasting, influential relationships internally and with partners. What You'll Do Utilize software development and programming expertise to help partners create robust, scalable solutions that deliver Adyen\u2019s products to their customers quickly and at high quality. Act as the long-term, trusted technical contact for partners' engineering and product teams, guiding them on Adyen's platform capabilities and integration best practices. Provide ongoing support for technical inquiries, hands-on assistance during the implementation process, and lead troubleshooting efforts to ensure the timely delivery of solutions. Develop a comprehensive understanding of both Adyen's and key partners' product roadmaps. Provide strategic architectural recommendations to ensure partners optimally integrate Adyen's solutions, maximizing value for their end-customer",
+    "notes": "Dept: Payments Partnership. Via Greenhouse board.",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-09-08",
+    "stale": true
+  },
+  {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Lead Data Security Engineer",
+    "job_title": "Head of Engineering - Data Platforms",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051119/Lead-Data-Security-Engineer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052064/Head-of-Engineering-Data-Platforms",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-07",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-08",
+    "stale": true
+  },
+  {
+    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
+    "job_title": "DBA / platform engineer\nwerklocatie:\nUtrecht\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nBachelor",
+    "location": "Netherlands",
+    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
+    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/08/dba-platform-engineer/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-09-08",
+    "stale": true
+  },
+  {
+    "company": "Brunel Nederland B.V.",
+    "job_title": "Engineering Lead (Electrical - Power Supply)\n\nQatar\n\nProfessional Bachelor\n\nNot applicable\n\nAccountable for ensuring exe",
+    "location": "Netherlands",
+    "careers_url": "https://www.brunel.net/en-EN/jobs/Netherlands/",
+    "job_url": "https://www.brunel.net/en/jobs/engineering-lead-electrical-power-supply-cr-296126",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-08",
+    "stale": true
+  },
+  {
+    "company": "Dataiku B.V.",
+    "job_title": "Fullstack Software Engineer - Core",
+    "location": "France, Remote; Germany, Remote; Netherlands, Remote; Spain, Remote; United Kingdom, Remote",
+    "careers_url": "https://job-boards.greenhouse.io/dataiku",
+    "job_url": "https://job-boards.greenhouse.io/dataiku/jobs/5420293004",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2025-10-22",
+    "description": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data platforms, cloud infrastructure, and AI services, Dataiku connects the full enterprise AI stack - empowering organizations to run AI across multi-vendor environments with centralized governance. The world\u2019s leading companies rely on Dataiku to operationalize AI and run it as a true business performance engine delivering measurable value. For more, visit the Dataiku blog , LinkedIn , X , and YouTube . Why Engineering at Dataiku? Dataiku\u2019s on-premise, cloud, or SaaS-deployed platform connects many data science technologies, and our technology stack reflects our commitment to quality and innovation. We integrate the best of data and AI tech, selecting tools that truly enhance our product. From the latest LLMs to our dedication to open source communities, you'll work with a dynamic range of technologies and contribute to the collective knowledge of global tech innovators. You can find out even more about working in Engineering at Dataiku by taking a look here . Here are some useful links so you preview what we do at Dataiku: Dataiku's Key Capabilities ; Dataiku's Github , you can also take a look at the Gallery , a public instance showcasing some example projects (note editing is very limited and will be regularly reset).&nbsp; Our product is called Dataiku DSS which stands for Dataiku Data Science Studio. If you\u2019d like to know more about it, you can watch the demo here or try the free version here . How you\u2019ll make an impact As a Fullstack Engineer, you\u2019ll contribute to building Dataiku DSS core features by joining one of the following themes: Data Preparation : Develop tools for data integration, transformation, and cataloging, as well as Jupyter notebooks, SQL workbenches, and APIs. Add new capabilities for data integration, transformation, and visualization using LLMs Optimize workflows for large-scale datasets and improve database support Strengthen developer tools like Jupyter notebooks and SQL workbenches Tech stack: Java, Python, AngularJS, Angular AI &amp; Machine Learning : Collaborate on next-gen AI features, from statistics and time series forecasting to LLM inference. Build next-generation features like cross-provider LLM APIs or integration with the latest Machine Learning models Collaborate with research teams on innovative machine learning experiments Tech stack: Python, scikit-learn, TensorFlow, PyTorch, Java, Angular, AngularJS Data Consumption:&nbsp; build the experience that makes data accessible and actionable for everyone. Enhance our collaborative Workspaces to organize and explore charts, dashboards, datasets and more Create innovative &nbsp; interfaces &nbsp; that answer business questions and surface relevant insights using LLMs ",
+    "notes": "Dept: Engineering. Via Greenhouse board.",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-09-08",
+    "stale": true
+  },
+  {
+    "company": "Rabobank Nederland",
+    "job_title": "Senior Data Engineer",
+    "location": "Utrecht Croeselaan 18",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Senior-Data-Engineer_JR_00144482-1",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-08-31",
     "last_seen": "2026-09-08",
     "stale": true
   },
@@ -2679,21 +2726,6 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-31",
     "last_seen": "2026-09-08",
-    "stale": true
-  },
-  {
-    "company": "TomTom International B.V.",
-    "job_title": "Platform Engineer - Observability",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/c99537c7-0a5f-4eb9-8230-f2aab8236691/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [\"Observability Platform is responsible for managing the capabilities that help identify the issues within TomTom\\u2019s online products and ensure they are timely fixed to enable best customer experience. We drive improving the quality and effectiveness of the service and aim to enable self-service for our users through system engineering and software development.\\u00a0\\n\\u00a0\\nAs an SRE you will work on addressing reliability, availability, scalability, efficiency for your team and\\u00a0the rest\\u00a0of the company.\"], \"sections\": [{\"title\": \"What you\\u2019ll do: \", \"items\": [{\"text\": \"You will contribute to the architecture, design, standards, and implementation of new and existing observability systems to enhance their reliability, efficiency, and scalability with a high level of autonomy.\"}, {\"text\": \"You will manage existing Observability tools and help customers master them.\"}, {\"text\": \"You will scale systems and increase their reliability in a diverse environment ensuring the mission critical systems meet 99.95 % SLOs.\"}, {\"text\": \"You will participate in an on-call rotation with a sustainable schedule and strong tooling\"}, {\"text\": \"You will be an important part of the Incident Management process and will help improve TomTom\\u2019s MTTR.\"}, {\"text\": \"You will support navigation tooling in the world.\"}]}, {\"title\": \"What you\\u2019ll need: \", \"items\": [{\"text\": \"At least 2 years of experience working in SRE/Platform/Infra organizations with cloud-native infrastructure, including Kubernetes on public cloud platforms and related technologies and tooling for cloud runtime platforms\"}, {\"text\": \"Experience managing a wide scale vendor and/or self-hosted Observability tools responsible for at least several following areas: logs, metrics, traces, black box monitoring and alerting.\"}, {\"text\": \"Proficiency in modern coding/infrastructure related languages such as Python or similar\"}, {\"text\": \"GitOps practices and infrastructure automation, including infrastructure as code. Building tooling around Kubernetes (Helm/Operators/CRDs a plus)\"}, {\"text\": \"Experience with SRE best practices, observability, incident management and SLIs.\"}, {\"text\": \"Experience with Cloud-native architecture, technology, engineering, and operations (CNCF)\"}, {\"text\": \"Understanding of security, privacy, and compliance essentials\"}, {\"text\": \"Strong fundamentals Linux, containers, networking (TCP/IP, DNS, TLS), distributed systems knowledge\"}]}, {\"title\": \"General skills and experience:\", \"items\": [{\"text\": \"Experience building and operating mission critical systems.\"}, {\"text\": \"Product mindset\"}, {\"text\": \"Excellent communication and collaboration skills\"}]}, {\"title\": \"Nice to have: \", \"items\": [{\"text\": \"CI/CD technologies, including source code management (GitHub), pipelines, secrets, artefacts.\"}, {\"text\": \"Experience with OpenTelemetry.\"}, {\"text\": \"BSc in computer engineering or equivalent desirable\"}, {\"text\": \"Customer support experience\"}]}], \"closing",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-09-07",
     "stale": true
   },
   {
