@@ -918,7 +918,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2025-04-17",
-    "description": "We are on a mission to pioneer the world\u2019s next era of play. As we grow across Europe and Latin America, we\u2019re building The Playstack - the technology powering the next generation of sports, gaming, and fan experiences. Join us, and help make it the most widely used platform in the world! From operations, to marketing, to product, we are looking for talented people who will shape how millions of customers play, watch, and connect every day. Super's engineering platform is built on an internal service framework: a set of composable building blocks (service bootstrapping, key-value storage, Kafka streaming, stream processing) with matching Kubernetes operators that provision infrastructure declaratively. Hundreds of production services run on this foundation. As Engineering Manager, Platform Foundation , you will lead and grow the team that owns it \u2014 from 5 engineers to 8+ \u2014 in a people-and-delivery leadership role, partnering with two established tech leads who own technical direction while you own hiring, growth, delivery, and the stakeholder relationships around it. What the role involves Scope of ownership Own the core service framework, including the service runtime, storage and streaming SDKs, and their Kubernetes operators Own the platform CLI and developer-facing tooling ergonomics, including object storage, search, and caching integrations Own out-of-the-box observability, alerting, and autoscaling for every service on the platform Co-own platform uptime and disaster recovery with the Infrastructure/SRE organisation Key responsibilities Hire and grow the team from 5 to 8+ engineers, and establish the seniority mix beneath a strong senior core Partner with two tech leads who own technical direction, owning people, hiring, delivery, and stakeholder alignment without role confusion, and help make the split between them explicit Onboard and settle several recent joiners, and build a growth path for the team's more junior engineers Drive platform reliability and adoption, with success measured by how many teams choose to build on the platform Own the working relationship with the Infrastructure/SRE organisation, including a clear operational ownership boundary for shared infrastructure What we are looking for Track record of growing a backend team through a step change in size, and of developing engineers into tech leads Experience leading platform or infrastructure teams serving internal engineering customers Enough technical grounding to hold credible architecture conversations about distributed systems, streaming (Kafka or similar), key-value stores, and Kubernetes Skill at managing alongside strong tech leads without role confusion, including more than one on the same team Comfort operating in ambiguity, with the ability to help define the shape of the role given we are still early in the process Track record of partnering with SRE/Infra organisations on shared production ownership What we offer Medical / Health Insurance Open Annual Leave ",
+    "description": "Job Application for Engineering Manager at Super Technologies Back to jobs Engineering Manager Netherlands Apply We are on a mission to pioneer the world\u2019s next era of play. As we grow across Europe and Latin America, we\u2019re building The Playstack - the technology powering the next generation of sports, gaming, and fan experiences. Join us, and help make it the most widely used platform in the world! From operations, to marketing, to product, we are looking for talented people who will shape how millions of customers play, watch, and connect every day. Super's engineering platform is built on an internal service framework: a set of composable building blocks (service bootstrapping, key-value storage, Kafka streaming, stream processing) with matching Kubernetes operators that provision infrastructure declaratively. Hundreds of production services run on this foundation. As Engineering Manager, Platform Foundation , you will lead and grow the team that owns it \u2014 from 5 engineers to 8+ \u2014 in a people-and-delivery leadership role, partnering with two established tech leads who own technical direction while you own hiring, growth, delivery, and the stakeholder relationships around it. What the role involves Scope of ownership Own the core service framework, including the service runtime, storage and streaming SDKs, and their Kubernetes operators Own the platform CLI and developer-facing tooling ergonomics, including object storage, search, and caching integrations Own out-of-the-box observability, alerting, and autoscaling for every service on the platform Co-own platform uptime and disaster recovery with the Infrastructure/SRE organisation Key responsibilities Hire and grow the team from 5 to 8+ engineers, and establish the seniority mix beneath a strong senior core Partner with two tech leads who own technical direction, owning people, hiring, delivery, and stakeholder alignment without role confusion, and help make the split between them explicit Onboard and settle several recent joiners, and build a growth path for the team's more junior engineers Drive platform reliability and adoption, with success measured by how many teams choose to build on the platform Own the working relationship with the Infrastructure/SRE organisation, including a clear operational ownership boundary for shared infrastructure What we are looking for Track record of growing a backend team through a step change in size, and of developing engineers into tech leads Experience leading platform or infrastructure teams serving internal engineering customers Enough technical grounding to hold credible architecture conversations about distributed systems, streaming (Kafka or similar), key-value stores, and Kubernetes Skill at managing alongside strong tech leads without role confusion, including more than one on the same team Comfort operating in ambiguity, with the ability to help define the shape of the role given we are still early in the process Track record of partnering with SRE/Infra organisations on shared production ownership What we offer Medical / Health Insurance Open Annual Leave Employee Assistance Programme Training & Learning Development Additional benefits vary by country and will be shared during the hiring process. About Super We are a global technology group, dedicated to building the future of entertainment and fan-centric experiences. With commercial markets in Brazil, Belgium, Poland, Romania, Greece and Serbia, and a network of offices across Spain, Croatia, Malta, Gibraltar, the Netherlands and the UK, we are a truly international organization. Our purpose at Super has evolved from sports and betting into creating the platform that stretches into the wider world of technology-driven entertainment. With a growing and diverse team of more than 5,000 people, we create immersive, responsible, and personalised experiences for millions of customers worldwide. Shaping the Future of Play Everything we do at Super is rooted in doing what is right: for customers, for each other, and for our long-term vision. Our Culture Manifesto is our North Star. It captures our purpose, mission, and the six core beliefs that shape how we think, make decisions, and act every day. Want to explore our culture in more detail? Visit our careers page: super.xyz/careers Super is committed to the highest standards of compliance, safety, and responsibility. As such, we are active members of the International Betting Integrity Association (IBIA) and the European Gaming & Betting Association (EGBA). At Super, we operate as a high-performing team. We hire and grow talent based on ability and potential, regardless of background and identity because we know diverse perspectives, drive better performance. Create a Job Alert Interested in building your career at Super Technologies? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Email * Phone C",
     "notes": "Dept: Engineering, Data. Via Greenhouse board.",
     "first_seen": "2026-08-04",
     "last_seen": "2026-09-10"
@@ -1883,16 +1883,16 @@
   },
   {
     "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Global Banking & Markets, FICC Software Engineer, Vice President, Hong Kong\nHong Kong\n\u00b7Vice President",
+    "job_title": "Global Banking Markets - Software Engineer - Equities Data Platform Engineering - London - Vice President\nLondon\u00b7United ",
     "location": "Netherlands",
     "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/177051",
+    "job_url": "https://higher.gs.com/roles/180703",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-10",
+    "first_seen": "2026-08-03",
     "last_seen": "2026-09-10"
   },
   {
@@ -1963,6 +1963,34 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-11",
+    "last_seen": "2026-09-10"
+  },
+  {
+    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
+    "job_title": "DBA / platform engineer\nwerklocatie:\nUtrecht\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nBachelor",
+    "location": "Netherlands",
+    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
+    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/08/dba-platform-engineer/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-09-10"
+  },
+  {
+    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
+    "job_title": "Senior Business Developer Military Land & Amphibious Operations\nwerklocatie:\nThe Hague\nwerkenopafstand:\nHybrid\nopleiding",
+    "location": "Netherlands",
+    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
+    "job_url": "https://www.tno.nl/en/careers/vacancies/@20055/senior-business-developer-militaire-land/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-22",
     "last_seen": "2026-09-10"
   },
   {
@@ -2420,6 +2448,21 @@
     "last_seen": "2026-09-10"
   },
   {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Global Banking & Markets, FICC Software Engineer, Vice President, Hong Kong\nHong Kong\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/177051",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "stale": true
+  },
+  {
     "company": "Takeaway.com Group B.V.",
     "job_title": "Head of Engineering - Data Platforms",
     "location": "Netherlands",
@@ -2446,36 +2489,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-06-04",
-    "last_seen": "2026-09-10",
-    "stale": true
-  },
-  {
-    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
-    "job_title": "DBA / platform engineer\nwerklocatie:\nUtrecht\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nBachelor",
-    "location": "Netherlands",
-    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
-    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/08/dba-platform-engineer/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-25",
-    "last_seen": "2026-09-10",
-    "stale": true
-  },
-  {
-    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
-    "job_title": "Senior Business Developer Military Land & Amphibious Operations\nwerklocatie:\nThe Hague\nwerkenopafstand:\nHybrid\nopleiding",
-    "location": "Netherlands",
-    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
-    "job_url": "https://www.tno.nl/en/careers/vacancies/@20055/senior-business-developer-militaire-land/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-22",
     "last_seen": "2026-09-10",
     "stale": true
   },
