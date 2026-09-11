@@ -36,7 +36,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-06-24",
-    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Global Partner Engineering Manager, Payments Adyen is seeking a Global Manager for the Payments Partner Engineering team. This role requires a leader with a solid technical foundation, deep operational instincts, and a proven ability to build and develop high-performing teams. You will be responsible for the health of Adyen's payment partner integrations \u2014 spanning global card schemes, banks, wallets, local and alternative payment methods \u2014 and for evolving the Partner Engineering function to reduce reactive operational work to proactively addressing partner integration health. As the leader of the global Payments Partner Eng team, you will manage a team of Payment Partner Engineers who serve as Adyen's technical point of accountability for payment partner integrations. Your goal will be to drive integration reliability and performance across Adyen's global payment method portfolio, while building the tools, processes, and capabilities that allow the team to scale. This position requires a blend of leadership, technical and payments domain depth, strategic thinking, and the ability to influence both internal stakeholders and external payment partners. This role is critical in ensuring Adyen's payment partner integrations meet the reliability and performance standards that underpin our merchant value proposition. The ideal candidate has led technical, cross-functional teams in complex environments, understands payments and API-based integrations, and brings a proactive, high-agency mindset to building a team and function from a still-early stage. What you'll do: Lead, mentor, and coach a global team of Payment Partner Engineers, fostering their growth and ensuring they are effective technical counterparts to Adyen's payment partners. Define and drive a vision for the Paments Partner Engineering function \u2014 shifting the team's center of gravity from reactive issue management toward proactive partnership, performance ownership, and operational leverage. Own integration health across Adyen's payment method portfolio, with accountability for reliability, performance (auth rates, settlement, disputes, etc.), and the team\u2019s service model to internal and external stakeholders. Drive strategic architectural recommendations to ensure partners optimally integrate with Adyen, maximizing value for Adyen\u2019s merchant customers. P",
+    "description": "page_title Global Partner Engineering Manager, Payments Amsterdam Apply This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Global Partner Engineering Manager, Payments Adyen is seeking a Global Manager for the Payments Partner Engineering team. This role requires a leader with a solid technical foundation, deep operational instincts, and a proven ability to build and develop high-performing teams. You will be responsible for the health of Adyen's payment partner integrations \u2014 spanning global card schemes, banks, wallets, local and alternative payment methods \u2014 and for evolving the Partner Engineering function to reduce reactive operational work to proactively addressing partner integration health. As the leader of the global Payments Partner Eng team, you will manage a team of Payment Partner Engineers who serve as Adyen's technical point of accountability for payment partner integrations. Your goal will be to drive integration reliability and performance across Adyen's global payment method portfolio, while building the tools, processes, and capabilities that allow the team to scale. This position requires a blend of leadership, technical and payments domain depth, strategic thinking, and the ability to influence both internal stakeholders and external payment partners. This role is critical in ensuring Adyen's payment partner integrations meet the reliability and performance standards that underpin our merchant value proposition. The ideal candidate has led technical, cross-functional teams in complex environments, understands payments and API-based integrations, and brings a proactive, high-agency mindset to building a team and function from a still-early stage. What you'll do: Lead, mentor, and coach a global team of Payment Partner Engineers, fostering their growth and ensuring they are effective technical counterparts to Adyen's payment partners. Define and drive a vision for the Paments Partner Engineering function \u2014 shifting the team's center of gravity from reactive issue management toward proactive partnership, performance ownership, and operational leverage. Own integration health across Adyen's payment method portfolio, with accountability for reliability, performance (auth rates, settlement, disputes, etc.), and the team\u2019s service model to internal and external stakeholders. Drive strategic architectural recommendations to ensure partners optimally integrate with Adyen, maximizing value for Adyen\u2019s merchant customers. Partner cross-functionally with Product, Engineering, Commercial, Compliance, and Reliability teams to represent the \"technical voice of the partner\" and drive action on integration issues and improvements. Establish and maintain direct relationships with payment partners at a senior level, including participation in QBRs, joint business planning, and escalation management. Use Adyen's planning processes to secure resources, define team structure, and drive alignment with senior stakeholders on prioritization and team direction. Who you are: 8+ years of direct line management experience of technical or hybrid technical/operational teams, with a track record of hiring, developing, and managing senior individual contributors. Solid understanding of payments \u2014 familiarity with card schemes, payment method integrations, and API-based payment flows is strongly preferred. Comfortable with technical concepts at the API and systems level; able to engage credibly with engineers and technical partners without needing to be a hands-on software engineer. Proven experience driving operational improvements \u2014 identifying the root causes of recurring issues and building sustainable processes, tooling, or automation to address them. Strong communicator and cross-functional influencer; comfortable navigating ambiguity and driving alignment across Product, Engineering, Commercial, and external partner teams. Ability to build and maintain trusted relationships with senior internal stakeholders and payment partner counterparts. High agency: you don't wait for direction. You identify opportunities, form a point of view, get alignment, and move. Our Diversity, Equity and Inclusion commitments Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voice",
     "notes": "Dept: Payments Partnership. Via Greenhouse board.",
     "first_seen": "2026-06-26",
     "last_seen": "2026-09-11"
@@ -165,6 +165,20 @@
     "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Sitting at the intersection of Data Engineering, Backend Engineering, and Systems Engineering, Data Platform Engineers at Adyen build the foundational layer of tooling and processes for our on-premise Big Data Platforms. These tools support 10s of products, 100s of developers, and 1000s of daily jobs that add to Adyen\u2019s strong portfolio of capabilities. You\u2019ll collaborate with data engineers and ML scientists and engineers to build and roll-out these tools. Along with DataOps Engineers, you\u2019ll develop and operate multiple big data platforms, of which the biggest is 500+ nodes, with 25k+ CPU cores, 240+ TBs of RAM, and 23+ PBs of storage capacity, running tens of thousands of spark jobs a day. Your Focus Areas We are currently expanding our platform capabilities. Depending on your expertise, your immediate focus will be driving one of these two key ecosystems: The OLAP Ecosystem: Scaling and optimizing our real-time analytical powerhouses (Druid, FastAPI, Java, Kafka). The Data Engineering Ecosystem: Designing and building data contracts, validation frameworks, optimization tooling, and robust Kafka ingestion pipelines. What You\u2019ll Do You will balance building innovative new tools from scratch with relentlessly improving our existing infrastructure. This role is a perfect fit if you are passionate about: Scale: Developing and maintaining high-performance, distributed big data platforms. Distributed Systems: Working deeply with various flavors of databases, filesystems, and compute engines. Data Quality &amp; Discoverability: Building tools that enhance metadata collection, data lineage, and platform-wide data quality. CI/CD &amp; Infrastructure: Optimizing continuous release/deployment environments within a large-scale private cloud system. Streaming: Developing stream processing applications and frameworks to reduce time-to-insight for analysts and data scientists. Who You Are Python or Java Expert: 8+ years of experience with object-oriented programming. Collaborative Enabler: A strong communicator who thrives on building bridges between the teams you enable (analysts, data scientists) and the teams you depend on (infrastructure, security). Distributed Systems Architect: Proven experience developing and maintaining: Distributed compute/data systems (e.g., Spark, Trino, Druid, ClickHouse). Real-time and batch pip",
     "notes": "Dept: Development. Via Greenhouse board.",
     "first_seen": "2026-06-11",
+    "last_seen": "2026-09-11"
+  },
+  {
+    "company": "Adyen N.V.",
+    "job_title": "Senior Forward Deployed Engineer",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
+    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/8002425",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-06-19",
+    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Senior Forward Deployed Engineer Adyen\u2019s Business Enablement Engineering Team is looking for a Senior Forward Deployed Engineer who has a deep passion for AI and Automation. They will work on improving how teams work using their day to day productivity tooling by applying AI and automation where it has a huge effect and value. You will be the primary driver of internal teams adopting and taking full advantage of our productivity tooling landscape. Operating as a highly technical expert, specialized, engineer, you will work with and dive deep into non-technical functions such as Legal, Support, and Operations to understand their operational toil, architect the right solutions, to reduce manual work in key business workflows, with the goal of speeding up the teams overall day to day work.&nbsp; This isn't just about coding, it's about deeply understanding our internal team's most complex problems, leading the end-to-end technical delivery of innovative AI solutions, and empowering these teams to operate faster and smarter. You will be a hands-on engineer, shaping technical strategy and ensuring successful outcomes from initial concept to handover while increasing overall adoption of our tooling ecosystem. What you will do You build robust and resilient systems where maintenance is lower or non-existent. You build on top of our existing internal ecosystem or stakeholder tooling to accelerate teams productivity and user experience.&nbsp; You create long-term high-quality documentation and runbooks. You hand ownership back to the function/team before moving on to your next project. You identify repeated patterns of stakeholder issues or asks that feed back into Business Enablements Tooling roadmap. Automate complex internal processes using Google Vertex AI, Google\u2019s Agent Development Kit (ADK), and software engineering to provide solutions(e.g., automated support agents, intelligent documentation retrieval, contract review automations). Be ",
+    "notes": "Dept: Infrastructure. Via Greenhouse board.",
+    "first_seen": "2026-06-20",
     "last_seen": "2026-09-11"
   },
   {
@@ -337,7 +351,7 @@
   },
   {
     "company": "Adyen N.V.",
-    "job_title": "Staff Java Engineer - Merchant Fraud Prevention",
+    "job_title": "Staff Software Engineer - Merchant Fraud Prevention",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
     "job_url": "https://job-boards.greenhouse.io/adyen/jobs/8003083",
@@ -442,7 +456,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2025-09-03",
-    "description": "P-1321 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers \u2014 and customer obsessed \u2014 we leap at every opportunity to solve technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started. Unlike traditional enterprise software, we design and build modern SaaS products that bring delight to all of the stakeholders: decision makers, admins, and end users. As a full stack software engineer, you will work closely with your team and product management to bring that delight through great user experience. Below are some example teams you can join: SQL Analytics Console: SQL Analytics is a new product that provides Databricks customers with a first-class experience for performing Business Intelligence (BI) and running SQL workloads directly on the data lake. Our team builds the \"console\" for SQL Analytics, where users configure, manage and monitor their SQL usage. Jobs and Workflows: This team powers all asynchronous customer workloads for Databricks which is the majority of Databricks usage. As this usage has rapidly increased - we've rearchitected the system for increased stability and scalability. We are also building exciting new features for more advanced workflows and customer observability. This team has a mix of frontend, backend, and reliability engineering skills &amp; projects. Developer Ecosystem: The developer ecosystem team focuses on the development experience and best practices using tools outside of the workspace. We own and govern the core developer ecosystem open-source components: the SDK, the CLI, and Terraform. Apps Developer Experience -&nbsp; This is the team that makes developing Apps on Databricks delightful and easy. We have built an SDK and services for app developers -&nbsp; AppKit . Our Codegen sub-team builds tools that enable agents to generate Apps that work first time. We're currently. working on an MCP server for Cursor/Claude Code and are working on Skills. What we look for: BS/MS/PhD in Computer Science, or a related field 5+ years of experience with HTML, CSS, and JavaScript Passion for user experience and design and a deep understanding of front-end architecture Comfortable working towards a multi-year vision with incremental deliverables Experience with modern JavaScript frameworks (e.g., React, Angular, VueJs/Ember) Strong familiarity with server-side web technologies (eg: Nodejs, Java, Python, Scala, C#, C++,Go, JVM) Good knowledge of SQL Experience with cloud technologies, e.g. AWS, Azure, GCP, Docker, Kubernetes Experience in architecting, developing, dep",
+    "description": "Senior Software Engineer - Fullstack - Databricks Skip to main content Login Why Databricks Discover For App Developers For Executives For Startups Lakehouse Architecture Databricks AI Research Customers Customer Stories Partners Partner Overview Explore the Databricks partner ecosystem Partner Spotlight Featured partner announcements Partner Program Explore benefits, tiers and how to become a partner Cloud Providers Databricks on AWS, Azure and GCP Find a Partner Discover Databricks partners for your needs Partner Solutions Find custom industry and migration solutions Product Databricks Data + AI Platform Platform Overview A unified platform for data, analytics and AI Data Engineering ETL and orchestration for batch and streaming data AI Assistant Agentic coworker for business users Data Warehousing Serverless data warehouse for SQL analytics Application Development Quickly build secure data and AI apps Database Postgres for data apps and AI agents Artificial Intelligence Build and deploy ML and GenAI applications Governance Unified governance for all data, analytics and AI assets Business Intelligence Intelligent analytics for real-world data Security Open agentic SIEM built for the AI era Customer Data Platform Agentic CDP embedded in Databricks Sharing Open data sharing for data, analytics and AI Integrations and Data Marketplace Open marketplace for data, analytics and AI IDE Integrations Build on the Lakehouse in your favorite IDE Partner Connect Discover and integrate with the Databricks ecosystem Pricing Databricks Pricing Explore product pricing, DBUs and more Cost Calculator Estimate your compute costs on any cloud Open Source Open Source Technologies Learn more about the innovations behind the platform Solutions Databricks for Industries Telecommunications Media and Entertainment Financial Services Public Sector Healthcare & Life Sciences Retail Manufacturing See All Industries Cross Industry Solutions AI Agents AI Governance Cybersecurity Marketing Migration & Deployment Data Migration Forward Deployed Engineering Solution Accelerators Explore Accelerators Move faster toward outcomes that matter Resources Learning Training Discover curriculum tailored to your needs Databricks Academy Sign in to the Databricks learning platform Certification Gain recognition and differentiation Free Edition Learn professional Data and AI tools for free University Alliance Want to teach Databricks? See how. Events Data + AI Summit Data + AI World Tour AI Days Event Calendar Blog and Podcasts Databricks Blog Explore news, product announcements, and more AI Blog Explore our AI research and engineering work Data Brew Podcast Let\u2019s talk data! Get Help Customer Support Documentation Community Dive Deep Resource Center Demo Center Architecture Center About Company Who We Are Our Team Databricks Ventures Contact Us Careers Working at Databricks Open Jobs Press Awards and Recognition Newsroom Security and Trust Security and Trust Ready to get started? Get a Demo Login Contact Us Try Databricks Overview Culture Benefits Diversity Engineering Research Students & new grads Back to search results Senior Software Engineer - Fullstack Amsterdam, Netherlands Apply now P-1321 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers \u2014 and customer obsessed \u2014 we leap at every opportunity to solve technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started. Unlike traditional enterprise software, we design and build modern SaaS products that bring delight to all of the stakeholders: decision makers, admins, and end users. As a full stack software engineer, you will work closely with your team and product management to bring that delight through great user experience. Below are some example teams you can join: SQL Analytics Console: SQL Analytics is a new product that provides Databricks customers with a first-class experience for performing Business Intelligence (BI) and running SQL workloads directly on the data lake. Our team builds the \"console\" for SQL Analytics, where users configure, manage and monitor their SQL usage. Jobs and Workflows: This team powers all asynchronous customer workloads for Databricks which is the majority of Databricks usage. As this usage has rapidly increased - we've rearchitected the system for increased stability and scalability. We are also building exciting new features for more advanced workflows and customer observability. This team has a mix of frontend, backend, and reliability engineering skills & projects. Developer Ecosystem: The develop",
     "notes": "Dept: Engineering - Pipeline. Via Greenhouse board.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-09-11"
@@ -1285,6 +1299,20 @@
     "last_seen": "2026-09-11"
   },
   {
+    "company": "TomTom International B.V.",
+    "job_title": "Platform Engineer - Observability",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/c99537c7-0a5f-4eb9-8230-f2aab8236691/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [\"Observability Platform is responsible for managing the capabilities that help identify the issues within TomTom\\u2019s online products and ensure they are timely fixed to enable best customer experience. We drive improving the quality and effectiveness of the service and aim to enable self-service for our users through system engineering and software development.\\u00a0\\n\\u00a0\\nAs an SRE you will work on addressing reliability, availability, scalability, efficiency for your team and\\u00a0the rest\\u00a0of the company.\"], \"sections\": [{\"title\": \"What you\\u2019ll do: \", \"items\": [{\"text\": \"You will contribute to the architecture, design, standards, and implementation of new and existing observability systems to enhance their reliability, efficiency, and scalability with a high level of autonomy.\"}, {\"text\": \"You will manage existing Observability tools and help customers master them.\"}, {\"text\": \"You will scale systems and increase their reliability in a diverse environment ensuring the mission critical systems meet 99.95 % SLOs.\"}, {\"text\": \"You will participate in an on-call rotation with a sustainable schedule and strong tooling\"}, {\"text\": \"You will be an important part of the Incident Management process and will help improve TomTom\\u2019s MTTR.\"}, {\"text\": \"You will support navigation tooling in the world.\"}]}, {\"title\": \"What you\\u2019ll need: \", \"items\": [{\"text\": \"At least 2 years of experience working in SRE/Platform/Infra organizations with cloud-native infrastructure, including Kubernetes on public cloud platforms and related technologies and tooling for cloud runtime platforms\"}, {\"text\": \"Experience managing a wide scale vendor and/or self-hosted Observability tools responsible for at least several following areas: logs, metrics, traces, black box monitoring and alerting.\"}, {\"text\": \"Proficiency in modern coding/infrastructure related languages such as Python or similar\"}, {\"text\": \"GitOps practices and infrastructure automation, including infrastructure as code. Building tooling around Kubernetes (Helm/Operators/CRDs a plus)\"}, {\"text\": \"Experience with SRE best practices, observability, incident management and SLIs.\"}, {\"text\": \"Experience with Cloud-native architecture, technology, engineering, and operations (CNCF)\"}, {\"text\": \"Understanding of security, privacy, and compliance essentials\"}, {\"text\": \"Strong fundamentals Linux, containers, networking (TCP/IP, DNS, TLS), distributed systems knowledge\"}]}, {\"title\": \"General skills and experience:\", \"items\": [{\"text\": \"Experience building and operating mission critical systems.\"}, {\"text\": \"Product mindset\"}, {\"text\": \"Excellent communication and collaboration skills\"}]}, {\"title\": \"Nice to have: \", \"items\": [{\"text\": \"CI/CD technologies, including source code management (GitHub), pipelines, secrets, artefacts.\"}, {\"text\": \"Experience with OpenTelemetry.\"}, {\"text\": \"BSc in computer engineering or equivalent desirable\"}, {\"text\": \"Customer support experience\"}]}], \"closing",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-09-11"
+  },
+  {
     "company": "Tiqets International B.V.",
     "job_title": "Senior Platform Engineer\n\nFull-time\n\nAmsterdam",
     "location": "Netherlands",
@@ -1350,20 +1378,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-09-11"
-  },
-  {
-    "company": "BUX Technology B.V.",
-    "job_title": "Staff Software Engineer (Java)",
-    "location": "Netherlands",
-    "careers_url": "https://careers.getbux.com/jobs",
-    "job_url": "https://careers.getbux.com/jobs/6906933-staff-software-engineer-java",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-28",
     "last_seen": "2026-09-11"
   },
   {
@@ -1448,6 +1462,20 @@
     "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software. * Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. An overview of this role As a Senior Professional Services Engineer at GitLab, you'll work directly with customers to deliver installation, migration, training, and advisory services that help them adopt GitLab successfully. You'll lead engagements from single-node Omnibus installs to large reference architectures built with infrastructure as code (IaC) and configuration as code. You'll also guide migrations from other systems to GitLab SaaS or self-managed deployments, and help customers make practical decisions that improve reliability, security, and day-to-day workflows. In this role, you'll work closely with customers and GitLab's product and engineering teams to drive customer success and share feedback that improves GitLab and how we deliver services. You'll manage multiple projects at once, mentor other Professional Services Engineers, and help streamline how we deliver consistent outcomes in a remote, largely asynchronous environment. Some examples of our projects: Designing and delivering GitLab installations and reference architectures using tools like Terraform and Ansible across major cloud providers Leading migrations to GitLab SaaS or self-managed GitLab, and turning customer feedback into actionable improvements for GitLab's product and engineering teams What you\u2019ll do Deliver GitLab Professional Services engagements, including installation, migration, training, and advisory services across GitLab capabilities. Plan and execute deployments ranging from single-node Omnibus installations to large reference architectures using Infrastructure as Code and Configuration as Code practices. Lead migrati",
     "notes": "Dept: Consulting Delivery. Via Greenhouse board.",
     "first_seen": "2026-08-26",
+    "last_seen": "2026-09-11"
+  },
+  {
+    "company": "Zscaler Netherlands B.V.",
+    "job_title": "Sr. Staff Network Engineer",
+    "location": "Remote - Netherlands, Netherlands",
+    "careers_url": "https://job-boards.greenhouse.io/zscaler",
+    "job_url": "https://job-boards.greenhouse.io/zscaler/jobs/5177368007",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-07-09",
+    "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange\u2122\ufe0f platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge, the SASE-based Zero Trust Exchange is the world\u2019s largest in-line cloud security platform. We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world\u2019s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler. Role We are looking for a Sr. Staff Network Engineer to join our team. This is a fully remote capacity in the Netherlands role, reporting to the Manager, Network Engineering in the Cloud Ops - Network Engineering department. This position involves a mix of infrastructure, project management, and network engineering responsibilities.&nbsp; You will join our global team as an integral member, taking ownership of the deployment, monitoring, and ongoing operation of our worldwide production infrastructure across diverse data center locations. We are seeking a high-trust collaborator with a background in large-scale enterprise or telecom networks who approaches challenges with a growth mindset and a commitment to achieving engineering excellence. This role requires active participation in our technical on-call rotations, which include support during weekends and holidays to ensure continuous service reliability. What you\u2019ll do (Role Expectations) Plan, implement, document, and manage data center cabinet layouts and power density to ensure maximum efficiency and reliability Oversee server capacity deployments, integrating infrastructure with automation to support global scalability and optimized resource utilization Collaborate with project management and engineering development teams to align on service requirements and hardware integration Work across functional teams to ensure the seamless synchronization of hardware, software, and network resources Provide expert technical guidance and troubleshooting support for complex data center infrastructure-related issues, including participating in weekend and holiday on-call rotations Who You Are (Success Profile) You thrive in ambiguity. You're comfortable building the path as you walk it. You thrive in a dynamic environment, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful. You act like an owner. Your passion for the ",
+    "notes": "Dept: Cloud Ops. Via Greenhouse board.",
+    "first_seen": "2026-07-09",
     "last_seen": "2026-09-11"
   },
   {
@@ -1897,16 +1925,16 @@
   },
   {
     "company": "N.V. Eneco",
-    "job_title": "Senior Full-Stack Data Engineer\nEneco - Rotterdam\nData & AI\nBekijk vacature",
+    "job_title": "Senior Machine Learning Engineer\nEneco - Rotterdam\nData & AI\nBekijk vacature",
     "location": "Netherlands",
     "careers_url": "https://www.werkenbijeneco.nl/vacatures",
-    "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-full-stack-data-engineer-3191",
+    "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-machine-learning-engineer-3198",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-26",
+    "first_seen": "2026-08-31",
     "last_seen": "2026-09-11"
   },
   {
@@ -1938,6 +1966,20 @@
     "last_seen": "2026-09-11"
   },
   {
+    "company": "Kadaster",
+    "job_title": "Security Architect (Senior Business Architect)",
+    "location": "Netherlands",
+    "careers_url": "https://werkenbijhetkadaster.nl/vacatures/",
+    "job_url": "https://werkenbijhetkadaster.nl/vacatures/security-architect-senior-business-architect-1255564/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-09-11"
+  },
+  {
     "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
     "job_title": "DBA / platform engineer\nwerklocatie:\nUtrecht\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nBachelor",
     "location": "Netherlands",
@@ -1949,6 +1991,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-25",
+    "last_seen": "2026-09-11"
+  },
+  {
+    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
+    "job_title": "Senior Business Developer Military Land & Amphibious Operations\nwerklocatie:\nThe Hague\nwerkenopafstand:\nHybrid\nopleiding",
+    "location": "Netherlands",
+    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
+    "job_url": "https://www.tno.nl/en/careers/vacancies/@20055/senior-business-developer-militaire-land/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-22",
     "last_seen": "2026-09-11"
   },
   {
@@ -2295,16 +2351,30 @@
   },
   {
     "company": "Prosus N.V.",
-    "job_title": "Senior Backend Engineer Go, AI platform",
+    "job_title": "Senior Backend Engineer, AI Platform (Toqan)",
     "location": "Netherlands - Amsterdam",
     "careers_url": "https://jobs.eu.lever.co/prosus",
     "job_url": "https://jobs.eu.lever.co/prosus/4dc37fd1-7eb1-41ad-9c3f-4f3ca320fdb5",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
-    "description": "Who We Are Prosus is a leading global technology company, based in Europe. With ecosystems that span India, Latin America, Europe and beyond, Prosus is the power behind some of the world\u2019s leading lifestyle ecommerce brands. We own and invest in a portfolio of 100+ companies in sectors such as in food delivery, quick commerce, fintech and experiences, all of which help billions of people buy, sell and transact every day. We connect these leading brands through our AI-driven ecosystem that leverages data to deliver seamless, personali\u200bsed lifestyle-ecommerce experiences for buyers and sellers, reshaping exceptional service for our two billion customers. Few companies can connect people and problem-solve across borders, as we do. Through our Ventures business we also invest in companies which inspire and support the Prosus ecosystem. We search for new opportunities at the leading edge of AI and ecommerce, the digital AI workforce and in frontier technologies, such as robotics, drones and synbio. The Opportunity Toqan is Prosus's internal AI platform \u2014 the infrastructure and tooling layer that powers AI-driven products across the entire group. The team is expanding into new product territory, and this role sits at the centre of that expansion: owning the design and delivery of MCP (Model Context Protocol) server infrastructure and multi-model LLM integrations in production. This isn't a maintenance role. You'll be building something new \u2014 MCP server infrastructure that doesn't yet exist \u2014 and connecting it to a growing roster of AI and LLM providers so that Toqan products can move fast without sacrificing reliability. The measure of success is concrete: MCP servers live and serving at least two new Toqan products within twelve months, alongside measurable gains in backend service reliability and deployment frequency. The Toqan platform serves the whole Prosus portfolio, which means the backend systems you build here have reach far beyond a single product team. You'll join a 10-person engineering team in Amsterdam and work closely with product and platform colleagues to ship end-to-end \u2014 at pace, without compromising quality. Who You Are You are a senior backend engineer who has moved well past following patterns and into setting them. You're comfortable owning architectural decisions on novel infrastructure \u2014 the kind where the right answer isn't obvious and the stakes are real. You think in systems, spot failure modes early, and hold a high bar for production quality without letting perfect block good. The 80/20 mindset comes naturally: you know when to go deep and when to ship. You've likely come from a startup or high-velocity environment where shipping fast wasn't a culture slogan \u2014 it was survival. You know how to cut scope without cutting corners, move from zero to production without a safety net, and iterate quickly on systems that are still finding their shape. You're genuinely curious about the AI and LLM space \u2014 not as a trend to track, bu",
+    "description": "Who We Are Prosus is a leading global technology company, based in Europe. With ecosystems that span India, Latin America, Europe and beyond, Prosus is the power behind some of the world\u2019s leading lifestyle ecommerce brands. We own and invest in a portfolio of 100+ companies in sectors such as in food delivery, quick commerce, fintech and experiences, all of which help billions of people buy, sell and transact every day. We connect these leading brands through our AI-driven ecosystem that leverages data to deliver seamless, personali sed lifestyle-ecommerce experiences for buyers and sellers, reshaping exceptional service for our two billion customers. Few companies can connect people and problem-solve across borders, as we do. Through our Ventures business we also invest in companies which inspire and support the Prosus ecosystem. We search for new opportunities at the leading edge of AI and ecommerce, the digital AI workforce and in frontier technologies, such as robotics, drones and synbio. The Opportunity Toqan is Prosus's internal AI platform \u2014 the infrastructure and tooling layer that powers agentic AI-driven products across the entire group.We are building secure, configurable agent runtimes that can operate reliably at scale across different products, channels and use cases.. You\u2019ll work where distributed systems meet applied AI: orchestrating models and tools, enabling agents to perform long-running work, and turning rapidly evolving AI capabilities into dependable platform primitives. The challenges span asynchronous workflows, isolated execution, extensible integrations, reliability, observability and cost control. The Toqan platform serves the whole Prosus portfolio and other connected businesses, which means the backend systems you build here have reach far beyond a single team. You'll join a 12-person engineering team in Amsterdam and work closely with product, platform and AI colleagues to ship end-to-end \u2014 at pace, without compromising quality. Who You Are You are a senior backend engineer who has moved well past following patterns and into setting them. You're comfortable owning architectural decisions on novel infrastructure \u2014 the kind where the right answer isn't obvious and the stakes are real. You think in systems, spot failure modes early, and hold a high bar for production quality without letting perfect block good. The 80/20 mindset comes naturally: you know when to go deep and when to ship. You've likely come from a startup or high-velocity environment where shipping fast wasn't a culture slogan \u2014 it was survival. You know how to cut scope without cutting corners, move from zero to production without a safety net, and iterate quickly on systems that are still finding their shape. You're genuinely curious about the AI and LLM space \u2014 not as a trend to track, but as a domain where you've already done hands-on integration work and want to go further. AI tools aren't an afterthought in how you work \u2014 you use them daily, wheth",
     "notes": "Via Lever API.",
     "first_seen": "2026-06-01",
+    "last_seen": "2026-09-11"
+  },
+  {
+    "company": "Prosus N.V.",
+    "job_title": "Senior Backend Engineer, Toqi (AI Life Assistant)",
+    "location": "Netherlands - Amsterdam",
+    "careers_url": "https://jobs.eu.lever.co/prosus",
+    "job_url": "https://jobs.eu.lever.co/prosus/23ec51bf-a9ff-42d2-b525-dbb20914a714",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "Who We Are You've ordered from Just Eat Takeaway. You've bought and sold on OLX. You've paid with PayU. That's Prosus, a leading global technology technology company, based in Europe, powering the world's leading lifestyle brands and connecting two billion people across India, Latin America, Europe and beyond. We own and invest in 100+ companies across food delivery, quick commerce, fintech and experiences, tied together by an AI-driven ecosystem that delivers seamless, personalised experiences at a scale few companies can match. We've built one of the world's largest agentic workforces. 60,000+ AI agents automating complex workflows and creating the equivalent of 1,000 full-time employees in organisational capacity. Our people don't just use AI. They design it, deploy it, and push what it can do. Through our Ventures business, we're backing the next frontier: AI and commerce, the digital AI workforce, and emerging technologies like robotics, drones and synthetic biology. Context Toqi is an AI assistant platform with ~150k users and rapid growth. The system is a monorepo: React Native (Expo) mobile app, Go API gateway, Python AI agent, Postgres + Redis, deployed on GCP Cloud Run via Terraform. The Role As a Senior Backend Engineer you own services end to end \u2014 design, implementation, deployment, monitoring and the pager. Anything that changes an API contract, a database schema or a cost profile gets a short design note circulated before the code is written. Judgement calls on data modelling, failure modes and where to spend the latency budget sit with you rather than being escalated by default. Seniority here is measured in what the rest of the team can rely on. You review backend pull requests with the same care you expect on your own, leave the codebase more legible than you found it, and raise trade-offs early \u2014 where a product request would cost more in reliability, inference spend or long-term maintenance than it returns, we want that argued rather than absorbed quietly. Primary Responsibility \u2014 API Gateway (Go) \u2022 Design, build and maintain REST and WebSocket endpoints serving the mobile app and WhatsApp surface \u2022 Own domain models, repository interfaces, and database migrations \u2022 Add new handlers and services as product features require \u2022 Define and version shared API contracts (protobuf) consumed by the client \u2022 Maintain authentication, authorisation and session handling \u2022 Enforce rate limits, quotas and abuse protection \u2022 Instrument services: structured logging, metrics, tracing and useful alerts \u2022 Keep linters, formatting, and tests passing Secondary Responsibility \u2014 AI Agent Services (Python) \u2022 Extend the agent runtime: tool calling, orchestration, and third-party or portfolio API integrations \u2022 Manage prompt and model configuration, versioning, and evaluation harnesses \u2022 Control inference latency and cost through caching, batching, model routing and token budgets \u2022 Build and maintain the memory and context layer on Postgres and Redis \u2022",
+    "notes": "Via Lever API.",
+    "first_seen": "2026-09-11",
     "last_seen": "2026-09-11"
   },
   {
@@ -2406,6 +2476,36 @@
     "last_seen": "2026-09-11"
   },
   {
+    "company": "BUX Technology B.V.",
+    "job_title": "Staff Software Engineer (Java)",
+    "location": "Netherlands",
+    "careers_url": "https://careers.getbux.com/jobs",
+    "job_url": "https://careers.getbux.com/jobs/6906933-staff-software-engineer-java",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-09-11",
+    "stale": true
+  },
+  {
+    "company": "N.V. Eneco",
+    "job_title": "Senior Full-Stack Data Engineer\nEneco - Rotterdam\nData & AI\nBekijk vacature",
+    "location": "Netherlands",
+    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
+    "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-full-stack-data-engineer-3191",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-09-11",
+    "stale": true
+  },
+  {
     "company": "Adyen N.V.",
     "job_title": "Senior EPM Solution Architect (Supply Chain)",
     "location": "Amsterdam, Netherlands",
@@ -2480,36 +2580,6 @@
     "stale": true
   },
   {
-    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
-    "job_title": "Senior Business Developer Military Land & Amphibious Operations\nwerklocatie:\nThe Hague\nwerkenopafstand:\nHybrid\nopleiding",
-    "location": "Netherlands",
-    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
-    "job_url": "https://www.tno.nl/en/careers/vacancies/@20055/senior-business-developer-militaire-land/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-22",
-    "last_seen": "2026-09-10",
-    "stale": true
-  },
-  {
-    "company": "TomTom International B.V.",
-    "job_title": "Platform Engineer - Observability",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/c99537c7-0a5f-4eb9-8230-f2aab8236691/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [\"Observability Platform is responsible for managing the capabilities that help identify the issues within TomTom\\u2019s online products and ensure they are timely fixed to enable best customer experience. We drive improving the quality and effectiveness of the service and aim to enable self-service for our users through system engineering and software development.\\u00a0\\n\\u00a0\\nAs an SRE you will work on addressing reliability, availability, scalability, efficiency for your team and\\u00a0the rest\\u00a0of the company.\"], \"sections\": [{\"title\": \"What you\\u2019ll do: \", \"items\": [{\"text\": \"You will contribute to the architecture, design, standards, and implementation of new and existing observability systems to enhance their reliability, efficiency, and scalability with a high level of autonomy.\"}, {\"text\": \"You will manage existing Observability tools and help customers master them.\"}, {\"text\": \"You will scale systems and increase their reliability in a diverse environment ensuring the mission critical systems meet 99.95 % SLOs.\"}, {\"text\": \"You will participate in an on-call rotation with a sustainable schedule and strong tooling\"}, {\"text\": \"You will be an important part of the Incident Management process and will help improve TomTom\\u2019s MTTR.\"}, {\"text\": \"You will support navigation tooling in the world.\"}]}, {\"title\": \"What you\\u2019ll need: \", \"items\": [{\"text\": \"At least 2 years of experience working in SRE/Platform/Infra organizations with cloud-native infrastructure, including Kubernetes on public cloud platforms and related technologies and tooling for cloud runtime platforms\"}, {\"text\": \"Experience managing a wide scale vendor and/or self-hosted Observability tools responsible for at least several following areas: logs, metrics, traces, black box monitoring and alerting.\"}, {\"text\": \"Proficiency in modern coding/infrastructure related languages such as Python or similar\"}, {\"text\": \"GitOps practices and infrastructure automation, including infrastructure as code. Building tooling around Kubernetes (Helm/Operators/CRDs a plus)\"}, {\"text\": \"Experience with SRE best practices, observability, incident management and SLIs.\"}, {\"text\": \"Experience with Cloud-native architecture, technology, engineering, and operations (CNCF)\"}, {\"text\": \"Understanding of security, privacy, and compliance essentials\"}, {\"text\": \"Strong fundamentals Linux, containers, networking (TCP/IP, DNS, TLS), distributed systems knowledge\"}]}, {\"title\": \"General skills and experience:\", \"items\": [{\"text\": \"Experience building and operating mission critical systems.\"}, {\"text\": \"Product mindset\"}, {\"text\": \"Excellent communication and collaboration skills\"}]}, {\"title\": \"Nice to have: \", \"items\": [{\"text\": \"CI/CD technologies, including source code management (GitHub), pipelines, secrets, artefacts.\"}, {\"text\": \"Experience with OpenTelemetry.\"}, {\"text\": \"BSc in computer engineering or equivalent desirable\"}, {\"text\": \"Customer support experience\"}]}], \"closing",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-09-10",
-    "stale": true
-  },
-  {
     "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
     "job_title": "Global Banking Markets - Software Engineer - Equities Data Platform Engineering - London - Vice President\nLondon\u00b7United ",
     "location": "Netherlands",
@@ -2521,21 +2591,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-03",
-    "last_seen": "2026-09-10",
-    "stale": true
-  },
-  {
-    "company": "Kadaster",
-    "job_title": "Security Architect (Senior Business Architect)",
-    "location": "Netherlands",
-    "careers_url": "https://werkenbijhetkadaster.nl/vacatures/",
-    "job_url": "https://werkenbijhetkadaster.nl/vacatures/security-architect-senior-business-architect-1255564/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-11",
     "last_seen": "2026-09-10",
     "stale": true
   },
@@ -2658,21 +2713,6 @@
     "stale": true
   },
   {
-    "company": "Zscaler Netherlands B.V.",
-    "job_title": "Sr. Staff Network Engineer",
-    "location": "Remote - Netherlands, Netherlands",
-    "careers_url": "https://job-boards.greenhouse.io/zscaler",
-    "job_url": "https://job-boards.greenhouse.io/zscaler/jobs/5177368007",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-07-09",
-    "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange\u2122\ufe0f platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge, the SASE-based Zero Trust Exchange is the world\u2019s largest in-line cloud security platform. We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world\u2019s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler. Role We are looking for a Sr. Staff Network Engineer to join our team. This is a fully remote capacity in the Netherlands role, reporting to the Manager, Network Engineering in the Cloud Ops - Network Engineering department. This position involves a mix of infrastructure, project management, and network engineering responsibilities.&nbsp; You will join our global team as an integral member, taking ownership of the deployment, monitoring, and ongoing operation of our worldwide production infrastructure across diverse data center locations. We are seeking a high-trust collaborator with a background in large-scale enterprise or telecom networks who approaches challenges with a growth mindset and a commitment to achieving engineering excellence. This role requires active participation in our technical on-call rotations, which include support during weekends and holidays to ensure continuous service reliability. What you\u2019ll do (Role Expectations) Plan, implement, document, and manage data center cabinet layouts and power density to ensure maximum efficiency and reliability Oversee server capacity deployments, integrating infrastructure with automation to support global scalability and optimized resource utilization Collaborate with project management and engineering development teams to align on service requirements and hardware integration Work across functional teams to ensure the seamless synchronization of hardware, software, and network resources Provide expert technical guidance and troubleshooting support for complex data center infrastructure-related issues, including participating in weekend and holiday on-call rotations Who You Are (Success Profile) You thrive in ambiguity. You're comfortable building the path as you walk it. You thrive in a dynamic environment, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful. You act like an owner. Your passion for the ",
-    "notes": "Dept: Cloud Ops. Via Greenhouse board.",
-    "first_seen": "2026-07-09",
-    "last_seen": "2026-09-09",
-    "stale": true
-  },
-  {
     "company": "N.V. Eneco",
     "job_title": "Machine Learning Engineer - Energy Management\nEneco - Rotterdam\nTech, Data & AI\nBekijk vacature",
     "location": "Netherlands",
@@ -2728,21 +2768,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
-    "stale": true
-  },
-  {
-    "company": "N.V. Eneco",
-    "job_title": "Senior Machine Learning Engineer\nEneco - Rotterdam\nData & AI\nBekijk vacature",
-    "location": "Netherlands",
-    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
-    "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-machine-learning-engineer-3198",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-31",
     "last_seen": "2026-09-09",
     "stale": true
   },
@@ -3071,21 +3096,6 @@
     "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"3+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
     "notes": "Via XHR interception (Playwright).",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-09-07",
-    "stale": true
-  },
-  {
-    "company": "Adyen N.V.",
-    "job_title": "Senior Forward Deployed Engineer",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
-    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/8002425",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-06-19",
-    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Senior Forward Deployed Engineer Adyen\u2019s Business Enablement Engineering Team is looking for a Senior Forward Deployed Engineer who has a deep passion for AI and Automation. They will work on improving how teams work using their day to day productivity tooling by applying AI and automation where it has a huge effect and value. You will be the primary driver of internal teams adopting and taking full advantage of our productivity tooling landscape. Operating as a highly technical expert, specialized, engineer, you will work with and dive deep into non-technical functions such as Legal, Support, and Operations to understand their operational toil, architect the right solutions, to reduce manual work in key business workflows, with the goal of speeding up the teams overall day to day work.&nbsp; This isn't just about coding, it's about deeply understanding our internal team's most complex problems, leading the end-to-end technical delivery of innovative AI solutions, and empowering these teams to operate faster and smarter. You will be a hands-on engineer, shaping technical strategy and ensuring successful outcomes from initial concept to handover while increasing overall adoption of our tooling ecosystem. What you will do You build robust and resilient systems where maintenance is lower or non-existent. You build on top of our existing internal ecosystem or stakeholder tooling to accelerate teams productivity and user experience.&nbsp; You create long-term high-quality documentation and runbooks. You hand ownership back to the function/team before moving on to your next project. You identify repeated patterns of stakeholder issues or asks that feed back into Business Enablements Tooling roadmap. Automate complex internal processes using Google Vertex AI, Google\u2019s Agent Development Kit (ADK), and software engineering to provide solutions(e.g., automated support agents, intelligent documentation retrieval, contract review automations). Be ",
-    "notes": "Dept: Infrastructure. Via Greenhouse board.",
-    "first_seen": "2026-06-20",
     "last_seen": "2026-09-07",
     "stale": true
   },
