@@ -700,6 +700,20 @@
     "last_seen": "2026-09-14"
   },
   {
+    "company": "Bank Nederlandse Gemeenten",
+    "job_title": "DevOps Engineer Java",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4464505888",
+    "job_url": "https://www.linkedin.com/jobs/view/4464505888",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-10",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14"
+  },
+  {
     "company": "123inkt.nl",
     "job_title": "Kubernetes Engineer",
     "location": "Nederhorst den Berg, North Holland, Netherlands",
@@ -851,20 +865,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-09-14"
-  },
-  {
-    "company": "Empiric",
-    "job_title": "DevOps Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467081540",
-    "job_url": "https://www.linkedin.com/jobs/view/4467081540",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-14",
     "last_seen": "2026-09-14"
   },
   {
@@ -1260,20 +1260,6 @@
     "last_seen": "2026-09-14"
   },
   {
-    "company": "Flexport",
-    "job_title": "Staff Software Engineer: Platform SRE",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4460025118",
-    "job_url": "https://www.linkedin.com/jobs/view/4460025118",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-11",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-09-14"
-  },
-  {
     "company": "Storio group",
     "job_title": "Principal iOS Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1400,6 +1386,20 @@
     "last_seen": "2026-09-14"
   },
   {
+    "company": "BlockTech",
+    "job_title": "Senior Software Engineer | Data Infrastructure | Rust",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4438195985",
+    "job_url": "https://www.linkedin.com/jobs/view/4438195985",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-09",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-09-14"
+  },
+  {
     "company": "NAVARA",
     "job_title": "Senior Software Engineer Eindhoven",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -1498,17 +1498,17 @@
     "last_seen": "2026-09-14"
   },
   {
-    "company": "Intralox",
-    "job_title": "Sensing and Vision Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4418132786",
-    "job_url": "https://www.linkedin.com/jobs/view/4418132786",
+    "company": "Harnham",
+    "job_title": "Senior AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4463508668",
+    "job_url": "https://www.linkedin.com/jobs/view/4463508668",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "nan",
+    "date_posted": "2026-09-08",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-17",
+    "first_seen": "2026-09-08",
     "last_seen": "2026-09-14"
   },
   {
@@ -1538,6 +1538,51 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-14",
     "last_seen": "2026-09-14"
+  },
+  {
+    "company": "Empiric",
+    "job_title": "DevOps Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467081540",
+    "job_url": "https://www.linkedin.com/jobs/view/4467081540",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "stale": true
+  },
+  {
+    "company": "Flexport",
+    "job_title": "Staff Software Engineer: Platform SRE",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4460025118",
+    "job_url": "https://www.linkedin.com/jobs/view/4460025118",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-11",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-14",
+    "stale": true
+  },
+  {
+    "company": "Intralox",
+    "job_title": "Sensing and Vision Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4418132786",
+    "job_url": "https://www.linkedin.com/jobs/view/4418132786",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-09-14",
+    "stale": true
   },
   {
     "company": "RubyDeveloper.nl",
@@ -1716,36 +1761,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-14",
-    "stale": true
-  },
-  {
-    "company": "BlockTech",
-    "job_title": "Senior Software Engineer | Data Infrastructure | Rust",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4438195985",
-    "job_url": "https://www.linkedin.com/jobs/view/4438195985",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-09",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-09-14",
-    "stale": true
-  },
-  {
-    "company": "Harnham",
-    "job_title": "Senior AI Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4463508668",
-    "job_url": "https://www.linkedin.com/jobs/view/4463508668",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-08",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-08",
     "last_seen": "2026-09-14",
     "stale": true
   },
