@@ -926,7 +926,7 @@
   {
     "company": "Sogeti",
     "job_title": "AI Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
+    "location": "Rotterdam, South Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4467060669",
     "job_url": "https://www.linkedin.com/jobs/view/4467060669",
     "visa_support": null,
@@ -1260,6 +1260,20 @@
     "last_seen": "2026-09-15"
   },
   {
+    "company": "Jobster",
+    "job_title": "Lead Engineer - Applitech",
+    "location": "Beverwijk, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4466102287",
+    "job_url": "https://www.linkedin.com/jobs/view/4466102287",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-14",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-15"
+  },
+  {
     "company": "Suitsupply",
     "job_title": "Principal Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1299,6 +1313,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-02",
+    "last_seen": "2026-09-15"
+  },
+  {
+    "company": "Loop Earplugs",
+    "job_title": "Senior Backend Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4454116729",
+    "job_url": "https://www.linkedin.com/jobs/view/4454116729",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-11",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-20",
     "last_seen": "2026-09-15"
   },
   {
@@ -1355,20 +1383,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-19",
-    "last_seen": "2026-09-15"
-  },
-  {
-    "company": "Loop Earplugs",
-    "job_title": "Senior Backend Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4463910406",
-    "job_url": "https://www.linkedin.com/jobs/view/4463910406",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-10",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-10",
     "last_seen": "2026-09-15"
   },
   {
@@ -1442,17 +1456,17 @@
     "last_seen": "2026-09-15"
   },
   {
-    "company": "BlockTech",
-    "job_title": "Senior Software Engineer | Data Infrastructure | Rust",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4438195985",
-    "job_url": "https://www.linkedin.com/jobs/view/4438195985",
+    "company": "NAVARA",
+    "job_title": "Senior Software Engineer Eindhoven",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4463030943",
+    "job_url": "https://www.linkedin.com/jobs/view/4463030943",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-09",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-08",
+    "first_seen": "2026-09-09",
     "last_seen": "2026-09-15"
   },
   {
@@ -1540,20 +1554,6 @@
     "last_seen": "2026-09-15"
   },
   {
-    "company": "Jobster",
-    "job_title": "Lead Engineer - Applitech",
-    "location": "Beverwijk, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4466102287",
-    "job_url": "https://www.linkedin.com/jobs/view/4466102287",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-09-15"
-  },
-  {
     "company": "Doghouse Recruitment",
     "job_title": "Software Engineer",
     "location": "Utrecht, Netherlands",
@@ -1566,6 +1566,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-15",
     "last_seen": "2026-09-15"
+  },
+  {
+    "company": "Loop Earplugs",
+    "job_title": "Senior Backend Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4463910406",
+    "job_url": "https://www.linkedin.com/jobs/view/4463910406",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-10",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-15",
+    "stale": true
+  },
+  {
+    "company": "BlockTech",
+    "job_title": "Senior Software Engineer | Data Infrastructure | Rust",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4438195985",
+    "job_url": "https://www.linkedin.com/jobs/view/4438195985",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-09",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-09-15",
+    "stale": true
   },
   {
     "company": "WLG",
@@ -1699,21 +1729,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-15",
-    "stale": true
-  },
-  {
-    "company": "Loop Earplugs",
-    "job_title": "Senior Backend Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4454116729",
-    "job_url": "https://www.linkedin.com/jobs/view/4454116729",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-11",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-20",
     "last_seen": "2026-09-15",
     "stale": true
   },
@@ -2278,21 +2293,6 @@
     "location": "",
     "careers_url": "https://www.linkedin.com/jobs/view/4463830060",
     "job_url": "https://www.linkedin.com/jobs/view/4463830060",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-09",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-14",
-    "stale": true
-  },
-  {
-    "company": "NAVARA",
-    "job_title": "Senior Software Engineer Eindhoven",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4463030943",
-    "job_url": "https://www.linkedin.com/jobs/view/4463030943",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-09",
