@@ -185,14 +185,14 @@
     "company": "Comecer",
     "job_title": "Senior Full stack .NET Software Engineer",
     "location": "Joure, Friesland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4457628815",
-    "job_url": "https://www.linkedin.com/jobs/view/4457628815",
+    "careers_url": "https://www.linkedin.com/jobs/view/4457625866",
+    "job_url": "https://www.linkedin.com/jobs/view/4457625866",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-16",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-27",
+    "first_seen": "2026-09-18",
     "last_seen": "2026-09-19"
   },
   {
@@ -1484,6 +1484,21 @@
     "last_seen": "2026-09-19"
   },
   {
+    "company": "Comecer",
+    "job_title": "Senior Full stack .NET Software Engineer",
+    "location": "Joure, Friesland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4457628815",
+    "job_url": "https://www.linkedin.com/jobs/view/4457628815",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-16",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-09-19",
+    "stale": true
+  },
+  {
     "company": "BJAK",
     "job_title": "Applied AI Engineer - AI Finance Agent",
     "location": "",
@@ -1735,21 +1750,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-18",
-    "stale": true
-  },
-  {
-    "company": "Comecer",
-    "job_title": "Senior Full stack .NET Software Engineer",
-    "location": "Joure, Friesland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4457625866",
-    "job_url": "https://www.linkedin.com/jobs/view/4457625866",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-16",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
     "stale": true
   },
