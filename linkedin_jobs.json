@@ -28,6 +28,20 @@
     "last_seen": "2026-09-19"
   },
   {
+    "company": "Hadrian",
+    "job_title": "Senior Backend Engineer (Offensive Security Platforms)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467855257",
+    "job_url": "https://www.linkedin.com/jobs/view/4467855257",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-18",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-19"
+  },
+  {
     "company": "Kake",
     "job_title": "Senior Full Stack Engineer (Node/React) - Remote",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -47,20 +61,6 @@
     "location": "Apeldoorn, Gelderland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4466247734",
     "job_url": "https://www.linkedin.com/jobs/view/4466247734",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-17",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-17",
-    "last_seen": "2026-09-19"
-  },
-  {
-    "company": "Prosus",
-    "job_title": "Senior Backend Engineer, Toqi (AI Life Assistant)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467176019",
-    "job_url": "https://www.linkedin.com/jobs/view/4467176019",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-17",
@@ -267,20 +267,6 @@
   },
   {
     "company": "Jobgether",
-    "job_title": "Senior Software Engineer (Token Factory)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4466166751",
-    "job_url": "https://www.linkedin.com/jobs/view/4466166751",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-18",
-    "last_seen": "2026-09-19"
-  },
-  {
-    "company": "Jobgether",
     "job_title": "Senior Backend Engineer - Hyperliquid ecosystem",
     "location": "",
     "careers_url": "https://www.linkedin.com/jobs/view/4466169640",
@@ -350,6 +336,20 @@
     "last_seen": "2026-09-19"
   },
   {
+    "company": "Motion (Creative Analytics)",
+    "job_title": "Senior Software Engineer (Backend)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4412977186",
+    "job_url": "https://www.linkedin.com/jobs/view/4412977186",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-02",
+    "last_seen": "2026-09-19"
+  },
+  {
     "company": "Jobgether",
     "job_title": "Senior Back-end Engineer - PHP, Node.js",
     "location": "",
@@ -378,20 +378,6 @@
     "last_seen": "2026-09-19"
   },
   {
-    "company": "Hadrian",
-    "job_title": "Senior Backend Engineer (Offensive Security Platforms)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467855257",
-    "job_url": "https://www.linkedin.com/jobs/view/4467855257",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-18",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-18",
-    "last_seen": "2026-09-19"
-  },
-  {
     "company": "Prosus",
     "job_title": "Senior Backend Engineer, AI Platform (Toqan)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -403,6 +389,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-18",
+    "last_seen": "2026-09-19"
+  },
+  {
+    "company": "Toku",
+    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467495998",
+    "job_url": "https://www.linkedin.com/jobs/view/4467495998",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-18",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-15",
     "last_seen": "2026-09-19"
   },
   {
@@ -425,6 +425,20 @@
     "location": "Rotterdam, South Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4468362615",
     "job_url": "https://www.linkedin.com/jobs/view/4468362615",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-17",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-19"
+  },
+  {
+    "company": "Prosus",
+    "job_title": "Senior Backend Engineer, Toqi (AI Life Assistant)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467176019",
+    "job_url": "https://www.linkedin.com/jobs/view/4467176019",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-17",
@@ -484,34 +498,6 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-15",
-    "last_seen": "2026-09-19"
-  },
-  {
-    "company": "Motion (Creative Analytics)",
-    "job_title": "Senior Software Engineer (Backend)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4412977186",
-    "job_url": "https://www.linkedin.com/jobs/view/4412977186",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-02",
-    "last_seen": "2026-09-19"
-  },
-  {
-    "company": "Toku",
-    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
-    "location": "South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467495998",
-    "job_url": "https://www.linkedin.com/jobs/view/4467495998",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-15",
@@ -1274,6 +1260,20 @@
     "last_seen": "2026-09-19"
   },
   {
+    "company": "Vinted",
+    "job_title": "Staff / Senior Staff Security Engineer, Vinted Pay",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469182726",
+    "job_url": "https://www.linkedin.com/jobs/view/4469182726",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-18",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-19"
+  },
+  {
     "company": "SiTime",
     "job_title": "Principal MEMS Development Engineer",
     "location": "Rijswijk, South Holland, Netherlands",
@@ -1313,6 +1313,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-20",
+    "last_seen": "2026-09-19"
+  },
+  {
+    "company": "Fortaegis Technologies",
+    "job_title": "Distributed Network Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469187745",
+    "job_url": "https://www.linkedin.com/jobs/view/4469187745",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-18",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-19",
     "last_seen": "2026-09-19"
   },
   {
@@ -1470,32 +1484,19 @@
     "last_seen": "2026-09-19"
   },
   {
-    "company": "Vinted",
-    "job_title": "Staff / Senior Staff Security Engineer, Vinted Pay",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469182726",
-    "job_url": "https://www.linkedin.com/jobs/view/4469182726",
+    "company": "Jobgether",
+    "job_title": "Senior Software Engineer (Token Factory)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4466166751",
+    "job_url": "https://www.linkedin.com/jobs/view/4466166751",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "nan",
+    "date_posted": "2026-09-15",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-18",
-    "last_seen": "2026-09-19"
-  },
-  {
-    "company": "Fortaegis Technologies",
-    "job_title": "Distributed Network Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469187745",
-    "job_url": "https://www.linkedin.com/jobs/view/4469187745",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19"
+    "last_seen": "2026-09-19",
+    "stale": true
   },
   {
     "company": "Philips",
