@@ -1283,20 +1283,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Forward Deployed Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-09-20"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Android Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1307,6 +1293,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-06-04",
+    "last_seen": "2026-09-20"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Forward Deployed Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-23",
     "last_seen": "2026-09-20"
   },
   {
