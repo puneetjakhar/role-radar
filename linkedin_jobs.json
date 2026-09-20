@@ -462,20 +462,6 @@
     "last_seen": "2026-09-20"
   },
   {
-    "company": "Jobgether",
-    "job_title": "Senior Backend Engineer - Hyperliquid ecosystem",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4466169640",
-    "job_url": "https://www.linkedin.com/jobs/view/4466169640",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-15",
-    "last_seen": "2026-09-20"
-  },
-  {
     "company": "Nostrion",
     "job_title": "Medior/Senior AI Software Engineer",
     "location": "Leusden, Utrecht, Netherlands",
@@ -532,6 +518,20 @@
     "last_seen": "2026-09-20"
   },
   {
+    "company": "Jobgether",
+    "job_title": "Senior Software Engineer, Backend - Data Layer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4465725178",
+    "job_url": "https://www.linkedin.com/jobs/view/4465725178",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-14",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-20"
+  },
+  {
     "company": "kaiko.ai",
     "job_title": "Senior Backend Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -546,17 +546,17 @@
     "last_seen": "2026-09-20"
   },
   {
-    "company": "Logius",
-    "job_title": "Platform Engineer",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4460382116",
-    "job_url": "https://www.linkedin.com/jobs/view/4460382116",
+    "company": "WeTravel",
+    "job_title": "Senior Software Engineer, Developer Experience (Platform Team)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4432254950",
+    "job_url": "https://www.linkedin.com/jobs/view/4432254950",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-19",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-28",
+    "first_seen": "2026-06-23",
     "last_seen": "2026-09-20"
   },
   {
@@ -585,20 +585,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-17",
-    "last_seen": "2026-09-20"
-  },
-  {
-    "company": "Oakwell Hampton Group",
-    "job_title": "Senior Backend/DevOps Engineer",
-    "location": "Delft, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469146993",
-    "job_url": "https://www.linkedin.com/jobs/view/4469146993",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-18",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-20",
     "last_seen": "2026-09-20"
   },
   {
@@ -697,6 +683,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-16",
+    "last_seen": "2026-09-20"
+  },
+  {
+    "company": "Ministry of Education, Culture and Science",
+    "job_title": "DevOps Engineer Kubernetes/OpenShift",
+    "location": "Groningen, Groningen, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4468247758",
+    "job_url": "https://www.linkedin.com/jobs/view/4468247758",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-16",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-17",
     "last_seen": "2026-09-20"
   },
   {
@@ -910,20 +910,6 @@
     "last_seen": "2026-09-20"
   },
   {
-    "company": "iO",
-    "job_title": "Lead AI Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4393501947",
-    "job_url": "https://www.linkedin.com/jobs/view/4393501947",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-19",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-02",
-    "last_seen": "2026-09-20"
-  },
-  {
     "company": "MarvelX AI",
     "job_title": "AI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1117,6 +1103,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-31",
+    "last_seen": "2026-09-20"
+  },
+  {
+    "company": "Belmont Lavan",
+    "job_title": "AI Application Engineer - LangGraph & Agentic AI",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467779198",
+    "job_url": "https://www.linkedin.com/jobs/view/4467779198",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-18",
     "last_seen": "2026-09-20"
   },
   {
@@ -1582,6 +1582,66 @@
     "last_seen": "2026-09-20"
   },
   {
+    "company": "Jobgether",
+    "job_title": "Senior Backend Engineer - Hyperliquid ecosystem",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4466169640",
+    "job_url": "https://www.linkedin.com/jobs/view/4466169640",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-20",
+    "stale": true
+  },
+  {
+    "company": "Logius",
+    "job_title": "Platform Engineer",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4460382116",
+    "job_url": "https://www.linkedin.com/jobs/view/4460382116",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-19",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-09-20",
+    "stale": true
+  },
+  {
+    "company": "Oakwell Hampton Group",
+    "job_title": "Senior Backend/DevOps Engineer",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469146993",
+    "job_url": "https://www.linkedin.com/jobs/view/4469146993",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-18",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-20",
+    "stale": true
+  },
+  {
+    "company": "iO",
+    "job_title": "Lead AI Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4393501947",
+    "job_url": "https://www.linkedin.com/jobs/view/4393501947",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-19",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-02",
+    "last_seen": "2026-09-20",
+    "stale": true
+  },
+  {
     "company": "NAVARA",
     "job_title": "Senior Software Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1608,21 +1668,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-16",
-    "last_seen": "2026-09-20",
-    "stale": true
-  },
-  {
-    "company": "Ministry of Education, Culture and Science",
-    "job_title": "DevOps Engineer Kubernetes/OpenShift",
-    "location": "Groningen, Groningen, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4468247758",
-    "job_url": "https://www.linkedin.com/jobs/view/4468247758",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-16",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-17",
     "last_seen": "2026-09-20",
     "stale": true
   },
@@ -1683,21 +1728,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-20",
-    "stale": true
-  },
-  {
-    "company": "WeTravel",
-    "job_title": "Senior Software Engineer, Developer Experience (Platform Team)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4432254950",
-    "job_url": "https://www.linkedin.com/jobs/view/4432254950",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-23",
     "last_seen": "2026-09-20",
     "stale": true
   },
@@ -1803,21 +1833,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "stale": true
-  },
-  {
-    "company": "Belmont Lavan",
-    "job_title": "AI Application Engineer - LangGraph & Agentic AI",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467779198",
-    "job_url": "https://www.linkedin.com/jobs/view/4467779198",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-18",
     "last_seen": "2026-09-19",
     "stale": true
   },
@@ -3828,21 +3843,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-15",
-    "stale": true
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Senior Software Engineer, Backend - Data Layer",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4465725178",
-    "job_url": "https://www.linkedin.com/jobs/view/4465725178",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-14",
     "last_seen": "2026-09-15",
     "stale": true
   },
