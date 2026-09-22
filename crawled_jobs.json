@@ -673,7 +673,7 @@
   },
   {
     "company": "elasticsearch B.V.",
-    "job_title": "Senior Solutions Architect - Security (SIEM)",
+    "job_title": "Senior Solutions Architect - SIEM",
     "location": "The Netherlands, Netherlands",
     "careers_url": "https://jobs.elastic.co/#/",
     "job_url": "https://jobs.elastic.co/jobs?gh_jid=8156268&gh_jid=8156268",
@@ -1297,20 +1297,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Forward Deployed Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-09-22"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Android Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1321,6 +1307,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-06-04",
+    "last_seen": "2026-09-22"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Forward Deployed Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-23",
     "last_seen": "2026-09-22"
   },
   {
@@ -1866,34 +1866,6 @@
     "last_seen": "2026-09-22"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Senior Software Engineer, Global Banking & Markets, Digital Assets Technology - Canton / Daml\nNew York\u00b7United States\n\u00b7Vi",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/182440",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-09-22"
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Global Banking & Markets, Prime Services Technology - Securities Lending Software Engineer, Associate/ Vice President, H",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/183789",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-09-22"
-  },
-  {
     "company": "N.V. Eneco",
     "job_title": "Senior Developer Power-to-Heat\nEneco - Rotterdam\n40 uur\nBusiness development & Sales, Ontwikkelaars & Specialisten\nBekij",
     "location": "Netherlands",
@@ -2404,6 +2376,36 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-09-22"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Senior Software Engineer, Global Banking & Markets, Digital Assets Technology - Canton / Daml\nNew York\u00b7United States\n\u00b7Vi",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/182440",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-09-22",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Global Banking & Markets, Prime Services Technology - Securities Lending Software Engineer, Associate/ Vice President, H",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/183789",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-22",
+    "stale": true
   },
   {
     "company": "Adyen N.V.",
