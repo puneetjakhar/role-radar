@@ -1,7 +1,7 @@
 name: Hourly Daytime Job Crawl + Notify
 
 # Times are UTC (GitHub cron has no DST). Calibrated for Amsterdam summer (CEST = UTC+2).
-# Hourly 09:00-19:00 CEST plus one at 00:00 CEST (midnight). 14:00 CEST run also sends daily 24h summary.
+# Hourly ~08:00-21:00 CEST plus one at 00:00 CEST (midnight). 14:00 CEST run also sends daily 24h summary.
 # In winter (CET = UTC+1) local times shift one hour earlier.
 # Required GitHub Secrets:
 #   GMAIL_APP_PASSWORD  = Gmail App Password
@@ -13,9 +13,9 @@ name: Hourly Daytime Job Crawl + Notify
 
 on:
   schedule:
-    - cron: '0 7-11,13-17 * * *'  # hourly 09:00-19:00 CEST, minus 14:00 (handled below): new jobs email
-    - cron: '0 22 * * *'          # 00:00 CEST (Amsterdam midnight): new jobs email
-    - cron: '0 12 * * *'          # 14:00 CEST: new jobs email + daily 24h summary
+    - cron: '19 6-11,13-19 * * *'  # hourly ~08:00-21:00 CEST, minus 14:00 (handled below), offset :19: new jobs email
+    - cron: '19 22 * * *'          # 00:00 CEST (Amsterdam midnight): new jobs email
+    - cron: '19 12 * * *'          # 14:00 CEST: new jobs email + daily 24h summary
   workflow_dispatch:
     inputs:
       daily:
@@ -94,7 +94,7 @@ jobs:
 
       - name: Send daily 24h summary (12:00 UTC = 14:00 CEST)
         if: >
-          github.event.schedule == '0 12 * * *' ||
+          github.event.schedule == '19 12 * * *' ||
           (github.event_name == 'workflow_dispatch' && github.event.inputs.daily == 'true')
         run: python notify.py --daily
         env:
