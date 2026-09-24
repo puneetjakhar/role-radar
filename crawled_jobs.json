@@ -316,7 +316,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-21",
-    "description": "Job Application for Backend Engineer at Catawiki Create a Job Alert Interested in building your career at Catawiki? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Email * Phone Country * Phone * Location (City) * Locate me Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Do you have 3+ years of experience with customer-facing products? * Select... (i.e. E-Commerce, SaaS). Are you currently within 1 hour of Amsterdam and committed to commuting twice per week for this role? * Select... This role is based in the Netherlands, and follows a Hybrid working model, requiring you to work from our Amsterdam Office at least 2 days per week. We are currently only looking for local candidates for this particular position. Would you need Visa Sponsorship to work in the Netherlands (EU)? * Select... Visa sponsorship and relocation support are not available for this role. What's your salary expectation? * How did you hear about us? * Voluntary Self Identification Survey Out Catawiki teams are as diverse and unique as the objects we sell. We welcome applicants from all backgrounds and walks of life. We invite you to participate in this survey to help us ensure we\u2019re reaching a broad, diverse and inclusive range of job seekers in our career posts and advertising, Participation is voluntary and your response is kept completely separate from your job application. The data will only be seen by Catawiki in an aggregated format, and will not influence your chances to be invited for an interview. All data is stored in line with our Data Protection Policy . I give my explicit consent to Catawiki to process the data from this survey in order to improve their recruitment process. Select... Which gender do you identify as? Select... What is your ethnicity or background? ( multiple choice allowed) Select... We invite you to bring your whole, authentic self to work! What is your sexual orientation? Select... We are committed to providing an environment that enables people to do their work effectively. We welcome applicants and support our team members with a disability. Do you have a disability or learning difficulty? Select... Are you one of the first in your direct family to attend University? Select... At Catawiki we have an age diversity from 20-74 years old. Which year range does your date of birth fit into? Select... The application deadline for this role is October 16, 2026 Submit application Powered by Greenhouse",
+    "description": "At Catawiki, every day brings the extraordinary! Whether it\u2019s Daniel Ricciardo\u2019s Formula 1 Car , a Woolly Mammoth\u2019s Skeleton , Lady Gaga's Jumpsuit or Usain Bolt\u2019s running shoe , we encounter exceptional objects every day. We\u2019re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by our passionate in-house experts. Having sold over 25 million unique objects, our mission is to become the world\u2019s most popular destination for special objects. As a growing, diverse and sustainable scale-up, we proudly live by three core values. If these values resonate with you, we\u2019d love to explore how you can join us. Taking ownership and driving impact&nbsp; Being open to change and feedback Being passionate about our mission and our customers.&nbsp; Your Mission On our path to becoming the most visited online curated marketplace for special objects, our Engineering team is on a mission to deliver the best experience across our platforms by building best-in-class products for search and discovery, bidding, curation, logistics, payments, and support. We\u2019re a scale-up tackling customer-facing challenges at high scale, with 75,000 auctions per week and more than 10 million visitors per month. As a&nbsp; Backend Engineer , you\u2019ll support one of our three verticals - Demand , Supply , or Fulfilment - improving and delivering product innovations for our platform. Working in a small, fully autonomous, and highly collaborative Agile team, you will build scalable, maintainable, and resilient microservices and features. That\u2019s why we\u2019re looking for developers who share ideas, explore options, and communicate openly. What You'll Do You\u2019ll be part of a team with end-to-end responsibility for its own microservices, collaborating across disciplines to build, operate, and continuously improve our products. Build end-to-end by designing, developing, testing, deploying, maintaining, and improving scalable microservices and features. Own what you deliver , taking responsibility for the quality, resilience, and maintainability of your team\u2019s services throughout their lifecycle. Collaborate across disciplines while closely working with product designers, product owners, and frontend, backend, and mobile engineers to share ideas and deliver product innovations. Improve how we work , identifying opportunities to make our engineering processes more effective and efficient. Strengthen our engineering culture by documenting and advocating for development best practices across the team. Raise product quality by fixing bugs and refactoring the codebase where necessary to keep our products reliable and maintainable. Learn and experiment by testing new technologies and participating in Technical Week - a week dedicated to creativity, innovation, and knowledge sharing across domains after every two product sprints. What You'll Bring You understand the full lifecycle of web development, identify oppor",
     "notes": "Dept: Engineering. Via Greenhouse board.",
     "first_seen": "2026-09-21",
     "last_seen": "2026-09-24"
@@ -473,6 +473,20 @@
     "description": "P-1317 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers \u2014 and customer obsessed \u2014 we leap at every opportunity to solve technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started. As a software engineer with a backend focus, you will work with your team to build infrastructure and products for the Databricks platform at scale. The impact you'll have: Our backend teams span many domains across our essential service platforms. For instance, you might work on challenges such as: Problems that span from product to infrastructure including: distributed systems, at-scale service architecture and monitoring, workflow orchestration, and developer experience. Deliver reliable and high performance services and client libraries for storing and accessing humongous amount of data on cloud storage backends, e.g., AWS S3, Azure Blob Store. Build reliable, scalable services, e.g. Scala, Kubernetes, and data pipelines, e.g. Spark, Databricks, to power the pricing infrastructure that serves millions of cluster-hours per day and develop product features that empower customers to easily view and control platform usage. What we look for: BS (or higher) in Computer Science, or a related field 2+ years of production level experience in one of: Java, Scala, C++, or similar language. Experience developing large-scale distributed systems. Experience working on a SaaS platform or with Service-Oriented Architectures. Good knowledge of SQL. About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 \u2014 rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . Our Commitment to Diversity and Inclusion At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered wi",
     "notes": "Dept: Engineering - Pipeline. Via Greenhouse board.",
     "first_seen": "2026-05-28",
+    "last_seen": "2026-09-24"
+  },
+  {
+    "company": "Databricks",
+    "job_title": "Staff Security Engineer, Incident Response",
+    "location": "Belgium; Finland; Remote - Denmark; Remote - France; Remote - Germany; Remote - Italy; Remote - Netherlands; Remote - Spain; Remote - Sweden; Remote - United Kingdom; Switzerland, Netherlands",
+    "careers_url": "https://www.databricks.com/company/careers/open-positions?department=Engineering&location=Netherlands%7CAmsterdam%2C%20Netherlands",
+    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8612868002",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "RDQ327R180 Staff Security Engineer, Incident Response The Incident Response team's mission is to respond to security threats, incidents and investigations to protect our customers, employees and enterprise data in a fast, efficient and standardised manner. We're a tight-knit team of security incident responders and incident handlers doing \"Security for Databricks on Databricks\", using our own platform to create near-real-time log analytics, alerting and forensics. You will be an individual contributor on the security Incident Response (IR) team at Databricks, reporting to the regional IR manager. You will be responsible for conducting security analysis and forensics, responding to high-priority alerts and contributing to automations and agentic capabilities. You will be a security multiplier and help the team scale security incident response at Databricks. The impact you will have: You will respond to incidents as part of a distributed 24x7 operations and on-call schedule. You will triage and respond to security events and alerts, ensuring quick and effective containment. You will conduct analysis and forensics across a range of data sources to determine the timeline and impact of security events. You will provide technical leadership and influence team direction. You will develop solutions, including leveraging AI and agentic platforms, to deliver autonomous capabilities, expedite your work and scale the impact of the team. You will communicate technical decisions through design docs and tech talks, and mentor junior security responders via security guidance, design reviews and code reviews. What we look for: Bachelor's Degree AND 7+ years experience in Incident Response work OR Master's Degree AND 5+ years experience. Cloud security expertise in at least 1 of AWS, GCP or Azure, and proficiency in the others. Proficiency in AI/LLM and agentic capabilities. Prefer experience with building and operating agentic systems in a security setting. Broad security subject matter expertise. Expertise in a few core IR skills (DFIR , Reverse Engineering, Traditional Network Security, Storage and access security, Sandboxing, Compute security, etc.). Experience with Enterprise Security and SaaS applications. Working knowledge of a SIEM and SOAR. Experience building Incident Response Tooling, scripting language skills and experience with AI coding tools. About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 \u2014 rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide compreh",
+    "notes": "Dept: Security. Via Greenhouse board.",
+    "first_seen": "2026-09-24",
     "last_seen": "2026-09-24"
   },
   {
@@ -1296,20 +1310,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Software Developer, Android Native",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051176/Senior-Software-Developer-Android-Native",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-12",
-    "last_seen": "2026-09-24"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Golang Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1342,6 +1342,20 @@
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
     "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053403/Senior-Fullstack-Java-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Platform Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -2319,6 +2333,21 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-09-24"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Software Developer, Android Native",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_051176/Senior-Software-Developer-Android-Native",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-09-24",
+    "stale": true
   },
   {
     "company": "Super B.V.",
