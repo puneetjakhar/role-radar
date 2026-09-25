@@ -742,6 +742,20 @@
     "last_seen": "2026-09-25"
   },
   {
+    "company": "Doghouse Recruitment",
+    "job_title": "Platform Engineer",
+    "location": "Hilversum, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469437756",
+    "job_url": "https://www.linkedin.com/jobs/view/4469437756",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-25"
+  },
+  {
     "company": "Kyndryl",
     "job_title": "Azure Platform Engineer for APS",
     "location": "North Holland, Netherlands",
@@ -798,11 +812,11 @@
     "last_seen": "2026-09-25"
   },
   {
-    "company": "Kabisa - Software Artisans",
-    "job_title": "DevOps Engineer",
-    "location": "Weert, Limburg, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469856301",
-    "job_url": "https://www.linkedin.com/jobs/view/4469856301",
+    "company": "ClickHouse",
+    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469895781",
+    "job_url": "https://www.linkedin.com/jobs/view/4469895781",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-21",
@@ -812,11 +826,11 @@
     "last_seen": "2026-09-25"
   },
   {
-    "company": "Codefield",
-    "job_title": "Senior Azure Cloud Developer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469869841",
-    "job_url": "https://www.linkedin.com/jobs/view/4469869841",
+    "company": "Kabisa - Software Artisans",
+    "job_title": "DevOps Engineer",
+    "location": "Weert, Limburg, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469856301",
+    "job_url": "https://www.linkedin.com/jobs/view/4469856301",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-21",
@@ -840,6 +854,20 @@
     "last_seen": "2026-09-25"
   },
   {
+    "company": "Energie Data Services Nederland (EDSN) B.V.",
+    "job_title": "Cloud Platform Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4363015026",
+    "job_url": "https://www.linkedin.com/jobs/view/4363015026",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-09-25"
+  },
+  {
     "company": "Nationale-Nederlanden",
     "job_title": "Data Platform DevOps Engineer",
     "location": "The Hague, South Holland, Netherlands",
@@ -854,20 +882,6 @@
     "last_seen": "2026-09-25"
   },
   {
-    "company": "ClickHouse",
-    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472034887",
-    "job_url": "https://www.linkedin.com/jobs/view/4472034887",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25"
-  },
-  {
     "company": "Centraal Bureau voor de Statistiek",
     "job_title": "IAM Platform Engineer - PKI & Cloud Native",
     "location": "Heerlen, Limburg, Netherlands",
@@ -879,20 +893,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-15",
-    "last_seen": "2026-09-25"
-  },
-  {
-    "company": "Together AI",
-    "job_title": "AI Infrastructure Systems Engineer (Amsterdam & London)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4405986802",
-    "job_url": "https://www.linkedin.com/jobs/view/4405986802",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-12",
     "last_seen": "2026-09-25"
   },
   {
@@ -1330,6 +1330,20 @@
     "last_seen": "2026-09-25"
   },
   {
+    "company": "QuantWare",
+    "job_title": "Quantum R&D Engineer \u2013 Processor Development",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4453364641",
+    "job_url": "https://www.linkedin.com/jobs/view/4453364641",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-09-25"
+  },
+  {
     "company": "Haystack People",
     "job_title": "Backend Developer (Python)",
     "location": "South Holland, Netherlands",
@@ -1414,31 +1428,17 @@
     "last_seen": "2026-09-25"
   },
   {
-    "company": "Keenfinity Group",
-    "job_title": "Imaging Lead Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469878453",
-    "job_url": "https://www.linkedin.com/jobs/view/4469878453",
+    "company": "Cisco",
+    "job_title": "Principal Software Engineer, Linux Kernel - Isovalent",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4461773844",
+    "job_url": "https://www.linkedin.com/jobs/view/4461773844",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-09-21",
+    "date_posted": "2026-09-22",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-23",
-    "last_seen": "2026-09-25"
-  },
-  {
-    "company": "Aethon.nl",
-    "job_title": "Lead Software Engineer",
-    "location": "Rijswijk, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4468713809",
-    "job_url": "https://www.linkedin.com/jobs/view/4468713809",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
+    "first_seen": "2026-09-02",
     "last_seen": "2026-09-25"
   },
   {
@@ -1498,6 +1498,34 @@
     "last_seen": "2026-09-25"
   },
   {
+    "company": "Axelera AI",
+    "job_title": "Staff/Principal Software Engineer \u2013 AI Applications",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472090228",
+    "job_url": "https://www.linkedin.com/jobs/view/4472090228",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25"
+  },
+  {
+    "company": "Axelera AI",
+    "job_title": "Staff/Principal Software Engineer \u2013 AI Applications",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472081449",
+    "job_url": "https://www.linkedin.com/jobs/view/4472081449",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25"
+  },
+  {
     "company": "Airwallex",
     "job_title": "Staff Software Engineer, Payments",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1540,6 +1568,81 @@
     "last_seen": "2026-09-25"
   },
   {
+    "company": "Codefield",
+    "job_title": "Senior Azure Cloud Developer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469869841",
+    "job_url": "https://www.linkedin.com/jobs/view/4469869841",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-25",
+    "stale": true
+  },
+  {
+    "company": "ClickHouse",
+    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472034887",
+    "job_url": "https://www.linkedin.com/jobs/view/4472034887",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "stale": true
+  },
+  {
+    "company": "Together AI",
+    "job_title": "AI Infrastructure Systems Engineer (Amsterdam & London)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4405986802",
+    "job_url": "https://www.linkedin.com/jobs/view/4405986802",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-12",
+    "last_seen": "2026-09-25",
+    "stale": true
+  },
+  {
+    "company": "Keenfinity Group",
+    "job_title": "Imaging Lead Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469878453",
+    "job_url": "https://www.linkedin.com/jobs/view/4469878453",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-25",
+    "stale": true
+  },
+  {
+    "company": "Aethon.nl",
+    "job_title": "Lead Software Engineer",
+    "location": "Rijswijk, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4468713809",
+    "job_url": "https://www.linkedin.com/jobs/view/4468713809",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "stale": true
+  },
+  {
     "company": "Nike",
     "job_title": "Senior Software Engineer - Windows Platform Engineering",
     "location": "Hilversum, North Holland, Netherlands",
@@ -1551,7 +1654,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25"
+    "last_seen": "2026-09-25",
+    "stale": true
   },
   {
     "company": "Jobster",
@@ -1565,7 +1669,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25"
+    "last_seen": "2026-09-25",
+    "stale": true
   },
   {
     "company": "Kake",
@@ -1628,21 +1733,6 @@
     "stale": true
   },
   {
-    "company": "QuantWare",
-    "job_title": "Quantum R&D Engineer \u2013 Processor Development",
-    "location": "Delft, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4453364641",
-    "job_url": "https://www.linkedin.com/jobs/view/4453364641",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
     "company": "Codefield",
     "job_title": "Senior Java Developer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -1669,21 +1759,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
-    "company": "Doghouse Recruitment",
-    "job_title": "Platform Engineer",
-    "location": "Hilversum, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469437756",
-    "job_url": "https://www.linkedin.com/jobs/view/4469437756",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-23",
     "last_seen": "2026-09-25",
     "stale": true
   },
@@ -1729,36 +1804,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
-    "company": "ClickHouse",
-    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469895781",
-    "job_url": "https://www.linkedin.com/jobs/view/4469895781",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-21",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
-    "company": "Cisco",
-    "job_title": "Principal Software Engineer, Linux Kernel - Isovalent",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4461773844",
-    "job_url": "https://www.linkedin.com/jobs/view/4461773844",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-02",
     "last_seen": "2026-09-25",
     "stale": true
   },
@@ -1834,21 +1879,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
-    "company": "Energie Data Services Nederland (EDSN) B.V.",
-    "job_title": "Cloud Platform Engineer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4363015026",
-    "job_url": "https://www.linkedin.com/jobs/view/4363015026",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-04",
     "last_seen": "2026-09-25",
     "stale": true
   },

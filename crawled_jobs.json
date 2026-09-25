@@ -1838,34 +1838,6 @@
     "last_seen": "2026-09-25"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Software Engineer, Global Banking & Markets, AI/ML Technology\nNew York\u00b7United States\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/177423",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-09-25"
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Global Banking & Markets - Software Engineer - Associate - London\nLondon\u00b7United Kingdom\n\u00b7Vice President",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/170008",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-09-25"
-  },
-  {
     "company": "Van Lanschot Kempen N.V.",
     "job_title": "Software Engineer - Python",
     "location": "Amsterdam",
@@ -2104,6 +2076,20 @@
     "last_seen": "2026-09-25"
   },
   {
+    "company": "NewStore B.V.",
+    "job_title": "Senior DevX Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://www.newstore.com/careers/",
+    "job_url": "https://careers.newstore.com/jobs/5378566-senior-devx-engineer?utm_campaign=jobs-widget&utm_source=careers.newstore.com&utm_content=jobs&utm_medium=web",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-09-25"
+  },
+  {
     "company": "Brain Corporation B.V.",
     "job_title": "Software Engineer II, Cloud",
     "location": "Utrecht, Netherlands",
@@ -2335,6 +2321,36 @@
     "last_seen": "2026-09-25"
   },
   {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Software Engineer, Global Banking & Markets, AI/ML Technology\nNew York\u00b7United States\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/177423",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-09-25",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Global Banking & Markets - Software Engineer - Associate - London\nLondon\u00b7United Kingdom\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/170008",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-09-25",
+    "stale": true
+  },
+  {
     "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Forward Deployed Engineer",
     "location": "Netherlands",
@@ -2346,21 +2362,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
-    "company": "NewStore B.V.",
-    "job_title": "Senior DevX Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://www.newstore.com/careers/",
-    "job_url": "https://careers.newstore.com/jobs/5378566-senior-devx-engineer?utm_campaign=jobs-widget&utm_source=careers.newstore.com&utm_content=jobs&utm_medium=web",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-28",
     "last_seen": "2026-09-25",
     "stale": true
   },
