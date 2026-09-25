@@ -490,20 +490,6 @@
     "last_seen": "2026-09-25"
   },
   {
-    "company": "Prosus",
-    "job_title": "Senior Backend Engineer, AI Platform (Toqan)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467885351",
-    "job_url": "https://www.linkedin.com/jobs/view/4467885351",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-18",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-18",
-    "last_seen": "2026-09-25"
-  },
-  {
     "company": "Toku",
     "job_title": "Senior Software Engineer | Distributed Systems",
     "location": "South Holland, Netherlands",
@@ -543,6 +529,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25"
+  },
+  {
+    "company": "Prosus",
+    "job_title": "Senior Backend Engineer, AI Platform (Toqan)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467885351",
+    "job_url": "https://www.linkedin.com/jobs/view/4467885351",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-18",
     "last_seen": "2026-09-25"
   },
   {
@@ -1330,6 +1330,20 @@
     "last_seen": "2026-09-25"
   },
   {
+    "company": "12Build",
+    "job_title": "AI Engineer",
+    "location": "Nijverdal, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4449860198",
+    "job_url": "https://www.linkedin.com/jobs/view/4449860198",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-09-25"
+  },
+  {
     "company": "QuantWare",
     "job_title": "Quantum R&D Engineer \u2013 Processor Development",
     "location": "Delft, South Holland, Netherlands",
@@ -1565,20 +1579,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25"
-  },
-  {
-    "company": "12Build",
-    "job_title": "AI Engineer",
-    "location": "Nijverdal, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4449860198",
-    "job_url": "https://www.linkedin.com/jobs/view/4449860198",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-11",
     "last_seen": "2026-09-25"
   },
   {
