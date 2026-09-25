@@ -1352,16 +1352,16 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Forward Deployed Engineer",
+    "job_title": "Senior Platform Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-23",
+    "first_seen": "2026-09-24",
     "last_seen": "2026-09-25"
   },
   {
@@ -1485,6 +1485,19 @@
     "date_posted": null,
     "notes": "Via Workday API.",
     "first_seen": "2026-09-11",
+    "last_seen": "2026-09-25"
+  },
+  {
+    "company": "Autodesk Netherlands B.V.",
+    "job_title": "Principal Software Engineer",
+    "location": "EMEA - Netherlands - Offsite/Home",
+    "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+    "job_url": "https://autodesk.wd1.myworkdayjobs.com/job/EMEA---Netherlands---OffsiteHome/Principal-Software-Engineer_26WD94865",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-05-28",
     "last_seen": "2026-09-25"
   },
   {
@@ -2322,16 +2335,16 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Platform Engineer",
+    "job_title": "Senior Forward Deployed Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-07-23",
     "last_seen": "2026-09-25",
     "stale": true
   },
@@ -2452,20 +2465,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-03",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
-    "company": "Autodesk Netherlands B.V.",
-    "job_title": "Principal Software Engineer",
-    "location": "EMEA - Netherlands - Offsite/Home",
-    "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
-    "job_url": "https://autodesk.wd1.myworkdayjobs.com/job/EMEA---Netherlands---OffsiteHome/Principal-Software-Engineer_26WD94865",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-05-28",
     "last_seen": "2026-09-25",
     "stale": true
   },
