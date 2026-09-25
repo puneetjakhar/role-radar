@@ -98,6 +98,20 @@
     "last_seen": "2026-09-25"
   },
   {
+    "company": "Doghouse Recruitment",
+    "job_title": "Senior Software Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470289530",
+    "job_url": "https://www.linkedin.com/jobs/view/4470289530",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-25"
+  },
+  {
     "company": "InShared",
     "job_title": "Senior Backend Developer (PHP & SQL)",
     "location": "Leusden, Utrecht, Netherlands",
@@ -224,20 +238,6 @@
     "last_seen": "2026-09-25"
   },
   {
-    "company": "Eye Security",
-    "job_title": "Senior Software Engineer (m/f/x)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4404292908",
-    "job_url": "https://www.linkedin.com/jobs/view/4404292908",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-09-25"
-  },
-  {
     "company": "kaiko.ai",
     "job_title": "Senior Backend Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -280,6 +280,20 @@
     "last_seen": "2026-09-25"
   },
   {
+    "company": "Picnic Technologies",
+    "job_title": "Senior Software Engineer (Java) - Warehouse Systems",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4416924144",
+    "job_url": "https://www.linkedin.com/jobs/view/4416924144",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-09-25"
+  },
+  {
     "company": "Flow Traders",
     "job_title": "Senior Software Engineer, C++ , Core Platform",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -319,20 +333,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-25"
-  },
-  {
-    "company": "CNN",
-    "job_title": "Senior Software Engineer - Roku",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471618704",
-    "job_url": "https://www.linkedin.com/jobs/view/4471618704",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
     "last_seen": "2026-09-25"
   },
   {
@@ -1582,17 +1582,32 @@
     "last_seen": "2026-09-25"
   },
   {
-    "company": "Doghouse Recruitment",
-    "job_title": "Senior Software Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470289530",
-    "job_url": "https://www.linkedin.com/jobs/view/4470289530",
+    "company": "Eye Security",
+    "job_title": "Senior Software Engineer (m/f/x)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4404292908",
+    "job_url": "https://www.linkedin.com/jobs/view/4404292908",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-09-22",
+    "date_posted": "2026-09-20",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-22",
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-09-25",
+    "stale": true
+  },
+  {
+    "company": "CNN",
+    "job_title": "Senior Software Engineer - Roku",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471618704",
+    "job_url": "https://www.linkedin.com/jobs/view/4471618704",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-24",
     "last_seen": "2026-09-25",
     "stale": true
   },
