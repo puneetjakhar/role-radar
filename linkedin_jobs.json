@@ -364,20 +364,6 @@
     "last_seen": "2026-09-26"
   },
   {
-    "company": "Just Eat Takeaway.com",
-    "job_title": "Senior open to Mid Backend Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4468939999",
-    "job_url": "https://www.linkedin.com/jobs/view/4468939999",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-23",
-    "last_seen": "2026-09-26"
-  },
-  {
     "company": "Xebia",
     "job_title": "Senior Backend Engineer (AI-Driven)",
     "location": "Hilversum, North Holland, Netherlands",
@@ -425,6 +411,20 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4469879168",
     "job_url": "https://www.linkedin.com/jobs/view/4469879168",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-26"
+  },
+  {
+    "company": "Codefield",
+    "job_title": "Senior Java Developer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469869814",
+    "job_url": "https://www.linkedin.com/jobs/view/4469869814",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-21",
@@ -1568,6 +1568,21 @@
     "last_seen": "2026-09-26"
   },
   {
+    "company": "Just Eat Takeaway.com",
+    "job_title": "Senior open to Mid Backend Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4468939999",
+    "job_url": "https://www.linkedin.com/jobs/view/4468939999",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-26",
+    "stale": true
+  },
+  {
     "company": "The Flex",
     "job_title": "Senior Software Engineer",
     "location": "",
@@ -1789,21 +1804,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
-    "company": "Codefield",
-    "job_title": "Senior Java Developer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469869814",
-    "job_url": "https://www.linkedin.com/jobs/view/4469869814",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-21",
     "last_seen": "2026-09-25",
     "stale": true
   },
