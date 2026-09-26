@@ -350,6 +350,20 @@
     "last_seen": "2026-09-26"
   },
   {
+    "company": "Toku",
+    "job_title": "Senior Software Engineer | Distributed Systems",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469584058",
+    "job_url": "https://www.linkedin.com/jobs/view/4469584058",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-09-26"
+  },
+  {
     "company": "Dyflexis",
     "job_title": "Senior Backend Engineer (PHP)",
     "location": "The Hague, South Holland, Netherlands",
@@ -498,20 +512,6 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-20",
-    "last_seen": "2026-09-26"
-  },
-  {
-    "company": "Toku",
-    "job_title": "Senior Software Engineer | Distributed Systems",
-    "location": "South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469584058",
-    "job_url": "https://www.linkedin.com/jobs/view/4469584058",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-20",
@@ -1246,6 +1246,20 @@
     "last_seen": "2026-09-26"
   },
   {
+    "company": "Toku",
+    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467495998",
+    "job_url": "https://www.linkedin.com/jobs/view/4467495998",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-26"
+  },
+  {
     "company": "CNH",
     "job_title": "Staff Software Engineer",
     "location": "Hoorn, North Holland, Netherlands",
@@ -1299,20 +1313,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-26"
-  },
-  {
-    "company": "12Build",
-    "job_title": "AI Engineer",
-    "location": "Nijverdal, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4449860198",
-    "job_url": "https://www.linkedin.com/jobs/view/4449860198",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-11",
     "last_seen": "2026-09-26"
   },
   {
@@ -1414,6 +1414,20 @@
     "last_seen": "2026-09-26"
   },
   {
+    "company": "Twelve",
+    "job_title": "Senior Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4461160943",
+    "job_url": "https://www.linkedin.com/jobs/view/4461160943",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-26"
+  },
+  {
     "company": "Intralox",
     "job_title": "Sensing and Vision Engineer",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -1450,20 +1464,6 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-04",
-    "last_seen": "2026-09-26"
-  },
-  {
-    "company": "JetBrains",
-    "job_title": "Staff Software Developer (IntelliJ Platform)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4395878163",
-    "job_url": "https://www.linkedin.com/jobs/view/4395878163",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-19",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-04",
@@ -1512,17 +1512,31 @@
     "last_seen": "2026-09-26"
   },
   {
-    "company": "Toku",
-    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
-    "location": "South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467495998",
-    "job_url": "https://www.linkedin.com/jobs/view/4467495998",
+    "company": "Picnic Technologies",
+    "job_title": "Staff AI Engineer - Agentic Shopping",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4463610105",
+    "job_url": "https://www.linkedin.com/jobs/view/4463610105",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "nan",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-15",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-26"
+  },
+  {
+    "company": "JetBrains",
+    "job_title": "Staff Software Developer (IAM)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4461171211",
+    "job_url": "https://www.linkedin.com/jobs/view/4461171211",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-04",
     "last_seen": "2026-09-26"
   },
   {
@@ -1538,6 +1552,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
     "last_seen": "2026-09-26"
+  },
+  {
+    "company": "12Build",
+    "job_title": "AI Engineer",
+    "location": "Nijverdal, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4449860198",
+    "job_url": "https://www.linkedin.com/jobs/view/4449860198",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-09-26",
+    "stale": true
+  },
+  {
+    "company": "JetBrains",
+    "job_title": "Staff Software Developer (IntelliJ Platform)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4395878163",
+    "job_url": "https://www.linkedin.com/jobs/view/4395878163",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-19",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-09-26",
+    "stale": true
   },
   {
     "company": "CNN",
@@ -2016,21 +2060,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
-    "company": "Twelve",
-    "job_title": "Senior Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4461160943",
-    "job_url": "https://www.linkedin.com/jobs/view/4461160943",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-04",
     "last_seen": "2026-09-25",
     "stale": true
   },
