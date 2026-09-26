@@ -456,7 +456,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2025-06-08",
-    "description": "Software Engineer - Backend - Databricks Skip to main content Login Why Databricks Discover For App Developers For Executives For Startups Lakehouse Architecture Databricks AI Research Customers Customer Stories Partners Partner Overview Explore the Databricks partner ecosystem Partner Spotlight Featured partner announcements Partner Program Explore benefits, tiers and how to become a partner Cloud Providers Databricks on AWS, Azure and GCP Find a Partner Discover Databricks partners for your needs Partner Solutions Find custom industry and migration solutions Product Databricks Data + AI Platform Platform Overview A unified platform for data, analytics and AI Data Engineering ETL and orchestration for batch and streaming data AI Assistant Agentic coworker for business users Data Warehousing Serverless data warehouse for SQL analytics Application Development Quickly build secure data and AI apps Database Postgres for data apps and AI agents Artificial Intelligence Build and deploy ML and GenAI applications Governance Unified governance for all data, analytics and AI assets Business Intelligence Intelligent analytics for real-world data Security Open agentic SIEM built for the AI era Customer Data Platform Agentic CDP embedded in Databricks Sharing Open data sharing for data, analytics and AI Integrations and Data Marketplace Open marketplace for data, analytics and AI IDE Integrations Build on the Lakehouse in your favorite IDE Partner Connect Discover and integrate with the Databricks ecosystem Pricing Databricks Pricing Explore product pricing, DBUs and more Cost Calculator Estimate your compute costs on any cloud Open Source Open Source Technologies Learn more about the innovations behind the platform Solutions Databricks for Industries Telecommunications Media and Entertainment Financial Services Public Sector Healthcare & Life Sciences Retail Manufacturing See All Industries Cross Industry Solutions AI Agents AI Governance Cybersecurity Marketing Migration & Deployment Data Migration Forward Deployed Engineering Solution Accelerators Explore Accelerators Move faster toward outcomes that matter Resources Learning Training Discover curriculum tailored to your needs Databricks Academy Sign in to the Databricks learning platform Certification Gain recognition and differentiation Free Edition Learn professional Data and AI tools for free University Alliance Want to teach Databricks? See how. Events Data + AI Summit Data + AI World Tour AI Days Event Calendar Blog and Podcasts Databricks Blog Explore news, product announcements, and more AI Blog Explore our AI research and engineering work Data Brew Podcast Let\u2019s talk data! Get Help Customer Support Documentation Community Dive Deep Resource Center Demo Center Architecture Center About Company Who We Are Our Team Databricks Ventures Contact Us Careers Working at Databricks Open Jobs Press Awards and Recognition Newsroom Security and Trust Security and Trust Ready to get started? Get a Demo Login Contact Us Try Databricks Overview Culture Benefits Diversity Engineering Research Students & new grads Back to search results Software Engineer - Backend Amsterdam, Netherlands Apply now P-1317 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers \u2014 and customer obsessed \u2014 we leap at every opportunity to solve technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started. As a software engineer with a backend focus, you will work with your team to build infrastructure and products for the Databricks platform at scale. The impact you'll have: Our backend teams span many domains across our essential service platforms. For instance, you might work on challenges such as: Problems that span from product to infrastructure including: distributed systems, at-scale service architecture and monitoring, workflow orchestration, and developer experience. Deliver reliable and high performance services and client libraries for storing and accessing humongous amount of data on cloud storage backends, e.g., AWS S3, Azure Blob Store. Build reliable, scalable services, e.g. Scala, Kubernetes, and data pipelines, e.g. Spark, Databricks, to power the pricing infrastructure that serves millions of cluster-hours per day and develop product features that empower customers to easily view and control platform usage. What we look for: BS (or higher) in Computer Science, or a related field 2+ years of production level experience in one of: Java, Scala, C++, or similar language. Experience developing large-scale distributed systems. Exper",
+    "description": "P-1317 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers \u2014 and customer obsessed \u2014 we leap at every opportunity to solve technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started. As a software engineer with a backend focus, you will work with your team to build infrastructure and products for the Databricks platform at scale. The impact you'll have: Our backend teams span many domains across our essential service platforms. For instance, you might work on challenges such as: Problems that span from product to infrastructure including: distributed systems, at-scale service architecture and monitoring, workflow orchestration, and developer experience. Deliver reliable and high performance services and client libraries for storing and accessing humongous amount of data on cloud storage backends, e.g., AWS S3, Azure Blob Store. Build reliable, scalable services, e.g. Scala, Kubernetes, and data pipelines, e.g. Spark, Databricks, to power the pricing infrastructure that serves millions of cluster-hours per day and develop product features that empower customers to easily view and control platform usage. What we look for: BS (or higher) in Computer Science, or a related field 2+ years of production level experience in one of: Java, Scala, C++, or similar language. Experience developing large-scale distributed systems. Experience working on a SaaS platform or with Service-Oriented Architectures. Good knowledge of SQL. About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 \u2014 rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . Our Commitment to Diversity and Inclusion At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered wi",
     "notes": "Dept: Engineering - Pipeline. Via Greenhouse board.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-09-26"
@@ -1338,16 +1338,16 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Platform Engineer",
+    "job_title": "Senior Forward Deployed Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-07-23",
     "last_seen": "2026-09-26"
   },
   {
@@ -2334,6 +2334,21 @@
     "last_seen": "2026-09-26"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Platform Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-26",
+    "stale": true
+  },
+  {
     "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
     "job_title": "AI Enabled Modernization - Agentic Software Engineer - Vice President (Seattle, WA)\nSeattle\u00b7United States\n\u00b7Vice Presiden",
     "location": "Netherlands",
@@ -2375,21 +2390,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-17",
-    "last_seen": "2026-09-26",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Forward Deployed Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-23",
     "last_seen": "2026-09-26",
     "stale": true
   },
