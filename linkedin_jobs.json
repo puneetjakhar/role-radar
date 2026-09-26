@@ -28,6 +28,20 @@
     "last_seen": "2026-09-26"
   },
   {
+    "company": "BproCare",
+    "job_title": "Senior Back-end Developer",
+    "location": "Apeldoorn, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4461995397",
+    "job_url": "https://www.linkedin.com/jobs/view/4461995397",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-26"
+  },
+  {
     "company": "Coda",
     "job_title": "Senior Fullstack Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -291,20 +305,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-19",
-    "last_seen": "2026-09-26"
-  },
-  {
-    "company": "BproCare",
-    "job_title": "Senior Back-end Developer",
-    "location": "Apeldoorn, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4461995397",
-    "job_url": "https://www.linkedin.com/jobs/view/4461995397",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-04",
     "last_seen": "2026-09-26"
   },
   {
@@ -770,20 +770,6 @@
     "last_seen": "2026-09-26"
   },
   {
-    "company": "Doghouse Recruitment",
-    "job_title": "Platform Engineer",
-    "location": "Hilversum, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469437756",
-    "job_url": "https://www.linkedin.com/jobs/view/4469437756",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-23",
-    "last_seen": "2026-09-26"
-  },
-  {
     "company": "Kyndryl",
     "job_title": "Azure Platform Engineer for APS",
     "location": "North Holland, Netherlands",
@@ -868,6 +854,20 @@
     "last_seen": "2026-09-26"
   },
   {
+    "company": "Energie Data Services Nederland (EDSN) B.V.",
+    "job_title": "Cloud Platform Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4363015026",
+    "job_url": "https://www.linkedin.com/jobs/view/4363015026",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-09-26"
+  },
+  {
     "company": "ClickHouse",
     "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
     "location": "",
@@ -893,6 +893,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-03",
+    "last_seen": "2026-09-26"
+  },
+  {
+    "company": "Channable",
+    "job_title": "Python Software Engineer -  AI team",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4454702624",
+    "job_url": "https://www.linkedin.com/jobs/view/4454702624",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-18",
     "last_seen": "2026-09-26"
   },
   {
@@ -1204,20 +1218,6 @@
     "last_seen": "2026-09-26"
   },
   {
-    "company": "Channable",
-    "job_title": "Python Software Engineer -  AI team",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4454702624",
-    "job_url": "https://www.linkedin.com/jobs/view/4454702624",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-09-26"
-  },
-  {
     "company": "Picnic Technologies",
     "job_title": "Staff AI Engineer - Agentic Shopping",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1271,6 +1271,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-15",
+    "last_seen": "2026-09-26"
+  },
+  {
+    "company": "Bluebird",
+    "job_title": "Lead Frontend Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472039006",
+    "job_url": "https://www.linkedin.com/jobs/view/4472039006",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
     "last_seen": "2026-09-26"
   },
   {
@@ -1526,18 +1540,19 @@
     "last_seen": "2026-09-26"
   },
   {
-    "company": "Bluebird",
-    "job_title": "Lead Frontend Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472039006",
-    "job_url": "https://www.linkedin.com/jobs/view/4472039006",
+    "company": "Doghouse Recruitment",
+    "job_title": "Platform Engineer",
+    "location": "Hilversum, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469437756",
+    "job_url": "https://www.linkedin.com/jobs/view/4469437756",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "nan",
+    "date_posted": "2026-09-23",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-26"
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-26",
+    "stale": true
   },
   {
     "company": "Venquis",
@@ -1776,21 +1791,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-26",
-    "stale": true
-  },
-  {
-    "company": "Energie Data Services Nederland (EDSN) B.V.",
-    "job_title": "Cloud Platform Engineer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4363015026",
-    "job_url": "https://www.linkedin.com/jobs/view/4363015026",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-04",
     "last_seen": "2026-09-26",
     "stale": true
   },
