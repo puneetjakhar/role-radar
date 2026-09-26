@@ -350,6 +350,20 @@
     "last_seen": "2026-09-26"
   },
   {
+    "company": "Dyflexis",
+    "job_title": "Senior Backend Engineer (PHP)",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471882181",
+    "job_url": "https://www.linkedin.com/jobs/view/4471882181",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-26"
+  },
+  {
     "company": "Tellent",
     "job_title": "Senior Backend Developer (Elixir)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -501,20 +515,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-20",
-    "last_seen": "2026-09-26"
-  },
-  {
-    "company": "Dyflexis",
-    "job_title": "Senior Backend Engineer (PHP)",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471882181",
-    "job_url": "https://www.linkedin.com/jobs/view/4471882181",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
     "last_seen": "2026-09-26"
   },
   {
@@ -840,20 +840,6 @@
     "last_seen": "2026-09-26"
   },
   {
-    "company": "ClickHouse",
-    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469895781",
-    "job_url": "https://www.linkedin.com/jobs/view/4469895781",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-21",
-    "last_seen": "2026-09-26"
-  },
-  {
     "company": "Kabisa - Software Artisans",
     "job_title": "DevOps Engineer",
     "location": "Weert, Limburg, Netherlands",
@@ -893,6 +879,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-17",
+    "last_seen": "2026-09-26"
+  },
+  {
+    "company": "ClickHouse",
+    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472034887",
+    "job_url": "https://www.linkedin.com/jobs/view/4472034887",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
     "last_seen": "2026-09-26"
   },
   {
@@ -1571,14 +1571,14 @@
     "company": "ClickHouse",
     "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
     "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472034887",
-    "job_url": "https://www.linkedin.com/jobs/view/4472034887",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469895781",
+    "job_url": "https://www.linkedin.com/jobs/view/4469895781",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "nan",
+    "date_posted": "2026-09-21",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
+    "first_seen": "2026-09-21",
     "last_seen": "2026-09-26",
     "stale": true
   },
