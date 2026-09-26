@@ -1,5 +1,19 @@
 [
   {
+    "company": "Picnic Technologies",
+    "job_title": "Senior Software Engineer (Java) - Warehouse Systems",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4416924144",
+    "job_url": "https://www.linkedin.com/jobs/view/4416924144",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-09-26"
+  },
+  {
     "company": "Flow Traders",
     "job_title": "Senior Software Engineer, C++ , Core Platform",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -126,6 +140,20 @@
     "last_seen": "2026-09-26"
   },
   {
+    "company": "CNN",
+    "job_title": "Senior Software Engineer - tvOS",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4462153929",
+    "job_url": "https://www.linkedin.com/jobs/view/4462153929",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-26"
+  },
+  {
     "company": "Just Eat Takeaway.com",
     "job_title": "Senior Fullstack Java Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -238,20 +266,6 @@
     "last_seen": "2026-09-26"
   },
   {
-    "company": "Venquis",
-    "job_title": "Senior Java Developer",
-    "location": "Nieuwegein, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4468755922",
-    "job_url": "https://www.linkedin.com/jobs/view/4468755922",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-26"
-  },
-  {
     "company": "Eye Security",
     "job_title": "Senior Software Engineer (m/f/x)",
     "location": "",
@@ -263,20 +277,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-03",
-    "last_seen": "2026-09-26"
-  },
-  {
-    "company": "Picnic Technologies",
-    "job_title": "Senior Software Engineer (Java) - Warehouse Systems",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4416924144",
-    "job_url": "https://www.linkedin.com/jobs/view/4416924144",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-10",
     "last_seen": "2026-09-26"
   },
   {
@@ -896,6 +896,20 @@
     "last_seen": "2026-09-26"
   },
   {
+    "company": "ABN AMRO Bank N.V.",
+    "job_title": "AI Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4413993285",
+    "job_url": "https://www.linkedin.com/jobs/view/4413993285",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-09-26"
+  },
+  {
     "company": "Witteveen+Bos",
     "job_title": "AI Enginer",
     "location": "Deventer, Overijssel, Netherlands",
@@ -1201,20 +1215,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-09-26"
-  },
-  {
-    "company": "ABN AMRO Bank N.V.",
-    "job_title": "AI Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4413993285",
-    "job_url": "https://www.linkedin.com/jobs/view/4413993285",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-05",
     "last_seen": "2026-09-26"
   },
   {
@@ -1540,6 +1540,21 @@
     "last_seen": "2026-09-26"
   },
   {
+    "company": "Venquis",
+    "job_title": "Senior Java Developer",
+    "location": "Nieuwegein, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4468755922",
+    "job_url": "https://www.linkedin.com/jobs/view/4468755922",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-26",
+    "stale": true
+  },
+  {
     "company": "Plumerai",
     "job_title": "Deep Learning Research Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1596,21 +1611,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-04",
-    "last_seen": "2026-09-26",
-    "stale": true
-  },
-  {
-    "company": "CNN",
-    "job_title": "Senior Software Engineer - tvOS",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4462153929",
-    "job_url": "https://www.linkedin.com/jobs/view/4462153929",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-03",
     "last_seen": "2026-09-26",
     "stale": true
   },

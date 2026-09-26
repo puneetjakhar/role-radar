@@ -756,20 +756,6 @@
     "last_seen": "2026-09-26"
   },
   {
-    "company": "elasticsearch B.V.",
-    "job_title": "Senior Solutions Architect - SIEM",
-    "location": "The Netherlands, Netherlands",
-    "careers_url": "https://jobs.elastic.co/#/",
-    "job_url": "https://jobs.elastic.co/jobs?gh_jid=8156268&gh_jid=8156268",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-01",
-    "description": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2014 Elastic\u2019s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI. What is The Role As a Security Specialist Solutions Architect, you will bring deep expertise in SIEM solutions, security technologies, and consultative selling to support customers in securing their data and infrastructure. You will bring to bear your knowledge of vendor ecosystems, security architectures, and operational processes to help customers solve complex challenges, enhance incident response, and build modern, scalable security solutions. Joining Elastic Means Joining a Company That: Empowers you to make a real impact: Your work will directly influence the success of organizations worldwide, helping them unlock new opportunities and make insightful decisions. Offers unparalleled growth opportunities: We cultivate a culture of learning and provide access to world-class training programs and innovative technology. Connects you with hardworking individuals: Collaborate with a team with varied strengths of engineers, data scientists, and industry experts who are passionate about pushing the boundaries of security analytics and AI-powered solutions. Rewards you for your contributions: Enjoy a competitive compensation and benefits package that reflects your talent and dedication. Learn More: Our Mission: To help people understand their data and align with their desired outcomes Our Values: Collaboration, Willingness, Customer Focus, and Innovation. Our Culture: We're a team with varied strengths of hardworking individuals united by a common goal: to make the world a more informed place. What You Will Be Doing Architect next-generation security solutions: Design and implement innovative solutions using Elastic's latest advancements in AI, to help improve incident response Harness the power of the Elastic Security Solution to enable organizations to achieve their use case requirements and improve overall operational efficiency Deliver compelling proof-of-value (POV) projects: Showcase the value of Elastic Security\u2019s detection, AI, and Incident Response capabilities, demonstrating the potential to improve the analyst experience and shorten the time it takes for an analyst to make an informed decision. Be a leader with a point of view and promote our vision: Share your expertise through presentations, blog posts, and other channels, positioning Elastic as the leader in SIEM and Analytics Champion collaboration and knowledge sha",
-    "notes": "Dept: SA - EMEA - SIEM. Via Greenhouse board.",
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-09-26"
-  },
-  {
     "company": "Mollie B.V.",
     "job_title": "Engineering Manager",
     "location": "Amsterdam",
@@ -2388,6 +2374,21 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-09-26"
+  },
+  {
+    "company": "elasticsearch B.V.",
+    "job_title": "Senior Solutions Architect - SIEM",
+    "location": "The Netherlands, Netherlands",
+    "careers_url": "https://jobs.elastic.co/#/",
+    "job_url": "https://jobs.elastic.co/jobs?gh_jid=8156268&gh_jid=8156268",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-01",
+    "description": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2014 Elastic\u2019s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI. What is The Role As a Security Specialist Solutions Architect, you will bring deep expertise in SIEM solutions, security technologies, and consultative selling to support customers in securing their data and infrastructure. You will bring to bear your knowledge of vendor ecosystems, security architectures, and operational processes to help customers solve complex challenges, enhance incident response, and build modern, scalable security solutions. Joining Elastic Means Joining a Company That: Empowers you to make a real impact: Your work will directly influence the success of organizations worldwide, helping them unlock new opportunities and make insightful decisions. Offers unparalleled growth opportunities: We cultivate a culture of learning and provide access to world-class training programs and innovative technology. Connects you with hardworking individuals: Collaborate with a team with varied strengths of engineers, data scientists, and industry experts who are passionate about pushing the boundaries of security analytics and AI-powered solutions. Rewards you for your contributions: Enjoy a competitive compensation and benefits package that reflects your talent and dedication. Learn More: Our Mission: To help people understand their data and align with their desired outcomes Our Values: Collaboration, Willingness, Customer Focus, and Innovation. Our Culture: We're a team with varied strengths of hardworking individuals united by a common goal: to make the world a more informed place. What You Will Be Doing Architect next-generation security solutions: Design and implement innovative solutions using Elastic's latest advancements in AI, to help improve incident response Harness the power of the Elastic Security Solution to enable organizations to achieve their use case requirements and improve overall operational efficiency Deliver compelling proof-of-value (POV) projects: Showcase the value of Elastic Security\u2019s detection, AI, and Incident Response capabilities, demonstrating the potential to improve the analyst experience and shorten the time it takes for an analyst to make an informed decision. Be a leader with a point of view and promote our vision: Share your expertise through presentations, blog posts, and other channels, positioning Elastic as the leader in SIEM and Analytics Champion collaboration and knowledge sha",
+    "notes": "Dept: SA - EMEA - SIEM. Via Greenhouse board.",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-26",
+    "stale": true
   },
   {
     "company": "Takeaway.com Group B.V.",
