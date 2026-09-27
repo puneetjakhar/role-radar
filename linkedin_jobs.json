@@ -84,20 +84,6 @@
     "last_seen": "2026-09-27"
   },
   {
-    "company": "ASN Bank",
-    "job_title": "Senior Java Developer",
-    "location": "The Randstad, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4461952414",
-    "job_url": "https://www.linkedin.com/jobs/view/4461952414",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-27"
-  },
-  {
     "company": "Coda",
     "job_title": "Senior Fullstack Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -336,6 +322,20 @@
     "last_seen": "2026-09-27"
   },
   {
+    "company": "Virtual Vaults",
+    "job_title": "Senior Full Stack Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469855624",
+    "job_url": "https://www.linkedin.com/jobs/view/4469855624",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-27"
+  },
+  {
     "company": "Eye Security",
     "job_title": "Senior Software Engineer (m/f/x)",
     "location": "",
@@ -375,6 +375,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
+    "last_seen": "2026-09-27"
+  },
+  {
+    "company": "ASN Bank",
+    "job_title": "Senior Java Developer",
+    "location": "The Randstad, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4461952414",
+    "job_url": "https://www.linkedin.com/jobs/view/4461952414",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-04",
     "last_seen": "2026-09-27"
   },
   {
@@ -532,17 +546,17 @@
     "last_seen": "2026-09-27"
   },
   {
-    "company": "Rabobank",
-    "job_title": "Dev Ops Engineer C Back-end engineer Conversational AI",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469879067",
-    "job_url": "https://www.linkedin.com/jobs/view/4469879067",
+    "company": "elockers",
+    "job_title": "Back End Developer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467612334",
+    "job_url": "https://www.linkedin.com/jobs/view/4467612334",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-21",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-21",
+    "first_seen": "2026-09-23",
     "last_seen": "2026-09-27"
   },
   {
@@ -560,17 +574,17 @@
     "last_seen": "2026-09-27"
   },
   {
-    "company": "ClickHouse",
-    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472034887",
-    "job_url": "https://www.linkedin.com/jobs/view/4472034887",
+    "company": "Jumbo Supermarkten",
+    "job_title": "AI Platform Engineer",
+    "location": "Veghel, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4424099334",
+    "job_url": "https://www.linkedin.com/jobs/view/4424099334",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-09-25",
+    "date_posted": "2026-09-26",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
+    "first_seen": "2026-06-03",
     "last_seen": "2026-09-27"
   },
   {
@@ -840,6 +854,20 @@
     "last_seen": "2026-09-27"
   },
   {
+    "company": "ClickHouse",
+    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469895781",
+    "job_url": "https://www.linkedin.com/jobs/view/4469895781",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-27"
+  },
+  {
     "company": "Kabisa - Software Artisans",
     "job_title": "DevOps Engineer",
     "location": "Weert, Limburg, Netherlands",
@@ -851,20 +879,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-21",
-    "last_seen": "2026-09-27"
-  },
-  {
-    "company": "Dustin",
-    "job_title": "Infra Platform Engineer",
-    "location": "Nijmegen, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4433837513",
-    "job_url": "https://www.linkedin.com/jobs/view/4433837513",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-07",
     "last_seen": "2026-09-27"
   },
   {
@@ -1498,20 +1512,6 @@
     "last_seen": "2026-09-27"
   },
   {
-    "company": "Twelve",
-    "job_title": "Senior Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4461160943",
-    "job_url": "https://www.linkedin.com/jobs/view/4461160943",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-27"
-  },
-  {
     "company": "Intralox",
     "job_title": "Sensing and Vision Engineer",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -1552,6 +1552,66 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-16",
     "last_seen": "2026-09-27"
+  },
+  {
+    "company": "Rabobank",
+    "job_title": "Dev Ops Engineer C Back-end engineer Conversational AI",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469879067",
+    "job_url": "https://www.linkedin.com/jobs/view/4469879067",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-27",
+    "stale": true
+  },
+  {
+    "company": "ClickHouse",
+    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472034887",
+    "job_url": "https://www.linkedin.com/jobs/view/4472034887",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-27",
+    "stale": true
+  },
+  {
+    "company": "Dustin",
+    "job_title": "Infra Platform Engineer",
+    "location": "Nijmegen, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4433837513",
+    "job_url": "https://www.linkedin.com/jobs/view/4433837513",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-09-27",
+    "stale": true
+  },
+  {
+    "company": "Twelve",
+    "job_title": "Senior Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4461160943",
+    "job_url": "https://www.linkedin.com/jobs/view/4461160943",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-27",
+    "stale": true
   },
   {
     "company": "Doghouse Recruitment",
@@ -1599,21 +1659,6 @@
     "stale": true
   },
   {
-    "company": "ClickHouse",
-    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469895781",
-    "job_url": "https://www.linkedin.com/jobs/view/4469895781",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-21",
-    "last_seen": "2026-09-27",
-    "stale": true
-  },
-  {
     "company": "&Work",
     "job_title": "Software Engineer AI bij Zypp",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1640,21 +1685,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-04",
-    "last_seen": "2026-09-27",
-    "stale": true
-  },
-  {
-    "company": "Jumbo Supermarkten",
-    "job_title": "AI Platform Engineer",
-    "location": "Veghel, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4424099334",
-    "job_url": "https://www.linkedin.com/jobs/view/4424099334",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-03",
     "last_seen": "2026-09-27",
     "stale": true
   },
@@ -2004,21 +2034,6 @@
     "stale": true
   },
   {
-    "company": "Virtual Vaults",
-    "job_title": "Senior Full Stack Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469855624",
-    "job_url": "https://www.linkedin.com/jobs/view/4469855624",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
     "company": "VodafoneZiggo",
     "job_title": "Senior Fullstack Developer App Backend Platform (NestJS/Node.js)",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -2075,21 +2090,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-22",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
-    "company": "elockers",
-    "job_title": "Back End Developer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467612334",
-    "job_url": "https://www.linkedin.com/jobs/view/4467612334",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-23",
     "last_seen": "2026-09-25",
     "stale": true
   },
