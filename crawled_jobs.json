@@ -1325,16 +1325,16 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Platform Engineer",
+    "job_title": "Senior Forward Deployed Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-07-23",
     "last_seen": "2026-09-27"
   },
   {
@@ -2321,6 +2321,21 @@
     "last_seen": "2026-09-27"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Platform Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-27",
+    "stale": true
+  },
+  {
     "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
     "job_title": "Risk-Salt Lake City-Associate, Software Engineering-10415577\nSalt Lake City\u00b7United States\n\u00b7Associate",
     "location": "Netherlands",
@@ -2406,21 +2421,6 @@
     "date_posted": "2026-09-04",
     "notes": "Via iCIMS/Jibe API.",
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-27",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Forward Deployed Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-23",
     "last_seen": "2026-09-27",
     "stale": true
   },
