@@ -924,20 +924,6 @@
     "last_seen": "2026-09-27"
   },
   {
-    "company": "Witteveen+Bos",
-    "job_title": "AI Enginer",
-    "location": "Deventer, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471878384",
-    "job_url": "https://www.linkedin.com/jobs/view/4471878384",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-27"
-  },
-  {
     "company": "Sia",
     "job_title": "Machine learning Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1033,6 +1019,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-04",
+    "last_seen": "2026-09-27"
+  },
+  {
+    "company": "Jobgether",
+    "job_title": "Senior Machine Learning Engineer, LLM Inference Optimization",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469738192",
+    "job_url": "https://www.linkedin.com/jobs/view/4469738192",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-24",
     "last_seen": "2026-09-27"
   },
   {
@@ -1526,6 +1526,21 @@
     "last_seen": "2026-09-27"
   },
   {
+    "company": "Witteveen+Bos",
+    "job_title": "AI Enginer",
+    "location": "Deventer, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471878384",
+    "job_url": "https://www.linkedin.com/jobs/view/4471878384",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-27",
+    "stale": true
+  },
+  {
     "company": "ClickHouse",
     "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
     "location": "",
@@ -1702,21 +1717,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-26",
-    "stale": true
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Senior Machine Learning Engineer, LLM Inference Optimization",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469738192",
-    "job_url": "https://www.linkedin.com/jobs/view/4469738192",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
     "last_seen": "2026-09-26",
     "stale": true
   },
