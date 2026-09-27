@@ -1712,6 +1712,20 @@
     "last_seen": "2026-09-27"
   },
   {
+    "company": "ElevenLabs",
+    "job_title": "Forward Deployed Engineer - Software Engineer - Netherlands",
+    "location": "Netherlands",
+    "careers_url": "https://jobs.ashbyhq.com/elevenlabs",
+    "job_url": "https://jobs.ashbyhq.com/elevenlabs/50d20869-819d-4ae3-be8d-71c3c9bf3394",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-10",
+    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $11B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don\u2019t have job titles. Instead, it\u2019s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company\u2014from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You\u2019ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what\u2019s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you\u2019re not located near one of our main hubs, we offer a monthly co-working stipend. This role is remote, so it can be executed globally. About the role You\u2019ll use your creativity, problem-solving, and technical expertise to design tailored solutions that make a real impact. Embedded with our most strategic customers, you\u2019ll get a front-row seat to some of our highest-stakes projects. From brainstorming technical architectures and product features to building full-scale integrations, you\u2019",
+    "notes": "Via Ashby API.",
+    "first_seen": "2026-08-10",
+    "last_seen": "2026-09-27"
+  },
+  {
     "company": "Bending Spoons",
     "job_title": "Graduate AI software engineer\n\nMilan (Italy), London (UK), Madrid (Spain), Warsaw (Poland), or fully remote from eligibl",
     "location": "Netherlands",
@@ -2062,20 +2076,6 @@
     "last_seen": "2026-09-27"
   },
   {
-    "company": "NewStore B.V.",
-    "job_title": "Senior DevX Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://www.newstore.com/careers/",
-    "job_url": "https://careers.newstore.com/jobs/5378566-senior-devx-engineer?utm_campaign=jobs-widget&utm_source=careers.newstore.com&utm_content=jobs&utm_medium=web",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-09-27"
-  },
-  {
     "company": "Brain Corporation B.V.",
     "job_title": "Software Engineer II, Cloud",
     "location": "Utrecht, Netherlands",
@@ -2307,6 +2307,21 @@
     "last_seen": "2026-09-27"
   },
   {
+    "company": "NewStore B.V.",
+    "job_title": "Senior DevX Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://www.newstore.com/careers/",
+    "job_url": "https://careers.newstore.com/jobs/5378566-senior-devx-engineer?utm_campaign=jobs-widget&utm_source=careers.newstore.com&utm_content=jobs&utm_medium=web",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-09-27",
+    "stale": true
+  },
+  {
     "company": "TomTom International B.V.",
     "job_title": "AI Engineer",
     "location": "Amsterdam, The Netherlands",
@@ -2348,21 +2363,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-27",
-    "stale": true
-  },
-  {
-    "company": "ElevenLabs",
-    "job_title": "Forward Deployed Engineer - Software Engineer - Netherlands",
-    "location": "Netherlands",
-    "careers_url": "https://jobs.ashbyhq.com/elevenlabs",
-    "job_url": "https://jobs.ashbyhq.com/elevenlabs/50d20869-819d-4ae3-be8d-71c3c9bf3394",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-10",
-    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $11B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don\u2019t have job titles. Instead, it\u2019s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company\u2014from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You\u2019ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what\u2019s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you\u2019re not located near one of our main hubs, we offer a monthly co-working stipend. This role is remote, so it can be executed globally. About the role You\u2019ll use your creativity, problem-solving, and technical expertise to design tailored solutions that make a real impact. Embedded with our most strategic customers, you\u2019ll get a front-row seat to some of our highest-stakes projects. From brainstorming technical architectures and product features to building full-scale integrations, you\u2019",
-    "notes": "Via Ashby API.",
-    "first_seen": "2026-08-10",
     "last_seen": "2026-09-27",
     "stale": true
   },
