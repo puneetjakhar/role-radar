@@ -784,20 +784,6 @@
     "last_seen": "2026-09-27"
   },
   {
-    "company": "Doghouse Recruitment",
-    "job_title": "Platform Engineer",
-    "location": "Hilversum, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469437756",
-    "job_url": "https://www.linkedin.com/jobs/view/4469437756",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-23",
-    "last_seen": "2026-09-27"
-  },
-  {
     "company": "Kyndryl",
     "job_title": "Azure Platform Engineer for APS",
     "location": "North Holland, Netherlands",
@@ -879,6 +865,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-07",
+    "last_seen": "2026-09-27"
+  },
+  {
+    "company": "Energie Data Services Nederland (EDSN) B.V.",
+    "job_title": "Cloud Platform Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4363015026",
+    "job_url": "https://www.linkedin.com/jobs/view/4363015026",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-04",
     "last_seen": "2026-09-27"
   },
   {
@@ -1554,6 +1554,21 @@
     "last_seen": "2026-09-27"
   },
   {
+    "company": "Doghouse Recruitment",
+    "job_title": "Platform Engineer",
+    "location": "Hilversum, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469437756",
+    "job_url": "https://www.linkedin.com/jobs/view/4469437756",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-27",
+    "stale": true
+  },
+  {
     "company": "Airwallex",
     "job_title": "Senior Software Engineer, Payments Platform",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1619,21 +1634,6 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4341929909",
     "job_url": "https://www.linkedin.com/jobs/view/4341929909",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-04",
-    "last_seen": "2026-09-27",
-    "stale": true
-  },
-  {
-    "company": "Energie Data Services Nederland (EDSN) B.V.",
-    "job_title": "Cloud Platform Engineer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4363015026",
-    "job_url": "https://www.linkedin.com/jobs/view/4363015026",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-20",
