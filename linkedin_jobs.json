@@ -588,6 +588,20 @@
     "last_seen": "2026-09-27"
   },
   {
+    "company": "ClickHouse",
+    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472034887",
+    "job_url": "https://www.linkedin.com/jobs/view/4472034887",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-27"
+  },
+  {
     "company": "Centraal Bureau voor de Statistiek",
     "job_title": "IAM Platform Engineer - PKI & Cloud Native",
     "location": "Heerlen, Limburg, Netherlands",
@@ -613,6 +627,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
+    "last_seen": "2026-09-27"
+  },
+  {
+    "company": "Infoplus Technologies UK Limited",
+    "job_title": "DevOps Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472051542",
+    "job_url": "https://www.linkedin.com/jobs/view/4472051542",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-27",
     "last_seen": "2026-09-27"
   },
   {
@@ -854,20 +882,6 @@
     "last_seen": "2026-09-27"
   },
   {
-    "company": "ClickHouse",
-    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469895781",
-    "job_url": "https://www.linkedin.com/jobs/view/4469895781",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-21",
-    "last_seen": "2026-09-27"
-  },
-  {
     "company": "Kabisa - Software Artisans",
     "job_title": "DevOps Engineer",
     "location": "Weert, Limburg, Netherlands",
@@ -879,20 +893,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-21",
-    "last_seen": "2026-09-27"
-  },
-  {
-    "company": "Energie Data Services Nederland (EDSN) B.V.",
-    "job_title": "Cloud Platform Engineer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4363015026",
-    "job_url": "https://www.linkedin.com/jobs/view/4363015026",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-04",
     "last_seen": "2026-09-27"
   },
   {
@@ -1554,6 +1554,36 @@
     "last_seen": "2026-09-27"
   },
   {
+    "company": "ClickHouse",
+    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469895781",
+    "job_url": "https://www.linkedin.com/jobs/view/4469895781",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-27",
+    "stale": true
+  },
+  {
+    "company": "Energie Data Services Nederland (EDSN) B.V.",
+    "job_title": "Cloud Platform Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4363015026",
+    "job_url": "https://www.linkedin.com/jobs/view/4363015026",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-09-27",
+    "stale": true
+  },
+  {
     "company": "Rabobank",
     "job_title": "Dev Ops Engineer C Back-end engineer Conversational AI",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -1565,21 +1595,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-21",
-    "last_seen": "2026-09-27",
-    "stale": true
-  },
-  {
-    "company": "ClickHouse",
-    "job_title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472034887",
-    "job_url": "https://www.linkedin.com/jobs/view/4472034887",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
     "last_seen": "2026-09-27",
     "stale": true
   },
