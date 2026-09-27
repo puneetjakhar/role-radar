@@ -1470,20 +1470,6 @@
     "last_seen": "2026-09-27"
   },
   {
-    "company": "Kake",
-    "job_title": "Senior Rust Engineer - Remote",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4457259841",
-    "job_url": "https://www.linkedin.com/jobs/view/4457259841",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-27",
-    "last_seen": "2026-09-27"
-  },
-  {
     "company": "Cisco",
     "job_title": "Principal Software Engineer, Linux Kernel - Isovalent",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1524,6 +1510,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-04",
     "last_seen": "2026-09-27"
+  },
+  {
+    "company": "Kake",
+    "job_title": "Senior Rust Engineer - Remote",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4457259841",
+    "job_url": "https://www.linkedin.com/jobs/view/4457259841",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-09-27",
+    "stale": true
   },
   {
     "company": "Eye Security",
