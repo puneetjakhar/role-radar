@@ -1187,6 +1187,34 @@
     "last_seen": "2026-09-27"
   },
   {
+    "company": "TomTom International B.V.",
+    "job_title": "AI Engineer",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/d9539765-6999-4902-a6bf-e969d5b1d23f/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [\"We're looking for a skilled Software Engineer to join our team and help us build a production-ready AI product for TomTom. The work is full-stack, covering everything from new feature development to infrastructure and client-side integration.\"], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"New Feature Development: Design, implement, and deploy new features using Python to enhance our core AI functionalities.\"}, {\"text\": \"DevOps and MLOps: Contribute to the development and maintenance of our CI/CD pipelines and MLOps infrastructure. This includes automating model training, deployment, and monitoring processes to ensure product resilience and scalability.\"}, {\"text\": \"In-house Evaluation System: Develop and improve our internal evaluation system to accurately measure model performance, track key metrics, and ensure data integrity.\"}, {\"text\": \"Integration and Deployment: Manage the integration of our AI solution into client environments.\"}, {\"text\": \"AI Model Improvement: Work with our existing models to enhance their performance and efficiency. This will include tasks like fine-tuning large language models and applying advanced prompt engineering techniques.\"}, {\"text\": \"R&D Contributions: Participate in short-term research and development projects to explore new technologies and approaches that can give our product a competitive edge.\"}, {\"text\": \"Product Hardening: Take ownership of tasks focused on making the product production-ready, including improving reliability, enhancing performance, and implementing robust error handling and monitoring.\"}]}, {\"title\": \"What experience you'll need\", \"items\": [{\"text\": \"Python Development: Building new features and improving existing ones.\"}, {\"text\": \"DevOps and MLOps: Managing CI/CD pipelines and automating model deployment.\"}, {\"text\": \"Client Integration: Working on client-side integration\"}, {\"text\": \"Evaluation Systems: Developing in-house systems to monitor and measure model performance.\"}, {\"text\": \"AI/ML Techniques: Applying fine-tuning and prompt engineering to enhance model performance.\"}, {\"text\": \"Production Readiness: Making the product resilient and ready for production, including performance optimization and robust error handling.\"}]}], \"closing\": []}",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-09-27"
+  },
+  {
+    "company": "TomTom International B.V.",
+    "job_title": "Platform Engineer - Observability",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/c99537c7-0a5f-4eb9-8230-f2aab8236691/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [\"Observability Platform is responsible for managing the capabilities that help identify the issues within TomTom\\u2019s online products and ensure they are timely fixed to enable best customer experience. We drive improving the quality and effectiveness of the service and aim to enable self-service for our users through system engineering and software development.\\u00a0\\n\\u00a0\\nAs an SRE you will work on addressing reliability, availability, scalability, efficiency for your team and\\u00a0the rest\\u00a0of the company.\"], \"sections\": [{\"title\": \"What you\\u2019ll do: \", \"items\": [{\"text\": \"You will contribute to the architecture, design, standards, and implementation of new and existing observability systems to enhance their reliability, efficiency, and scalability with a high level of autonomy.\"}, {\"text\": \"You will manage existing Observability tools and help customers master them.\"}, {\"text\": \"You will scale systems and increase their reliability in a diverse environment ensuring the mission critical systems meet 99.95 % SLOs.\"}, {\"text\": \"You will participate in an on-call rotation with a sustainable schedule and strong tooling\"}, {\"text\": \"You will be an important part of the Incident Management process and will help improve TomTom\\u2019s MTTR.\"}, {\"text\": \"You will support navigation tooling in the world.\"}]}, {\"title\": \"What you\\u2019ll need: \", \"items\": [{\"text\": \"At least 2 years of experience working in SRE/Platform/Infra organizations with cloud-native infrastructure, including Kubernetes on public cloud platforms and related technologies and tooling for cloud runtime platforms\"}, {\"text\": \"Experience managing a wide scale vendor and/or self-hosted Observability tools responsible for at least several following areas: logs, metrics, traces, black box monitoring and alerting.\"}, {\"text\": \"Proficiency in modern coding/infrastructure related languages such as Python or similar\"}, {\"text\": \"GitOps practices and infrastructure automation, including infrastructure as code. Building tooling around Kubernetes (Helm/Operators/CRDs a plus)\"}, {\"text\": \"Experience with SRE best practices, observability, incident management and SLIs.\"}, {\"text\": \"Experience with Cloud-native architecture, technology, engineering, and operations (CNCF)\"}, {\"text\": \"Understanding of security, privacy, and compliance essentials\"}, {\"text\": \"Strong fundamentals Linux, containers, networking (TCP/IP, DNS, TLS), distributed systems knowledge\"}]}, {\"title\": \"General skills and experience:\", \"items\": [{\"text\": \"Experience building and operating mission critical systems.\"}, {\"text\": \"Product mindset\"}, {\"text\": \"Excellent communication and collaboration skills\"}]}, {\"title\": \"Nice to have: \", \"items\": [{\"text\": \"CI/CD technologies, including source code management (GitHub), pipelines, secrets, artefacts.\"}, {\"text\": \"Experience with OpenTelemetry.\"}, {\"text\": \"BSc in computer engineering or equivalent desirable\"}, {\"text\": \"Customer support experience\"}]}], \"closing",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-09-27"
+  },
+  {
     "company": "Tiqets International B.V.",
     "job_title": "Senior Platform Engineer\n\nFull-time\n\nAmsterdam",
     "location": "Netherlands",
@@ -2965,21 +2993,6 @@
     "stale": true
   },
   {
-    "company": "TomTom International B.V.",
-    "job_title": "Platform Engineer - Observability",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/c99537c7-0a5f-4eb9-8230-f2aab8236691/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [\"Observability Platform is responsible for managing the capabilities that help identify the issues within TomTom\\u2019s online products and ensure they are timely fixed to enable best customer experience. We drive improving the quality and effectiveness of the service and aim to enable self-service for our users through system engineering and software development.\\u00a0\\n\\u00a0\\nAs an SRE you will work on addressing reliability, availability, scalability, efficiency for your team and\\u00a0the rest\\u00a0of the company.\"], \"sections\": [{\"title\": \"What you\\u2019ll do: \", \"items\": [{\"text\": \"You will contribute to the architecture, design, standards, and implementation of new and existing observability systems to enhance their reliability, efficiency, and scalability with a high level of autonomy.\"}, {\"text\": \"You will manage existing Observability tools and help customers master them.\"}, {\"text\": \"You will scale systems and increase their reliability in a diverse environment ensuring the mission critical systems meet 99.95 % SLOs.\"}, {\"text\": \"You will participate in an on-call rotation with a sustainable schedule and strong tooling\"}, {\"text\": \"You will be an important part of the Incident Management process and will help improve TomTom\\u2019s MTTR.\"}, {\"text\": \"You will support navigation tooling in the world.\"}]}, {\"title\": \"What you\\u2019ll need: \", \"items\": [{\"text\": \"At least 2 years of experience working in SRE/Platform/Infra organizations with cloud-native infrastructure, including Kubernetes on public cloud platforms and related technologies and tooling for cloud runtime platforms\"}, {\"text\": \"Experience managing a wide scale vendor and/or self-hosted Observability tools responsible for at least several following areas: logs, metrics, traces, black box monitoring and alerting.\"}, {\"text\": \"Proficiency in modern coding/infrastructure related languages such as Python or similar\"}, {\"text\": \"GitOps practices and infrastructure automation, including infrastructure as code. Building tooling around Kubernetes (Helm/Operators/CRDs a plus)\"}, {\"text\": \"Experience with SRE best practices, observability, incident management and SLIs.\"}, {\"text\": \"Experience with Cloud-native architecture, technology, engineering, and operations (CNCF)\"}, {\"text\": \"Understanding of security, privacy, and compliance essentials\"}, {\"text\": \"Strong fundamentals Linux, containers, networking (TCP/IP, DNS, TLS), distributed systems knowledge\"}]}, {\"title\": \"General skills and experience:\", \"items\": [{\"text\": \"Experience building and operating mission critical systems.\"}, {\"text\": \"Product mindset\"}, {\"text\": \"Excellent communication and collaboration skills\"}]}, {\"title\": \"Nice to have: \", \"items\": [{\"text\": \"CI/CD technologies, including source code management (GitHub), pipelines, secrets, artefacts.\"}, {\"text\": \"Experience with OpenTelemetry.\"}, {\"text\": \"BSc in computer engineering or equivalent desirable\"}, {\"text\": \"Customer support experience\"}]}], \"closing",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-09-24",
-    "stale": true
-  },
-  {
     "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Security Engineer",
     "location": "Netherlands",
@@ -3246,21 +3259,6 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-06",
     "last_seen": "2026-09-23",
-    "stale": true
-  },
-  {
-    "company": "TomTom International B.V.",
-    "job_title": "AI Engineer",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/d9539765-6999-4902-a6bf-e969d5b1d23f/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [\"We're looking for a skilled Software Engineer to join our team and help us build a production-ready AI product for TomTom. The work is full-stack, covering everything from new feature development to infrastructure and client-side integration.\"], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"New Feature Development: Design, implement, and deploy new features using Python to enhance our core AI functionalities.\"}, {\"text\": \"DevOps and MLOps: Contribute to the development and maintenance of our CI/CD pipelines and MLOps infrastructure. This includes automating model training, deployment, and monitoring processes to ensure product resilience and scalability.\"}, {\"text\": \"In-house Evaluation System: Develop and improve our internal evaluation system to accurately measure model performance, track key metrics, and ensure data integrity.\"}, {\"text\": \"Integration and Deployment: Manage the integration of our AI solution into client environments.\"}, {\"text\": \"AI Model Improvement: Work with our existing models to enhance their performance and efficiency. This will include tasks like fine-tuning large language models and applying advanced prompt engineering techniques.\"}, {\"text\": \"R&D Contributions: Participate in short-term research and development projects to explore new technologies and approaches that can give our product a competitive edge.\"}, {\"text\": \"Product Hardening: Take ownership of tasks focused on making the product production-ready, including improving reliability, enhancing performance, and implementing robust error handling and monitoring.\"}]}, {\"title\": \"What experience you'll need\", \"items\": [{\"text\": \"Python Development: Building new features and improving existing ones.\"}, {\"text\": \"DevOps and MLOps: Managing CI/CD pipelines and automating model deployment.\"}, {\"text\": \"Client Integration: Working on client-side integration\"}, {\"text\": \"Evaluation Systems: Developing in-house systems to monitor and measure model performance.\"}, {\"text\": \"AI/ML Techniques: Applying fine-tuning and prompt engineering to enhance model performance.\"}, {\"text\": \"Production Readiness: Making the product resilient and ready for production, including performance optimization and robust error handling.\"}]}], \"closing\": []}",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-09-22",
     "stale": true
   },
   {
