@@ -420,20 +420,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "company": "ClickHouse",
-    "job_title": "Senior Software Engineer - ClickHouse Private (Remote)",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472053056",
-    "job_url": "https://www.linkedin.com/jobs/view/4472053056",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-28"
-  },
-  {
     "company": "Adecon",
     "job_title": "Senior PHP Developer",
     "location": "Beneden-Leeuwen, Gelderland, Netherlands",
@@ -501,6 +487,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
+    "last_seen": "2026-09-28"
+  },
+  {
+    "company": "Flexport",
+    "job_title": "Senior Software Engineer, Customs",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467889989",
+    "job_url": "https://www.linkedin.com/jobs/view/4467889989",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-18",
     "last_seen": "2026-09-28"
   },
   {
@@ -868,20 +868,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "company": "Haystack",
-    "job_title": "AI Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470802330",
-    "job_url": "https://www.linkedin.com/jobs/view/4470802330",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
     "company": "Picnic Technologies",
     "job_title": "Staff AI Engineer - Agentic Shopping",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -896,6 +882,20 @@
     "last_seen": "2026-09-28"
   },
   {
+    "company": "Optiver",
+    "job_title": "AI Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4423662270",
+    "job_url": "https://www.linkedin.com/jobs/view/4423662270",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-09-28"
+  },
+  {
     "company": "ABN AMRO Bank N.V.",
     "job_title": "AI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -907,6 +907,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-05",
+    "last_seen": "2026-09-28"
+  },
+  {
+    "company": "Witteveen+Bos",
+    "job_title": "AI Enginer",
+    "location": "Deventer, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471878384",
+    "job_url": "https://www.linkedin.com/jobs/view/4471878384",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
     "last_seen": "2026-09-28"
   },
   {
@@ -1159,20 +1173,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "company": "PromptHeroes.ai",
-    "job_title": "Generative AI Engineer",
-    "location": "Oostzaan, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472786035",
-    "job_url": "https://www.linkedin.com/jobs/view/4472786035",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
   },
   {
@@ -1526,6 +1526,51 @@
     "last_seen": "2026-09-28"
   },
   {
+    "company": "ClickHouse",
+    "job_title": "Senior Software Engineer - ClickHouse Private (Remote)",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472053056",
+    "job_url": "https://www.linkedin.com/jobs/view/4472053056",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-28",
+    "stale": true
+  },
+  {
+    "company": "Haystack",
+    "job_title": "AI Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470802330",
+    "job_url": "https://www.linkedin.com/jobs/view/4470802330",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "stale": true
+  },
+  {
+    "company": "PromptHeroes.ai",
+    "job_title": "Generative AI Engineer",
+    "location": "Oostzaan, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472786035",
+    "job_url": "https://www.linkedin.com/jobs/view/4472786035",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28",
+    "stale": true
+  },
+  {
     "company": "Leitmotiv Consulting BV",
     "job_title": "Azure Cloud Engineer / Ops Engineer",
     "location": "Gouda, South Holland, Netherlands",
@@ -1567,36 +1612,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-28",
-    "stale": true
-  },
-  {
-    "company": "Optiver",
-    "job_title": "AI Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4423662270",
-    "job_url": "https://www.linkedin.com/jobs/view/4423662270",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-09-28",
-    "stale": true
-  },
-  {
-    "company": "Witteveen+Bos",
-    "job_title": "AI Enginer",
-    "location": "Deventer, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471878384",
-    "job_url": "https://www.linkedin.com/jobs/view/4471878384",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
     "last_seen": "2026-09-28",
     "stale": true
   },
@@ -2152,21 +2167,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-28",
-    "stale": true
-  },
-  {
-    "company": "Flexport",
-    "job_title": "Senior Software Engineer, Customs",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467889989",
-    "job_url": "https://www.linkedin.com/jobs/view/4467889989",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-18",
     "last_seen": "2026-09-28",
     "stale": true
   },
