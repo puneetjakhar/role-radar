@@ -1106,20 +1106,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "company": "Veldsink Groep",
-    "job_title": "AI Engineer",
-    "location": "Nuenen, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470435691",
-    "job_url": "https://www.linkedin.com/jobs/view/4470435691",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-09-28"
-  },
-  {
     "company": "Wehkamp Retail Group",
     "job_title": "AI Engineer | jij bouwt de AI in onze toepassingen | 5 vacatures",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1524,6 +1510,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-17",
     "last_seen": "2026-09-28"
+  },
+  {
+    "company": "Veldsink Groep",
+    "job_title": "AI Engineer",
+    "location": "Nuenen, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470435691",
+    "job_url": "https://www.linkedin.com/jobs/view/4470435691",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-28",
+    "stale": true
   },
   {
     "company": "Flexport",
