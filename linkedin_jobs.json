@@ -616,20 +616,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "company": "bol",
-    "job_title": "Platform Engineer - Cloud Compute",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471456933",
-    "job_url": "https://www.linkedin.com/jobs/view/4471456933",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-28"
-  },
-  {
     "company": "Stream",
     "job_title": "Senior Infrastructure Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -669,6 +655,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-24",
+    "last_seen": "2026-09-28"
+  },
+  {
+    "company": "Centraal Bureau voor de Statistiek",
+    "job_title": "DevOps engineer",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4460998256",
+    "job_url": "https://www.linkedin.com/jobs/view/4460998256",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-03",
     "last_seen": "2026-09-28"
   },
   {
@@ -1316,6 +1316,20 @@
     "last_seen": "2026-09-28"
   },
   {
+    "company": "DeepRec.ai",
+    "job_title": "System Performance Architect",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469717588",
+    "job_url": "https://www.linkedin.com/jobs/view/4469717588",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-28"
+  },
+  {
     "company": "QuantWare",
     "job_title": "Quantum R&D Engineer \u2013 Processor Development",
     "location": "Delft, South Holland, Netherlands",
@@ -1510,6 +1524,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-17",
     "last_seen": "2026-09-28"
+  },
+  {
+    "company": "bol",
+    "job_title": "Platform Engineer - Cloud Compute",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471456933",
+    "job_url": "https://www.linkedin.com/jobs/view/4471456933",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-28",
+    "stale": true
   },
   {
     "company": "Infoplus Technologies UK Limited",
@@ -1793,21 +1822,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28",
-    "stale": true
-  },
-  {
-    "company": "Centraal Bureau voor de Statistiek",
-    "job_title": "DevOps engineer",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4460998256",
-    "job_url": "https://www.linkedin.com/jobs/view/4460998256",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-03",
     "last_seen": "2026-09-28",
     "stale": true
   },
@@ -2993,21 +3007,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-06",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
-    "company": "DeepRec.ai",
-    "job_title": "System Performance Architect",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469717588",
-    "job_url": "https://www.linkedin.com/jobs/view/4469717588",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
     "last_seen": "2026-09-25",
     "stale": true
   },
