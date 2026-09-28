@@ -266,20 +266,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "company": "adesso Netherlands",
-    "job_title": "Senior Java/Kotlin Software Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469889523",
-    "job_url": "https://www.linkedin.com/jobs/view/4469889523",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-21",
-    "last_seen": "2026-09-28"
-  },
-  {
     "company": "Adyen",
     "job_title": "Senior Software Engineer (Java) - Unified Platform",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -319,6 +305,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-15",
+    "last_seen": "2026-09-28"
+  },
+  {
+    "company": "Together AI",
+    "job_title": "Senior Software Engineer \u2014 Infra Agent Systems",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4462691471",
+    "job_url": "https://www.linkedin.com/jobs/view/4462691471",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-06",
     "last_seen": "2026-09-28"
   },
   {
@@ -501,20 +501,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "company": "Together AI",
-    "job_title": "Senior Software Engineer \u2014 Infra Agent Systems",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4462691471",
-    "job_url": "https://www.linkedin.com/jobs/view/4462691471",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-06",
     "last_seen": "2026-09-28"
   },
   {
@@ -1538,6 +1524,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-17",
     "last_seen": "2026-09-28"
+  },
+  {
+    "company": "adesso Netherlands",
+    "job_title": "Senior Java/Kotlin Software Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469889523",
+    "job_url": "https://www.linkedin.com/jobs/view/4469889523",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-09-28",
+    "stale": true
   },
   {
     "company": "Bright Professionals",
