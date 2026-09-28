@@ -596,7 +596,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-03-20",
-    "description": "Job Application for Staff Research Engineer (LLM Pre-Training) at JetBrains Back to jobs Staff Research Engineer (LLM Pre-Training) Amsterdam, Netherlands; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia Apply At JetBrains, code is our passion. Ever since we started back in 2000, we have been striving to make the world\u2019s most robust and effective developer tools. By automating routine checks and corrections, our tools speed up production, freeing developers to grow, discover, and create. We are working on an ambitious new platform that provides AI capabilities to all JetBrains products. Our platform is based on models developed in-house for writing and coding assistance, as well as integration with our strategic partners. We are looking for a Research Engineer who can contribute to training foundation models for coding tasks. You\u2019ll be working on developing Large Language Models from scratch and deploying them into production environments where they will be accessible by end users across the globe. We value engineers who: Can plan projects and make decisions independently, consulting with others if needed. Identify customer needs and prioritize their tasks accordingly. Start with the simplest solutions and gradually add complexity as needed. Take sole responsibility for an entire subsystem. Have a passion for learning and a desire to stay up to date with the latest developments in the LLM field. In this role, you will: Work with stakeholders to convert business requirements into technical specifications. Train LLMs from scratch on a large GPU cluster. Collect and process pre-training and fine-tuning datasets. Support and improve existing subsystems. We\u2019ll be happy to have you on our team if you have: Experience in design, deployment, and support of production ML systems. A strong theoretical background in NLP and transformer-based approaches. Proficiency with modern deep learning frameworks such as PyTorch and common libraries for NLP. Experience in distributed training of multi-billion parameter models. Attention to detail in everything you do and great communication skills. We\u2019d be especially thrilled if you have experience with: LLM inference frameworks such as vLLM, DeepSpeed, TensorRT. LLM alignment techniques such as RLHF/RLAIF. MLOps tools and practices, including CI/CD for ML. K8s and Kubeflow. Scientific publications in the NLP field. How we develop JetBrains AI: A cluster of hundreds of NVIDIA GPUs as training infrastructure. Git for source control management. Python, PyTorch, and HuggingFace as an ML stack. Kubeflow and Weights & Biases for experiment tracking. TeamCity as a CI Automation system. #LI-KP1 We are an equal opportunity employer We know great ideas can come from anyone, anywhere. That\u2019s why we do our best to create an open and inclusive workplace \u2013 one that welcomes everyone regardless of their background, identity, religion, age, accessibility needs, or orientation. We process the data provided in your job application in accordance with the Recruitment Privacy Policy. Apply for this job * indicates a required field Autofill my application First Name * Last Name * Preferred First Name Email * Phone Country Phone Resume/CV * Attach Attach Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Cover Letter Attach Attach Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf LinkedIn Profile Website/Portfolio/Github Link How did you hear about this role? * Select... Which is your preferred location for this role? * Amsterdam, Netherlands Berlin, Germany Munich, Germany Remote, Germany Prague, Czech Republic Limassol, Cyprus Paphos, Cyprus Warsaw, Poland Belgrade, Serbia Madrid, Spain Yerevan, Armenia London, United Kingdom A lot of teams at JetBrains are distributed across our core locations. If you are not based in one of the locations above, we\u2019d be happy to talk through relocation possibilities with you. Submit application Powered by Greenhouse",
+    "description": "At JetBrains, code is our passion. Ever since we started back in 2000, we have been striving to make the world\u2019s most robust and effective developer tools. By automating routine checks and corrections, our tools speed up production, freeing developers to grow, discover, and create. We are working on an ambitious new platform that provides AI capabilities to all JetBrains products. Our platform is based on models developed in-house for writing and coding assistance, as well as integration with our strategic partners. We are looking for a Research Engineer who can contribute to training foundation models for coding tasks. You\u2019ll be working on developing Large Language Models from scratch and deploying them into production environments where they will be accessible by end users across the globe. We value engineers who: &nbsp; Can plan projects and make decisions independently, consulting with others if needed. Identify customer needs and prioritize their tasks accordingly. Start with the simplest solutions and gradually add complexity as needed. Take sole responsibility for an entire subsystem. Have a passion for learning and a desire to stay up to date with the latest developments in the LLM field. In this role, you will: &nbsp; Work with stakeholders to convert business requirements into technical specifications. Train LLMs from scratch on a large GPU cluster. Collect and process pre-training and fine-tuning datasets. Support and improve existing subsystems. We\u2019ll be happy to have you on our team if you have: &nbsp; Experience in design, deployment, and support of production ML systems. A strong theoretical background in NLP and transformer-based approaches. Proficiency with modern deep learning frameworks such as PyTorch and common libraries for NLP. Experience in distributed training of multi-billion parameter models. Attention to detail in everything you do and great communication skills. We\u2019d be especially thrilled if you have experience with: &nbsp; LLM inference frameworks such as vLLM, DeepSpeed, TensorRT. LLM alignment techniques such as RLHF/RLAIF. MLOps tools and practices, including CI/CD for ML. K8s and Kubeflow. Scientific publications in the NLP field. How we develop JetBrains AI: &nbsp; A cluster of hundreds of NVIDIA GPUs as training infrastructure. Git for source control management. Python, PyTorch, and HuggingFace as an ML stack. Kubeflow and Weights &amp; Biases for experiment tracking. TeamCity as a CI Automation system. #LI-KP1 We are an equal opportunity employer We know great ideas can come from anyone, anywhere. That\u2019s why we do our best to create an open and inclusive workplace \u2013 one that welcomes everyone regardless of their background, identity, religion, age, accessibility needs, or orientation. We process the data provided in your job application in accordance with the&nbsp; Recruitment Privacy Policy.",
     "notes": "Dept: JCP Core Machine Learning. Via Greenhouse board.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-09-28"
@@ -1338,16 +1338,16 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Forward Deployed Engineer",
+    "job_title": "Senior Platform Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-23",
+    "first_seen": "2026-09-24",
     "last_seen": "2026-09-28"
   },
   {
@@ -1963,20 +1963,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Software Engineer (SWIFT), Global Banking & Markets, Transaction Banking\nNew York\u00b7United States\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/156978",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-27",
-    "last_seen": "2026-09-28"
-  },
-  {
     "company": "Van Lanschot Kempen N.V.",
     "job_title": "Software Engineer - Python",
     "location": "Amsterdam",
@@ -2488,6 +2474,36 @@
     "last_seen": "2026-09-28"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Forward Deployed Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-09-28",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Software Engineer (SWIFT), Global Banking & Markets, Transaction Banking\nNew York\u00b7United States\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/156978",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-28",
+    "stale": true
+  },
+  {
     "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
     "job_title": "Risk-Salt Lake City-Associate, Software Engineering-10415577\nSalt Lake City\u00b7United States\n\u00b7Associate",
     "location": "Netherlands",
@@ -2514,21 +2530,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-20",
-    "last_seen": "2026-09-28",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Platform Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-24",
     "last_seen": "2026-09-28",
     "stale": true
   },
