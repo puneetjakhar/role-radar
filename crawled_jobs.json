@@ -1338,16 +1338,16 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Platform Engineer",
+    "job_title": "Senior Forward Deployed Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-07-23",
     "last_seen": "2026-09-28"
   },
   {
@@ -1879,6 +1879,20 @@
     "last_seen": "2026-09-28"
   },
   {
+    "company": "N.V. Eneco",
+    "job_title": "Machine Learning Engineer - Energy Management\nEneco - Rotterdam\nData & AI, Tech\nBekijk vacature",
+    "location": "Netherlands",
+    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
+    "job_url": "https://www.werkenbijeneco.nl/vacatures/machine-learning-engineer-energy-management-3063",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-09-28"
+  },
+  {
     "company": "Van Lanschot Kempen N.V.",
     "job_title": "Software Engineer - Python",
     "location": "Amsterdam",
@@ -2256,19 +2270,6 @@
   },
   {
     "company": "Rabobank Nederland",
-    "job_title": "Senior Software Engineer (with Cloud experience)",
-    "location": "Utrecht Croeselaan 18",
-    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
-    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Senior-Software-Engineer--with-Cloud-experience-_JR_00139565",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-06-03",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "company": "Rabobank Nederland",
     "job_title": "Senior Mendix Platform Engineer",
     "location": "Utrecht Croeselaan 18",
     "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
@@ -2390,6 +2391,35 @@
     "last_seen": "2026-09-28"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Platform Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-28",
+    "stale": true
+  },
+  {
+    "company": "Rabobank Nederland",
+    "job_title": "Senior Software Engineer (with Cloud experience)",
+    "location": "Utrecht Croeselaan 18",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Senior-Software-Engineer--with-Cloud-experience-_JR_00139565",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-09-28",
+    "stale": true
+  },
+  {
     "company": "Revolut Netherlands B.V.",
     "job_title": "Internship Programme 2027: Software Engineer (Android)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRem",
     "location": "Netherlands",
@@ -2476,21 +2506,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-21",
-    "last_seen": "2026-09-28",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Forward Deployed Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-23",
     "last_seen": "2026-09-28",
     "stale": true
   },
@@ -3892,21 +3907,6 @@
     "description": "At Catawiki, every day brings the extraordinary! Whether it\u2019s Daniel Ricciardo\u2019s Formula 1 Car , a Woolly Mammoth\u2019s Skeleton , Lady Gaga's Jumpsuit or Usain Bolt\u2019s running shoe , we encounter exceptional objects every day. We\u2019re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by our passionate in-house experts. Having sold over 25 million unique objects, our mission is to become the world\u2019s most popular destination for special objects. As a growing, diverse and sustainable scale-up, we proudly live by three core values. If these values resonate with you, we\u2019d love to explore how you can join us. Taking ownership and driving impact&nbsp; Being open to change and feedback Being passionate about our mission and our customers.&nbsp; Your Mission At Catawiki, our Platform Horizontal has evolved from solely managing the cloud into a broad function supporting Reliability, Developer Experience, Security, and Quality. We take a holistic approach to creating systems and tools that help developers deliver applications seamlessly and reliably without getting bogged down in infrastructure complexity. As a&nbsp; Platform Engineer , you\u2019ll work at the intersection of development, infrastructure, and operations. You\u2019ll help shape and execute our long-term platform vision, empowering Catawiki teams to deliver value to customers with speed, reliability, and security. What You'll Do You\u2019ll build and improve the platform capabilities that enable our engineering teams to develop, deploy, and operate applications effectively at scale. Build a self-service developer platform with a particular emphasis on developer experience, designing and maintaining platforms that abstract complexity and give teams the tools to deploy, monitor, and optimise their applications. Orchestrate cloud-native infrastructure , manage Kubernetes clusters and other cloud resources, focusing on performance, scalability, and cost efficiency through FinOps practices. Boost developer productivity by building and enhancing CI/CD pipelines, GitOps workflows, and reusable templates that accelerate development and deployment cycles. Drive reliability and scalability through applying practices for fault tolerance, disaster recovery, and scaling so applications run smoothly under changing conditions. Improve platform operations usage and enhance our observability stack to monitor platform health and resolve incidents proactively. Collaborate and innovate by partnering with product teams to understand their needs, build simple and impactful solutions, and champion cloud-native best practices across Catawiki. What You'll Bring You measure what matters, introduce changes gradually, and treat failure as a normal part of learning. You use tooling and automation wherever possible to reduce toil, and enjoy sharing knowledge with others. Cloud-native expertise : At least 5 years of production experience with Kubern",
     "notes": "Dept: Engineering. Via Greenhouse board.",
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-18",
-    "stale": true
-  },
-  {
-    "company": "N.V. Eneco",
-    "job_title": "Machine Learning Engineer - Energy Management\nEneco - Rotterdam\nData & AI, Tech\nBekijk vacature",
-    "location": "Netherlands",
-    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
-    "job_url": "https://www.werkenbijeneco.nl/vacatures/machine-learning-engineer-energy-management-3063",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-17",
     "last_seen": "2026-09-18",
     "stale": true
   }
