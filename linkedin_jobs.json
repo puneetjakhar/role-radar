@@ -672,17 +672,17 @@
     "last_seen": "2026-09-28"
   },
   {
-    "company": "Leitmotiv Consulting BV",
-    "job_title": "Azure Cloud Engineer / Ops Engineer",
-    "location": "Gouda, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471635278",
-    "job_url": "https://www.linkedin.com/jobs/view/4471635278",
+    "company": "Medicore",
+    "job_title": "DevOps Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471428663",
+    "job_url": "https://www.linkedin.com/jobs/view/4471428663",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-24",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
   },
   {
@@ -837,6 +837,34 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28"
+  },
+  {
+    "company": "Avance Consulting",
+    "job_title": "Azure Engineer (Dutch language)",
+    "location": "North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471388890",
+    "job_url": "https://www.linkedin.com/jobs/view/4471388890",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-28"
+  },
+  {
+    "company": "YourCode - Award Winning IT & Digital Consultancy",
+    "job_title": "Senior AI Engineer",
+    "location": "North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470805891",
+    "job_url": "https://www.linkedin.com/jobs/view/4470805891",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-27",
     "last_seen": "2026-09-28"
   },
   {
@@ -1106,20 +1134,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "company": "YourCode - Award Winning IT & Digital Consultancy",
-    "job_title": "Senior AI Engineer",
-    "location": "North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470805891",
-    "job_url": "https://www.linkedin.com/jobs/view/4470805891",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-27",
-    "last_seen": "2026-09-28"
-  },
-  {
     "company": "Harnham",
     "job_title": "AI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1307,20 +1321,6 @@
     "location": "",
     "careers_url": "https://www.linkedin.com/jobs/view/4469674738",
     "job_url": "https://www.linkedin.com/jobs/view/4469674738",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-28"
-  },
-  {
-    "company": "DeepRec.ai",
-    "job_title": "System Performance Architect",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469717588",
-    "job_url": "https://www.linkedin.com/jobs/view/4469717588",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-24",
@@ -1524,6 +1524,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-17",
     "last_seen": "2026-09-28"
+  },
+  {
+    "company": "Leitmotiv Consulting BV",
+    "job_title": "Azure Cloud Engineer / Ops Engineer",
+    "location": "Gouda, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471635278",
+    "job_url": "https://www.linkedin.com/jobs/view/4471635278",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-28",
+    "stale": true
+  },
+  {
+    "company": "DeepRec.ai",
+    "job_title": "System Performance Architect",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469717588",
+    "job_url": "https://www.linkedin.com/jobs/view/4469717588",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-28",
+    "stale": true
   },
   {
     "company": "Centraal Bureau voor de Statistiek",
