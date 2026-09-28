@@ -602,17 +602,17 @@
     "last_seen": "2026-09-28"
   },
   {
-    "company": "Infoplus Technologies UK Limited",
-    "job_title": "DevOps Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472051542",
-    "job_url": "https://www.linkedin.com/jobs/view/4472051542",
+    "company": "Ministry of Education, Culture and Science",
+    "job_title": "Senior DevOps Engineer (DevOps - Kubernetes)",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472046620",
+    "job_url": "https://www.linkedin.com/jobs/view/4472046620",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-25",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-27",
+    "first_seen": "2026-09-28",
     "last_seen": "2026-09-28"
   },
   {
@@ -1330,20 +1330,6 @@
     "last_seen": "2026-09-28"
   },
   {
-    "company": "Haystack People",
-    "job_title": "Backend Developer (Python)",
-    "location": "South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469710711",
-    "job_url": "https://www.linkedin.com/jobs/view/4469710711",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-28"
-  },
-  {
     "company": "Reddit, Inc.",
     "job_title": "Staff Machine Learning Engineer, Ads Foundational Representations",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1512,6 +1498,50 @@
     "last_seen": "2026-09-28"
   },
   {
+    "company": "Intralox",
+    "job_title": "Sensing and Vision Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4418132786",
+    "job_url": "https://www.linkedin.com/jobs/view/4418132786",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-09-28"
+  },
+  {
+    "company": "Infoplus Technologies UK Limited",
+    "job_title": "DevOps Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472051542",
+    "job_url": "https://www.linkedin.com/jobs/view/4472051542",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-28",
+    "stale": true
+  },
+  {
+    "company": "Haystack People",
+    "job_title": "Backend Developer (Python)",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469710711",
+    "job_url": "https://www.linkedin.com/jobs/view/4469710711",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-28",
+    "stale": true
+  },
+  {
     "company": "Lab Digital",
     "job_title": "Senior Software Engineer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -1632,21 +1662,6 @@
     "stale": true
   },
   {
-    "company": "Intralox",
-    "job_title": "Sensing and Vision Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4418132786",
-    "job_url": "https://www.linkedin.com/jobs/view/4418132786",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-09-28",
-    "stale": true
-  },
-  {
     "company": "Blackbirds",
     "job_title": "Artificial Intelligence Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1688,21 +1703,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-28",
-    "stale": true
-  },
-  {
-    "company": "Ministry of Education, Culture and Science",
-    "job_title": "Senior DevOps Engineer (DevOps - Kubernetes)",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472046620",
-    "job_url": "https://www.linkedin.com/jobs/view/4472046620",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
     "last_seen": "2026-09-28",
     "stale": true
   },
