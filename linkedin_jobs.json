@@ -224,20 +224,6 @@
     "last_seen": "2026-09-29"
   },
   {
-    "company": "Just Eat Takeaway.com",
-    "job_title": "Senior Fullstack Java Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4468188521",
-    "job_url": "https://www.linkedin.com/jobs/view/4468188521",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-09-29"
-  },
-  {
     "company": "SOURCE.ME",
     "job_title": "Senior Software Engineer",
     "location": "",
@@ -333,6 +319,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "company": "Flexport",
+    "job_title": "Senior Software Engineer, Customs",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467889989",
+    "job_url": "https://www.linkedin.com/jobs/view/4467889989",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-18",
     "last_seen": "2026-09-29"
   },
   {
@@ -501,6 +501,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "company": "Jobgether",
+    "job_title": "Senior Platform Engineer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471312728",
+    "job_url": "https://www.linkedin.com/jobs/view/4471312728",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
     "last_seen": "2026-09-29"
   },
   {
@@ -767,20 +781,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-29"
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Senior Platform Engineer",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471312728",
-    "job_url": "https://www.linkedin.com/jobs/view/4471312728",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
     "last_seen": "2026-09-29"
   },
   {
@@ -1512,6 +1512,21 @@
     "last_seen": "2026-09-29"
   },
   {
+    "company": "Just Eat Takeaway.com",
+    "job_title": "Senior Fullstack Java Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4468188521",
+    "job_url": "https://www.linkedin.com/jobs/view/4468188521",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-29",
+    "stale": true
+  },
+  {
     "company": "Veldsink Groep",
     "job_title": "AI Engineer",
     "location": "Nuenen, North Brabant, Netherlands",
@@ -1523,21 +1538,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-22",
-    "last_seen": "2026-09-28",
-    "stale": true
-  },
-  {
-    "company": "Flexport",
-    "job_title": "Senior Software Engineer, Customs",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467889989",
-    "job_url": "https://www.linkedin.com/jobs/view/4467889989",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-18",
     "last_seen": "2026-09-28",
     "stale": true
   },
