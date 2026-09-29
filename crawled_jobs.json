@@ -736,7 +736,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-04-20",
-    "description": "",
+    "description": "About Flexport:&nbsp; At Flexport, we believe global trade can move the human race forward. That\u2019s why it\u2019s our mission to make global commerce so easy there will be more of it. We\u2019re shaping the future of a $10T industry with solutions powered by innovative technology and exceptional people. Today, companies of all sizes\u2014from emerging brands to Fortune 500s\u2014use Flexport technology to move more than $19B of merchandise across 112 countries a year.&nbsp; The recent global supply chain crisis has put Flexport center stage as we continue to play a pivotal role in how goods move around the world. We are proud to have the support of the best investors in the game who believe in our mission, solutions and people. Ready to tackle global challenges that impact business, society, and the environment? Come join us. Staff Software Engineer: Applied AI Every day, thousands of shipments cross borders, change hands, and hit unexpected problems. For decades, fixing those problems meant phone calls, emails, and humans heroically firefighting. We think that's about to change completely. We've been building AI agents that spot trouble before it happens, reroute shipments, and keep goods moving\u2014with our team of experts in the loop where it counts. The early results have been jaw-dropping. We're now going all in on a future where supply chains run themselves, and we're looking for the people who want to build that future with us. This isn't a role where you join a team and pick up tickets. You'll find the highest-leverage problems, design the solutions, and ship them to operators moving freight across 112 countries. If that sounds like your idea of a good time, read on. What You'll Do You'll build the cutting-edge agents and AI-powered applications that make Flexport's operations smarter, faster, and increasingly autonomous. That means: Designing and shipping end-to-end AI agents that handle real logistics work\u2014customs compliance, document processing, exception management, and more Crossing organizational boundaries to understand problems deeply, align stakeholders, and get things done without waiting for permission Moving fast from idea to production, treating every deployment as a learning opportunity Working directly with operators, domain experts, and leadership to turn ambiguous problems into shipped solutions You Should Have 10+ years of software engineering experience ; you've built with LLMs extensively \u2014 whether in production, side projects, or just because you couldn't stop yourself Strong product instincts : you can identify what's worth building, not just execute on a spec LLM fluency : agent patterns, RAG, prompt engineering, tool use, evaluation. You know what works in production and what looks good in demos Full-stack capability in TypeScript and Next.js\u2014you can own a feature end to end An entrepreneurial drive : you thrive in ambiguity, move fast, and don't wait to be told what to do Excellent communication : you can work across teams and disciplines",
     "notes": "Dept: Engineering, Customs. Via Greenhouse board.",
     "first_seen": "2026-07-10",
     "last_seen": "2026-09-29"
@@ -1379,16 +1379,16 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Platform Engineer",
+    "job_title": "Senior Forward Deployed Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-24",
+    "first_seen": "2026-07-23",
     "last_seen": "2026-09-29"
   },
   {
@@ -2320,6 +2320,21 @@
     "last_seen": "2026-09-29"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Platform Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-29",
+    "stale": true
+  },
+  {
     "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
     "job_title": "AI Enabled Modernization - Agentic Software Engineer - Vice President (New York, NY)\nNew York\u00b7United States\n\u00b7Vice Presid",
     "location": "Netherlands",
@@ -2496,21 +2511,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-21",
-    "last_seen": "2026-09-29",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Forward Deployed Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052030/Senior-Forward-Deployed-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-23",
     "last_seen": "2026-09-29",
     "stale": true
   },

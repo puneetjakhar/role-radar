@@ -1,5 +1,19 @@
 [
   {
+    "company": "Flexport",
+    "job_title": "Senior Software Engineer, Customs",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467889989",
+    "job_url": "https://www.linkedin.com/jobs/view/4467889989",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-29"
+  },
+  {
     "company": "Jumbo Supermarkten",
     "job_title": "Senior Java Developer",
     "location": "Veghel, North Brabant, Netherlands",
@@ -322,20 +336,6 @@
     "last_seen": "2026-09-29"
   },
   {
-    "company": "Flexport",
-    "job_title": "Senior Software Engineer, Customs",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467889989",
-    "job_url": "https://www.linkedin.com/jobs/view/4467889989",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-18",
-    "last_seen": "2026-09-29"
-  },
-  {
     "company": "Toku",
     "job_title": "Senior Software Engineer | Distributed Systems",
     "location": "South Holland, Netherlands",
@@ -518,6 +518,20 @@
     "last_seen": "2026-09-29"
   },
   {
+    "company": "Doghouse Recruitment",
+    "job_title": "Azure Engineer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4460613377",
+    "job_url": "https://www.linkedin.com/jobs/view/4460613377",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-29"
+  },
+  {
     "company": "Jumbo Supermarkten",
     "job_title": "Container Platform Engineer",
     "location": "Veghel, North Brabant, Netherlands",
@@ -686,17 +700,17 @@
     "last_seen": "2026-09-29"
   },
   {
-    "company": "Medicore",
-    "job_title": "DevOps Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471428663",
-    "job_url": "https://www.linkedin.com/jobs/view/4471428663",
+    "company": "Leitmotiv Consulting BV",
+    "job_title": "Azure Cloud Engineer / Ops Engineer",
+    "location": "Gouda, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471635278",
+    "job_url": "https://www.linkedin.com/jobs/view/4471635278",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-24",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
+    "first_seen": "2026-09-24",
     "last_seen": "2026-09-29"
   },
   {
@@ -798,6 +812,20 @@
     "last_seen": "2026-09-29"
   },
   {
+    "company": "Torentify",
+    "job_title": "DevOps Engineer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473081547",
+    "job_url": "https://www.linkedin.com/jobs/view/4473081547",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
     "company": "Tiqets",
     "job_title": "Senior Platform Engineer",
     "location": "",
@@ -812,39 +840,11 @@
     "last_seen": "2026-09-29"
   },
   {
-    "company": "Doghouse Recruitment",
-    "job_title": "Azure Engineer",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4460613377",
-    "job_url": "https://www.linkedin.com/jobs/view/4460613377",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-09-29"
-  },
-  {
     "company": "Xelion",
     "job_title": "Platform Engineer",
     "location": "Delft, South Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4470836652",
     "job_url": "https://www.linkedin.com/jobs/view/4470836652",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-29"
-  },
-  {
-    "company": "Avance Consulting",
-    "job_title": "Azure Engineer (Dutch language)",
-    "location": "North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471388890",
-    "job_url": "https://www.linkedin.com/jobs/view/4471388890",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "nan",
@@ -907,6 +907,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-05",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "company": "Witteveen+Bos",
+    "job_title": "AI Engineer",
+    "location": "Deventer, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471878384",
+    "job_url": "https://www.linkedin.com/jobs/view/4471878384",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
     "last_seen": "2026-09-29"
   },
   {
@@ -1047,20 +1061,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-29"
-  },
-  {
-    "company": "Witteveen+Bos",
-    "job_title": "AI engineer",
-    "location": "Deventer, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469312701",
-    "job_url": "https://www.linkedin.com/jobs/view/4469312701",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-26",
     "last_seen": "2026-09-29"
   },
   {
@@ -1344,20 +1344,6 @@
     "last_seen": "2026-09-29"
   },
   {
-    "company": "Nike",
-    "job_title": "Senior Software Engineer - Windows Platform Engineering",
-    "location": "Hilversum, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470955785",
-    "job_url": "https://www.linkedin.com/jobs/view/4470955785",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-29"
-  },
-  {
     "company": "Reddit, Inc.",
     "job_title": "Staff Machine Learning Engineer, Ads Foundational Representations",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1512,6 +1498,80 @@
     "last_seen": "2026-09-29"
   },
   {
+    "company": "Applitech B.V. Control Systems & Powerdistribution",
+    "job_title": "Lead Engineer",
+    "location": "Beverwijk, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471520716",
+    "job_url": "https://www.linkedin.com/jobs/view/4471520716",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29"
+  },
+  {
+    "company": "Medicore",
+    "job_title": "DevOps Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471428663",
+    "job_url": "https://www.linkedin.com/jobs/view/4471428663",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-29",
+    "stale": true
+  },
+  {
+    "company": "Avance Consulting",
+    "job_title": "Azure Engineer (Dutch language)",
+    "location": "North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471388890",
+    "job_url": "https://www.linkedin.com/jobs/view/4471388890",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-29",
+    "stale": true
+  },
+  {
+    "company": "Witteveen+Bos",
+    "job_title": "AI engineer",
+    "location": "Deventer, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469312701",
+    "job_url": "https://www.linkedin.com/jobs/view/4469312701",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-29",
+    "stale": true
+  },
+  {
+    "company": "Nike",
+    "job_title": "Senior Software Engineer - Windows Platform Engineering",
+    "location": "Hilversum, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470955785",
+    "job_url": "https://www.linkedin.com/jobs/view/4470955785",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-29",
+    "stale": true
+  },
+  {
     "company": "Doit",
     "job_title": "Principal Software Engineer",
     "location": "",
@@ -1617,21 +1677,6 @@
     "stale": true
   },
   {
-    "company": "Witteveen+Bos",
-    "job_title": "AI Enginer",
-    "location": "Deventer, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471878384",
-    "job_url": "https://www.linkedin.com/jobs/view/4471878384",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-28",
-    "stale": true
-  },
-  {
     "company": "ClickHouse",
     "job_title": "Senior Software Engineer - ClickHouse Private (Remote)",
     "location": "",
@@ -1658,21 +1703,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28",
-    "stale": true
-  },
-  {
-    "company": "Leitmotiv Consulting BV",
-    "job_title": "Azure Cloud Engineer / Ops Engineer",
-    "location": "Gouda, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471635278",
-    "job_url": "https://www.linkedin.com/jobs/view/4471635278",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
     "last_seen": "2026-09-28",
     "stale": true
   },
