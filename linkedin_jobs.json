@@ -868,6 +868,20 @@
     "last_seen": "2026-09-30"
   },
   {
+    "company": "Capgemini",
+    "job_title": "Young professional Track AI Engineer - NL",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473219705",
+    "job_url": "https://www.linkedin.com/jobs/view/4473219705",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30"
+  },
+  {
     "company": "Wehkamp Retail Group",
     "job_title": "AI Engineer | jij bouwt de AI in onze toepassingen | 5 vacatures",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -921,34 +935,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "company": "YourCode - Award Winning IT & Digital Consultancy",
-    "job_title": "Senior AI Engineer",
-    "location": "North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470805891",
-    "job_url": "https://www.linkedin.com/jobs/view/4470805891",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-27",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "company": "Haystack",
-    "job_title": "AI Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470802330",
-    "job_url": "https://www.linkedin.com/jobs/view/4470802330",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
     "last_seen": "2026-09-30"
   },
   {
@@ -1145,6 +1131,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-24",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Jobgether",
+    "job_title": "Machine Learning Engineer: Personalization",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471977671",
+    "job_url": "https://www.linkedin.com/jobs/view/4471977671",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-30",
     "last_seen": "2026-09-30"
   },
   {
@@ -1470,17 +1470,32 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Capgemini",
-    "job_title": "Young professional Track AI Engineer - NL",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473219705",
-    "job_url": "https://www.linkedin.com/jobs/view/4473219705",
+    "company": "YourCode - Award Winning IT & Digital Consultancy",
+    "job_title": "Senior AI Engineer",
+    "location": "North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470805891",
+    "job_url": "https://www.linkedin.com/jobs/view/4470805891",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-09-29",
+    "date_posted": "2026-09-27",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-29",
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
+    "company": "Haystack",
+    "job_title": "AI Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470802330",
+    "job_url": "https://www.linkedin.com/jobs/view/4470802330",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
     "last_seen": "2026-09-30",
     "stale": true
   },
@@ -1511,21 +1526,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-30",
-    "stale": true
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Machine Learning Engineer: Personalization",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471977671",
-    "job_url": "https://www.linkedin.com/jobs/view/4471977671",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-30",
     "last_seen": "2026-09-30",
     "stale": true
   },
