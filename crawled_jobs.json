@@ -1200,20 +1200,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "TomTom International B.V.",
-    "job_title": "Senior MLOps/Data Engineer",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/564ca739-8bac-472b-a107-2d531ea1578f/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"3+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "Backbase B.V.",
     "job_title": "Senior Cloud Security Engineer ",
     "location": "Amsterdam, Netherlands",
@@ -1393,20 +1379,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Platform Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "Zscaler Netherlands B.V.",
     "job_title": "Sr. Staff Network Engineer",
     "location": "Amsterdam, NLD",
@@ -1573,10 +1545,10 @@
   },
   {
     "company": "Revolut Netherlands B.V.",
-    "job_title": "Graduate Programme 2027: Software Engineer (Android)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemot",
+    "job_title": "Internship Programme 2027: Software Engineer (Android)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRem",
     "location": "Netherlands",
     "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/graduate-programme-2027-software-engineer-android-dc268c11-5ef2-4398-8fe7-6e89dc8aebee/",
+    "job_url": "https://www.revolut.com/en-US/careers/position/internship-programme-2027-software-engineer-android-0e9d3624-2150-4802-b878-df63c6353606/",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -1587,10 +1559,10 @@
   },
   {
     "company": "Revolut Netherlands B.V.",
-    "job_title": "Internship Programme 2027: Software Engineer (Android)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRem",
+    "job_title": "Graduate Programme 2027: Software Engineer (Android)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemot",
     "location": "Netherlands",
     "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/internship-programme-2027-software-engineer-android-0e9d3624-2150-4802-b878-df63c6353606/",
+    "job_url": "https://www.revolut.com/en-US/careers/position/graduate-programme-2027-software-engineer-android-dc268c11-5ef2-4398-8fe7-6e89dc8aebee/",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -1611,6 +1583,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-29",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Revolut Netherlands B.V.",
+    "job_title": "Software Engineer (Java)\nOffice: Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 Madrid\nRemote: Cyprus \u00b7 Czech Republic \u00b7 Greece \u00b7 Poland \u00b7 Po",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-java-530d3bfd-bdca-4390-8f8a-bc88ddc1eb51/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-21",
     "last_seen": "2026-09-30"
   },
   {
@@ -1642,20 +1628,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Revolut Netherlands B.V.",
-    "job_title": "Software Engineer (Java)\nOffice: Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 Madrid\nRemote: Cyprus \u00b7 Czech Republic \u00b7 Greece \u00b7 Poland \u00b7 Po",
-    "location": "Netherlands",
-    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-java-530d3bfd-bdca-4390-8f8a-bc88ddc1eb51/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "Datadog Netherlands B.V.",
     "job_title": "Senior Sales Engineer - Majors (UK/Nordics/Netherlands)",
     "location": "Denmark, Remote; Sweden, Remote; The Netherlands, Remote; United Kingdom, Remote",
@@ -1667,6 +1639,20 @@
     "description": "As an Enterprise Sales Engineer, you will provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations (POVs). Sales Engineers help qualify and close opportunities with customers and partners and have a voice with the product team to help prioritize features based on input from customers, competitors, and partners. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You\u2019ll Do: Partner with the Sales team to articulate the overall Datadog value proposition, vision and strategy to customers Own technical engagement with customers during the trial phase. Communicate Datadog\u2019s value based on activities and work with customers on any identified issues or concerns to successful conclusion Technically close complex opportunities through advanced competitive knowledge, technical skill, and credibility Deliver product and technical briefings / presentations to potential clients Maintain accurate notes and feedback in CRM regarding customer input both wins and losses Proactively engage and communicate with customers and Datadog business/technical teams regarding product feedback and competitive landscape Who You Are: Passionate about educating customers on observability risks that are meaningful to their business, and able to build and execute an evaluation plan with a customer Someone with strong written and oral communication skills. This role requires an ability to understand and articulate both the business benefits (value proposition) and technical advantages of our offering Experienced in programming/scripting with any of the following: Java, Python, Ruby, Go, Node.JS, PHP, and .NET etc. Someone with a minimum of 3+ years in a Sales Engineering or DevOps Engineering role Able to sit up to 4 hours, traveling to and from client sites&nbsp; Able to travel via auto, train or air up to 45% of the time Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you\u2019re passionate about technology and want to grow your skills, we encourage you to apply. Benefits and Growth: &nbsp; Best-in-breed onboarding Generous global benefits Intra-departmental mentor and buddy program for in-house networking New hire stock equity (RSUs) and employee stock purchase plan (ESPP) Continuous professional development, product training, and career pathing An inclusive company culture, able to join our Community Guilds and Inclusion Talks Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog. About Datadog:&nbsp; Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage comp",
     "notes": "Dept: Enterprise Sales Engineering. Via Greenhouse board.",
     "first_seen": "2026-05-28",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Datadog Netherlands B.V.",
+    "job_title": "Senior Sales Engineer - Netherlands",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://careers.datadoghq.com/",
+    "job_url": "https://careers.datadoghq.com/detail/8238472/?gh_jid=8238472",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-30",
+    "description": "As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption. &nbsp; You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts. What You\u2019ll Do: Own the sales process in partnership with Account Executives by leading and shaping the technical strategy across opportunities from PG to Closed Won Lead customer discovery to uncover technical challenges, business goals, and success criteria, then translate those needs into tailored Datadog solutions Deliver engaging product demos, technical presentations, and workshops that connect platform capabilities to customer outcomes Project manage technical evaluations (POVs) end-to-end: scoping use cases and requirements, defining success criteria, building a project plan with clear timelines, and holding all participants accountable to the process Identify and cultivate technical champions within customer accounts, empowering them to advocate for Datadog adoption and drive consensus internally Participat e actively in structured product and engineering field feedback sessions, serving as the technical voice of the customer to help shape product direction Maintain operational excellence by ensuring activity, deal progress, and customer interactions are accurately documented and up to date in related systems&nbsp; Collaborate cross-functionally with Product, Support, and GTM teams to address customer needs and resolve technical blockers Who You Are:&nbsp; 5+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role within an enterprise environment Skilled at navigating multi-stakeholder environments and adapting communication style to technical, business, and executive audiences Proficient background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability Strong communication skills, with the ability to explain technical concepts to a range of audiences A consultative approach to problem-solving and customer engagement Ability to manage multiple opportunities and priorities in a fast-paced environment Growth mindset by embracing change and AI tools Willingness to travel as needed to support customer engagements Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you\u2019re passionate about technology and want to grow your skills, we encourage you to apply. &nbsp; Benefits and Growth: &nbsp; Best-in-breed onboarding Generous global benefits Intra-departmental mentor and buddy program for in-house networking New hire stock equity (RSUs) and employee stock purchase plan (ESPP) Continuo",
+    "notes": "Dept: Enterprise Sales Engineering. Via Greenhouse board.",
+    "first_seen": "2026-09-30",
     "last_seen": "2026-09-30"
   },
   {
@@ -2062,6 +2048,48 @@
     "last_seen": "2026-09-30"
   },
   {
+    "company": "Sigma Software Group",
+    "job_title": "SENIOR TEST ENGINEER (ENTERPRISE HEAT PROJECT)\nEurope\nUkraine\nManual Testing\nSoftware Testing\nAPPLY",
+    "location": "Netherlands",
+    "careers_url": "https://career.sigma.software/",
+    "job_url": "https://career.sigma.software/vacancy/senior-test-engineer-7/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Sigma Software Group",
+    "job_title": "SENIOR/LEAD DEVOPS ENGINEER\nEurope\nUkraine\nDevOps\nEngineering\nAPPLY",
+    "location": "Netherlands",
+    "careers_url": "https://career.sigma.software/",
+    "job_url": "https://career.sigma.software/vacancy/senior-lead-devops-engineer-2/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Sigma Software Group",
+    "job_title": "PLATFORM DELIVERY LEAD (DATA & AI)\nCzech Republic\nPrague\nData Engineering\nEngineering\nAPPLY",
+    "location": "Netherlands",
+    "careers_url": "https://career.sigma.software/",
+    "job_url": "https://career.sigma.software/vacancy/platform-delivery-lead/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30"
+  },
+  {
     "company": "Luscii healthtech B.V.",
     "job_title": "Cloud Engineer (Tech Lead)",
     "location": "Utrecht, Netherlands",
@@ -2087,20 +2115,6 @@
     "description": "At Luscii, we are creating space for care by building digital health applications that help people manage their health. Applications such as OMRON Connect. Together with healthcare professionals around the world, we build technology that helps users receive the right care in the right place. Millions of people rely on our products every month, and behind every reliable healthcare experience is a cloud platform that simply works. As our Senior Cloud Platform Engineer , you will play a vital role in modernising the cloud platform that powers OMRON Connect, creating a more reliable, scalable and future-proof foundation for millions of users worldwide. OMRON Connect is one of the largest digital health platforms in our ecosystem, connecting millions of users with their healthcare data through OMRON devices. Much of the platform has grown over many years and was partly built by external partners. Today, we're investing heavily in bringing that knowledge, ownership and technical excellence in-house. This is not about replacing everything overnight. It is about making thoughtful engineering decisions, modernising step by step, and building a cloud platform that gives our engineering teams the foundations, tooling and confidence they need to deliver safely and independently. Your work will have a direct impact on the reliability, scalability and cost-efficiency of a platform serving several million monthly active users across the world. You will help shape our cloud and engineering standards, introduce modern practices where they genuinely add value, and make Infrastructure as Code, observability and safe continuous delivery the default rather than the exception. By creating reusable infrastructure, improving developer experience and removing unnecessary complexity, you will help teams move faster without compromising reliability or security. Along the way, you will collaborate with engineers, influence technical direction and leave the platform in a significantly better state than you found it. Your role You will become one of the technical driving forces behind the cloud platform powering OMRON Connect. Rather than owning a single product or service, you will help build the foundations that every engineering team relies on. Working closely with backend engineers, product teams and colleagues in Japan, you are going to evolve our AWS platform, improve the developer experience and ensure reliability, security and scalability are built into everything we do. This is a role for someone who enjoys solving difficult engineering problems without chasing complexity for complexity's sake. You will help us balance innovation with pragmatism, modernising a live healthcare platform while maintaining the stability that patients and healthcare professionals depend on every day. What you will be doing, among others: Design, build and evolve our AWS platform using Terraform as the single source of truth, while driving the gradual modernisation of our cloud landscape; ",
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-27",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "company": "NewStore B.V.",
-    "job_title": "Senior DevX Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://www.newstore.com/careers/",
-    "job_url": "https://careers.newstore.com/jobs/5378566-senior-devx-engineer?utm_campaign=jobs-widget&utm_source=careers.newstore.com&utm_content=jobs&utm_medium=web",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-28",
     "last_seen": "2026-09-30"
   },
   {
@@ -2336,11 +2350,26 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Sigma Software Group",
-    "job_title": "SENIOR TEST ENGINEER (ENTERPRISE HEAT PROJECT)\nEurope\nUkraine\nManual Testing\nSoftware Testing\nAPPLY",
+    "company": "TomTom International B.V.",
+    "job_title": "Senior MLOps/Data Engineer",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/564ca739-8bac-472b-a107-2d531ea1578f/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"3+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Platform Engineer",
     "location": "Netherlands",
-    "careers_url": "https://career.sigma.software/",
-    "job_url": "https://career.sigma.software/vacancy/senior-test-engineer-7/",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -2351,32 +2380,17 @@
     "stale": true
   },
   {
-    "company": "Sigma Software Group",
-    "job_title": "SENIOR/LEAD DEVOPS ENGINEER\nEurope\nUkraine\nDevOps\nEngineering\nAPPLY",
+    "company": "NewStore B.V.",
+    "job_title": "Senior DevX Engineer",
     "location": "Netherlands",
-    "careers_url": "https://career.sigma.software/",
-    "job_url": "https://career.sigma.software/vacancy/senior-lead-devops-engineer-2/",
+    "careers_url": "https://www.newstore.com/careers/",
+    "job_url": "https://careers.newstore.com/jobs/5378566-senior-devx-engineer?utm_campaign=jobs-widget&utm_source=careers.newstore.com&utm_content=jobs&utm_medium=web",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-30",
-    "stale": true
-  },
-  {
-    "company": "Sigma Software Group",
-    "job_title": "PLATFORM DELIVERY LEAD (DATA & AI)\nCzech Republic\nPrague\nData Engineering\nEngineering\nAPPLY",
-    "location": "Netherlands",
-    "careers_url": "https://career.sigma.software/",
-    "job_url": "https://career.sigma.software/vacancy/platform-delivery-lead/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-29",
+    "first_seen": "2026-05-28",
     "last_seen": "2026-09-30",
     "stale": true
   },
