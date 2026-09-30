@@ -491,6 +491,20 @@
   },
   {
     "company": "Jobgether",
+    "job_title": "Senior Infrastructure Engineer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471269493",
+    "job_url": "https://www.linkedin.com/jobs/view/4471269493",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Jobgether",
     "job_title": "Senior Platform Engineer",
     "location": "",
     "careers_url": "https://www.linkedin.com/jobs/view/4471312728",
@@ -826,17 +840,17 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Jobgether",
-    "job_title": "Senior Infrastructure Engineer",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471269493",
-    "job_url": "https://www.linkedin.com/jobs/view/4471269493",
+    "company": "Wypoon Technologies",
+    "job_title": "Machine Learning Engineer \u2013 Cloud | MLOps | GenAI (Relocation provided)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470869347",
+    "job_url": "https://www.linkedin.com/jobs/view/4470869347",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "nan",
+    "date_posted": "2026-09-29",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-29",
+    "first_seen": "2026-09-28",
     "last_seen": "2026-09-30"
   },
   {
@@ -949,20 +963,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-05",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "company": "Witteveen+Bos",
-    "job_title": "AI Engineer",
-    "location": "Deventer, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471878384",
-    "job_url": "https://www.linkedin.com/jobs/view/4471878384",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
     "last_seen": "2026-09-30"
   },
   {
@@ -1470,6 +1470,21 @@
     "last_seen": "2026-09-30"
   },
   {
+    "company": "Witteveen+Bos",
+    "job_title": "AI Engineer",
+    "location": "Deventer, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471878384",
+    "job_url": "https://www.linkedin.com/jobs/view/4471878384",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
     "company": "Nike",
     "job_title": "Senior Software Engineer - Windows Platform Engineering",
     "location": "Hilversum, North Holland, Netherlands",
@@ -1526,21 +1541,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-30",
-    "stale": true
-  },
-  {
-    "company": "Wypoon Technologies",
-    "job_title": "Machine Learning Engineer \u2013 Cloud | MLOps | GenAI (Relocation provided)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470869347",
-    "job_url": "https://www.linkedin.com/jobs/view/4470869347",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
     "last_seen": "2026-09-30",
     "stale": true
   },
