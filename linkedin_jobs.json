@@ -42,6 +42,20 @@
     "last_seen": "2026-09-30"
   },
   {
+    "company": "Dyflexis",
+    "job_title": "Senior Backend Engineer (PHP)",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473279107",
+    "job_url": "https://www.linkedin.com/jobs/view/4473279107",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30"
+  },
+  {
     "company": "Adyen",
     "job_title": "Senior Software Engineer (Java) - Unified Platform",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -266,20 +280,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Mendix",
-    "job_title": "Senior Software Engineer - Offline",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4440449341",
-    "job_url": "https://www.linkedin.com/jobs/view/4440449341",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-21",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "Crowe Nederland",
     "job_title": "Senior Software Engineer - AI Product",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -291,6 +291,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Basic-Fit",
+    "job_title": "Senior Backend Developer (Node.Js)",
+    "location": "Tilburg, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4414924526",
+    "job_url": "https://www.linkedin.com/jobs/view/4414924526",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-29",
     "last_seen": "2026-09-30"
   },
   {
@@ -319,20 +333,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "company": "Dyflexis",
-    "job_title": "Senior Backend Engineer (PHP)",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473279107",
-    "job_url": "https://www.linkedin.com/jobs/view/4473279107",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-29",
     "last_seen": "2026-09-30"
   },
   {
@@ -462,20 +462,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Adecon",
-    "job_title": "Senior PHP Developer",
-    "location": "Beneden-Leeuwen, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470507171",
-    "job_url": "https://www.linkedin.com/jobs/view/4470507171",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-27",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "Tellent",
     "job_title": "Senior Backend Developer (Elixir)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -515,6 +501,34 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "ABN AMRO Bank N.V.",
+    "job_title": "Platform Engineer Azure en Kubernetes",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473260904",
+    "job_url": "https://www.linkedin.com/jobs/view/4473260904",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Centraal Justitieel Incassobureau (CJIB)",
+    "job_title": "Kubernetes Cloud Engineer",
+    "location": "Leeuwarden, Friesland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471920031",
+    "job_url": "https://www.linkedin.com/jobs/view/4471920031",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
     "last_seen": "2026-09-30"
   },
   {
@@ -714,6 +728,20 @@
     "last_seen": "2026-09-30"
   },
   {
+    "company": "Sendcloud",
+    "job_title": "Senior Platform Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4443188379",
+    "job_url": "https://www.linkedin.com/jobs/view/4443188379",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-09-30"
+  },
+  {
     "company": "Leitmotiv Consulting BV",
     "job_title": "Azure Cloud Engineer / Ops Engineer",
     "location": "Gouda, South Holland, Netherlands",
@@ -756,34 +784,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "NewData",
-    "job_title": "Cloud Platform Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470951737",
-    "job_url": "https://www.linkedin.com/jobs/view/4470951737",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-23",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "company": "ABN AMRO Bank N.V.",
-    "job_title": "Platform Engineer Azure en Kubernetes",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473260904",
-    "job_url": "https://www.linkedin.com/jobs/view/4473260904",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "Sprint and Partners",
     "job_title": "(Sr/Staff) Platform Engineer - AI Cloud infra - Software Engineer turned Platform - Multi-Cloud & Python - First dedicated Platform hire - Small team AI Scale up - 135K base + stockpackage",
     "location": "",
@@ -795,20 +795,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-17",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "company": "Centraal Justitieel Incassobureau (CJIB)",
-    "job_title": "Kubernetes Cloud Engineer",
-    "location": "Leeuwarden, Friesland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471920031",
-    "job_url": "https://www.linkedin.com/jobs/view/4471920031",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-29",
     "last_seen": "2026-09-30"
   },
   {
@@ -952,25 +938,25 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "KPN",
-    "job_title": "AI Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4464318461",
-    "job_url": "https://www.linkedin.com/jobs/view/4464318461",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-07",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "YourCode - Award Winning IT & Digital Consultancy",
     "job_title": "Senior AI Engineer",
     "location": "North Brabant, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4470805891",
     "job_url": "https://www.linkedin.com/jobs/view/4470805891",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Advance in IT Ltd",
+    "job_title": "Data & AI Engineer (GCP)",
+    "location": "The Randstad, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470820488",
+    "job_url": "https://www.linkedin.com/jobs/view/4470820488",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-27",
@@ -1005,6 +991,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-05",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Sia",
+    "job_title": "Machine learning Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471898961",
+    "job_url": "https://www.linkedin.com/jobs/view/4471898961",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
     "last_seen": "2026-09-30"
   },
   {
@@ -1075,20 +1075,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "company": "Terramira",
-    "job_title": "R&D AI Agentic Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471465142",
-    "job_url": "https://www.linkedin.com/jobs/view/4471465142",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
     "last_seen": "2026-09-30"
   },
   {
@@ -1302,6 +1288,20 @@
     "last_seen": "2026-09-30"
   },
   {
+    "company": "Intralox",
+    "job_title": "Sensing and Vision Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4418132786",
+    "job_url": "https://www.linkedin.com/jobs/view/4418132786",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-09-30"
+  },
+  {
     "company": "Applitech B.V. Control Systems & Powerdistribution",
     "job_title": "Lead Engineer",
     "location": "Beverwijk, North Holland, Netherlands",
@@ -1414,34 +1414,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Haystack People",
-    "job_title": "Backend Developer (Python)",
-    "location": "South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469710711",
-    "job_url": "https://www.linkedin.com/jobs/view/4469710711",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "company": "Nike",
-    "job_title": "Senior Software Engineer - Windows Platform Engineering",
-    "location": "Hilversum, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470955785",
-    "job_url": "https://www.linkedin.com/jobs/view/4470955785",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "eBay",
     "job_title": "Staff Software Engineer, Marketing Tech",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1498,6 +1470,139 @@
     "last_seen": "2026-09-30"
   },
   {
+    "company": "Energie Data Services Nederland (EDSN) B.V.",
+    "job_title": "Staff Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4440109939",
+    "job_url": "https://www.linkedin.com/jobs/view/4440109939",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Sprint and Partners",
+    "job_title": "Exceptional Engineers (Python -> AI coding) - AI Native scale up - You are a true bar raiser - Solid runway (fresh funding) - Real e2e product impact - Significant equity package - Amsterdam",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4459146834",
+    "job_url": "https://www.linkedin.com/jobs/view/4459146834",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Mendix",
+    "job_title": "Senior Software Engineer - Offline",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4440449341",
+    "job_url": "https://www.linkedin.com/jobs/view/4440449341",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
+    "company": "Adecon",
+    "job_title": "Senior PHP Developer",
+    "location": "Beneden-Leeuwen, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470507171",
+    "job_url": "https://www.linkedin.com/jobs/view/4470507171",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
+    "company": "NewData",
+    "job_title": "Cloud Platform Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470951737",
+    "job_url": "https://www.linkedin.com/jobs/view/4470951737",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
+    "company": "KPN",
+    "job_title": "AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4464318461",
+    "job_url": "https://www.linkedin.com/jobs/view/4464318461",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
+    "company": "Terramira",
+    "job_title": "R&D AI Agentic Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471465142",
+    "job_url": "https://www.linkedin.com/jobs/view/4471465142",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
+    "company": "Haystack People",
+    "job_title": "Backend Developer (Python)",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469710711",
+    "job_url": "https://www.linkedin.com/jobs/view/4469710711",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
+    "company": "Nike",
+    "job_title": "Senior Software Engineer - Windows Platform Engineering",
+    "location": "Hilversum, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470955785",
+    "job_url": "https://www.linkedin.com/jobs/view/4470955785",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
     "company": "Cboe Global Markets",
     "job_title": "Lead Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1509,7 +1614,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-30"
+    "last_seen": "2026-09-30",
+    "stale": true
   },
   {
     "company": "Voodoo",
@@ -1703,36 +1809,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-09-30",
-    "stale": true
-  },
-  {
-    "company": "Advance in IT Ltd",
-    "job_title": "Data & AI Engineer (GCP)",
-    "location": "The Randstad, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470820488",
-    "job_url": "https://www.linkedin.com/jobs/view/4470820488",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-27",
-    "last_seen": "2026-09-30",
-    "stale": true
-  },
-  {
-    "company": "Sia",
-    "job_title": "Machine learning Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471898961",
-    "job_url": "https://www.linkedin.com/jobs/view/4471898961",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
     "last_seen": "2026-09-30",
     "stale": true
   },
@@ -2127,21 +2203,6 @@
     "stale": true
   },
   {
-    "company": "Sendcloud",
-    "job_title": "Senior Platform Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4443188379",
-    "job_url": "https://www.linkedin.com/jobs/view/4443188379",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-09-29",
-    "stale": true
-  },
-  {
     "company": "Medicore",
     "job_title": "DevOps Engineer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -2423,21 +2484,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-22",
-    "last_seen": "2026-09-29",
-    "stale": true
-  },
-  {
-    "company": "Intralox",
-    "job_title": "Sensing and Vision Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4418132786",
-    "job_url": "https://www.linkedin.com/jobs/view/4418132786",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-17",
     "last_seen": "2026-09-29",
     "stale": true
   },
@@ -3548,21 +3594,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-12",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
-    "company": "Sprint and Partners",
-    "job_title": "Exceptional Engineers (Python -> AI coding) - AI Native scale up - You are a true bar raiser - Solid runway (fresh funding) - Real e2e product impact - Significant equity package - Amsterdam",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4459146834",
-    "job_url": "https://www.linkedin.com/jobs/view/4459146834",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-18",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-27",
     "last_seen": "2026-09-25",
     "stale": true
   },
