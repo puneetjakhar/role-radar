@@ -1274,20 +1274,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Applitech B.V. Control Systems & Powerdistribution",
-    "job_title": "Lead Engineer",
-    "location": "Beverwijk, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471520716",
-    "job_url": "https://www.linkedin.com/jobs/view/4471520716",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "JetBrains",
     "job_title": "Staff Software Developer (IAM)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1456,6 +1442,49 @@
     "last_seen": "2026-09-30"
   },
   {
+    "company": "Oracle",
+    "job_title": "Principal Platform Software Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472642604",
+    "job_url": "https://www.linkedin.com/jobs/view/4472642604",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Sprint and Partners",
+    "job_title": "Exceptional Engineers (Python -> AI coding) - AI Native scale up - You are a true bar raiser - Solid runway (fresh funding) - Real e2e product impact - Significant equity package - Amsterdam",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4459146834",
+    "job_url": "https://www.linkedin.com/jobs/view/4459146834",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Applitech B.V. Control Systems & Powerdistribution",
+    "job_title": "Lead Engineer",
+    "location": "Beverwijk, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471520716",
+    "job_url": "https://www.linkedin.com/jobs/view/4471520716",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
     "company": "NAVARA",
     "job_title": "Senior Software Engineer Eindhoven",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -1467,7 +1496,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30"
+    "last_seen": "2026-09-30",
+    "stale": true
   },
   {
     "company": "Tata Consultancy Services",
@@ -1601,21 +1631,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-30",
-    "stale": true
-  },
-  {
-    "company": "Sprint and Partners",
-    "job_title": "Exceptional Engineers (Python -> AI coding) - AI Native scale up - You are a true bar raiser - Solid runway (fresh funding) - Real e2e product impact - Significant equity package - Amsterdam",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4459146834",
-    "job_url": "https://www.linkedin.com/jobs/view/4459146834",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-27",
     "last_seen": "2026-09-30",
     "stale": true
   },
