@@ -932,7 +932,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-07-16",
-    "description": "Job Application for Staff Software Engineer at Super Technologies Back to jobs Staff Software Engineer Netherlands Apply We are on a mission to pioneer the world\u2019s next era of play. As we grow across Europe and Latin America, we\u2019re building The Playstack - the technology powering the next generation of sports, gaming, and fan experiences. Join us, and help make it the most widely used platform in the world! From operations, to marketing, to product, we are looking for talented people who will shape how millions of customers play, watch, and connect every day. Staff Platform Engineer As a Staff Software Engineer / Staff Platform Engineer , you'll join our platform area, where we build the foundations every product team relies on to ship quickly and run safely in production. You'll work alongside a team of strong senior engineers, setting technical direction, raising the reliability bar, and helping the whole team sharpen its skills \u2014 when they hit a wall, they'll escalate to you. What the role involves Reliability & Operational Excellence Make operational processes \u2014 deployments, upgrades, migrations \u2014 routine, safe, and reversible Lead incident response end-to-end, owning postmortems and turning findings into lasting systemic improvements Automate repeated manual work, treating recurring tasks as issues to be resolved rather than accepted Observability Depth Build monitoring and alerting that reflects customer impact, so any engineer can move from \"something broke\" to \"here's why\" in minutes Own the reliability and efficiency roadmap, identifying the biggest gaps and coordinating fixes across teams Technical Leadership & Culture Set technical direction through design reviews, RFCs, and pairing, raising the bar for strong senior engineers Champion rigour and consistency across the platform, ensuring teams understand trade-offs, not just rules Run blameless postmortems that surface causes rather than blame, helping the team learn and improve each cycle What we are looking for Extensive experience in SRE, software, and platform engineering, including operating, debugging, and reasoning about large-scale distributed systems in production Proven track record in incident leadership and reliability work, including running complex incidents, writing postmortems, and delivering systemic changes that stick Hands-on experience with observability stacks (metrics, logs, traces), including tools such as Prometheus/VictoriaMetrics, Loki, Grafana, and OpenTelemetry, alongside distributed tracing Sound judgement to identify when an architecture is unsuitable for a given workload and to define what should replace it Strong software engineering skills, ideally in Go, with deep experience in AWS and Kubernetes A mindset that treats repeated manual work as a problem to solve, with automation as second nature Ability to act as a technical reference for senior engineers and drive change across teams without formal authority, through design rigour and credibility Comfortable operating in ambiguous, high-impact environments, with the ability to plan a year or two ahead for platform needs Nice to have Experience building or operating a large-scale time-series, logging, or continuous-profiling platform (e.g. VictoriaMetrics, Loki, Pyroscope, or similar) Strong understanding of the cost and performance trade-offs of data stores, and how these shape architectural decisions What we offer Medical / Health Insurance Open Annual Leave Employee Assistance Programme Training & Learning Development About Super We are a global technology group, dedicated to building the future of entertainment and fan-centric experiences. With commercial markets in Brazil, Belgium, Poland, Romania, Greece and Serbia, and a network of offices across Spain, Croatia, Malta, Gibraltar, the Netherlands and the UK, we are a truly international organization. Our purpose at Super has evolved from sports and betting into creating the platform that stretches into the wider world of technology-driven entertainment. With a growing and diverse team of more than 5,000 people, we create immersive, responsible, and personalised experiences for millions of customers worldwide. Shaping the Future of Play Everything we do at Super is rooted in doing what is right: for customers, for each other, and for our long-term vision. Our Culture Manifesto is our North Star. It captures our purpose, mission, and the six core beliefs that shape how we think, make decisions, and act every day. Want to explore our culture in more detail? Visit our careers page: super.xyz/careers Super is committed to the highest standards of compliance, safety, and responsibility. As such, we are active members of the International Betting Integrity Association (IBIA) and the European Gaming & Betting Association (EGBA). At Super, we operate as a high-performing team. We hire and grow talent based on ability and potential, regardless of background and identity because we know diverse perspectives, drive bette",
+    "description": "We are on a mission to pioneer the world\u2019s next era of play. As we grow across Europe and Latin America, we\u2019re building The Playstack - the technology powering the next generation of sports, gaming, and fan experiences. Join us, and help make it the most widely used platform in the world! From operations, to marketing, to product, we are looking for talented people who will shape how millions of customers play, watch, and connect every day. Staff Platform Engineer As a Staff Software Engineer / Staff Platform Engineer , you'll join our platform area, where we build the foundations every product team relies on to ship quickly and run safely in production. You'll work alongside a team of strong senior engineers, setting technical direction, raising the reliability bar, and helping the whole team sharpen its skills \u2014 when they hit a wall, they'll escalate to you. What the role involves Reliability &amp; Operational Excellence Make operational processes \u2014 deployments, upgrades, migrations \u2014 routine, safe, and reversible Lead incident response end-to-end, owning postmortems and turning findings into lasting systemic improvements Automate repeated manual work, treating recurring tasks as issues to be resolved rather than accepted Observability Depth Build monitoring and alerting that reflects customer impact, so any engineer can move from \"something broke\" to \"here's why\" in minutes Own the reliability and efficiency roadmap, identifying the biggest gaps and coordinating fixes across teams Technical Leadership &amp; Culture Set technical direction through design reviews, RFCs, and pairing, raising the bar for strong senior engineers Champion rigour and consistency across the platform, ensuring teams understand trade-offs, not just rules Run blameless postmortems that surface causes rather than blame, helping the team learn and improve each cycle What we are looking for Extensive experience in SRE, software, and platform engineering, including operating, debugging, and reasoning about large-scale distributed systems in production Proven track record in incident leadership and reliability work, including running complex incidents, writing postmortems, and delivering systemic changes that stick Hands-on experience with observability stacks (metrics, logs, traces), including tools such as Prometheus/VictoriaMetrics, Loki, Grafana, and OpenTelemetry, alongside distributed tracing Sound judgement to identify when an architecture is unsuitable for a given workload and to define what should replace it Strong software engineering skills, ideally in Go, with deep experience in AWS and Kubernetes A mindset that treats repeated manual work as a problem to solve, with automation as second nature Ability to act as a technical reference for senior engineers and drive change across teams without formal authority, through design rigour and credibility Comfortable operating in ambiguous, high-impact environments, with the ability to plan a year or two ahead for platform",
     "notes": "Dept: Engineering, Data Products. Via Greenhouse board.",
     "first_seen": "2026-07-17",
     "last_seen": "2026-09-30"
@@ -1389,6 +1389,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Platform Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-24",
     "last_seen": "2026-09-30"
   },
   {
@@ -2529,21 +2543,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-29",
-    "last_seen": "2026-09-30",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Platform Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052945/Senior-Platform-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-24",
     "last_seen": "2026-09-30",
     "stale": true
   },
