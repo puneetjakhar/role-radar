@@ -588,34 +588,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Doghouse Recruitment",
-    "job_title": "Azure Engineer",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4460613377",
-    "job_url": "https://www.linkedin.com/jobs/view/4460613377",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "company": "Xelion",
-    "job_title": "Platform Engineer",
-    "location": "Delft, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470836652",
-    "job_url": "https://www.linkedin.com/jobs/view/4470836652",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "Jumbo Supermarkten",
     "job_title": "Container Platform Engineer",
     "location": "Veghel, North Brabant, Netherlands",
@@ -728,20 +700,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Sendcloud",
-    "job_title": "Senior Platform Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4443188379",
-    "job_url": "https://www.linkedin.com/jobs/view/4443188379",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "Leitmotiv Consulting BV",
     "job_title": "Azure Cloud Engineer / Ops Engineer",
     "location": "Gouda, South Holland, Netherlands",
@@ -798,6 +756,34 @@
     "last_seen": "2026-09-30"
   },
   {
+    "company": "UMC Utrecht",
+    "job_title": "Senior Cloud Platform Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4464574033",
+    "job_url": "https://www.linkedin.com/jobs/view/4464574033",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "123inkt.nl",
+    "job_title": "Kubernetes Engineer",
+    "location": "Nederhorst den Berg, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4465059132",
+    "job_url": "https://www.linkedin.com/jobs/view/4465059132",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-30"
+  },
+  {
     "company": "Sprint and Partners",
     "job_title": "Platform Engineering (Sr & Staff levels) | AI, AWS & Kubernetes, SRE, Software Engineering | High base + equity | Amsterdam, Hybrid",
     "location": "",
@@ -826,20 +812,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Belastingdienst",
-    "job_title": "Cloud native PostgreSQL platform engineer",
-    "location": "Apeldoorn, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4461293843",
-    "job_url": "https://www.linkedin.com/jobs/view/4461293843",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "Rebels",
     "job_title": "DevOps Engineer",
     "location": "Amersfoort, Utrecht, Netherlands",
@@ -851,6 +823,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Harnham",
+    "job_title": "Senior AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473282342",
+    "job_url": "https://www.linkedin.com/jobs/view/4473282342",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
     "last_seen": "2026-09-30"
   },
   {
@@ -1075,20 +1061,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "company": "Harnham",
-    "job_title": "Senior AI Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473282342",
-    "job_url": "https://www.linkedin.com/jobs/view/4473282342",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-29",
     "last_seen": "2026-09-30"
   },
   {
@@ -1496,6 +1468,66 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-27",
     "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Doghouse Recruitment",
+    "job_title": "Azure Engineer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4460613377",
+    "job_url": "https://www.linkedin.com/jobs/view/4460613377",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
+    "company": "Xelion",
+    "job_title": "Platform Engineer",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470836652",
+    "job_url": "https://www.linkedin.com/jobs/view/4470836652",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
+    "company": "Sendcloud",
+    "job_title": "Senior Platform Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4443188379",
+    "job_url": "https://www.linkedin.com/jobs/view/4443188379",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
+    "company": "Belastingdienst",
+    "job_title": "Cloud native PostgreSQL platform engineer",
+    "location": "Apeldoorn, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4461293843",
+    "job_url": "https://www.linkedin.com/jobs/view/4461293843",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-30",
+    "stale": true
   },
   {
     "company": "Mendix",
