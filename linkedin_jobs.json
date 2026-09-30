@@ -336,6 +336,20 @@
     "last_seen": "2026-09-30"
   },
   {
+    "company": "Jobgether",
+    "job_title": "Senior Software Engineer - Clearing",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471270965",
+    "job_url": "https://www.linkedin.com/jobs/view/4471270965",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30"
+  },
+  {
     "company": "Codefield",
     "job_title": "Senior Java Developer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -473,20 +487,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-30"
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Senior Software Engineer - Clearing",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471270965",
-    "job_url": "https://www.linkedin.com/jobs/view/4471270965",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-29",
     "last_seen": "2026-09-30"
   },
   {
@@ -1078,20 +1078,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Rijkswaterstaat",
-    "job_title": "Senior machine learning engineer",
-    "location": "Delft, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471127173",
-    "job_url": "https://www.linkedin.com/jobs/view/4471127173",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "Harnham",
     "job_title": "Senior AI Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1131,6 +1117,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Rijkswaterstaat",
+    "job_title": "Senior machine learning engineer",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471127173",
+    "job_url": "https://www.linkedin.com/jobs/view/4471127173",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-24",
     "last_seen": "2026-09-30"
   },
   {
