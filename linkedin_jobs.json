@@ -574,20 +574,6 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Tiqets",
-    "job_title": "Senior Platform Engineer",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471397307",
-    "job_url": "https://www.linkedin.com/jobs/view/4471397307",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-30"
-  },
-  {
     "company": "Jumbo Supermarkten",
     "job_title": "Container Platform Engineer",
     "location": "Veghel, North Brabant, Netherlands",
@@ -700,17 +686,17 @@
     "last_seen": "2026-09-30"
   },
   {
-    "company": "Super",
-    "job_title": "Staff / Senior Release Platform Engineer",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4434341477",
-    "job_url": "https://www.linkedin.com/jobs/view/4434341477",
+    "company": "Tata Consultancy Services",
+    "job_title": "Senior Azure Cloud Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469671759",
+    "job_url": "https://www.linkedin.com/jobs/view/4469671759",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-24",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-24",
+    "first_seen": "2026-09-30",
     "last_seen": "2026-09-30"
   },
   {
@@ -753,6 +739,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-10",
+    "last_seen": "2026-09-30"
+  },
+  {
+    "company": "ITQ",
+    "job_title": "Platform & AI Engineer",
+    "location": "Beverwijk, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473939735",
+    "job_url": "https://www.linkedin.com/jobs/view/4473939735",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-30",
     "last_seen": "2026-09-30"
   },
   {
@@ -1468,6 +1468,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30"
+  },
+  {
+    "company": "Tiqets",
+    "job_title": "Senior Platform Engineer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471397307",
+    "job_url": "https://www.linkedin.com/jobs/view/4471397307",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-09-30",
+    "stale": true
+  },
+  {
+    "company": "Super",
+    "job_title": "Staff / Senior Release Platform Engineer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4434341477",
+    "job_url": "https://www.linkedin.com/jobs/view/4434341477",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-09-30",
+    "stale": true
   },
   {
     "company": "YourCode - Award Winning IT & Digital Consultancy",
