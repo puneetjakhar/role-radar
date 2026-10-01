@@ -14,6 +14,20 @@
     "last_seen": "2026-10-01"
   },
   {
+    "company": "Basic-Fit",
+    "job_title": "Senior Backend Developer (Node.Js)",
+    "location": "Tilburg, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4414924526",
+    "job_url": "https://www.linkedin.com/jobs/view/4414924526",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-10-01"
+  },
+  {
     "company": "Flexport",
     "job_title": "Senior Software Engineer: Platform",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -291,20 +305,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-01"
-  },
-  {
-    "company": "Basic-Fit",
-    "job_title": "Senior Backend Developer (Node.Js)",
-    "location": "Tilburg, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4414924526",
-    "job_url": "https://www.linkedin.com/jobs/view/4414924526",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-29",
     "last_seen": "2026-10-01"
   },
   {
@@ -1078,20 +1078,6 @@
     "last_seen": "2026-10-01"
   },
   {
-    "company": "Picnic Technologies",
-    "job_title": "Senior Machine Learning Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4284413550",
-    "job_url": "https://www.linkedin.com/jobs/view/4284413550",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-12",
-    "last_seen": "2026-10-01"
-  },
-  {
     "company": "sennder",
     "job_title": "Machine Learning Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1103,6 +1089,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-12",
+    "last_seen": "2026-10-01"
+  },
+  {
+    "company": "Plumerai",
+    "job_title": "Senior Deep Learning Research Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4451547955",
+    "job_url": "https://www.linkedin.com/jobs/view/4451547955",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-11",
     "last_seen": "2026-10-01"
   },
   {
@@ -1456,6 +1456,21 @@
     "last_seen": "2026-10-01"
   },
   {
+    "company": "Picnic Technologies",
+    "job_title": "Senior Machine Learning Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4284413550",
+    "job_url": "https://www.linkedin.com/jobs/view/4284413550",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-10-01",
+    "stale": true
+  },
+  {
     "company": "i3D.net",
     "job_title": "Senior Backend Developer \u2013 (Golang, Data & Integrations)",
     "location": "Capelle aan den IJssel, South Holland, Netherlands",
@@ -1497,21 +1512,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-30",
-    "last_seen": "2026-10-01",
-    "stale": true
-  },
-  {
-    "company": "Plumerai",
-    "job_title": "Senior Deep Learning Research Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4451547955",
-    "job_url": "https://www.linkedin.com/jobs/view/4451547955",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-11",
     "last_seen": "2026-10-01",
     "stale": true
   },
