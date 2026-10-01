@@ -966,20 +966,6 @@
     "last_seen": "2026-10-01"
   },
   {
-    "company": "Sia",
-    "job_title": "Machine learning Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471898961",
-    "job_url": "https://www.linkedin.com/jobs/view/4471898961",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-10-01"
-  },
-  {
     "company": "Picnic Technologies",
     "job_title": "Senior Machine Learning Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1047,6 +1033,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-04",
+    "last_seen": "2026-10-01"
+  },
+  {
+    "company": "Terramira",
+    "job_title": "R&D AI Agentic Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471465142",
+    "job_url": "https://www.linkedin.com/jobs/view/4471465142",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-24",
     "last_seen": "2026-10-01"
   },
   {
@@ -1470,18 +1470,18 @@
     "last_seen": "2026-10-01"
   },
   {
-    "company": "Terramira",
-    "job_title": "R&D AI Agentic Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471465142",
-    "job_url": "https://www.linkedin.com/jobs/view/4471465142",
+    "company": "Sia",
+    "job_title": "Machine learning Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471898961",
+    "job_url": "https://www.linkedin.com/jobs/view/4471898961",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-09-24",
+    "date_posted": "2026-09-25",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-30",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-10-01",
     "stale": true
   },
   {
