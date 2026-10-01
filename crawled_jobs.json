@@ -763,7 +763,7 @@
     "job_url": "https://jobs.ashbyhq.com/mollie/9fbfa9c6-e57c-43ab-b7c1-39cd7d7d801f",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-09-30",
+    "date_posted": "2026-10-01",
     "description": "Build with us Businesses deserve better from finance. Less friction, more freedom. Since 2004, Mollie has been on a mission to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies trust our all-in-one platform to get paid, manage money and grow on their terms. Simple, scalable and built with real businesses in mind. We're one of Europe's fastest-growing fintechs, with 900+ Mollies across 12+ locations. Our people make this growth possible. We move fast, build with purpose and care deeply about our customers. Whether you're solving problems, building market-leading products or exploring how AI can make work smarter, you'll have the freedom to create and the trust to deliver. If you're ready to grow, shape the future of fintech and join an ambitious, high-performing team, this is the place for you. Your impact Mollie is evolving from a payment processor into a full financial services provider, and our infrastructure needs to be as ambitious as our vision. As part of our Developer Enablement domain, you'll play a crucial role in shaping the CI/CD infrastructure that drives our continuous integration, developer workflows and deployment pipelines, providing a foundation for rapid and reliable software delivery. Join us as a Senior Platform Engineer within the Build team, where you\u2019ll be at the forefront of maintaining and optimising our CI/CD tools, ensuring stability, scalability, and efficiency across our platforms. Your work will empower our engineering teams to deliver high-quality software with confidence, enabling our Engineers to build products that will eliminate the financial bureaucracy for our customers. What you'll ship Oversee the health, stability and scalability of CI/CD infrastructure to support Mollie's product delivery. Monitor and respond to outages in those systems to maintain high availability, reliability and operational standards. Develop, scale and implement strategies, guidelines, and governance of CI/CD systems while future-proofing their architecture for security, compliance and resilience concerns. Optimize and balance CI/CD compute and storage usage towards efficient resource usage while keeping developer experience in mind. Investigate, diagnose, and resolve technical issues related to CI/CD tooling with internal customers, working collaboratively with other engineering teams to minimize to maintain seamless workflows. What you'll bring Good grasp of CI Systems and hands-on experience with Gitlab or similar (such as Jenkins, Buildkite, etc.), with a strong focus on self-hosted operations. Some experience with cloud-native Deployment and GitOps solutions such as Gitlab, ArgoCD or similar(Flux, GoCD, Spinnaker, Harness, etc), with strong focus on self-hosted operations. Prior experience with at least one major cloud-based provider as well as Infrastructure-as-Code tools such as Terraform. Comfortable running, monitoring and developing systems on Kubernetes and using ",
     "notes": "Via Ashby API.",
     "first_seen": "2026-08-06",
@@ -1712,6 +1712,20 @@
   },
   {
     "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Global Banking & Markets - Software Engineer - Vice President - London\nLondon\u00b7United Kingdom\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/183896",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
     "job_title": "The Core Engineering-L2-Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
     "location": "Netherlands",
     "careers_url": "https://higher.gs.com/roles",
@@ -1764,6 +1778,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-07-30",
+    "last_seen": "2026-10-01"
+  },
+  {
+    "company": "N.V. Eneco",
+    "job_title": "Senior Developer Power-to-Heat\nEneco - Rotterdam\n40 uur\nBusiness development & Sales, Ontwikkelaars & Specialisten\nBekij",
+    "location": "Netherlands",
+    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
+    "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-developer-power-to-heat-3199",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-22",
     "last_seen": "2026-10-01"
   },
   {
@@ -3684,21 +3712,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25",
-    "stale": true
-  },
-  {
-    "company": "N.V. Eneco",
-    "job_title": "Senior Developer Power-to-Heat\nEneco - Rotterdam\n40 uur\nBusiness development & Sales, Ontwikkelaars & Specialisten\nBekij",
-    "location": "Netherlands",
-    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
-    "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-developer-power-to-heat-3199",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-22",
     "last_seen": "2026-09-25",
     "stale": true
   },
