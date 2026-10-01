@@ -8,7 +8,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-08-28",
-    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Engineering Manager: Data Delivery Platform The Data Delivery Platform team owns how data reaches our customers, not what the data means. We own the mechanics of every surface: file generation and transfer, the reporting framework, the dashboard shell, and the backend that runs it. We bridge complex backend financial data with intuitive, merchant-facing workflows, building critical systems like our Reconciliation Experience, where merchants can seamlessly inspect, manage, and reconcile their numbers with absolute accuracy. As Engineering Manager for Reporting Platform you lead a cross-functional team. Our team operates at the intersection of innovation and scale. We act as an experimental hub, doing active research on emerging technologies, while ensuring we build a high standard, scalable, and sustainable platform that supports global enterprise merchants. What You Will Do People and Team Leadership: Act as a dedicated mentor and coach to grow engineering talent. Handle extensive people management, headcounts or hiring, talent development, and navigate complex team dynamics or conflict resolution with empathy and clarity. Balancing Innovation and Scalability: Lead an experimental, forward thinking team while ensuring solutions are robust, elegant, simple, and scalable for millions of global merchant interactions. Merchant facing Architectural Guidance: Set architectural standards across our merchant facing UI and configuration platform. Drive research into modern technologies, benchmarking tools, and engineering best practices. Reconciliation and Merchant Experience: Partner closely with Product and Design to deliver high impact features (such as financial reconciliation interfaces) that minimize merchant friction and elevate trust. Operational and Technical Excellence: Raise the bar for software creation, reliability, testing tactics, and production monitoring. Lead cross team discussions, pay off technical debt, and ensure accurate time estimates on complex, cross stream projects. Stakeholder Alignment: Translate complex frontend and architectural capabilities into clear, actionable outcomes for both technical and non technical stakeholders across the company. Who You Are Experienced Engineering Leader: You have 5+ years of experience managing engineering teams with a track record of handling people management",
+    "description": "Job Application for Engineering Manager - Data Delivery Platform at Adyen Engineering Manager - Data Delivery Platform Amsterdam Apply This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Engineering Manager: Data Delivery Platform The Data Delivery Platform team owns how data reaches our customers, not what the data means. We own the mechanics of every surface: file generation and transfer, the reporting framework, the dashboard shell, and the backend that runs it. We bridge complex backend financial data with intuitive, merchant-facing workflows, building critical systems like our Reconciliation Experience, where merchants can seamlessly inspect, manage, and reconcile their numbers with absolute accuracy. As Engineering Manager for Reporting Platform you lead a cross-functional team. Our team operates at the intersection of innovation and scale. We act as an experimental hub, doing active research on emerging technologies, while ensuring we build a high standard, scalable, and sustainable platform that supports global enterprise merchants. What You Will Do People and Team Leadership: Act as a dedicated mentor and coach to grow engineering talent. Handle extensive people management, headcounts or hiring, talent development, and navigate complex team dynamics or conflict resolution with empathy and clarity. Balancing Innovation and Scalability: Lead an experimental, forward thinking team while ensuring solutions are robust, elegant, simple, and scalable for millions of global merchant interactions. Merchant facing Architectural Guidance: Set architectural standards across our merchant facing UI and configuration platform. Drive research into modern technologies, benchmarking tools, and engineering best practices. Reconciliation and Merchant Experience: Partner closely with Product and Design to deliver high impact features (such as financial reconciliation interfaces) that minimize merchant friction and elevate trust. Operational and Technical Excellence: Raise the bar for software creation, reliability, testing tactics, and production monitoring. Lead cross team discussions, pay off technical debt, and ensure accurate time estimates on complex, cross stream projects. Stakeholder Alignment: Translate complex frontend and architectural capabilities into clear, actionable outcomes for both technical and non technical stakeholders across the company. Who You Are Experienced Engineering Leader: You have 5+ years of experience managing engineering teams with a track record of handling people management, mentorship, performance coaching, and conflict resolution. Proven Technical Background: You have 7+ years of hands-on software engineering experience (ideally focused on modern backend/frontend frameworks, UI platforms, or merchant or customer facing products) with a deep understanding of scalable design patterns and system architecture. Experimental yet Pragmatic: You encourage continuous learning, benchmarking, and prototyping with new tooling, but know how to turn experiments into stable, high quality, production ready systems. Complex Problem Solver: You excel at breaking down large, ambiguous product needs (like complex financial reconciliation workflows) into clear, actionable engineering roadmaps. High Engineering Standards: You take ownership of code quality, performance, and documentation, helping engineers around you avoid unnecessary operational overhead. Product Minded: You think deeply about customer journeys, usability, and business objectives, ensuring your team deliverables align with company wide goals. Our Diversity, Equity and Inclusion commitments Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them - voices like yours. No matter who you are or where you\u2019re from, we welcome you to be your true self at Adyen. Studies show that women and members of underrepresented communities apply for jobs only if they meet 100% of the qualifications. Does this sound like you? If so, Adyen encourages you to reconsider and apply. We look forward to your application! What\u2019s next? Ensuring a smooth and enjoyable candidate experience is critical for us. We aim to get back to you regarding your application within 5 busi",
     "notes": "Dept: Development. Via Greenhouse board.",
     "first_seen": "2026-08-28",
     "last_seen": "2026-10-01"
@@ -106,7 +106,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-06-03",
-    "description": "",
+    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. The Opportunity Adyen is building a top-tier AI engineering organization in Amsterdam, San Francisco and Madrid to drive our next chapter of innovation using AI globally across the entire company. This is a highly technical, hands-on role focused on the exploration and application of cutting-edge AI research within the financial technology sector. As a Senior AI Research Engineer, you will operate with a high degree of autonomy and responsibility , delivering strategic, high-impact outcomes that bridge the gap between advanced AI research and production-grade applications at a global scale, potentially impacting trillions of dollars in transactions annually.&nbsp; What You'll Do: Innovate and Deploy: Drive the execution of Adyen's AI strategy , focusing on the practical application of Generative AI (GenAI) and other AI methodologies in finance . This includes contributing to Adyen's efforts in key research areas such as AI agents for data analysis and operational workflows , human-in-the-loop for integrity risk , and development of foundation models . For instance, you might contribute to initiatives like the Data Agent Benchmark for Multi-step Reasoning (DABStep) , which evaluates AI agents on real-world data analysis tasks, including those from the financial sector. Build Production-grade Applications: Bridge the gap between cutting-edge AI research and production by implementing research papers into robust, scalable, and production-ready code. Reduce complexity and dependencies across teams by championing engineering and scientific alignment by setting high quality standards. Optimize and Scale: Contribute to defining the long-term vision for AI at Adyen , specifically how AI will interact with humans and finance, including consumers, merchants, and financial institutions. This also includes understanding regulation and advocating for safe innovation in the field. Think Outside the Box: Drive innovation by challenging the status quo , introducing transformative ideas and implementing creative solutions to solve real-world problems. Carry out flexible, value-driven assignments , proactively unblocking teams to maximize organizational impact and drive strategic initiatives. Force Multiplier: Provide mentorship and horizontal sponsorship across the organization , fostering collaboration to share knowledge and bes",
     "notes": "Dept: Development. Via Greenhouse board.",
     "first_seen": "2026-06-04",
     "last_seen": "2026-10-01"
@@ -1738,34 +1738,6 @@
     "last_seen": "2026-10-01"
   },
   {
-    "company": "N.V. Eneco",
-    "job_title": "OT Network Engineer\nEneco - Rotterdam\n40 uur\nSoftware Engineering\nBekijk vacature",
-    "location": "Netherlands",
-    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
-    "job_url": "https://www.werkenbijeneco.nl/vacatures/ot-network-engineer-2956",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-10-01"
-  },
-  {
-    "company": "N.V. Eneco",
-    "job_title": "Senior Developer Power-to-Heat\nEneco - Rotterdam\n40 uur\nBusiness development & Sales, Ontwikkelaars & Specialisten\nBekij",
-    "location": "Netherlands",
-    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
-    "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-developer-power-to-heat-3199",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-10-01"
-  },
-  {
     "company": "Van Lanschot Kempen N.V.",
     "job_title": "Software Engineer - Python",
     "location": "Amsterdam",
@@ -2235,6 +2207,36 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-10-01"
+  },
+  {
+    "company": "N.V. Eneco",
+    "job_title": "OT Network Engineer\nEneco - Rotterdam\n40 uur\nSoftware Engineering\nBekijk vacature",
+    "location": "Netherlands",
+    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
+    "job_url": "https://www.werkenbijeneco.nl/vacatures/ot-network-engineer-2956",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-10-01",
+    "stale": true
+  },
+  {
+    "company": "N.V. Eneco",
+    "job_title": "Senior Developer Power-to-Heat\nEneco - Rotterdam\n40 uur\nBusiness development & Sales, Ontwikkelaars & Specialisten\nBekij",
+    "location": "Netherlands",
+    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
+    "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-developer-power-to-heat-3199",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-10-01",
+    "stale": true
   },
   {
     "company": "MyTomorrows B.V.",
