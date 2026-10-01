@@ -574,34 +574,6 @@
     "last_seen": "2026-10-01"
   },
   {
-    "company": "Tiqets",
-    "job_title": "Senior Platform Engineer",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471397307",
-    "job_url": "https://www.linkedin.com/jobs/view/4471397307",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-10-01"
-  },
-  {
-    "company": "Doghouse Recruitment",
-    "job_title": "Azure Engineer",
-    "location": "",
-    "careers_url": "https://www.linkedin.com/jobs/view/4460613377",
-    "job_url": "https://www.linkedin.com/jobs/view/4460613377",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-10-01"
-  },
-  {
     "company": "Jumbo Supermarkten",
     "job_title": "Container Platform Engineer",
     "location": "Veghel, North Brabant, Netherlands",
@@ -714,6 +686,20 @@
     "last_seen": "2026-10-01"
   },
   {
+    "company": "Tata Consultancy Services",
+    "job_title": "Senior Azure Cloud Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469671759",
+    "job_url": "https://www.linkedin.com/jobs/view/4469671759",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-10-01"
+  },
+  {
     "company": "Sprint and Partners",
     "job_title": "(Sr/Staff) Platform Engineer - AI Cloud infra - Software Engineer turned Platform - Multi-Cloud & Python - First dedicated Platform hire - Small team AI Scale up - 135K base + stockpackage",
     "location": "",
@@ -767,6 +753,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-09",
+    "last_seen": "2026-10-01"
+  },
+  {
+    "company": "Mimica",
+    "job_title": "Staff/Lead Platform/DevOps Engineer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473985808",
+    "job_url": "https://www.linkedin.com/jobs/view/4473985808",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
     "last_seen": "2026-10-01"
   },
   {
@@ -1470,6 +1470,36 @@
     "last_seen": "2026-10-01"
   },
   {
+    "company": "Tiqets",
+    "job_title": "Senior Platform Engineer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471397307",
+    "job_url": "https://www.linkedin.com/jobs/view/4471397307",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-10-01",
+    "stale": true
+  },
+  {
+    "company": "Doghouse Recruitment",
+    "job_title": "Azure Engineer",
+    "location": "",
+    "careers_url": "https://www.linkedin.com/jobs/view/4460613377",
+    "job_url": "https://www.linkedin.com/jobs/view/4460613377",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-10-01",
+    "stale": true
+  },
+  {
     "company": "Sia",
     "job_title": "Machine learning Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1508,21 +1538,6 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30",
-    "stale": true
-  },
-  {
-    "company": "Tata Consultancy Services",
-    "job_title": "Senior Azure Cloud Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469671759",
-    "job_url": "https://www.linkedin.com/jobs/view/4469671759",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-24",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-30",
