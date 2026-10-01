@@ -518,6 +518,20 @@
     "last_seen": "2026-10-01"
   },
   {
+    "company": "Leitmotiv Consulting BV",
+    "job_title": "Azure Cloud Engineer / Ops Engineer",
+    "location": "Gouda, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471635278",
+    "job_url": "https://www.linkedin.com/jobs/view/4471635278",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-10-01"
+  },
+  {
     "company": "Rebels",
     "job_title": "DevOps Engineer",
     "location": "Amersfoort, Utrecht, Netherlands",
@@ -784,20 +798,6 @@
     "last_seen": "2026-10-01"
   },
   {
-    "company": "Leitmotiv Consulting BV",
-    "job_title": "Azure Cloud Engineer / Ops Engineer",
-    "location": "Gouda, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471635278",
-    "job_url": "https://www.linkedin.com/jobs/view/4471635278",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-10-01"
-  },
-  {
     "company": "PRACYVA",
     "job_title": "AWS Data Engineer",
     "location": "The Hague, South Holland, Netherlands",
@@ -966,6 +966,20 @@
     "last_seen": "2026-10-01"
   },
   {
+    "company": "eilandwerk.nl",
+    "job_title": "AI Engineer (medior/senior)",
+    "location": "Goedereede, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471769307",
+    "job_url": "https://www.linkedin.com/jobs/view/4471769307",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01"
+  },
+  {
     "company": "Wehkamp Retail Group",
     "job_title": "AI Engineer | jij bouwt de AI in onze toepassingen | 5 vacatures",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1013,20 +1027,6 @@
     "location": "Rotterdam, South Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4471500997",
     "job_url": "https://www.linkedin.com/jobs/view/4471500997",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-01"
-  },
-  {
-    "company": "Built Different",
-    "job_title": "Founding AI Research Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472495287",
-    "job_url": "https://www.linkedin.com/jobs/view/4472495287",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-28",
@@ -1092,6 +1092,20 @@
     "last_seen": "2026-10-01"
   },
   {
+    "company": "Teva Pharmaceuticals",
+    "job_title": "Machine Learning & External Sensing Engineer",
+    "location": "Haarlem, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4436391435",
+    "job_url": "https://www.linkedin.com/jobs/view/4436391435",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-10-01"
+  },
+  {
     "company": "Datacation",
     "job_title": "LLM Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1131,20 +1145,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-10-01"
-  },
-  {
-    "company": "Adyen",
-    "job_title": "Senior AI Research Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4424207192",
-    "job_url": "https://www.linkedin.com/jobs/view/4424207192",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-28",
     "last_seen": "2026-10-01"
   },
   {
@@ -1470,6 +1470,36 @@
     "last_seen": "2026-10-01"
   },
   {
+    "company": "Built Different",
+    "job_title": "Founding AI Research Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472495287",
+    "job_url": "https://www.linkedin.com/jobs/view/4472495287",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-01",
+    "stale": true
+  },
+  {
+    "company": "Adyen",
+    "job_title": "Senior AI Research Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4424207192",
+    "job_url": "https://www.linkedin.com/jobs/view/4424207192",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "nan",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-10-01",
+    "stale": true
+  },
+  {
     "company": "CNN",
     "job_title": "Senior Software Engineer - Roku",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1481,36 +1511,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-10-01",
-    "stale": true
-  },
-  {
-    "company": "eilandwerk.nl",
-    "job_title": "AI Engineer (medior/senior)",
-    "location": "Goedereede, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471769307",
-    "job_url": "https://www.linkedin.com/jobs/view/4471769307",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-01",
-    "stale": true
-  },
-  {
-    "company": "Teva Pharmaceuticals",
-    "job_title": "Machine Learning & External Sensing Engineer",
-    "location": "Haarlem, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4436391435",
-    "job_url": "https://www.linkedin.com/jobs/view/4436391435",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "nan",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-29",
     "last_seen": "2026-10-01",
     "stale": true
   },
