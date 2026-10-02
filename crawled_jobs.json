@@ -1363,20 +1363,6 @@
     "last_seen": "2026-10-02"
   },
   {
-    "company": "Palantir Technologies Netherlands B.V.",
-    "job_title": "Forward Deployed Software Engineer",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://jobs.lever.co/palantir",
-    "job_url": "https://jobs.lever.co/palantir/492a16bb-6b9f-457e-82c3-294e1a2c565d",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "A World-Changing Company Palantir builds the world\u2019s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more. The Role Forward Deployed Software Engineers (FDSEs) work directly with customers to quickly understand their greatest problems and design and implement solutions to use data against them. Our customers rely on Palantir\u2019s platforms for some of their most critical operations, and projects often start with an open ended question like \u201cWhy are we delaying so many flights?\u201d or \u201cHow can we better identify instances of money laundering?\u201d As an FDSE, you\u2019ll apply your problem solving ability, creativity, and technical skills to help organizations use their data to drive a real impact in the world. You\u2019ll have the opportunity to gain rare insight into and contribute to some of the world\u2019s most important industries and institutions. As an FDSE, your responsibilities look similar to those of a startup CTO: you\u2019ll work in small teams with minimal supervision and own end-to-end execution of high stakes projects. Your day might span discussing architecture with fellow engineers, wrangling massive-scale data, coding a custom web app, speaking with customer executives, or establishing strategy for your team. Whether you aspire to be an entrepreneur or an engineering leader, we believe Palantir is the best place \u2014 with the best colleagues \u2014 to learn how. You\u2019ll learn how to unpack a problem and understand the costs and consequences of its solution. You\u2019ll learn new technologies and languages, and even develop them yourself. You\u2019ll work autonomously and make decisions independently, within a community that will support and challenge you as you grow and develop.",
-    "notes": "Via Lever API.",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-10-02"
-  },
-  {
     "company": "MyTomorrows B.V.",
     "job_title": "Full Stack Engineer",
     "location": "Amsterdam HQ",
@@ -2165,6 +2151,21 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-10-02"
+  },
+  {
+    "company": "Palantir Technologies Netherlands B.V.",
+    "job_title": "Forward Deployed Software Engineer",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://jobs.lever.co/palantir",
+    "job_url": "https://jobs.lever.co/palantir/492a16bb-6b9f-457e-82c3-294e1a2c565d",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "A World-Changing Company Palantir builds the world\u2019s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more. The Role Forward Deployed Software Engineers (FDSEs) work directly with customers to quickly understand their greatest problems and design and implement solutions to use data against them. Our customers rely on Palantir\u2019s platforms for some of their most critical operations, and projects often start with an open ended question like \u201cWhy are we delaying so many flights?\u201d or \u201cHow can we better identify instances of money laundering?\u201d As an FDSE, you\u2019ll apply your problem solving ability, creativity, and technical skills to help organizations use their data to drive a real impact in the world. You\u2019ll have the opportunity to gain rare insight into and contribute to some of the world\u2019s most important industries and institutions. As an FDSE, your responsibilities look similar to those of a startup CTO: you\u2019ll work in small teams with minimal supervision and own end-to-end execution of high stakes projects. Your day might span discussing architecture with fellow engineers, wrangling massive-scale data, coding a custom web app, speaking with customer executives, or establishing strategy for your team. Whether you aspire to be an entrepreneur or an engineering leader, we believe Palantir is the best place \u2014 with the best colleagues \u2014 to learn how. You\u2019ll learn how to unpack a problem and understand the costs and consequences of its solution. You\u2019ll learn new technologies and languages, and even develop them yourself. You\u2019ll work autonomously and make decisions independently, within a community that will support and challenge you as you grow and develop.",
+    "notes": "Via Lever API.",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-10-02",
+    "stale": true
   },
   {
     "company": "Revolut Netherlands B.V.",
