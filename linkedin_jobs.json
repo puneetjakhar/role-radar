@@ -350,6 +350,34 @@
     "last_seen": "2026-10-02"
   },
   {
+    "company": "ClickHouse",
+    "job_title": "Langfuse - Senior Backend Engineer",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475023617",
+    "job_url": "https://www.linkedin.com/jobs/view/4475023617",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02"
+  },
+  {
+    "company": "ClickHouse",
+    "job_title": "Langfuse - Senior Backend Engineer",
+    "location": "North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475021855",
+    "job_url": "https://www.linkedin.com/jobs/view/4475021855",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02"
+  },
+  {
     "company": "Protolabs",
     "job_title": "Senior Python Developer (Backend)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -448,20 +476,6 @@
     "last_seen": "2026-10-02"
   },
   {
-    "company": "Spilberg",
-    "job_title": "Senior Node.js Developer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471909856",
-    "job_url": "https://www.linkedin.com/jobs/view/4471909856",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-02"
-  },
-  {
     "company": "Codefield",
     "job_title": "Senior Java Developer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -487,20 +501,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-02"
-  },
-  {
-    "company": "Funda",
-    "job_title": "Senior Backend .NET Engineer",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4462761928",
-    "job_url": "https://www.linkedin.com/jobs/view/4462761928",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-03",
     "last_seen": "2026-10-02"
   },
   {
@@ -1482,6 +1482,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-16",
     "last_seen": "2026-10-02"
+  },
+  {
+    "company": "Spilberg",
+    "job_title": "Senior Node.js Developer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471909856",
+    "job_url": "https://www.linkedin.com/jobs/view/4471909856",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02",
+    "stale": true
+  },
+  {
+    "company": "Funda",
+    "job_title": "Senior Backend .NET Engineer",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4462761928",
+    "job_url": "https://www.linkedin.com/jobs/view/4462761928",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-02",
+    "stale": true
   },
   {
     "company": "eilandwerk.nl",
