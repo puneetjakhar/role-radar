@@ -28,25 +28,25 @@
     "last_seen": "2026-10-02"
   },
   {
-    "company": "ABN AMRO Bank N.V.",
-    "job_title": "Senior Java Developer (Back-End)",
-    "location": "Amstelveen, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474323363",
-    "job_url": "https://www.linkedin.com/jobs/view/4474323363",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-02"
-  },
-  {
     "company": "Expereo",
     "job_title": "Senior Full-Stack Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4474347924",
     "job_url": "https://www.linkedin.com/jobs/view/4474347924",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02"
+  },
+  {
+    "company": "TRACT",
+    "job_title": "Senior Full Stack Engineer",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474154502",
+    "job_url": "https://www.linkedin.com/jobs/view/4474154502",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-01",
@@ -448,6 +448,34 @@
     "last_seen": "2026-10-02"
   },
   {
+    "company": "Doghouse Recruitment",
+    "job_title": "Senior Java Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471376860",
+    "job_url": "https://www.linkedin.com/jobs/view/4471376860",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02"
+  },
+  {
+    "company": "Funda",
+    "job_title": "Senior Backend .NET Engineer",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4462761928",
+    "job_url": "https://www.linkedin.com/jobs/view/4462761928",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-02"
+  },
+  {
     "company": "Prosus",
     "job_title": "Senior Backend Engineer, AI Platform (Toqan)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -459,20 +487,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-18",
-    "last_seen": "2026-10-02"
-  },
-  {
-    "company": "Fuse Energy",
-    "job_title": "Senior/Lead Backend Engineer (Remote)",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4458509014",
-    "job_url": "https://www.linkedin.com/jobs/view/4458509014",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
     "last_seen": "2026-10-02"
   },
   {
@@ -1468,6 +1482,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
     "last_seen": "2026-10-02"
+  },
+  {
+    "company": "ABN AMRO Bank N.V.",
+    "job_title": "Senior Java Developer (Back-End)",
+    "location": "Amstelveen, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474323363",
+    "job_url": "https://www.linkedin.com/jobs/view/4474323363",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-02",
+    "stale": true
+  },
+  {
+    "company": "Fuse Energy",
+    "job_title": "Senior/Lead Backend Engineer (Remote)",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4458509014",
+    "job_url": "https://www.linkedin.com/jobs/view/4458509014",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-25",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-02",
+    "stale": true
   },
   {
     "company": "Nmbrs",
