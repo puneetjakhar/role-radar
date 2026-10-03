@@ -1709,6 +1709,20 @@
     "last_seen": "2026-10-03"
   },
   {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Global Banking & Markets - Software Engineer - Vice President - London\nLondon\u00b7United Kingdom\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/184829",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-03"
+  },
+  {
     "company": "Van Lanschot Kempen N.V.",
     "job_title": "Software Engineer - Python",
     "location": "Amsterdam",
@@ -2253,21 +2267,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-29",
-    "last_seen": "2026-10-03",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Global Banking & Markets - Software Engineer - Vice President - London\nLondon\u00b7United Kingdom\n\u00b7Vice President",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/184829",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-02",
     "last_seen": "2026-10-03",
     "stale": true
   },
