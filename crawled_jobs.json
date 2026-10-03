@@ -1143,6 +1143,20 @@
   },
   {
     "company": "TomTom International B.V.",
+    "job_title": "Senior Software Engineer - SDK and Visualization Engines",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/17239e18-f8d0-400e-a79d-20c867e500be/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [\"Map Visualization builds the technology that turns map data into what people actually see - satellite imagery, buildings, roads, and live map content - across mobile devices and in-car systems. The Visualization Engines team owns the rendering engines behind it: a Unity-based 3D map renderer and an in-house C++ rendering engine, both shipping to phones and to automotive customers.\\u00a0\\n\\u00a0\\nWe are looking for an engineer to strengthen our rendering and computer graphics expertise while staying comfortable contributing to the mobile SDK layer around it.\\u00a0\\n\\u00a0\\n\\u00a0\\nWhat you will do\\nDesign technical solutions to complex problems at scale: large map scenes, tight frame budgets, constrained mobile and automotive hardware.\\u00a0\\nWork across the rendering stack: from the C# and mobile APIs our SDK consumers use down to the graphics pipeline and shader-level work.\\u00a0\\nTake ownership of your area and lead changes within the team.\\u00a0\\nBuild iteratively using agile methods.\\u00a0\\nWork with AI as a standard part of engineering practice - we use it heavily and expect you to.\\u00a0\\n\\u00a0\\nWhat you will need\\u00a0\\nA Bachelor's degree in Computer Science or a related field, and 3+ years of equivalent experience in at least one modern programming language.\\u00a0\\nStrong C++ or C# or Kotlin or Swift - we expect you are genuinely productive in at least one of them.\\u00a0\\nComfortable contributing to the mobile SDK layer\\u00a0\\nKnowledge and practice of professional software engineering across the full development lifecycle: coding standards, code reviews, source control, build processes, testing, and operations.\\u00a0\\nComfortable communicating in English, written and spoken.\\u00a0\\n\\u00a0\\nOne of these two profiles is you\\u00a0\\n\\u00a0\\nBeyond the essentials above, we need one of these two backgrounds. We are deliberately flexible about which: we will trade depth in one area for the appetite to grow in the other, so you need one profile, not both.\\u00a0\\n\\u00a0\\nProfile A (the mobile engineer).\\u00a0\\nYou are a strong Android and/or iOS engineer, and you want to move toward rendering and computer graphics.\\u00a0\\n\\u00a0\\nProfile B (the graphics engineer).\\u00a0\\nYou work in computer graphics, rendering engines, or visualization, and you are interested in learning mobile platform development.\\u00a0\\n\\u00a0\\n\\u00a0\\nNice to have\\u00a0\\nUnity engine and/or APIs: Vulkan, OpenGL, ...\\u00a0\\nShader authoring and graphics pipeline optimization.\\u00a0\\nKotlin and/or Swift - both are in use in our SDK and demo applications.\\u00a0\\nAutomotive software.\\u00a0\\nWorking with large geospatial or other large-scale datasets.\\u00a0\\n\\u00a0\\nWhat you get\\u00a0\\n\\u00a0\\nYou learn AI while doing your actual job: We use AI heavily in day-to-day engineering, and you get access to current frontier models. Working here means building that skill on real production work - paid, in working hours, not as a side project after them.\\u00a0\\n\\u00a0\\nA stac",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-03"
+  },
+  {
+    "company": "TomTom International B.V.",
     "job_title": "Senior MLOps/Data Engineer",
     "location": "Amsterdam, The Netherlands",
     "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
@@ -1695,20 +1709,6 @@
     "last_seen": "2026-10-03"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Global Banking & Markets - Software Engineer - Vice President - London\nLondon\u00b7United Kingdom\n\u00b7Vice President",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/184829",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-03"
-  },
-  {
     "company": "N.V. Eneco",
     "job_title": "Senior Developer Power-to-Heat\nEneco - Rotterdam\n40 uur\nBusiness development & Sales, Ontwikkelaars & Specialisten\nBekij",
     "location": "Netherlands",
@@ -2181,18 +2181,18 @@
     "last_seen": "2026-10-03"
   },
   {
-    "company": "TomTom International B.V.",
-    "job_title": "Senior Software Engineer - SDK and Visualization Engines",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/17239e18-f8d0-400e-a79d-20c867e500be/apply",
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Global Banking & Markets - Software Engineer - Vice President - London\nLondon\u00b7United Kingdom\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/184829",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
-    "description": "{\"body\": [\"Map Visualization builds the technology that turns map data into what people actually see - satellite imagery, buildings, roads, and live map content - across mobile devices and in-car systems. The Visualization Engines team owns the rendering engines behind it: a Unity-based 3D map renderer and an in-house C++ rendering engine, both shipping to phones and to automotive customers.\\u00a0\\n\\u00a0\\nWe are looking for an engineer to strengthen our rendering and computer graphics expertise while staying comfortable contributing to the mobile SDK layer around it.\\u00a0\\n\\u00a0\\n\\u00a0\\nWhat you will do\\nDesign technical solutions to complex problems at scale: large map scenes, tight frame budgets, constrained mobile and automotive hardware.\\u00a0\\nWork across the rendering stack: from the C# and mobile APIs our SDK consumers use down to the graphics pipeline and shader-level work.\\u00a0\\nTake ownership of your area and lead changes within the team.\\u00a0\\nBuild iteratively using agile methods.\\u00a0\\nWork with AI as a standard part of engineering practice - we use it heavily and expect you to.\\u00a0\\n\\u00a0\\nWhat you will need\\u00a0\\nA Bachelor's degree in Computer Science or a related field, and 3+ years of equivalent experience in at least one modern programming language.\\u00a0\\nStrong C++ or C# or Kotlin or Swift - we expect you are genuinely productive in at least one of them.\\u00a0\\nComfortable contributing to the mobile SDK layer\\u00a0\\nKnowledge and practice of professional software engineering across the full development lifecycle: coding standards, code reviews, source control, build processes, testing, and operations.\\u00a0\\nComfortable communicating in English, written and spoken.\\u00a0\\n\\u00a0\\nOne of these two profiles is you\\u00a0\\n\\u00a0\\nBeyond the essentials above, we need one of these two backgrounds. We are deliberately flexible about which: we will trade depth in one area for the appetite to grow in the other, so you need one profile, not both.\\u00a0\\n\\u00a0\\nProfile A (the mobile engineer).\\u00a0\\nYou are a strong Android and/or iOS engineer, and you want to move toward rendering and computer graphics.\\u00a0\\n\\u00a0\\nProfile B (the graphics engineer).\\u00a0\\nYou work in computer graphics, rendering engines, or visualization, and you are interested in learning mobile platform development.\\u00a0\\n\\u00a0\\n\\u00a0\\nNice to have\\u00a0\\nUnity engine and/or APIs: Vulkan, OpenGL, ...\\u00a0\\nShader authoring and graphics pipeline optimization.\\u00a0\\nKotlin and/or Swift - both are in use in our SDK and demo applications.\\u00a0\\nAutomotive software.\\u00a0\\nWorking with large geospatial or other large-scale datasets.\\u00a0\\n\\u00a0\\nWhat you get\\u00a0\\n\\u00a0\\nYou learn AI while doing your actual job: We use AI heavily in day-to-day engineering, and you get access to current frontier models. Working here means building that skill on real production work - paid, in working hours, not as a side project after them.\\u00a0\\n\\u00a0\\nA stac",
-    "notes": "Via XHR interception (Playwright).",
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-03",
     "stale": true
   },
   {
