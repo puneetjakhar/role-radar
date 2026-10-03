@@ -980,6 +980,20 @@
     "last_seen": "2026-10-03"
   },
   {
+    "company": "OWOW",
+    "job_title": "AI Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472528937",
+    "job_url": "https://www.linkedin.com/jobs/view/4472528937",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-03"
+  },
+  {
     "company": "All Your BI",
     "job_title": "Senior AI Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1117,20 +1131,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-29",
-    "last_seen": "2026-10-03"
-  },
-  {
-    "company": "eilandwerk.nl",
-    "job_title": "AI Engineer (medior/senior)",
-    "location": "Goedereede, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471769307",
-    "job_url": "https://www.linkedin.com/jobs/view/4471769307",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
     "last_seen": "2026-10-03"
   },
   {
@@ -1512,6 +1512,21 @@
     "last_seen": "2026-10-03"
   },
   {
+    "company": "eilandwerk.nl",
+    "job_title": "AI Engineer (medior/senior)",
+    "location": "Goedereede, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471769307",
+    "job_url": "https://www.linkedin.com/jobs/view/4471769307",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-03",
+    "stale": true
+  },
+  {
     "company": "Cisco",
     "job_title": "Principal Software Engineer, Load Balancer - Isovalent",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1523,21 +1538,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-16",
-    "last_seen": "2026-10-03",
-    "stale": true
-  },
-  {
-    "company": "OWOW",
-    "job_title": "AI Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472528937",
-    "job_url": "https://www.linkedin.com/jobs/view/4472528937",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
     "last_seen": "2026-10-03",
     "stale": true
   },
