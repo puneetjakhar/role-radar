@@ -518,20 +518,6 @@
     "last_seen": "2026-10-03"
   },
   {
-    "company": "Jumbo Supermarkten",
-    "job_title": "Senior Java Developer",
-    "location": "Veghel, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4415076158",
-    "job_url": "https://www.linkedin.com/jobs/view/4415076158",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-19",
-    "last_seen": "2026-10-03"
-  },
-  {
     "company": "UMC Utrecht",
     "job_title": "Senior Cloud Platform Engineer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -1510,6 +1496,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-16",
     "last_seen": "2026-10-03"
+  },
+  {
+    "company": "Jumbo Supermarkten",
+    "job_title": "Senior Java Developer",
+    "location": "Veghel, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4415076158",
+    "job_url": "https://www.linkedin.com/jobs/view/4415076158",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-10-03",
+    "stale": true
   },
   {
     "company": "Jumbo Supermarkten",
