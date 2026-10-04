@@ -532,6 +532,20 @@
     "last_seen": "2026-10-04"
   },
   {
+    "company": "Sioux Technologies",
+    "job_title": "Senior Cloud & DevOps Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4466358966",
+    "job_url": "https://www.linkedin.com/jobs/view/4466358966",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-10-04"
+  },
+  {
     "company": "Together AI",
     "job_title": "Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam",
     "location": "Amsterdam Area",
@@ -655,20 +669,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-04"
-  },
-  {
-    "company": "Mollie",
-    "job_title": "Senior Platform Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4450266001",
-    "job_url": "https://www.linkedin.com/jobs/view/4450266001",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-06",
     "last_seen": "2026-10-04"
   },
   {
@@ -1512,6 +1512,21 @@
     "last_seen": "2026-10-04"
   },
   {
+    "company": "Mollie",
+    "job_title": "Senior Platform Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4450266001",
+    "job_url": "https://www.linkedin.com/jobs/view/4450266001",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-10-04",
+    "stale": true
+  },
+  {
     "company": "Eye Security",
     "job_title": "Staff AI Engineer (f/m/x)",
     "location": "Rotterdam and The Hague",
@@ -1583,21 +1598,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-08",
-    "last_seen": "2026-10-04",
-    "stale": true
-  },
-  {
-    "company": "Sioux Technologies",
-    "job_title": "Senior Cloud & DevOps Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4466358966",
-    "job_url": "https://www.linkedin.com/jobs/view/4466358966",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-11",
     "last_seen": "2026-10-04",
     "stale": true
   },
