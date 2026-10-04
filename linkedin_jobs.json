@@ -70,6 +70,20 @@
     "last_seen": "2026-10-04"
   },
   {
+    "company": "Modash",
+    "job_title": "Senior Software Engineer - Data Search (remote, Europe)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474762457",
+    "job_url": "https://www.linkedin.com/jobs/view/4474762457",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-04"
+  },
+  {
     "company": "TicketSwap",
     "job_title": "Senior Software Engineer Backend",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -322,20 +336,6 @@
     "last_seen": "2026-10-04"
   },
   {
-    "company": "Platform Science",
-    "job_title": "Senior Software Engineer",
-    "location": "Oldenzaal, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4352880551",
-    "job_url": "https://www.linkedin.com/jobs/view/4352880551",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-10-04"
-  },
-  {
     "company": "Fuse Energy",
     "job_title": "Senior/Lead Backend Engineer (Remote)",
     "location": "Netherlands",
@@ -515,6 +515,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
+    "last_seen": "2026-10-04"
+  },
+  {
+    "company": "Funda",
+    "job_title": "Senior Backend .NET Engineer",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4462761928",
+    "job_url": "https://www.linkedin.com/jobs/view/4462761928",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-03",
     "last_seen": "2026-10-04"
   },
   {
@@ -966,20 +980,6 @@
     "last_seen": "2026-10-04"
   },
   {
-    "company": "PromptHeroes.ai",
-    "job_title": "Generative AI Engineer",
-    "location": "Oostzaan, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472786035",
-    "job_url": "https://www.linkedin.com/jobs/view/4472786035",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-10-04"
-  },
-  {
     "company": "Booking.com",
     "job_title": "Machine Learning Engineer II",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1075,6 +1075,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-30",
+    "last_seen": "2026-10-04"
+  },
+  {
+    "company": "Amaris Consulting  | Part of Mantu",
+    "job_title": "Functie: Generative AI Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473916428",
+    "job_url": "https://www.linkedin.com/jobs/view/4473916428",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
     "last_seen": "2026-10-04"
   },
   {
@@ -1512,17 +1526,32 @@
     "last_seen": "2026-10-04"
   },
   {
-    "company": "Amaris Consulting  | Part of Mantu",
-    "job_title": "Functie: Generative AI Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473916428",
-    "job_url": "https://www.linkedin.com/jobs/view/4473916428",
+    "company": "Platform Science",
+    "job_title": "Senior Software Engineer",
+    "location": "Oldenzaal, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4352880551",
+    "job_url": "https://www.linkedin.com/jobs/view/4352880551",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-09-30",
+    "date_posted": "2026-09-28",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-10-04",
+    "stale": true
+  },
+  {
+    "company": "PromptHeroes.ai",
+    "job_title": "Generative AI Engineer",
+    "location": "Oostzaan, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472786035",
+    "job_url": "https://www.linkedin.com/jobs/view/4472786035",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
     "last_seen": "2026-10-04",
     "stale": true
   },
@@ -1568,36 +1597,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-14",
-    "last_seen": "2026-10-04",
-    "stale": true
-  },
-  {
-    "company": "Funda",
-    "job_title": "Senior Backend .NET Engineer",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4462761928",
-    "job_url": "https://www.linkedin.com/jobs/view/4462761928",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-10-04",
-    "stale": true
-  },
-  {
-    "company": "Modash",
-    "job_title": "Senior Software Engineer - Data Search (remote, Europe)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474762457",
-    "job_url": "https://www.linkedin.com/jobs/view/4474762457",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
     "last_seen": "2026-10-04",
     "stale": true
   },
