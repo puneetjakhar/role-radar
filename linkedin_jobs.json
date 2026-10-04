@@ -252,20 +252,6 @@
     "last_seen": "2026-10-04"
   },
   {
-    "company": "Jobgether",
-    "job_title": "Senior Software Engineer - Clearing",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471270965",
-    "job_url": "https://www.linkedin.com/jobs/view/4471270965",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-10-04"
-  },
-  {
     "company": "Intelic",
     "job_title": "Senior Backend Engineer (Rust)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -333,6 +319,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
+    "last_seen": "2026-10-04"
+  },
+  {
+    "company": "Platform Science",
+    "job_title": "Senior Software Engineer",
+    "location": "Oldenzaal, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4352880551",
+    "job_url": "https://www.linkedin.com/jobs/view/4352880551",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-13",
     "last_seen": "2026-10-04"
   },
   {
@@ -1526,17 +1526,17 @@
     "last_seen": "2026-10-04"
   },
   {
-    "company": "Platform Science",
-    "job_title": "Senior Software Engineer",
-    "location": "Oldenzaal, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4352880551",
-    "job_url": "https://www.linkedin.com/jobs/view/4352880551",
+    "company": "Jobgether",
+    "job_title": "Senior Software Engineer - Clearing",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471270965",
+    "job_url": "https://www.linkedin.com/jobs/view/4471270965",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-09-28",
+    "date_posted": "2026-09-29",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-13",
+    "first_seen": "2026-09-29",
     "last_seen": "2026-10-04",
     "stale": true
   },
