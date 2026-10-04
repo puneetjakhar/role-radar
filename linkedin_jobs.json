@@ -1218,6 +1218,20 @@
     "last_seen": "2026-10-04"
   },
   {
+    "company": "Sendcloud",
+    "job_title": "Staff Platform Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4447128435",
+    "job_url": "https://www.linkedin.com/jobs/view/4447128435",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-10-04"
+  },
+  {
     "company": "HID",
     "job_title": "Principal Software Engineer",
     "location": "North Brabant, Netherlands",
@@ -1313,20 +1327,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-02",
-    "last_seen": "2026-10-04"
-  },
-  {
-    "company": "Eye Security",
-    "job_title": "Staff AI Engineer (f/m/x)",
-    "location": "Rotterdam and The Hague",
-    "careers_url": "https://www.linkedin.com/jobs/view/4464864180",
-    "job_url": "https://www.linkedin.com/jobs/view/4464864180",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-14",
     "last_seen": "2026-10-04"
   },
   {
@@ -1510,6 +1510,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-10-04"
+  },
+  {
+    "company": "Eye Security",
+    "job_title": "Staff AI Engineer (f/m/x)",
+    "location": "Rotterdam and The Hague",
+    "careers_url": "https://www.linkedin.com/jobs/view/4464864180",
+    "job_url": "https://www.linkedin.com/jobs/view/4464864180",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-10-04",
+    "stale": true
   },
   {
     "company": "Funda",
