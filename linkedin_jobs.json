@@ -868,6 +868,20 @@
     "last_seen": "2026-10-04"
   },
   {
+    "company": "Curamando",
+    "job_title": "Senior GenAI Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4411414795",
+    "job_url": "https://www.linkedin.com/jobs/view/4411414795",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-10-04"
+  },
+  {
     "company": "Super",
     "job_title": "Staff Machine Learning Engineer - Applied ML & Research",
     "location": "Amsterdam Area",
@@ -893,20 +907,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
-    "last_seen": "2026-10-04"
-  },
-  {
-    "company": "ABN AMRO Bank N.V.",
-    "job_title": "Machine Learning & Agentic AI Engineer",
-    "location": "Amstelveen, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4447277794",
-    "job_url": "https://www.linkedin.com/jobs/view/4447277794",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-03",
     "last_seen": "2026-10-04"
   },
   {
@@ -1510,6 +1510,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-10-04"
+  },
+  {
+    "company": "ABN AMRO Bank N.V.",
+    "job_title": "Machine Learning & Agentic AI Engineer",
+    "location": "Amstelveen, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4447277794",
+    "job_url": "https://www.linkedin.com/jobs/view/4447277794",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-10-04",
+    "stale": true
   },
   {
     "company": "Mollie",
