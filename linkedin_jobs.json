@@ -168,6 +168,20 @@
     "last_seen": "2026-10-05"
   },
   {
+    "company": "4Dotnet",
+    "job_title": "Senior Software Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471331680",
+    "job_url": "https://www.linkedin.com/jobs/view/4471331680",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-10-05"
+  },
+  {
     "company": "Crowe Nederland",
     "job_title": "Senior Software Engineer - AI Product",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -291,20 +305,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-06",
-    "last_seen": "2026-10-05"
-  },
-  {
-    "company": "Databricks",
-    "job_title": "Senior Software Engineer - Backend",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4385007663",
-    "job_url": "https://www.linkedin.com/jobs/view/4385007663",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-05-28",
     "last_seen": "2026-10-05"
   },
   {
@@ -515,6 +515,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
+    "last_seen": "2026-10-05"
+  },
+  {
+    "company": "Doghouse Recruitment",
+    "job_title": "Senior Java Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471376860",
+    "job_url": "https://www.linkedin.com/jobs/view/4471376860",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
     "last_seen": "2026-10-05"
   },
   {
@@ -1162,20 +1176,6 @@
     "last_seen": "2026-10-05"
   },
   {
-    "company": "Wehkamp Retail Group",
-    "job_title": "AI Engineer | jij bouwt de AI in onze toepassingen | 5 vacatures",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470845762",
-    "job_url": "https://www.linkedin.com/jobs/view/4470845762",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-10-05"
-  },
-  {
     "company": "Channable",
     "job_title": "Python Software Engineer -  AI team",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -1201,6 +1201,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-31",
+    "last_seen": "2026-10-05"
+  },
+  {
+    "company": "Capgemini",
+    "job_title": "AI Engineer - NL",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471500997",
+    "job_url": "https://www.linkedin.com/jobs/view/4471500997",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
     "last_seen": "2026-10-05"
   },
   {
@@ -1257,6 +1271,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-31",
+    "last_seen": "2026-10-05"
+  },
+  {
+    "company": "HID",
+    "job_title": "Principal Software Engineer",
+    "location": "North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4400183483",
+    "job_url": "https://www.linkedin.com/jobs/view/4400183483",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-21",
     "last_seen": "2026-10-05"
   },
   {
@@ -1499,6 +1527,36 @@
   },
   {
     "company": "Databricks",
+    "job_title": "Senior Software Engineer - Backend",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4385007663",
+    "job_url": "https://www.linkedin.com/jobs/view/4385007663",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-10-05",
+    "stale": true
+  },
+  {
+    "company": "Wehkamp Retail Group",
+    "job_title": "AI Engineer | jij bouwt de AI in onze toepassingen | 5 vacatures",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470845762",
+    "job_url": "https://www.linkedin.com/jobs/view/4470845762",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-10-05",
+    "stale": true
+  },
+  {
+    "company": "Databricks",
     "job_title": "Staff Software Engineer - Backend",
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4385021242",
@@ -1509,20 +1567,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-28",
-    "last_seen": "2026-10-05"
-  },
-  {
-    "company": "Capgemini",
-    "job_title": "AI Engineer - NL",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471500997",
-    "job_url": "https://www.linkedin.com/jobs/view/4471500997",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
     "last_seen": "2026-10-05",
     "stale": true
   },
@@ -1557,21 +1601,6 @@
     "stale": true
   },
   {
-    "company": "4Dotnet",
-    "job_title": "Senior Software Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471331680",
-    "job_url": "https://www.linkedin.com/jobs/view/4471331680",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-10-05",
-    "stale": true
-  },
-  {
     "company": "Flexport",
     "job_title": "Senior Software Engineer, Applied AI",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1583,21 +1612,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-20",
-    "last_seen": "2026-10-05",
-    "stale": true
-  },
-  {
-    "company": "Doghouse Recruitment",
-    "job_title": "Senior Java Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471376860",
-    "job_url": "https://www.linkedin.com/jobs/view/4471376860",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
     "last_seen": "2026-10-05",
     "stale": true
   },
@@ -1703,21 +1717,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
-    "stale": true
-  },
-  {
-    "company": "HID",
-    "job_title": "Principal Software Engineer",
-    "location": "North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4400183483",
-    "job_url": "https://www.linkedin.com/jobs/view/4400183483",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-21",
     "last_seen": "2026-10-05",
     "stale": true
   },
