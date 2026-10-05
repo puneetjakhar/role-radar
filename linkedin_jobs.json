@@ -826,20 +826,6 @@
     "last_seen": "2026-10-05"
   },
   {
-    "company": "Jobgether",
-    "job_title": "Senior Platform Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471312728",
-    "job_url": "https://www.linkedin.com/jobs/view/4471312728",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-10-05"
-  },
-  {
     "company": "Taxonic",
     "job_title": "Platform Dienstverlening Technical Engineer",
     "location": "Utrecht, Netherlands",
@@ -879,6 +865,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
+    "last_seen": "2026-10-05"
+  },
+  {
+    "company": "Schuberg Philis",
+    "job_title": "AWS Platform Engineer",
+    "location": "Schiphol-Rijk, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4446559830",
+    "job_url": "https://www.linkedin.com/jobs/view/4446559830",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-31",
     "last_seen": "2026-10-05"
   },
   {
@@ -1527,6 +1527,21 @@
   },
   {
     "company": "Jobgether",
+    "job_title": "Senior Platform Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471312728",
+    "job_url": "https://www.linkedin.com/jobs/view/4471312728",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-10-05",
+    "stale": true
+  },
+  {
+    "company": "Jobgether",
     "job_title": "Principal Software Engineer",
     "location": "Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4471328771",
@@ -1538,21 +1553,6 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
     "last_seen": "2026-10-05",
-    "stale": true
-  },
-  {
-    "company": "Schuberg Philis",
-    "job_title": "AWS Platform Engineer",
-    "location": "Schiphol-Rijk, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4446559830",
-    "job_url": "https://www.linkedin.com/jobs/view/4446559830",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-31",
-    "last_seen": "2026-10-04",
     "stale": true
   },
   {
