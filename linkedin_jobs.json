@@ -1092,6 +1092,20 @@
     "last_seen": "2026-10-05"
   },
   {
+    "company": "Wypoon Technologies",
+    "job_title": "AI Agent Engineer (Relocation Provided)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4437263708",
+    "job_url": "https://www.linkedin.com/jobs/view/4437263708",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-10-05"
+  },
+  {
     "company": "Harnham",
     "job_title": "Senior AI Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1187,20 +1201,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-31",
-    "last_seen": "2026-10-05"
-  },
-  {
-    "company": "Capgemini",
-    "job_title": "AI Engineer - NL",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471500997",
-    "job_url": "https://www.linkedin.com/jobs/view/4471500997",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
     "last_seen": "2026-10-05"
   },
   {
@@ -1510,6 +1510,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-10-05"
+  },
+  {
+    "company": "Capgemini",
+    "job_title": "AI Engineer - NL",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471500997",
+    "job_url": "https://www.linkedin.com/jobs/view/4471500997",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-05",
+    "stale": true
   },
   {
     "company": "Harnham",
@@ -1883,21 +1898,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-16",
-    "last_seen": "2026-10-03",
-    "stale": true
-  },
-  {
-    "company": "Wypoon Technologies",
-    "job_title": "AI Agent Engineer (Relocation Provided)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4437263708",
-    "job_url": "https://www.linkedin.com/jobs/view/4437263708",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-30",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-18",
     "last_seen": "2026-10-03",
     "stale": true
   },
