@@ -1239,20 +1239,6 @@
     "last_seen": "2026-10-06"
   },
   {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Security Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-10-06"
-  },
-  {
     "company": "Zscaler Netherlands B.V.",
     "job_title": "Sr. Staff Network Engineer",
     "location": "Amsterdam, NLD",
@@ -1712,6 +1698,20 @@
   },
   {
     "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
+    "job_title": "Research Software Engineer Geoscience Utrecht\nwerklocatie:\nUtrecht\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nMaster",
+    "location": "Netherlands",
+    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
+    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/10/research-software-engineer-geoscience/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06"
+  },
+  {
+    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
     "job_title": "Senior Process Engineer - Die attach and assembly technologies\nwerklocatie:\nNijmegen\nwerkenopafstand:\nOn-site\nopleidings",
     "location": "Netherlands",
     "careers_url": "https://www.tno.nl/en/careers/vacancies/",
@@ -2125,6 +2125,21 @@
     "last_seen": "2026-10-06"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Security Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-10-06",
+    "stale": true
+  },
+  {
     "company": "Booking.com B.V.",
     "job_title": "Software Engineer I - Backend",
     "location": "Amsterdam, Netherlands",
@@ -2234,21 +2249,6 @@
     "location": "Netherlands",
     "careers_url": "https://higher.gs.com/roles",
     "job_url": "https://higher.gs.com/roles/185534",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06",
-    "stale": true
-  },
-  {
-    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
-    "job_title": "Research Software Engineer Geoscience Utrecht\nwerklocatie:\nUtrecht\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nMaster",
-    "location": "Netherlands",
-    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
-    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/10/research-software-engineer-geoscience/",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
