@@ -1239,6 +1239,20 @@
     "last_seen": "2026-10-06"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Security Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-10-06"
+  },
+  {
     "company": "Zscaler Netherlands B.V.",
     "job_title": "Sr. Staff Network Engineer",
     "location": "Amsterdam, NLD",
@@ -1582,6 +1596,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-30",
+    "last_seen": "2026-10-06"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Engineering-L2-Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/185740",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-05",
     "last_seen": "2026-10-06"
   },
   {
@@ -2125,21 +2153,6 @@
     "last_seen": "2026-10-06"
   },
   {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Security Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-10-06",
-    "stale": true
-  },
-  {
     "company": "Booking.com B.V.",
     "job_title": "Software Engineer I - Backend",
     "location": "Amsterdam, Netherlands",
@@ -2451,21 +2464,6 @@
     "notes": "Dept: Engineering, Data Products. Via Greenhouse board.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-10-06",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Engineering-L2-Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/185740",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
     "stale": true
   },
   {
