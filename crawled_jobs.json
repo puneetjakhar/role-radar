@@ -1115,34 +1115,6 @@
     "last_seen": "2026-10-06"
   },
   {
-    "company": "TomTom International B.V.",
-    "job_title": "Senior Software Engineer - SDK and Visualization Engines",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/17239e18-f8d0-400e-a79d-20c867e500be/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [\"Map Visualization builds the technology that turns map data into what people actually see - satellite imagery, buildings, roads, and live map content - across mobile devices and in-car systems. The Visualization Engines team owns the rendering engines behind it: a Unity-based 3D map renderer and an in-house C++ rendering engine, both shipping to phones and to automotive customers.\\u00a0\\n\\u00a0\\nWe are looking for an engineer to strengthen our rendering and computer graphics expertise while staying comfortable contributing to the mobile SDK layer around it.\"], \"sections\": [{\"title\": \"What you will do\", \"items\": [{\"text\": \"Design technical solutions to complex problems at scale: large map scenes, tight frame budgets, constrained mobile and automotive hardware.\"}, {\"text\": \"Work across the rendering stack: from the C# and mobile APIs our SDK consumers use down to the graphics pipeline and shader-level work.\"}, {\"text\": \"Take ownership of your area and lead changes within the team.\"}, {\"text\": \"Build iteratively using agile methods.\"}, {\"text\": \"Work with AI as a standard part of engineering practice - we use it heavily and expect you to.\"}]}, {\"title\": \"What you will need\\u00a0\", \"items\": [{\"text\": \"A Bachelor's degree in Computer Science or a related field, and 3+ years of equivalent experience in at least one modern programming language.\"}, {\"text\": \"Strong C++ or C# or Kotlin or Swift - we expect you are genuinely productive in at least one of them.\"}, {\"text\": \"Comfortable contributing to the mobile SDK layer\"}, {\"text\": \"Knowledge and practice of professional software engineering across the full development lifecycle: coding standards, code reviews, source control, build processes, testing, and operations.\"}, {\"text\": \"Comfortable communicating in English, written and spoken.\", \"description\": \"One of these two profiles is you Beyond the essentials above, we need one of these two backgrounds. We are deliberately flexible about which: we will trade depth in one area for the appetite to grow in the other, so you need one profile, not both. Profile A (the mobile engineer). You are a strong Android and/or iOS engineer, and you want to move toward rendering and computer graphics. Profile B (the graphics engineer). You work in computer graphics, rendering engines, or visualization, and you are interested in learning mobile platform development. Nice to have\"}, {\"text\": \"Unity engine and/or APIs: Vulkan, OpenGL, ...\"}, {\"text\": \"Shader authoring and graphics pipeline optimization.\"}, {\"text\": \"Kotlin and/or Swift - both are in use in our SDK and demo applications.\"}, {\"text\": \"Automotive software.\"}, {\"text\": \"Working with large geospatial or other large-scale datasets.\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-06"
-  },
-  {
-    "company": "TomTom International B.V.",
-    "job_title": "Senior MLOps/Data Engineer",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/564ca739-8bac-472b-a107-2d531ea1578f/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"3+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-10-06"
-  },
-  {
     "company": "Backbase B.V.",
     "job_title": "Engineering Team Lead (ETL)",
     "location": "Amsterdam, Netherlands",
@@ -1483,20 +1455,6 @@
     "description": "As an Enterprise Sales Engineer, you will provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations (POVs). Sales Engineers help qualify and close opportunities with customers and partners and have a voice with the product team to help prioritize features based on input from customers, competitors, and partners. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You\u2019ll Do: Partner with the Sales team to articulate the overall Datadog value proposition, vision and strategy to customers Own technical engagement with customers during the trial phase. Communicate Datadog\u2019s value based on activities and work with customers on any identified issues or concerns to successful conclusion Technically close complex opportunities through advanced competitive knowledge, technical skill, and credibility Deliver product and technical briefings / presentations to potential clients Maintain accurate notes and feedback in CRM regarding customer input both wins and losses Proactively engage and communicate with customers and Datadog business/technical teams regarding product feedback and competitive landscape Who You Are: Passionate about educating customers on observability risks that are meaningful to their business, and able to build and execute an evaluation plan with a customer Someone with strong written and oral communication skills. This role requires an ability to understand and articulate both the business benefits (value proposition) and technical advantages of our offering Experienced in programming/scripting with any of the following: Java, Python, Ruby, Go, Node.JS, PHP, and .NET etc. Someone with a minimum of 3+ years in a Sales Engineering or DevOps Engineering role Able to sit up to 4 hours, traveling to and from client sites&nbsp; Able to travel via auto, train or air up to 45% of the time Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you\u2019re passionate about technology and want to grow your skills, we encourage you to apply. Benefits and Growth: &nbsp; Best-in-breed onboarding Generous global benefits Intra-departmental mentor and buddy program for in-house networking New hire stock equity (RSUs) and employee stock purchase plan (ESPP) Continuous professional development, product training, and career pathing An inclusive company culture, able to join our Community Guilds and Inclusion Talks Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog. About Datadog:&nbsp; Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage comp",
     "notes": "Dept: Enterprise Sales Engineering. Via Greenhouse board.",
     "first_seen": "2026-05-28",
-    "last_seen": "2026-10-06"
-  },
-  {
-    "company": "Criteo Netherlands B.V.",
-    "job_title": "Senior Fullstack Software Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.criteo.com/en/jobs/?Location=Amsterdam",
-    "job_url": "https://careers.criteo.com/en/jobs/r20106/senior-fullstack-software-engineer/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-29",
     "last_seen": "2026-10-06"
   },
   {
@@ -2150,6 +2108,51 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-10-06"
+  },
+  {
+    "company": "TomTom International B.V.",
+    "job_title": "Senior Software Engineer - SDK and Visualization Engines",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/17239e18-f8d0-400e-a79d-20c867e500be/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [\"Map Visualization builds the technology that turns map data into what people actually see - satellite imagery, buildings, roads, and live map content - across mobile devices and in-car systems. The Visualization Engines team owns the rendering engines behind it: a Unity-based 3D map renderer and an in-house C++ rendering engine, both shipping to phones and to automotive customers.\\u00a0\\n\\u00a0\\nWe are looking for an engineer to strengthen our rendering and computer graphics expertise while staying comfortable contributing to the mobile SDK layer around it.\"], \"sections\": [{\"title\": \"What you will do\", \"items\": [{\"text\": \"Design technical solutions to complex problems at scale: large map scenes, tight frame budgets, constrained mobile and automotive hardware.\"}, {\"text\": \"Work across the rendering stack: from the C# and mobile APIs our SDK consumers use down to the graphics pipeline and shader-level work.\"}, {\"text\": \"Take ownership of your area and lead changes within the team.\"}, {\"text\": \"Build iteratively using agile methods.\"}, {\"text\": \"Work with AI as a standard part of engineering practice - we use it heavily and expect you to.\"}]}, {\"title\": \"What you will need\\u00a0\", \"items\": [{\"text\": \"A Bachelor's degree in Computer Science or a related field, and 3+ years of equivalent experience in at least one modern programming language.\"}, {\"text\": \"Strong C++ or C# or Kotlin or Swift - we expect you are genuinely productive in at least one of them.\"}, {\"text\": \"Comfortable contributing to the mobile SDK layer\"}, {\"text\": \"Knowledge and practice of professional software engineering across the full development lifecycle: coding standards, code reviews, source control, build processes, testing, and operations.\"}, {\"text\": \"Comfortable communicating in English, written and spoken.\", \"description\": \"One of these two profiles is you Beyond the essentials above, we need one of these two backgrounds. We are deliberately flexible about which: we will trade depth in one area for the appetite to grow in the other, so you need one profile, not both. Profile A (the mobile engineer). You are a strong Android and/or iOS engineer, and you want to move toward rendering and computer graphics. Profile B (the graphics engineer). You work in computer graphics, rendering engines, or visualization, and you are interested in learning mobile platform development. Nice to have\"}, {\"text\": \"Unity engine and/or APIs: Vulkan, OpenGL, ...\"}, {\"text\": \"Shader authoring and graphics pipeline optimization.\"}, {\"text\": \"Kotlin and/or Swift - both are in use in our SDK and demo applications.\"}, {\"text\": \"Automotive software.\"}, {\"text\": \"Working with large geospatial or other large-scale datasets.\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-06",
+    "stale": true
+  },
+  {
+    "company": "TomTom International B.V.",
+    "job_title": "Senior MLOps/Data Engineer",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/564ca739-8bac-472b-a107-2d531ea1578f/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"3+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-10-06",
+    "stale": true
+  },
+  {
+    "company": "Criteo Netherlands B.V.",
+    "job_title": "Senior Fullstack Software Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.criteo.com/en/jobs/?Location=Amsterdam",
+    "job_url": "https://careers.criteo.com/en/jobs/r20106/senior-fullstack-software-engineer/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-10-06",
+    "stale": true
   },
   {
     "company": "Adyen N.V.",
