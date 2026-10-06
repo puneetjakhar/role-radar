@@ -920,19 +920,6 @@
     "last_seen": "2026-10-06"
   },
   {
-    "company": "Booking.com B.V.",
-    "job_title": "Software Engineer I - Backend",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://jobs.booking.com/booking/jobs?location=Netherlands&woe=12&regionCode=NL&stretchUnit=MILES&stretch=25&categories=Engineering",
-    "job_url": "https://jobs.booking.com/booking/jobs/30257",
-    "visa_support": null,
-    "relocation_support": true,
-    "date_posted": "2026-09-11",
-    "notes": "Via iCIMS/Jibe API.",
-    "first_seen": "2026-09-11",
-    "last_seen": "2026-10-06"
-  },
-  {
     "company": "Picnic Technologies B.V.",
     "job_title": "Senior Machine Learning Engineer",
     "location": "Amsterdam, Netherlands",
@@ -1612,6 +1599,34 @@
     "last_seen": "2026-10-06"
   },
   {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "The Core Engineering, Software Engineering, Associate, Dallas\nDallas\u00b7United States\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/181257",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Senior Software Engineer, Global Banking & Markets, AI/ML Technology\nNew York\u00b7United States\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/177422",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-10-06"
+  },
+  {
     "company": "N.V. Eneco",
     "job_title": "Machine Learning Engineer - Energy Management\nEneco - Rotterdam\n40 uur\nData & AI, Tech\nBekijk vacature",
     "location": "Netherlands",
@@ -2110,6 +2125,20 @@
     "last_seen": "2026-10-06"
   },
   {
+    "company": "Booking.com B.V.",
+    "job_title": "Software Engineer I - Backend",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://jobs.booking.com/booking/jobs?location=Netherlands&woe=12&regionCode=NL&stretchUnit=MILES&stretch=25&categories=Engineering",
+    "job_url": "https://jobs.booking.com/booking/jobs/30257",
+    "visa_support": null,
+    "relocation_support": true,
+    "date_posted": "2026-09-11",
+    "notes": "Via iCIMS/Jibe API.",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-10-06",
+    "stale": true
+  },
+  {
     "company": "TomTom International B.V.",
     "job_title": "Senior Software Engineer - SDK and Visualization Engines",
     "location": "Amsterdam, The Netherlands",
@@ -2166,21 +2195,6 @@
     "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. The Opportunity Adyen is building a top-tier AI engineering organization in Amsterdam, San Francisco and Madrid to drive our next chapter of innovation using AI globally across the entire company. This is a highly technical, hands-on role focused on the exploration and application of cutting-edge AI research within the financial technology sector. As a Senior AI Research Engineer, you will operate with a high degree of autonomy and responsibility , delivering strategic, high-impact outcomes that bridge the gap between advanced AI research and production-grade applications at a global scale, potentially impacting trillions of dollars in transactions annually.&nbsp; What You'll Do: Innovate and Deploy: Drive the execution of Adyen's AI strategy , focusing on the practical application of Generative AI (GenAI) and other AI methodologies in finance . This includes contributing to Adyen's efforts in key research areas such as AI agents for data analysis and operational workflows , human-in-the-loop for integrity risk , and development of foundation models . For instance, you might contribute to initiatives like the Data Agent Benchmark for Multi-step Reasoning (DABStep) , which evaluates AI agents on real-world data analysis tasks, including those from the financial sector. Build Production-grade Applications: Bridge the gap between cutting-edge AI research and production by implementing research papers into robust, scalable, and production-ready code. Reduce complexity and dependencies across teams by championing engineering and scientific alignment by setting high quality standards. Optimize and Scale: Contribute to defining the long-term vision for AI at Adyen , specifically how AI will interact with humans and finance, including consumers, merchants, and financial institutions. This also includes understanding regulation and advocating for safe innovation in the field. Think Outside the Box: Drive innovation by challenging the status quo , introducing transformative ideas and implementing creative solutions to solve real-world problems. Carry out flexible, value-driven assignments , proactively unblocking teams to maximize organizational impact and drive strategic initiatives. Force Multiplier: Provide mentorship and horizontal sponsorship across the organization , fostering collaboration to share knowledge and bes",
     "notes": "Dept: Development. Via Greenhouse board.",
     "first_seen": "2026-06-04",
-    "last_seen": "2026-10-06",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Senior Software Engineer, Global Banking & Markets, AI/ML Technology\nNew York\u00b7United States\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/177422",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-30",
     "last_seen": "2026-10-06",
     "stale": true
   },

@@ -1,5 +1,19 @@
 [
   {
+    "company": "TapRaise",
+    "job_title": "Senior Software Engineer (full-stack)",
+    "location": "Breda, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476191723",
+    "job_url": "https://www.linkedin.com/jobs/view/4476191723",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06"
+  },
+  {
     "company": "Doghouse Recruitment",
     "job_title": "Senior Software Engineer",
     "location": "Utrecht, Netherlands",
@@ -179,20 +193,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-06"
-  },
-  {
-    "company": "Protolabs",
-    "job_title": "Senior Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4438643897",
-    "job_url": "https://www.linkedin.com/jobs/view/4438643897",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-31",
     "last_seen": "2026-10-06"
   },
   {
@@ -1566,6 +1566,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
     "last_seen": "2026-10-06"
+  },
+  {
+    "company": "Protolabs",
+    "job_title": "Senior Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4438643897",
+    "job_url": "https://www.linkedin.com/jobs/view/4438643897",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-10-06",
+    "stale": true
   },
   {
     "company": "Sprint and Partners",
