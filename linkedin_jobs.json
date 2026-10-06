@@ -378,6 +378,20 @@
     "last_seen": "2026-10-06"
   },
   {
+    "company": "Catawiki",
+    "job_title": "Backend Engineer",
+    "location": "The Randstad, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467360294",
+    "job_url": "https://www.linkedin.com/jobs/view/4467360294",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-10-06"
+  },
+  {
     "company": "Justworks",
     "job_title": "Senior Software Engineer, Applied AI  (Netherlands)",
     "location": "Netherlands",
@@ -431,20 +445,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-06"
-  },
-  {
-    "company": "TOPdesk",
-    "job_title": "Senior Backend Engineer, SaaS Tooling",
-    "location": "Delft, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474284111",
-    "job_url": "https://www.linkedin.com/jobs/view/4474284111",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
     "last_seen": "2026-10-06"
   },
   {
@@ -1552,6 +1552,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
     "last_seen": "2026-10-06"
+  },
+  {
+    "company": "TOPdesk",
+    "job_title": "Senior Backend Engineer, SaaS Tooling",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474284111",
+    "job_url": "https://www.linkedin.com/jobs/view/4474284111",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-06",
+    "stale": true
   },
   {
     "company": "Intelic",
