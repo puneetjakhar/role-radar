@@ -910,6 +910,20 @@
     "last_seen": "2026-10-06"
   },
   {
+    "company": "Strukton",
+    "job_title": "Generative AI Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474039144",
+    "job_url": "https://www.linkedin.com/jobs/view/4474039144",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06"
+  },
+  {
     "company": "ASMPT ALSI",
     "job_title": "Senior Vision/AI Engineer",
     "location": "Beuningen, Gelderland, Netherlands",
@@ -1103,20 +1117,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-29",
-    "last_seen": "2026-10-06"
-  },
-  {
-    "company": "Datacation",
-    "job_title": "LLM Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474133585",
-    "job_url": "https://www.linkedin.com/jobs/view/4474133585",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
     "last_seen": "2026-10-06"
   },
   {
@@ -1566,6 +1566,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
     "last_seen": "2026-10-06"
+  },
+  {
+    "company": "Datacation",
+    "job_title": "LLM Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474133585",
+    "job_url": "https://www.linkedin.com/jobs/view/4474133585",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-06",
+    "stale": true
   },
   {
     "company": "Jobgether",
