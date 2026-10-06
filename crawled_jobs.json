@@ -99,6 +99,20 @@
   },
   {
     "company": "Adyen N.V.",
+    "job_title": "Senior Data Engineer",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
+    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/6919020",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2025-06-27",
+    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Senior Data Engineer At Adyen, we treat data and data artifacts as first-class citizens. They form our backbone and drive the business and product insights we generate. To this end, Adyen is looking for a Senior Data Engineers in Amsterdam. We\u2019re looking for engineers that understand the business context and the data needs behind it, and excel in implementing high-quality data pipelines on our Big Data Platform. As a Senior Data Engineer at Adyen, you will play a crucial role in shaping our data infrastructure and ensuring the seamless flow of data across various systems.&nbsp; What you\u2019ll do Collaborative Solution Development : Engage with a diverse range of stakeholders, including data scientists, analysts, software engineers, product managers, and customers, to understand their requirements and craft effective solutions. State-of-the-Art Pipelines and Architecture : Design, develop, deploy and operate high-quality production ELT pipelines and data architectures. Integrate data from various sources and formats, ensuring compatibility, consistency, and reliability. Design scalable architectures.&nbsp; Champion Data Best Practices : Proactively establish and advocate for best practices in performance, code quality, data validation, data governance, and discoverability across Adyen through mentoring, training, and knowledge sharing. High Quality Data and Code: Ensure data is accurate, complete, reliable, relevant, and timely. Implement rigorous testing, monitoring and validation protocols for your code and data, leveraging tools such as Pytest. Performance Optimization : Identify and resolve performance bottlenecks in data pipelines and systems. Optimize query performance and resource utilization to meet SLAs and performance requirements, using technologies such as caching, indexing, partitioning, and other Spark optimizations. Who you are Experienced in Big Data: Over 7 years of experience working as a Data Engineer or in a similar role. Data &amp; Engineering practices: You possess an expert-level understanding of both Software and Data Engineering practices. Technical Super Star: Highly proficient in tools and languages such as: Python, PySpark, Airflow, Hadoop, Spark, Kafka, SQL, Git.&nbsp; Clear Communicator: Skilled at articulating complex data-related concepts and outcomes to a diverse range of stakeholders",
+    "notes": "Dept: Data Analytics. Via Greenhouse board.",
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-10-06"
+  },
+  {
+    "company": "Adyen N.V.",
     "job_title": "Senior Linux Infrastructure Engineer ",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
@@ -1266,20 +1280,6 @@
     "last_seen": "2026-10-06"
   },
   {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Security Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-10-06"
-  },
-  {
     "company": "Zscaler Netherlands B.V.",
     "job_title": "Sr. Staff Network Engineer",
     "location": "Amsterdam, NLD",
@@ -1424,7 +1424,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-09",
-    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 40 jobs found Commerce Business & Proposition Development Value Proposition Manager Conversion & Consideration Bachelor / Master 7.400-9.300 Utrecht 7-10+ year Ben jij de shapeshifter die de volgende retail media fase vorm kan geven? Tech Engineering Software Engineer \u2013 ShopCore - BackEnd Bachelor / Master Utrecht 4-10+ year Own the backend foundation. Accelerate every shop team. Data & Analytics Excellence & Improvement Data Analist Partner Sales & Marketing Excellence Master 3.400-3.500 Utrecht 0-4 year Commerci\u00eble data expert die onze partner sales & marketing organisatie laat vlammen Logistics Excellence & Improvement Logistics Specialist Delivery Operations Bachelor / Master 4.238-5.300 Utrecht 4-10 year Help om het wijdvertakte delivery landschap van bol steeds verder te verbeteren Marketing Marketing Marketing Intelligence Analyst Bachelor / Master 3.800-4.600 Utrecht 1-7 year Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Commerce Buying Category Manager Internationale Boeken Bachelor / Master 4.300-5.200 Utrecht 1-10 year Leest de wereldmarkt als geen ander FinTech Senior Leadership Head of Product - Financial Services Core Products Bachelor / Master 8.400-10.100 Utrecht 7-10+ year Build the financial infrastructure that can scale bol\u2019s financial services Finance & Business Support Excellence & Improvement Supply Chain Expert Logistics Bachelor / Master 5.200-6.500 Utrecht 7-10+ year Help 100 miljoen pakketten per jaar op de juiste weg Finance & Business Support Excellence & Improvement Supply Chain Expert Availability & Inventory Bachelor / Master 5.200-6.500 Utrecht 7-10+ year Vertaal inkoopcomplexiteit naar de juiste voorraadbeslissingen Marketing Intern Stage Community, Communicatie & AI-productiviteit Bachelor / Master 550 Utrecht Student Ready to help shape learning communities, improve employee experiences, and discover how AI can make work smarter? 1 2 3 4 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
+    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 40 jobs found Commerce Business & Proposition Development Value Proposition Manager Conversion & Consideration Bachelor / Master 7.400-9.300 Utrecht 7-10+ year Ben jij de shapeshifter die de volgende retail media fase vorm kan geven? Tech Engineering Backend System Engineer Bachelor / Master Utrecht 7-10+ year Own the backend foundation. Accelerate every shop team. Tech Engineering Backend Software Engineer Bachelor / Master 6.000-7.600 Utrecht 7-10+ year Own the backend foundation. Accelerate every shop team. Data & Analytics Excellence & Improvement Data Analist Partner Sales & Marketing Excellence Master 3.400-3.500 Utrecht 0-4 year Commerci\u00eble data expert die onze partner sales & marketing organisatie laat vlammen Logistics Excellence & Improvement Logistics Specialist Delivery Operations Bachelor / Master 4.238-5.300 Utrecht 4-10 year Help om het wijdvertakte delivery landschap van bol steeds verder te verbeteren Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Marketing Marketing Marketing Intelligence Analyst Bachelor / Master 3.800-4.600 Utrecht 1-7 year Commerce Buying Category Manager Internationale Boeken Bachelor / Master 4.300-5.200 Utrecht 1-10 year Leest de wereldmarkt als geen ander FinTech Senior Leadership Head of Product - Financial Services Core Products Bachelor / Master 8.400-10.100 Utrecht 7-10+ year Build the financial infrastructure that can scale bol\u2019s financial services Finance & Business Support Excellence & Improvement Supply Chain Expert Logistics Bachelor / Master 5.200-6.500 Utrecht 7-10+ year Help 100 miljoen pakketten per jaar op de juiste weg Finance & Business Support Excellence & Improvement Supply Chain Expert Availability & Inventory Bachelor / Master 5.200-6.500 Utrecht 7-10+ year Vertaal inkoopcomplexiteit naar de juiste voorraadbeslissingen 1 2 3 4 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
     "notes": "Dept: Technology. Via Greenhouse board.",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06"
@@ -1438,7 +1438,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-07-10",
-    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 40 jobs found Commerce Business & Proposition Development Value Proposition Manager Conversion & Consideration Bachelor / Master 7.400-9.300 Utrecht 7-10+ year Ben jij de shapeshifter die de volgende retail media fase vorm kan geven? Tech Engineering Software Engineer \u2013 ShopCore - BackEnd Bachelor / Master Utrecht 4-10+ year Own the backend foundation. Accelerate every shop team. Data & Analytics Excellence & Improvement Data Analist Partner Sales & Marketing Excellence Master 3.400-3.500 Utrecht 0-4 year Commerci\u00eble data expert die onze partner sales & marketing organisatie laat vlammen Logistics Excellence & Improvement Logistics Specialist Delivery Operations Bachelor / Master 4.238-5.300 Utrecht 4-10 year Help om het wijdvertakte delivery landschap van bol steeds verder te verbeteren Marketing Marketing Marketing Intelligence Analyst Bachelor / Master 3.800-4.600 Utrecht 1-7 year Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Commerce Buying Category Manager Internationale Boeken Bachelor / Master 4.300-5.200 Utrecht 1-10 year Leest de wereldmarkt als geen ander FinTech Senior Leadership Head of Product - Financial Services Core Products Bachelor / Master 8.400-10.100 Utrecht 7-10+ year Build the financial infrastructure that can scale bol\u2019s financial services Finance & Business Support Excellence & Improvement Supply Chain Expert Logistics Bachelor / Master 5.200-6.500 Utrecht 7-10+ year Help 100 miljoen pakketten per jaar op de juiste weg Finance & Business Support Excellence & Improvement Supply Chain Expert Availability & Inventory Bachelor / Master 5.200-6.500 Utrecht 7-10+ year Vertaal inkoopcomplexiteit naar de juiste voorraadbeslissingen Marketing Intern Stage Community, Communicatie & AI-productiviteit Bachelor / Master 550 Utrecht Student Ready to help shape learning communities, improve employee experiences, and discover how AI can make work smarter? 1 2 3 4 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
+    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 40 jobs found Commerce Business & Proposition Development Value Proposition Manager Conversion & Consideration Bachelor / Master 7.400-9.300 Utrecht 7-10+ year Ben jij de shapeshifter die de volgende retail media fase vorm kan geven? Tech Engineering Backend System Engineer Bachelor / Master Utrecht 7-10+ year Own the backend foundation. Accelerate every shop team. Tech Engineering Backend Software Engineer Bachelor / Master 6.000-7.600 Utrecht 7-10+ year Own the backend foundation. Accelerate every shop team. Data & Analytics Excellence & Improvement Data Analist Partner Sales & Marketing Excellence Master 3.400-3.500 Utrecht 0-4 year Commerci\u00eble data expert die onze partner sales & marketing organisatie laat vlammen Logistics Excellence & Improvement Logistics Specialist Delivery Operations Bachelor / Master 4.238-5.300 Utrecht 4-10 year Help om het wijdvertakte delivery landschap van bol steeds verder te verbeteren Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Marketing Marketing Marketing Intelligence Analyst Bachelor / Master 3.800-4.600 Utrecht 1-7 year Commerce Buying Category Manager Internationale Boeken Bachelor / Master 4.300-5.200 Utrecht 1-10 year Leest de wereldmarkt als geen ander FinTech Senior Leadership Head of Product - Financial Services Core Products Bachelor / Master 8.400-10.100 Utrecht 7-10+ year Build the financial infrastructure that can scale bol\u2019s financial services Finance & Business Support Excellence & Improvement Supply Chain Expert Logistics Bachelor / Master 5.200-6.500 Utrecht 7-10+ year Help 100 miljoen pakketten per jaar op de juiste weg Finance & Business Support Excellence & Improvement Supply Chain Expert Availability & Inventory Bachelor / Master 5.200-6.500 Utrecht 7-10+ year Vertaal inkoopcomplexiteit naar de juiste voorraadbeslissingen 1 2 3 4 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
     "notes": "Dept: Technology. Via Greenhouse board.",
     "first_seen": "2026-09-25",
     "last_seen": "2026-10-06"
@@ -1452,7 +1452,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-06-23",
-    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 40 jobs found Commerce Business & Proposition Development Value Proposition Manager Conversion & Consideration Bachelor / Master 7.400-9.300 Utrecht 7-10+ year Ben jij de shapeshifter die de volgende retail media fase vorm kan geven? Tech Engineering Software Engineer \u2013 ShopCore - BackEnd Bachelor / Master Utrecht 4-10+ year Own the backend foundation. Accelerate every shop team. Data & Analytics Excellence & Improvement Data Analist Partner Sales & Marketing Excellence Master 3.400-3.500 Utrecht 0-4 year Commerci\u00eble data expert die onze partner sales & marketing organisatie laat vlammen Logistics Excellence & Improvement Logistics Specialist Delivery Operations Bachelor / Master 4.238-5.300 Utrecht 4-10 year Help om het wijdvertakte delivery landschap van bol steeds verder te verbeteren Marketing Marketing Marketing Intelligence Analyst Bachelor / Master 3.800-4.600 Utrecht 1-7 year Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Commerce Buying Category Manager Internationale Boeken Bachelor / Master 4.300-5.200 Utrecht 1-10 year Leest de wereldmarkt als geen ander FinTech Senior Leadership Head of Product - Financial Services Core Products Bachelor / Master 8.400-10.100 Utrecht 7-10+ year Build the financial infrastructure that can scale bol\u2019s financial services Finance & Business Support Excellence & Improvement Supply Chain Expert Logistics Bachelor / Master 5.200-6.500 Utrecht 7-10+ year Help 100 miljoen pakketten per jaar op de juiste weg Finance & Business Support Excellence & Improvement Supply Chain Expert Availability & Inventory Bachelor / Master 5.200-6.500 Utrecht 7-10+ year Vertaal inkoopcomplexiteit naar de juiste voorraadbeslissingen Marketing Intern Stage Community, Communicatie & AI-productiviteit Bachelor / Master 550 Utrecht Student Ready to help shape learning communities, improve employee experiences, and discover how AI can make work smarter? 1 2 3 4 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
+    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 40 jobs found Commerce Business & Proposition Development Value Proposition Manager Conversion & Consideration Bachelor / Master 7.400-9.300 Utrecht 7-10+ year Ben jij de shapeshifter die de volgende retail media fase vorm kan geven? Tech Engineering Backend System Engineer Bachelor / Master Utrecht 7-10+ year Own the backend foundation. Accelerate every shop team. Tech Engineering Backend Software Engineer Bachelor / Master 6.000-7.600 Utrecht 7-10+ year Own the backend foundation. Accelerate every shop team. Data & Analytics Excellence & Improvement Data Analist Partner Sales & Marketing Excellence Master 3.400-3.500 Utrecht 0-4 year Commerci\u00eble data expert die onze partner sales & marketing organisatie laat vlammen Logistics Excellence & Improvement Logistics Specialist Delivery Operations Bachelor / Master 4.238-5.300 Utrecht 4-10 year Help om het wijdvertakte delivery landschap van bol steeds verder te verbeteren Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Marketing Marketing Marketing Intelligence Analyst Bachelor / Master 3.800-4.600 Utrecht 1-7 year Commerce Buying Category Manager Internationale Boeken Bachelor / Master 4.300-5.200 Utrecht 1-10 year Leest de wereldmarkt als geen ander FinTech Senior Leadership Head of Product - Financial Services Core Products Bachelor / Master 8.400-10.100 Utrecht 7-10+ year Build the financial infrastructure that can scale bol\u2019s financial services Finance & Business Support Excellence & Improvement Supply Chain Expert Logistics Bachelor / Master 5.200-6.500 Utrecht 7-10+ year Help 100 miljoen pakketten per jaar op de juiste weg Finance & Business Support Excellence & Improvement Supply Chain Expert Availability & Inventory Bachelor / Master 5.200-6.500 Utrecht 7-10+ year Vertaal inkoopcomplexiteit naar de juiste voorraadbeslissingen 1 2 3 4 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
     "notes": "Dept: Technology. Via Greenhouse board.",
     "first_seen": "2026-07-08",
     "last_seen": "2026-10-06"
@@ -1641,16 +1641,16 @@
   },
   {
     "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "The Core Engineering-L2-Bengaluru-Vice President-Software Engineering\nBengaluru\u00b7India\n\u00b7Vice President",
+    "job_title": "Senior Software Engineer, Global Banking & Markets, AI/ML Technology\nNew York\u00b7United States\n\u00b7Associate",
     "location": "Netherlands",
     "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/185534",
+    "job_url": "https://higher.gs.com/roles/177422",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-06",
+    "first_seen": "2026-09-30",
     "last_seen": "2026-10-06"
   },
   {
@@ -1735,20 +1735,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-06"
-  },
-  {
-    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
-    "job_title": "Research Software Engineer Geoscience Utrecht\nwerklocatie:\nUtrecht\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nMaster",
-    "location": "Netherlands",
-    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
-    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/10/research-software-engineer-geoscience/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-06",
     "last_seen": "2026-10-06"
   },
   {
@@ -2164,6 +2150,51 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-10-06"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Security Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-10-06",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "The Core Engineering-L2-Bengaluru-Vice President-Software Engineering\nBengaluru\u00b7India\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/185534",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "stale": true
+  },
+  {
+    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
+    "job_title": "Research Software Engineer Geoscience Utrecht\nwerklocatie:\nUtrecht\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nMaster",
+    "location": "Netherlands",
+    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
+    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/10/research-software-engineer-geoscience/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "stale": true
   },
   {
     "company": "TomTom International B.V.",
@@ -3478,21 +3509,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-30",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Senior Software Engineer, Global Banking & Markets, AI/ML Technology\nNew York\u00b7United States\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/177422",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-30",
     "last_seen": "2026-09-30",
     "stale": true
   },
