@@ -630,6 +630,20 @@
     "last_seen": "2026-10-06"
   },
   {
+    "company": "Xccelerated | Part of Xebia",
+    "job_title": "Senior Data Platform Engineer",
+    "location": "s-Hertogenbosch Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476314159",
+    "job_url": "https://www.linkedin.com/jobs/view/4476314159",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06"
+  },
+  {
     "company": "UMC Utrecht",
     "job_title": "Senior Cloud Platform Engineer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -840,20 +854,6 @@
     "last_seen": "2026-10-06"
   },
   {
-    "company": "Belastingdienst",
-    "job_title": "OpenShift containerplatform engineer",
-    "location": "Apeldoorn, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4435182276",
-    "job_url": "https://www.linkedin.com/jobs/view/4435182276",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-10-06"
-  },
-  {
     "company": "Sprint and Partners",
     "job_title": "(Sr/Staff) Platform Engineer - AI Cloud infra - Software Engineer turned Platform - Multi-Cloud & Python - First dedicated Platform hire - Small team AI Scale up - 135K base + stockpackage",
     "location": "Amsterdam Area",
@@ -953,10 +953,10 @@
   },
   {
     "company": "Sogeti",
-    "job_title": "Senior AI Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4465218708",
-    "job_url": "https://www.linkedin.com/jobs/view/4465218708",
+    "job_title": "Medior AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4465220731",
+    "job_url": "https://www.linkedin.com/jobs/view/4465220731",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-06",
@@ -1552,6 +1552,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-29",
     "last_seen": "2026-10-06"
+  },
+  {
+    "company": "Belastingdienst",
+    "job_title": "OpenShift containerplatform engineer",
+    "location": "Apeldoorn, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4435182276",
+    "job_url": "https://www.linkedin.com/jobs/view/4435182276",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-10-06",
+    "stale": true
+  },
+  {
+    "company": "Sogeti",
+    "job_title": "Senior AI Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4465218708",
+    "job_url": "https://www.linkedin.com/jobs/view/4465218708",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-10-06",
+    "stale": true
   },
   {
     "company": "i3D.net",
