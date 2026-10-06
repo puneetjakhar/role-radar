@@ -910,20 +910,6 @@
     "last_seen": "2026-10-06"
   },
   {
-    "company": "TC Consulting",
-    "job_title": "junior ai engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4475542829",
-    "job_url": "https://www.linkedin.com/jobs/view/4475542829",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-06"
-  },
-  {
     "company": "Curamando",
     "job_title": "Senior GenAI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1019,6 +1005,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-21",
+    "last_seen": "2026-10-06"
+  },
+  {
+    "company": "Jobgether",
+    "job_title": "Machine Learning Engineer (Governance ML Platform)",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473322947",
+    "job_url": "https://www.linkedin.com/jobs/view/4473322947",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-06",
     "last_seen": "2026-10-06"
   },
   {
@@ -1552,6 +1552,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
     "last_seen": "2026-10-06"
+  },
+  {
+    "company": "TC Consulting",
+    "job_title": "junior ai engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475542829",
+    "job_url": "https://www.linkedin.com/jobs/view/4475542829",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-06",
+    "stale": true
   },
   {
     "company": "DataNorth AI",
