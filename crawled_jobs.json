@@ -1322,6 +1322,20 @@
     "last_seen": "2026-10-06"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Security Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-10-06"
+  },
+  {
     "company": "Zscaler Netherlands B.V.",
     "job_title": "Sr. Staff Network Engineer",
     "location": "Amsterdam, NLD",
@@ -2235,21 +2249,6 @@
     "notes": "Via XHR interception (Playwright).",
     "first_seen": "2026-08-04",
     "last_seen": "2026-10-06",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Security Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-10-05",
     "stale": true
   },
   {
