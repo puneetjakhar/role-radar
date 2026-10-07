@@ -1,5 +1,19 @@
 [
   {
+    "company": "Virtual Vaults",
+    "job_title": "Senior Full-Stack Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474718567",
+    "job_url": "https://www.linkedin.com/jobs/view/4474718567",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-07"
+  },
+  {
     "company": "Health Cloud Initiative",
     "job_title": "Senior Software Engineer",
     "location": "Amsterdam Area",
@@ -179,20 +193,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-06",
-    "last_seen": "2026-10-07"
-  },
-  {
-    "company": "Virtual Vaults",
-    "job_title": "Senior Full-Stack Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474718567",
-    "job_url": "https://www.linkedin.com/jobs/view/4474718567",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
     "last_seen": "2026-10-07"
   },
   {
@@ -1330,6 +1330,34 @@
     "last_seen": "2026-10-07"
   },
   {
+    "company": "Sendcloud",
+    "job_title": "Staff Platform Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4447128435",
+    "job_url": "https://www.linkedin.com/jobs/view/4447128435",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "company": "HID",
+    "job_title": "Principal Software Engineer",
+    "location": "North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4400183483",
+    "job_url": "https://www.linkedin.com/jobs/view/4400183483",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-10-07"
+  },
+  {
     "company": "Priva",
     "job_title": "Backend Staff Engineer",
     "location": "De Lier, South Holland, Netherlands",
@@ -1414,6 +1442,20 @@
     "last_seen": "2026-10-07"
   },
   {
+    "company": "Eye Security",
+    "job_title": "Staff AI Engineer (f/m/x)",
+    "location": "Rotterdam and The Hague",
+    "careers_url": "https://www.linkedin.com/jobs/view/4464864180",
+    "job_url": "https://www.linkedin.com/jobs/view/4464864180",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-10-07"
+  },
+  {
     "company": "Adyen",
     "job_title": "Staff Engineer - Observability",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1425,6 +1467,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-19",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "company": "BlockTech",
+    "job_title": "Senior Software Engineer | Data Infrastructure | Rust",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4438195985",
+    "job_url": "https://www.linkedin.com/jobs/view/4438195985",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-08",
     "last_seen": "2026-10-07"
   },
   {
@@ -1498,6 +1554,20 @@
     "last_seen": "2026-10-07"
   },
   {
+    "company": "Wolters Kluwer",
+    "job_title": "Principal Product Software Engineer",
+    "location": "Hoevelaken, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4398118801",
+    "job_url": "https://www.linkedin.com/jobs/view/4398118801",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-10-07"
+  },
+  {
     "company": "Kadaster",
     "job_title": "Senior Software Engineer (Mikado)",
     "location": "Apeldoorn, Gelderland, Netherlands",
@@ -1539,81 +1609,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-07",
-    "stale": true
-  },
-  {
-    "company": "Sendcloud",
-    "job_title": "Staff Platform Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4447128435",
-    "job_url": "https://www.linkedin.com/jobs/view/4447128435",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-31",
-    "last_seen": "2026-10-07",
-    "stale": true
-  },
-  {
-    "company": "HID",
-    "job_title": "Principal Software Engineer",
-    "location": "North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4400183483",
-    "job_url": "https://www.linkedin.com/jobs/view/4400183483",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-10-07",
-    "stale": true
-  },
-  {
-    "company": "Eye Security",
-    "job_title": "Staff AI Engineer (f/m/x)",
-    "location": "Rotterdam and The Hague",
-    "careers_url": "https://www.linkedin.com/jobs/view/4464864180",
-    "job_url": "https://www.linkedin.com/jobs/view/4464864180",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-10-07",
-    "stale": true
-  },
-  {
-    "company": "BlockTech",
-    "job_title": "Senior Software Engineer | Data Infrastructure | Rust",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4438195985",
-    "job_url": "https://www.linkedin.com/jobs/view/4438195985",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-10-07",
-    "stale": true
-  },
-  {
-    "company": "Wolters Kluwer",
-    "job_title": "Principal Product Software Engineer",
-    "location": "Hoevelaken, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4398118801",
-    "job_url": "https://www.linkedin.com/jobs/view/4398118801",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-30",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-29",
     "last_seen": "2026-10-07",
     "stale": true
   },
