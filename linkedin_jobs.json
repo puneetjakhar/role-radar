@@ -616,20 +616,6 @@
     "last_seen": "2026-10-07"
   },
   {
-    "company": "Belastingdienst",
-    "job_title": "Platform engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467792634",
-    "job_url": "https://www.linkedin.com/jobs/view/4467792634",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-16",
-    "last_seen": "2026-10-07"
-  },
-  {
     "company": "Hot ITem Conclusion",
     "job_title": "Medior Platform Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -812,6 +798,20 @@
     "last_seen": "2026-10-07"
   },
   {
+    "company": "Nmbrs",
+    "job_title": "Cloud Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472546558",
+    "job_url": "https://www.linkedin.com/jobs/view/4472546558",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-07"
+  },
+  {
     "company": "Ashby",
     "job_title": "Staff Platform Engineer - EU",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -924,6 +924,20 @@
     "last_seen": "2026-10-07"
   },
   {
+    "company": "VitalSail",
+    "job_title": "Artificial Intelligence Engineer",
+    "location": "Middelharnis, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476925817",
+    "job_url": "https://www.linkedin.com/jobs/view/4476925817",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
     "company": "TBAuctions",
     "job_title": "Machine Learning Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -994,6 +1008,20 @@
     "last_seen": "2026-10-07"
   },
   {
+    "company": "PostNL",
+    "job_title": "AI Software Engineer - Team AI CoE / Core Tech | Den Haag",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474488301",
+    "job_url": "https://www.linkedin.com/jobs/view/4474488301",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
     "company": "Cognizant",
     "job_title": "Frontier Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1005,20 +1033,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-10-07"
-  },
-  {
-    "company": "Capgemini",
-    "job_title": "Medior AI Engineer - NL",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4466104126",
-    "job_url": "https://www.linkedin.com/jobs/view/4466104126",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-07",
     "last_seen": "2026-10-07"
   },
   {
@@ -1176,20 +1190,6 @@
     "last_seen": "2026-10-07"
   },
   {
-    "company": "KPN",
-    "job_title": "Senior AI Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4419839350",
-    "job_url": "https://www.linkedin.com/jobs/view/4419839350",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-05-30",
-    "last_seen": "2026-10-07"
-  },
-  {
     "company": "Fellowmind",
     "job_title": "AI Engineer",
     "location": "Amersfoort, Utrecht, Netherlands",
@@ -1271,20 +1271,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-07"
-  },
-  {
-    "company": "Talently",
-    "job_title": "Founding Backend Engineer (Platform)",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476714020",
-    "job_url": "https://www.linkedin.com/jobs/view/4476714020",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-07",
     "last_seen": "2026-10-07"
   },
   {
@@ -1540,6 +1526,66 @@
     "last_seen": "2026-10-07"
   },
   {
+    "company": "Belastingdienst",
+    "job_title": "Platform engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467792634",
+    "job_url": "https://www.linkedin.com/jobs/view/4467792634",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-10-07",
+    "stale": true
+  },
+  {
+    "company": "Capgemini",
+    "job_title": "Medior AI Engineer - NL",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4466104126",
+    "job_url": "https://www.linkedin.com/jobs/view/4466104126",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "stale": true
+  },
+  {
+    "company": "KPN",
+    "job_title": "Senior AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4419839350",
+    "job_url": "https://www.linkedin.com/jobs/view/4419839350",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-05-30",
+    "last_seen": "2026-10-07",
+    "stale": true
+  },
+  {
+    "company": "Talently",
+    "job_title": "Founding Backend Engineer (Platform)",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476714020",
+    "job_url": "https://www.linkedin.com/jobs/view/4476714020",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "stale": true
+  },
+  {
     "company": "ABN AMRO Bank N.V.",
     "job_title": "Machine Learning & Agentic AI Engineer",
     "location": "Amstelveen, North Holland, Netherlands",
@@ -1761,21 +1807,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-07",
-    "stale": true
-  },
-  {
-    "company": "Nmbrs",
-    "job_title": "Cloud Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472546558",
-    "job_url": "https://www.linkedin.com/jobs/view/4472546558",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
     "last_seen": "2026-10-07",
     "stale": true
   },
