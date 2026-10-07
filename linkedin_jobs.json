@@ -1,19 +1,5 @@
 [
   {
-    "company": "Virtual Vaults",
-    "job_title": "Senior Full-Stack Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474718567",
-    "job_url": "https://www.linkedin.com/jobs/view/4474718567",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-07"
-  },
-  {
     "company": "Health Cloud Initiative",
     "job_title": "Senior Software Engineer",
     "location": "Amsterdam Area",
@@ -182,6 +168,20 @@
     "last_seen": "2026-10-07"
   },
   {
+    "company": "Kadaster",
+    "job_title": "Senior Software Engineer (Mikado)",
+    "location": "Apeldoorn, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474232568",
+    "job_url": "https://www.linkedin.com/jobs/view/4474232568",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-07"
+  },
+  {
     "company": "Suitsupply",
     "job_title": "Senior Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -337,6 +337,20 @@
   },
   {
     "company": "Jobgether",
+    "job_title": "Senior Backend Engineer - Payments & Fintech",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476565534",
+    "job_url": "https://www.linkedin.com/jobs/view/4476565534",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "company": "Jobgether",
     "job_title": "Backend Engineer, PHP",
     "location": "Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4474672919",
@@ -417,20 +431,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-07"
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Senior Backend Engineer - Data Core",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474243679",
-    "job_url": "https://www.linkedin.com/jobs/view/4474243679",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
     "last_seen": "2026-10-07"
   },
   {
@@ -529,6 +529,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "company": "Priva",
+    "job_title": "Senior Backend Engineer \u2013 Energy Optimization & Platform",
+    "location": "De Lier, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474722242",
+    "job_url": "https://www.linkedin.com/jobs/view/4474722242",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
     "last_seen": "2026-10-07"
   },
   {
@@ -924,6 +938,20 @@
     "last_seen": "2026-10-07"
   },
   {
+    "company": "NewData",
+    "job_title": "Junior AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476578366",
+    "job_url": "https://www.linkedin.com/jobs/view/4476578366",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
     "company": "Prosus",
     "job_title": "Senior Machine Learning Engineer \u2013 LLMs",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1246,20 +1274,6 @@
     "last_seen": "2026-10-07"
   },
   {
-    "company": "Rijkswaterstaat",
-    "job_title": "Senior machine learning engineer",
-    "location": "Delft, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471127173",
-    "job_url": "https://www.linkedin.com/jobs/view/4471127173",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-30",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-10-07"
-  },
-  {
     "company": "Amaris Consulting  | Part of Mantu",
     "job_title": "Functie: Generative AI Engineer",
     "location": "Utrecht, Netherlands",
@@ -1568,17 +1582,47 @@
     "last_seen": "2026-10-07"
   },
   {
-    "company": "Kadaster",
-    "job_title": "Senior Software Engineer (Mikado)",
-    "location": "Apeldoorn, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474232568",
-    "job_url": "https://www.linkedin.com/jobs/view/4474232568",
+    "company": "Virtual Vaults",
+    "job_title": "Senior Full-Stack Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474718567",
+    "job_url": "https://www.linkedin.com/jobs/view/4474718567",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-07",
+    "stale": true
+  },
+  {
+    "company": "Jobgether",
+    "job_title": "Senior Backend Engineer - Data Core",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474243679",
+    "job_url": "https://www.linkedin.com/jobs/view/4474243679",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-05",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-05",
+    "last_seen": "2026-10-07",
+    "stale": true
+  },
+  {
+    "company": "Rijkswaterstaat",
+    "job_title": "Senior machine learning engineer",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471127173",
+    "job_url": "https://www.linkedin.com/jobs/view/4471127173",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-24",
     "last_seen": "2026-10-07",
     "stale": true
   },
@@ -2014,21 +2058,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-29",
-    "last_seen": "2026-10-06",
-    "stale": true
-  },
-  {
-    "company": "Priva",
-    "job_title": "Senior Backend Engineer \u2013 Energy Optimization & Platform",
-    "location": "De Lier, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474722242",
-    "job_url": "https://www.linkedin.com/jobs/view/4474722242",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
     "last_seen": "2026-10-06",
     "stale": true
   },
