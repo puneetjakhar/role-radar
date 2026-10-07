@@ -1551,7 +1551,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-29",
-    "last_seen": "2026-10-07"
+    "last_seen": "2026-10-07",
+    "stale": true
   },
   {
     "company": "bol",
