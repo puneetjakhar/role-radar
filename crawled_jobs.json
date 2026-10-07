@@ -1115,34 +1115,6 @@
     "last_seen": "2026-10-07"
   },
   {
-    "company": "TomTom International B.V.",
-    "job_title": "Senior Software Engineer - SDK and Visualization Engines",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/17239e18-f8d0-400e-a79d-20c867e500be/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [\"Map Visualization builds the technology that turns map data into what people actually see - satellite imagery, buildings, roads, and live map content - across mobile devices and in-car systems. The Visualization Engines team owns the rendering engines behind it: a Unity-based 3D map renderer and an in-house C++ rendering engine, both shipping to phones and to automotive customers.\\u00a0\\n\\u00a0\\nWe are looking for an engineer to strengthen our rendering and computer graphics expertise while staying comfortable contributing to the mobile SDK layer around it.\"], \"sections\": [{\"title\": \"What you will do\", \"items\": [{\"text\": \"Design technical solutions to complex problems at scale: large map scenes, tight frame budgets, constrained mobile and automotive hardware.\"}, {\"text\": \"Work across the rendering stack: from the C# and mobile APIs our SDK consumers use down to the graphics pipeline and shader-level work.\"}, {\"text\": \"Take ownership of your area and lead changes within the team.\"}, {\"text\": \"Build iteratively using agile methods.\"}, {\"text\": \"Work with AI as a standard part of engineering practice - we use it heavily and expect you to.\"}]}, {\"title\": \"What you will need\\u00a0\", \"items\": [{\"text\": \"A Bachelor's degree in Computer Science or a related field, and 3+ years of equivalent experience in at least one modern programming language.\"}, {\"text\": \"Strong C++ or C# or Kotlin or Swift - we expect you are genuinely productive in at least one of them.\"}, {\"text\": \"Comfortable contributing to the mobile SDK layer\"}, {\"text\": \"Knowledge and practice of professional software engineering across the full development lifecycle: coding standards, code reviews, source control, build processes, testing, and operations.\"}, {\"text\": \"Comfortable communicating in English, written and spoken.\", \"description\": \"One of these two profiles is you Beyond the essentials above, we need one of these two backgrounds. We are deliberately flexible about which: we will trade depth in one area for the appetite to grow in the other, so you need one profile, not both. Profile A (the mobile engineer). You are a strong Android and/or iOS engineer, and you want to move toward rendering and computer graphics. Profile B (the graphics engineer). You work in computer graphics, rendering engines, or visualization, and you are interested in learning mobile platform development. Nice to have\"}, {\"text\": \"Unity engine and/or APIs: Vulkan, OpenGL, ...\"}, {\"text\": \"Shader authoring and graphics pipeline optimization.\"}, {\"text\": \"Kotlin and/or Swift - both are in use in our SDK and demo applications.\"}, {\"text\": \"Automotive software.\"}, {\"text\": \"Working with large geospatial or other large-scale datasets.\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-07"
-  },
-  {
-    "company": "TomTom International B.V.",
-    "job_title": "Senior MLOps/Data Engineer",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/564ca739-8bac-472b-a107-2d531ea1578f/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"3+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-10-07"
-  },
-  {
     "company": "Backbase B.V.",
     "job_title": "Engineering Team Lead (ETL)",
     "location": "Amsterdam, Netherlands",
@@ -1501,6 +1473,20 @@
   },
   {
     "company": "Datadog Netherlands B.V.",
+    "job_title": "Senior Partner Solutions Architect (Pan-EMEA GSI)",
+    "location": "Germany, Remote; The Netherlands, Remote",
+    "careers_url": "https://careers.datadoghq.com/",
+    "job_url": "https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-07-30",
+    "description": "The Team: We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers through demos, presentations, technical evaluations, and ongoing support. Technical solutions is a growing global team that collaborates constantly to share knowledge and continuously advance our technical skillset. &nbsp; The Opportunity: The Partner Solution Architect (PSA) is a Datadog expert who will work closely with Datadog\u2019s Director, Adoption Services, and is aligned to our Channels &amp; Alliances business segment. The PSA is responsible for supporting a variety of technical initiatives and activities for our partners (for example: cloud migration, application modernization, DevOps transformation). They are accountable for the outcome of these initiatives, and frequently collaborate with both Datadog and Partner resources to drive success. The PSA is a trusted technical advisor for our Partner channel. &nbsp; You Will: Ensure the successful onboarding, training, enablement, and certification of partner technical resources; Participate in periodic joint business planning and review sessions to ensure direct alignment between Datadog and Partner technical teams; Collaborate internally to support Partner technical initiatives such as end-customer demonstrations and proofs of value; partner team enablement workshops; assessment, advice, and coaching on lead practices; Advocate on behalf of Partners\u2019 technical concerns (use cases, feature requests, support issues, e.g.) with Datadog internal teams and personnel, helping to bring those concerns to resolution; Analyze and understand Partner service offerings on a regular basis and provide recommendations to enhance the value of those services through greater or improved adoption of Datadog features and capabilities; Collaborate with Datadog\u2019s product management, engineering and technical services teams to help identify and prioritize new features and capabilities; Continuously help curate and evolve lead/best practices for Datadog platform adoption and success. &nbsp; You Are: Possess a solid technical grounding with hands-on experience of IT Development and/or Operations; A demonstrable track-record and never-ending passion for learning; A self-starter, tech-savvy professional with solid business acumen; ability to articulate Datadog value from server room to boardroom; Confident presentation skills; Must be a current EU resident Desired hands-on experience in two or more of the following areas: Observability: Datadog, Splunk, AppD, New Relic or Dynatrace Public Cloud: AWS, Azure, GCP, or Alibaba Containerization: Docker, Kubernetes, OpenShift, Cloud Foundry Dev/Scripting: Python, Javascript, Ruby, Perl, PHP, Go Config Mgmt: Terraform, Ansible, Puppet, Chef CI / CD: Jenkins, Gitlab &nbsp; Bonus Points: Previous experience worki",
+    "notes": "Dept: Channels & Alliances. Via Greenhouse board.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "company": "Datadog Netherlands B.V.",
     "job_title": "Senior Sales Engineer - Majors (UK/Nordics/Netherlands)",
     "location": "Denmark, Remote; Sweden, Remote; The Netherlands, Remote; United Kingdom, Remote",
     "careers_url": "https://careers.datadoghq.com/",
@@ -1525,6 +1511,20 @@
     "description": "Flow Traders is strengthening leadership across its Product Development department and is hiring an Engineering Manager in Amsterdam. As the firm scales, the quality of engineering management has become one of the most important factors in how well our teams grow, retain talent, and deliver - and this role exists to raise that bar. Engineering Managers are accountable for the planning and people side of the organisation - project deliveries, growth, performance, culture and hiring - and partner with technical leads who own architecture, technical direction, and hands-on execution. The two work in close partnership; neither succeeds without the other. You will be measured on the engineers you develop and the outcomes your team delivers. You will spend the large majority of your time leading people and managing delivery. &nbsp; What you will do: Own the roadmap: manage priorities, planning, and sequencing of the work in line with company goals. Develop your engineers: own career planning, promotions, coaching, and structured, continuous performance management. Plan and build the team: lead hiring, headcount planning, and resource allocation in line with the team's roadmap and the firm's priorities. Cultivate a healthy team: actively manage culture, morale, and productivity, and address conflict early and constructively. Lead with rhythm: hold regular one-on-ones, give clear and timely feedback, and invest in team building. Translate technical and business requirements into clear delivery plans, identifying dependencies with other teams and risks up front. Act as the liaison between Engineering, Trading, and Quant teams to design and roll out new products. Drive delivery predictability: track progress against plan, manage risk and scope trade-offs, and report status clearly to stakeholders. Continuously improve delivery processes and team velocity. Ensure alignment: keep your team's work connected to organisational goals and delivery timelines, collaborating closely with Tech Leads and Staff Engineers on technical direction. &nbsp; What you need to succeed: Strong project management skills: experience building roadmaps, sequencing work, managing dependencies and risk, and driving delivery predictability in a fast-moving environment. A technical background sufficient to earn the respect of the engineers you manage and to engage credibly in technical discussions. Demonstrated experience leading, growing, and managing the performance of software engineers. A track record of delivering software through a team, balancing scope, quality, and timelines. Strong people-leadership skills: coaching, feedback, conflict resolution, and building an environment in which engineers thrive. Sound judgment in hiring and developing talent. Excellent communication with both technical and non-technical stakeholders, including experience managing cross-functional stakeholders (e.g. Trading, Quant). Based in Amsterdam, or willing to relocate. &nbsp; &nbsp; What we offer At",
     "notes": "Dept: Product Development. Via Greenhouse board.",
     "first_seen": "2026-07-09",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "company": "Flow Traders B.V.",
+    "job_title": "Infrastructure Platform Engineer",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://job-boards.greenhouse.io/flowtraders",
+    "job_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8195974",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-18",
+    "description": "About the role Infrastructure Platform Engineer runs the trading system infrastructure Flow Traders trades on: the global Linux fleet \u2014 trading servers, workstations and VDIs \u2014 and the multi-cloud and distributed-systems estate that sits alongside it. We also build and run the self-service infrastructure platform the rest of Technology depends on. We are hiring two engineers into this team. This is a hands-on engineering role: most of your time goes on writing Terraform, building CI workflows and guardrails, automating toil out of the Linux fleet, and operating what you build. A lot of the shared tooling does not exist yet, and building it is the job rather than a side effect of it. The environment is trading-critical and runs across both on-premise infrastructure and public cloud, and you will work on both sides of that line rather than specialising in one. To be clear about the shape of the seat: this is build-and-operate rather than architecture, strategy or management. There is architecture in it, but the bulk of the work is hands-on and there are no direct reports. A solid Linux foundation is essential across the whole role \u2014 it underpins both sides of the estate, and the cloud, container and Kubernetes work rests on it just as much as the on-premise fleet does. What you will do Write, debug and publish reusable Terraform modules that other engineers consume, covering both the Linux fleet and the cloud estate. Design and own CI/CD workflows and guardrails in GitHub Actions \u2014 the policy checks, tests and approval gates that let engineers across Technology self-serve infrastructure safely. Build and operate Kubernetes on both sides of the estate \u2014 managed clusters in cloud and k3s on-premise \u2014 along with the distributed systems running on it, particularly Kafka. Provision and operate GCP, AWS and Alibaba Cloud resources through Infrastructure as Code. Operate and automate the Linux estate: Foreman provisioning across VMs and bare metal, Puppet for host configuration, Ansible/AWX for application deployment, plus patching and lifecycle. Build automation and internal tooling in Python or Go, with test-driven development as a normal working habit. Take a share of the global 24/7 on-call rotation, and cross-skill deliberately between the Linux and cloud sides of the estate. What you will need to succeed Strong Terraform experience, including writing, debugging and producing reusable modules for others to consume. CI/CD experience, ideally GitHub Actions \u2014 and the guardrails, not only the pipelines. We want to hear about the gates and policy checks you built and why each one exists. Equivalent GitLab CI or Jenkins experience is fine. Solid Kubernetes in production across workloads, CNI, Helm and Argo. Self-managed or bare-metal clusters are a strong plus, as is contributing to or authoring operators. Hands-on experience provisioning and operating GCP or AWS through Infrastructure as Code, with an appetite to go deeper. Strong Linux fundamentals \u2014 yo",
+    "notes": "Dept: IT. Via Greenhouse board.",
+    "first_seen": "2026-10-07",
     "last_seen": "2026-10-07"
   },
   {
@@ -1665,6 +1665,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-30",
+    "last_seen": "2026-10-07"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Internal Audit - Global Banking & Markets Public Equities Engineering Auditor, Senior Vice President | Salt Lake City\nSa",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/181510",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-06",
     "last_seen": "2026-10-07"
   },
   {
@@ -2124,6 +2138,36 @@
     "last_seen": "2026-10-07"
   },
   {
+    "company": "TomTom International B.V.",
+    "job_title": "Senior Software Engineer - SDK and Visualization Engines",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/17239e18-f8d0-400e-a79d-20c867e500be/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [\"Map Visualization builds the technology that turns map data into what people actually see - satellite imagery, buildings, roads, and live map content - across mobile devices and in-car systems. The Visualization Engines team owns the rendering engines behind it: a Unity-based 3D map renderer and an in-house C++ rendering engine, both shipping to phones and to automotive customers.\\u00a0\\n\\u00a0\\nWe are looking for an engineer to strengthen our rendering and computer graphics expertise while staying comfortable contributing to the mobile SDK layer around it.\"], \"sections\": [{\"title\": \"What you will do\", \"items\": [{\"text\": \"Design technical solutions to complex problems at scale: large map scenes, tight frame budgets, constrained mobile and automotive hardware.\"}, {\"text\": \"Work across the rendering stack: from the C# and mobile APIs our SDK consumers use down to the graphics pipeline and shader-level work.\"}, {\"text\": \"Take ownership of your area and lead changes within the team.\"}, {\"text\": \"Build iteratively using agile methods.\"}, {\"text\": \"Work with AI as a standard part of engineering practice - we use it heavily and expect you to.\"}]}, {\"title\": \"What you will need\\u00a0\", \"items\": [{\"text\": \"A Bachelor's degree in Computer Science or a related field, and 3+ years of equivalent experience in at least one modern programming language.\"}, {\"text\": \"Strong C++ or C# or Kotlin or Swift - we expect you are genuinely productive in at least one of them.\"}, {\"text\": \"Comfortable contributing to the mobile SDK layer\"}, {\"text\": \"Knowledge and practice of professional software engineering across the full development lifecycle: coding standards, code reviews, source control, build processes, testing, and operations.\"}, {\"text\": \"Comfortable communicating in English, written and spoken.\", \"description\": \"One of these two profiles is you Beyond the essentials above, we need one of these two backgrounds. We are deliberately flexible about which: we will trade depth in one area for the appetite to grow in the other, so you need one profile, not both. Profile A (the mobile engineer). You are a strong Android and/or iOS engineer, and you want to move toward rendering and computer graphics. Profile B (the graphics engineer). You work in computer graphics, rendering engines, or visualization, and you are interested in learning mobile platform development. Nice to have\"}, {\"text\": \"Unity engine and/or APIs: Vulkan, OpenGL, ...\"}, {\"text\": \"Shader authoring and graphics pipeline optimization.\"}, {\"text\": \"Kotlin and/or Swift - both are in use in our SDK and demo applications.\"}, {\"text\": \"Automotive software.\"}, {\"text\": \"Working with large geospatial or other large-scale datasets.\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-07",
+    "stale": true
+  },
+  {
+    "company": "TomTom International B.V.",
+    "job_title": "Senior MLOps/Data Engineer",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/564ca739-8bac-472b-a107-2d531ea1578f/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"3+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-10-07",
+    "stale": true
+  },
+  {
     "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
     "job_title": "Senior Process Engineer - Die attach and assembly technologies\nwerklocatie:\nNijmegen\nwerkenopafstand:\nOn-site\nopleidings",
     "location": "Netherlands",
@@ -2180,21 +2224,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-10-07",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Internal Audit - Global Banking & Markets Public Equities Engineering Auditor, Senior Vice President | Salt Lake City\nSa",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/181510",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-06",
     "last_seen": "2026-10-07",
     "stale": true
   },
