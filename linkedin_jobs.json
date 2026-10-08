@@ -196,20 +196,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Databricks",
-    "job_title": "Sr. Software Engineer (L5) - Distributed Data Systems",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473602999",
-    "job_url": "https://www.linkedin.com/jobs/view/4473602999",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-08"
-  },
-  {
     "company": "Spilberg",
     "job_title": "Senior Fullstack .NET developer",
     "location": "Arnhem, Gelderland, Netherlands",
@@ -252,6 +238,20 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "Envalue Real Estate",
+    "job_title": "Senior Software Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475580975",
+    "job_url": "https://www.linkedin.com/jobs/view/4475580975",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-08"
+  },
+  {
     "company": "Suitsupply",
     "job_title": "Senior Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -280,17 +280,17 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Van Lanschot Kempen",
-    "job_title": "Senior Full Stack Developer(EN)",
+    "company": "Protolabs",
+    "job_title": "Senior Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4465547086",
-    "job_url": "https://www.linkedin.com/jobs/view/4465547086",
+    "careers_url": "https://www.linkedin.com/jobs/view/4438643897",
+    "job_url": "https://www.linkedin.com/jobs/view/4438643897",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-01",
+    "date_posted": "2026-10-02",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-15",
+    "first_seen": "2026-07-31",
     "last_seen": "2026-10-08"
   },
   {
@@ -1008,20 +1008,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Xomnia",
-    "job_title": "Machine Learning Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4282843346",
-    "job_url": "https://www.linkedin.com/jobs/view/4282843346",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-05-31",
-    "last_seen": "2026-10-08"
-  },
-  {
     "company": "Cognizant",
     "job_title": "Frontier Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1033,6 +1019,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-26",
+    "last_seen": "2026-10-08"
+  },
+  {
+    "company": "Capgemini",
+    "job_title": "Medior AI Engineer - NL",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4466104126",
+    "job_url": "https://www.linkedin.com/jobs/view/4466104126",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
     "last_seen": "2026-10-08"
   },
   {
@@ -1512,20 +1512,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Adyen",
-    "job_title": "Staff Engineer - Observability",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4454943163",
-    "job_url": "https://www.linkedin.com/jobs/view/4454943163",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-08"
-  },
-  {
     "company": "BlockTech",
     "job_title": "Senior Software Engineer | Data Infrastructure | Rust",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1538,6 +1524,66 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-08",
     "last_seen": "2026-10-08"
+  },
+  {
+    "company": "Databricks",
+    "job_title": "Sr. Software Engineer (L5) - Distributed Data Systems",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473602999",
+    "job_url": "https://www.linkedin.com/jobs/view/4473602999",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
+    "company": "Van Lanschot Kempen",
+    "job_title": "Senior Full Stack Developer(EN)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4465547086",
+    "job_url": "https://www.linkedin.com/jobs/view/4465547086",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
+    "company": "Xomnia",
+    "job_title": "Machine Learning Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4282843346",
+    "job_url": "https://www.linkedin.com/jobs/view/4282843346",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
+    "company": "Adyen",
+    "job_title": "Staff Engineer - Observability",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4454943163",
+    "job_url": "https://www.linkedin.com/jobs/view/4454943163",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-10-08",
+    "stale": true
   },
   {
     "company": "TicketSwap",
@@ -1626,21 +1672,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-16",
-    "last_seen": "2026-10-07",
-    "stale": true
-  },
-  {
-    "company": "Capgemini",
-    "job_title": "Medior AI Engineer - NL",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4466104126",
-    "job_url": "https://www.linkedin.com/jobs/view/4466104126",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
     "stale": true
   },
@@ -1851,21 +1882,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-29",
-    "last_seen": "2026-10-07",
-    "stale": true
-  },
-  {
-    "company": "Envalue Real Estate",
-    "job_title": "Senior Software Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4475580975",
-    "job_url": "https://www.linkedin.com/jobs/view/4475580975",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
     "last_seen": "2026-10-07",
     "stale": true
   },
@@ -2376,21 +2392,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-29",
-    "last_seen": "2026-10-06",
-    "stale": true
-  },
-  {
-    "company": "Protolabs",
-    "job_title": "Senior Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4438643897",
-    "job_url": "https://www.linkedin.com/jobs/view/4438643897",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-31",
     "last_seen": "2026-10-06",
     "stale": true
   },
