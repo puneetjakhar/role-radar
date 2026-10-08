@@ -350,6 +350,20 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "DataSnipper",
+    "job_title": "Senior Backend Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4459026822",
+    "job_url": "https://www.linkedin.com/jobs/view/4459026822",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-10-08"
+  },
+  {
     "company": "Expereo",
     "job_title": "Senior Backend Developer (Python)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -425,6 +439,20 @@
     "location": "Amersfoort, Utrecht, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4476744103",
     "job_url": "https://www.linkedin.com/jobs/view/4476744103",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-08"
+  },
+  {
+    "company": "bol",
+    "job_title": "Expert Backend Engineer, Finance Platform (Java/Kotlin, GCP)",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476714664",
+    "job_url": "https://www.linkedin.com/jobs/view/4476714664",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-07",
@@ -560,17 +588,17 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Xccelerated | Part of Xebia",
-    "job_title": "Senior Data Platform Engineer",
-    "location": "s-Hertogenbosch Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476314159",
-    "job_url": "https://www.linkedin.com/jobs/view/4476314159",
+    "company": "Atos",
+    "job_title": "Sovereign Platform Engineer - Confidential Computing",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4456953590",
+    "job_url": "https://www.linkedin.com/jobs/view/4456953590",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-08",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-06",
+    "first_seen": "2026-08-25",
     "last_seen": "2026-10-08"
   },
   {
@@ -1526,6 +1554,21 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "Xccelerated | Part of Xebia",
+    "job_title": "Senior Data Platform Engineer",
+    "location": "s-Hertogenbosch Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476314159",
+    "job_url": "https://www.linkedin.com/jobs/view/4476314159",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
     "company": "4Dotnet",
     "job_title": "Senior Software Engineer",
     "location": "Utrecht, Netherlands",
@@ -1537,21 +1580,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-10-08",
-    "stale": true
-  },
-  {
-    "company": "bol",
-    "job_title": "Expert Software Engineer \u2013 Product Finance",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476714664",
-    "job_url": "https://www.linkedin.com/jobs/view/4476714664",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-07",
     "last_seen": "2026-10-08",
     "stale": true
   },
