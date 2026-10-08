@@ -336,17 +336,17 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Expereo",
-    "job_title": "Senior Full-Stack Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474347924",
-    "job_url": "https://www.linkedin.com/jobs/view/4474347924",
+    "company": "Elevation Group",
+    "job_title": "Senior Software Engineer",
+    "location": "Nootdorp, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474728569",
+    "job_url": "https://www.linkedin.com/jobs/view/4474728569",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-01",
+    "date_posted": "2026-10-02",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
+    "first_seen": "2026-10-05",
     "last_seen": "2026-10-08"
   },
   {
@@ -1288,20 +1288,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Talently",
-    "job_title": "Founding Backend Engineer (Platform)",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4477111503",
-    "job_url": "https://www.linkedin.com/jobs/view/4477111503",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-08",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-08"
-  },
-  {
     "company": "Synopsys Inc",
     "job_title": "Principal SerDes Systems Engineer",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -1510,6 +1496,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
+  },
+  {
+    "company": "Expereo",
+    "job_title": "Senior Full-Stack Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474347924",
+    "job_url": "https://www.linkedin.com/jobs/view/4474347924",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
+    "company": "Talently",
+    "job_title": "Founding Backend Engineer (Platform)",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4477111503",
+    "job_url": "https://www.linkedin.com/jobs/view/4477111503",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "stale": true
   },
   {
     "company": "Protolabs",
@@ -2873,21 +2889,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-09",
-    "last_seen": "2026-10-05",
-    "stale": true
-  },
-  {
-    "company": "Elevation Group",
-    "job_title": "Senior Software Engineer",
-    "location": "Nootdorp, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474728569",
-    "job_url": "https://www.linkedin.com/jobs/view/4474728569",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
     "last_seen": "2026-10-05",
     "stale": true
   },
