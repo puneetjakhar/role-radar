@@ -952,6 +952,20 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "CloudScaler Technologies B.V.",
+    "job_title": "Senior / Medior Azure AI Engineer",
+    "location": "Amstelveen, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4477177750",
+    "job_url": "https://www.linkedin.com/jobs/view/4477177750",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
+  },
+  {
     "company": "TBAuctions",
     "job_title": "Machine Learning Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1274,20 +1288,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "ilionx",
-    "job_title": "Senior AI Engineer",
-    "location": "Zwolle, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472552932",
-    "job_url": "https://www.linkedin.com/jobs/view/4472552932",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-08"
-  },
-  {
     "company": "Checkout.com",
     "job_title": "Staff Software Engineer - Experimentation & Decisioning Platform",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1498,17 +1498,17 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Eye Security",
-    "job_title": "Staff AI Engineer (f/m/x)",
-    "location": "Rotterdam and The Hague",
-    "careers_url": "https://www.linkedin.com/jobs/view/4464864180",
-    "job_url": "https://www.linkedin.com/jobs/view/4464864180",
+    "company": "Huisman",
+    "job_title": "Principal Engineer Drive & Automation - Port Equipment",
+    "location": "Schiedam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474731677",
+    "job_url": "https://www.linkedin.com/jobs/view/4474731677",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-02",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-14",
+    "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
   },
   {
@@ -1526,6 +1526,36 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "ilionx",
+    "job_title": "Senior AI Engineer",
+    "location": "Zwolle, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472552932",
+    "job_url": "https://www.linkedin.com/jobs/view/4472552932",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
+    "company": "Eye Security",
+    "job_title": "Staff AI Engineer (f/m/x)",
+    "location": "Rotterdam and The Hague",
+    "careers_url": "https://www.linkedin.com/jobs/view/4464864180",
+    "job_url": "https://www.linkedin.com/jobs/view/4464864180",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
     "company": "BlockTech",
     "job_title": "Senior Software Engineer | Data Infrastructure | Rust",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1537,20 +1567,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-08",
-    "last_seen": "2026-10-08"
-  },
-  {
-    "company": "Huisman",
-    "job_title": "Principal Engineer Drive & Automation - Port Equipment",
-    "location": "Schiedam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474731677",
-    "job_url": "https://www.linkedin.com/jobs/view/4474731677",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "stale": true
   },
