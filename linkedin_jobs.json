@@ -700,6 +700,20 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "Together AI",
+    "job_title": "Senior Software Engineer - AI Compute, Together Cloud",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4360995073",
+    "job_url": "https://www.linkedin.com/jobs/view/4360995073",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-02",
+    "last_seen": "2026-10-08"
+  },
+  {
     "company": "Sezzle",
     "job_title": "Principal Infrastructure Engineer",
     "location": "Netherlands",
@@ -910,20 +924,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Together AI",
-    "job_title": "Junior/Senior/Staff Software Engineer, Inference / Compute Infrastructure Engineering",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4455452253",
-    "job_url": "https://www.linkedin.com/jobs/view/4455452253",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-08"
-  },
-  {
     "company": "ABN AMRO Bank N.V.",
     "job_title": "Machine Learning & AI Engineer",
     "location": "Amersfoort, Utrecht, Netherlands",
@@ -1019,6 +1019,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-31",
+    "last_seen": "2026-10-08"
+  },
+  {
+    "company": "Cognizant",
+    "job_title": "Frontier Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4457175323",
+    "job_url": "https://www.linkedin.com/jobs/view/4457175323",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-26",
     "last_seen": "2026-10-08"
   },
   {
@@ -1257,20 +1271,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-08"
-  },
-  {
-    "company": "OWOW",
-    "job_title": "AI Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472528937",
-    "job_url": "https://www.linkedin.com/jobs/view/4472528937",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
     "last_seen": "2026-10-08"
   },
   {
@@ -1540,6 +1540,36 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "Together AI",
+    "job_title": "Junior/Senior/Staff Software Engineer, Inference / Compute Infrastructure Engineering",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4455452253",
+    "job_url": "https://www.linkedin.com/jobs/view/4455452253",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
+    "company": "OWOW",
+    "job_title": "AI Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472528937",
+    "job_url": "https://www.linkedin.com/jobs/view/4472528937",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
     "company": "TRACT",
     "job_title": "Senior Full Stack Engineer",
     "location": "Amsterdam Area",
@@ -1566,21 +1596,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-08",
-    "stale": true
-  },
-  {
-    "company": "Cognizant",
-    "job_title": "Frontier Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4457175323",
-    "job_url": "https://www.linkedin.com/jobs/view/4457175323",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-26",
     "last_seen": "2026-10-08",
     "stale": true
   },
