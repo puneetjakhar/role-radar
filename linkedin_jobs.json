@@ -392,6 +392,20 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "myTomorrows",
+    "job_title": "Senior Backend Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472575201",
+    "job_url": "https://www.linkedin.com/jobs/view/4472575201",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-08"
+  },
+  {
     "company": "Fuse Energy",
     "job_title": "Senior/Lead Backend Engineer (Remote)",
     "location": "Netherlands",
@@ -1260,6 +1274,20 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "Relocate.me",
+    "job_title": "Staff AI Engineer - Agentic Shopping | Relocation Offered",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4477455796",
+    "job_url": "https://www.linkedin.com/jobs/view/4477455796",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
+  },
+  {
     "company": "Synopsys Inc",
     "job_title": "Principal SerDes Systems Engineer",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -1271,20 +1299,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-30",
-    "last_seen": "2026-10-08"
-  },
-  {
-    "company": "Sprint and Partners",
-    "job_title": "SRE Platform engineer - Senior & Staff - Amsterdam - global platform",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476189731",
-    "job_url": "https://www.linkedin.com/jobs/view/4476189731",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
   },
   {
@@ -1482,6 +1496,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
+  },
+  {
+    "company": "Sprint and Partners",
+    "job_title": "SRE Platform engineer - Senior & Staff - Amsterdam - global platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476189731",
+    "job_url": "https://www.linkedin.com/jobs/view/4476189731",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "stale": true
   },
   {
     "company": "Elevation Group",
