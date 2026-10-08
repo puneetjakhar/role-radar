@@ -14,6 +14,20 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "InSpace",
+    "job_title": "Senior Software Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4477441703",
+    "job_url": "https://www.linkedin.com/jobs/view/4477441703",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
+  },
+  {
     "company": "Albert Heijn",
     "job_title": "Senior Backend Developer (Kotlin/Java, Spring, Kafka)",
     "location": "Zaandam, North Holland, Netherlands",
@@ -336,20 +350,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Elevation Group",
-    "job_title": "Senior Software Engineer",
-    "location": "Nootdorp, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474728569",
-    "job_url": "https://www.linkedin.com/jobs/view/4474728569",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-08"
-  },
-  {
     "company": "DataSnipper",
     "job_title": "Senior Backend Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -487,20 +487,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-08"
-  },
-  {
-    "company": "Mollie",
-    "job_title": "Senior Application Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4464606727",
-    "job_url": "https://www.linkedin.com/jobs/view/4464606727",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-08",
     "last_seen": "2026-10-08"
   },
   {
@@ -1302,6 +1288,20 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "Sprint and Partners",
+    "job_title": "SRE Platform engineer - Senior & Staff - Amsterdam - global platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476189731",
+    "job_url": "https://www.linkedin.com/jobs/view/4476189731",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
+  },
+  {
     "company": "Databricks",
     "job_title": "Staff Software Engineer (L6) - Distributed Data Systems",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1496,6 +1496,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08"
+  },
+  {
+    "company": "Elevation Group",
+    "job_title": "Senior Software Engineer",
+    "location": "Nootdorp, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474728569",
+    "job_url": "https://www.linkedin.com/jobs/view/4474728569",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
+    "company": "Mollie",
+    "job_title": "Senior Application Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4464606727",
+    "job_url": "https://www.linkedin.com/jobs/view/4464606727",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-10-08",
+    "stale": true
   },
   {
     "company": "Expereo",
