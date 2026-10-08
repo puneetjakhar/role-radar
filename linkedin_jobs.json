@@ -238,6 +238,20 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "Kadaster",
+    "job_title": "Senior Software Engineer (Mikado)",
+    "location": "Apeldoorn, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474232568",
+    "job_url": "https://www.linkedin.com/jobs/view/4474232568",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-08"
+  },
+  {
     "company": "Suitsupply",
     "job_title": "Senior Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -263,20 +277,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-08"
-  },
-  {
-    "company": "TicketSwap",
-    "job_title": "Senior Software Engineer Backend",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474151274",
-    "job_url": "https://www.linkedin.com/jobs/view/4474151274",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
     "last_seen": "2026-10-08"
   },
   {
@@ -487,6 +487,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-05",
+    "last_seen": "2026-10-08"
+  },
+  {
+    "company": "Enova",
+    "job_title": "Senior PHP Software Engineer Backend & DevOps bij Enova",
+    "location": "Capelle aan den IJssel, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475306565",
+    "job_url": "https://www.linkedin.com/jobs/view/4475306565",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
     "last_seen": "2026-10-08"
   },
   {
@@ -910,6 +924,20 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "ABN AMRO Bank N.V.",
+    "job_title": "Machine Learning & AI Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4477136099",
+    "job_url": "https://www.linkedin.com/jobs/view/4477136099",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08"
+  },
+  {
     "company": "TBAuctions",
     "job_title": "Machine Learning Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1246,20 +1274,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Veldsink Groep",
-    "job_title": "AI Engineer",
-    "location": "Nuenen, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474150057",
-    "job_url": "https://www.linkedin.com/jobs/view/4474150057",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-08"
-  },
-  {
     "company": "Talently",
     "job_title": "Founding Backend Engineer (Platform)",
     "location": "Netherlands",
@@ -1526,6 +1540,36 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "TicketSwap",
+    "job_title": "Senior Software Engineer Backend",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474151274",
+    "job_url": "https://www.linkedin.com/jobs/view/4474151274",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
+    "company": "Veldsink Groep",
+    "job_title": "AI Engineer",
+    "location": "Nuenen, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474150057",
+    "job_url": "https://www.linkedin.com/jobs/view/4474150057",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
     "company": "PostNL",
     "job_title": "AI Software Engineer",
     "location": "Rotterdam and The Hague",
@@ -1567,21 +1611,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-08",
-    "stale": true
-  },
-  {
-    "company": "Kadaster",
-    "job_title": "Senior Software Engineer (Mikado)",
-    "location": "Apeldoorn, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474232568",
-    "job_url": "https://www.linkedin.com/jobs/view/4474232568",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
     "last_seen": "2026-10-08",
     "stale": true
   },
@@ -1822,21 +1851,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-29",
-    "last_seen": "2026-10-07",
-    "stale": true
-  },
-  {
-    "company": "Enova",
-    "job_title": "Senior PHP Software Engineer Backend & DevOps bij Enova",
-    "location": "Capelle aan den IJssel, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4475306565",
-    "job_url": "https://www.linkedin.com/jobs/view/4475306565",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
     "stale": true
   },
