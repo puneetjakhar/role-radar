@@ -224,11 +224,11 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Kadaster",
-    "job_title": "Senior Software Engineer (Mikado)",
-    "location": "Apeldoorn, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474232568",
-    "job_url": "https://www.linkedin.com/jobs/view/4474232568",
+    "company": "Infor",
+    "job_title": "Senior Java Software Engineer",
+    "location": "Barneveld, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473637246",
+    "job_url": "https://www.linkedin.com/jobs/view/4473637246",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-05",
@@ -473,20 +473,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-08"
-  },
-  {
-    "company": "Infor",
-    "job_title": "Senior Java Software Engineer",
-    "location": "Barneveld, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473637246",
-    "job_url": "https://www.linkedin.com/jobs/view/4473637246",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
     "last_seen": "2026-10-08"
   },
   {
@@ -1524,6 +1510,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-08",
     "last_seen": "2026-10-08"
+  },
+  {
+    "company": "Kadaster",
+    "job_title": "Senior Software Engineer (Mikado)",
+    "location": "Apeldoorn, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474232568",
+    "job_url": "https://www.linkedin.com/jobs/view/4474232568",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-08",
+    "stale": true
   },
   {
     "company": "Belastingdienst",
