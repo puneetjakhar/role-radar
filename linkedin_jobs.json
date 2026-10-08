@@ -1050,11 +1050,11 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Capgemini",
-    "job_title": "Medior AI Engineer - NL",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4466104126",
-    "job_url": "https://www.linkedin.com/jobs/view/4466104126",
+    "company": "PostNL",
+    "job_title": "AI Software Engineer",
+    "location": "Rotterdam and The Hague",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474488301",
+    "job_url": "https://www.linkedin.com/jobs/view/4474488301",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-07",
@@ -1498,6 +1498,21 @@
     "last_seen": "2026-10-08"
   },
   {
+    "company": "Capgemini",
+    "job_title": "Medior AI Engineer - NL",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4466104126",
+    "job_url": "https://www.linkedin.com/jobs/view/4466104126",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-08",
+    "stale": true
+  },
+  {
     "company": "Sprint and Partners",
     "job_title": "SRE Platform engineer - Senior & Staff - Amsterdam - global platform",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1614,21 +1629,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-30",
-    "last_seen": "2026-10-08",
-    "stale": true
-  },
-  {
-    "company": "PostNL",
-    "job_title": "AI Software Engineer",
-    "location": "Rotterdam and The Hague",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474488301",
-    "job_url": "https://www.linkedin.com/jobs/view/4474488301",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-07",
     "last_seen": "2026-10-08",
     "stale": true
   },
