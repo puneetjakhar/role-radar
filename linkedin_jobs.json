@@ -182,11 +182,11 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Oliver James",
-    "job_title": "Senior Java Backend Developer",
+    "company": "Databricks",
+    "job_title": "Sr. Software Engineer - Storage I/O",
     "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474259118",
-    "job_url": "https://www.linkedin.com/jobs/view/4474259118",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473602999",
+    "job_url": "https://www.linkedin.com/jobs/view/4473602999",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-05",
@@ -196,11 +196,11 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Databricks",
-    "job_title": "Sr. Software Engineer - Storage I/O",
+    "company": "Oliver James",
+    "job_title": "Senior Java Backend Developer",
     "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473602999",
-    "job_url": "https://www.linkedin.com/jobs/view/4473602999",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474259118",
+    "job_url": "https://www.linkedin.com/jobs/view/4474259118",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-05",
@@ -1512,20 +1512,6 @@
     "last_seen": "2026-10-08"
   },
   {
-    "company": "Huisman",
-    "job_title": "Principal Engineer Drive & Automation - Port Equipment",
-    "location": "Schiedam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474731677",
-    "job_url": "https://www.linkedin.com/jobs/view/4474731677",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-08"
-  },
-  {
     "company": "eBay",
     "job_title": "Principal Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1552,6 +1538,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-08",
     "last_seen": "2026-10-08"
+  },
+  {
+    "company": "Huisman",
+    "job_title": "Principal Engineer Drive & Automation - Port Equipment",
+    "location": "Schiedam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474731677",
+    "job_url": "https://www.linkedin.com/jobs/view/4474731677",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "stale": true
   },
   {
     "company": "Xccelerated | Part of Xebia",
