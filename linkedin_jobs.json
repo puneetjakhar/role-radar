@@ -560,20 +560,6 @@
     "last_seen": "2026-10-09"
   },
   {
-    "company": "ClickHouse",
-    "job_title": "Langfuse - Senior Backend Engineer",
-    "location": "North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4475021855",
-    "job_url": "https://www.linkedin.com/jobs/view/4475021855",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-09"
-  },
-  {
     "company": "Wellis Health",
     "job_title": "DevOps/Platform Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -896,6 +882,20 @@
     "last_seen": "2026-10-09"
   },
   {
+    "company": "Doghouse Recruitment",
+    "job_title": "Platform Engineer",
+    "location": "Eindhoven Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4463863104",
+    "job_url": "https://www.linkedin.com/jobs/view/4463863104",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-10-09"
+  },
+  {
     "company": "Sioux Technologies",
     "job_title": "Senior Cloud & DevOps Engineer",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -907,20 +907,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-09"
-  },
-  {
-    "company": "Mercell",
-    "job_title": "Senior DevOps Engineer - Talent Pool",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473392077",
-    "job_url": "https://www.linkedin.com/jobs/view/4473392077",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
     "last_seen": "2026-10-09"
   },
   {
@@ -1470,6 +1456,20 @@
     "last_seen": "2026-10-09"
   },
   {
+    "company": "Manpower - Talent Solutions",
+    "job_title": "Imaging Lead Engineer",
+    "location": "Eindhoven Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473625132",
+    "job_url": "https://www.linkedin.com/jobs/view/4473625132",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09"
+  },
+  {
     "company": "Suitsupply",
     "job_title": "Principal Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1498,20 +1498,6 @@
     "last_seen": "2026-10-09"
   },
   {
-    "company": "eBay",
-    "job_title": "Staff ML Engineer - Advertising",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4399902360",
-    "job_url": "https://www.linkedin.com/jobs/view/4399902360",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-05-30",
-    "last_seen": "2026-10-09"
-  },
-  {
     "company": "HID",
     "job_title": "Principal Software Engineer",
     "location": "North Brabant, Netherlands",
@@ -1526,17 +1512,47 @@
     "last_seen": "2026-10-09"
   },
   {
-    "company": "Doghouse Recruitment",
-    "job_title": "Platform Engineer",
-    "location": "Eindhoven Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4463863104",
-    "job_url": "https://www.linkedin.com/jobs/view/4463863104",
+    "company": "ClickHouse",
+    "job_title": "Langfuse - Senior Backend Engineer",
+    "location": "North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475021855",
+    "job_url": "https://www.linkedin.com/jobs/view/4475021855",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-04",
+    "date_posted": "2026-10-02",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-09",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-09",
+    "stale": true
+  },
+  {
+    "company": "Mercell",
+    "job_title": "Senior DevOps Engineer - Talent Pool",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473392077",
+    "job_url": "https://www.linkedin.com/jobs/view/4473392077",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-09",
+    "stale": true
+  },
+  {
+    "company": "eBay",
+    "job_title": "Staff ML Engineer - Advertising",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4399902360",
+    "job_url": "https://www.linkedin.com/jobs/view/4399902360",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-05-30",
     "last_seen": "2026-10-09",
     "stale": true
   },
