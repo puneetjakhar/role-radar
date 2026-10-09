@@ -266,20 +266,6 @@
     "last_seen": "2026-10-09"
   },
   {
-    "company": "Kadaster",
-    "job_title": "Senior Software Engineer (Mikado)",
-    "location": "Apeldoorn, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474232568",
-    "job_url": "https://www.linkedin.com/jobs/view/4474232568",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-09"
-  },
-  {
     "company": "Envalue Real Estate",
     "job_title": "Senior Software Engineer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -347,6 +333,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
+    "last_seen": "2026-10-09"
+  },
+  {
+    "company": "Elevation Group",
+    "job_title": "Senior Software Engineer",
+    "location": "Nootdorp, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474728569",
+    "job_url": "https://www.linkedin.com/jobs/view/4474728569",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
     "last_seen": "2026-10-09"
   },
   {
@@ -1498,6 +1498,21 @@
     "last_seen": "2026-10-09"
   },
   {
+    "company": "Kadaster",
+    "job_title": "Senior Software Engineer (Mikado)",
+    "location": "Apeldoorn, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474232568",
+    "job_url": "https://www.linkedin.com/jobs/view/4474232568",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-09",
+    "stale": true
+  },
+  {
     "company": "Sprint and Partners",
     "job_title": "SRE Platform engineer - Senior & Staff - Amsterdam - global platform",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1539,21 +1554,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-08",
-    "stale": true
-  },
-  {
-    "company": "Elevation Group",
-    "job_title": "Senior Software Engineer",
-    "location": "Nootdorp, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474728569",
-    "job_url": "https://www.linkedin.com/jobs/view/4474728569",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
     "last_seen": "2026-10-08",
     "stale": true
   },
