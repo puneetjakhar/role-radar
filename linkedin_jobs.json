@@ -350,6 +350,20 @@
     "last_seen": "2026-10-09"
   },
   {
+    "company": "Doghouse Recruitment",
+    "job_title": "Senior Backend .NET Engineer \u2013 Microservices | Azure | Amsterdam [Up to \u20ac93K OTE]",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476271872",
+    "job_url": "https://www.linkedin.com/jobs/view/4476271872",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-09",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09"
+  },
+  {
     "company": "Appjection",
     "job_title": "Senior PHP Developer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -557,20 +571,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-09"
-  },
-  {
-    "company": "Priva",
-    "job_title": "Senior Backend Engineer \u2013 Energy Optimization & Platform",
-    "location": "De Lier, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474722242",
-    "job_url": "https://www.linkedin.com/jobs/view/4474722242",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
     "last_seen": "2026-10-09"
   },
   {
@@ -1316,6 +1316,20 @@
     "last_seen": "2026-10-09"
   },
   {
+    "company": "Sprint and Partners",
+    "job_title": "SRE Platform engineer - Senior & Staff - Amsterdam - global platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476189731",
+    "job_url": "https://www.linkedin.com/jobs/view/4476189731",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-09"
+  },
+  {
     "company": "Databricks",
     "job_title": "Staff Software Engineer (L6) - Distributed Data Systems",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1456,20 +1470,6 @@
     "last_seen": "2026-10-09"
   },
   {
-    "company": "Adyen",
-    "job_title": "Staff Software Engineer - Merchant Fraud Prevention",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4446003399",
-    "job_url": "https://www.linkedin.com/jobs/view/4446003399",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-02",
-    "last_seen": "2026-10-09"
-  },
-  {
     "company": "Storio group",
     "job_title": "Principal iOS Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1512,6 +1512,36 @@
     "last_seen": "2026-10-09"
   },
   {
+    "company": "Priva",
+    "job_title": "Senior Backend Engineer \u2013 Energy Optimization & Platform",
+    "location": "De Lier, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474722242",
+    "job_url": "https://www.linkedin.com/jobs/view/4474722242",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-09",
+    "stale": true
+  },
+  {
+    "company": "Adyen",
+    "job_title": "Staff Software Engineer - Merchant Fraud Prevention",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4446003399",
+    "job_url": "https://www.linkedin.com/jobs/view/4446003399",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-10-09",
+    "stale": true
+  },
+  {
     "company": "Sunweb Group",
     "job_title": "Senior Software Engineer (Booking and Search domain)",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1538,21 +1568,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-09",
-    "stale": true
-  },
-  {
-    "company": "Sprint and Partners",
-    "job_title": "SRE Platform engineer - Senior & Staff - Amsterdam - global platform",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476189731",
-    "job_url": "https://www.linkedin.com/jobs/view/4476189731",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-08",
     "last_seen": "2026-10-09",
     "stale": true
   },
