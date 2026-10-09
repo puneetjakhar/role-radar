@@ -1,5 +1,19 @@
 [
   {
+    "company": "CONTAX Inc.",
+    "job_title": "Senior Software Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4455733360",
+    "job_url": "https://www.linkedin.com/jobs/view/4455733360",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-09",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-09"
+  },
+  {
     "company": "Cboe Global Markets",
     "job_title": "Sr Software Engineer Realtime",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -308,20 +322,6 @@
     "last_seen": "2026-10-09"
   },
   {
-    "company": "Sunweb Group",
-    "job_title": "Senior Software Engineer (Booking and Search domain)",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472888088",
-    "job_url": "https://www.linkedin.com/jobs/view/4472888088",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-09"
-  },
-  {
     "company": "ClickHouse",
     "job_title": "Langfuse - Senior Backend Engineer",
     "location": "South Holland, Netherlands",
@@ -347,6 +347,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-05",
+    "last_seen": "2026-10-09"
+  },
+  {
+    "company": "Appjection",
+    "job_title": "Senior PHP Developer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476267647",
+    "job_url": "https://www.linkedin.com/jobs/view/4476267647",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-09",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-09",
     "last_seen": "2026-10-09"
   },
   {
@@ -1498,6 +1512,21 @@
     "last_seen": "2026-10-09"
   },
   {
+    "company": "Sunweb Group",
+    "job_title": "Senior Software Engineer (Booking and Search domain)",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472888088",
+    "job_url": "https://www.linkedin.com/jobs/view/4472888088",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-09",
+    "stale": true
+  },
+  {
     "company": "Health Cloud Initiative",
     "job_title": "Senior software developer C#",
     "location": "Amsterdam Area",
@@ -1989,21 +2018,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-07",
-    "stale": true
-  },
-  {
-    "company": "CONTAX Inc.",
-    "job_title": "Senior Software Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4455733360",
-    "job_url": "https://www.linkedin.com/jobs/view/4455733360",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
     "stale": true
   },
