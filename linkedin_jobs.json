@@ -910,6 +910,20 @@
     "last_seen": "2026-10-09"
   },
   {
+    "company": "Gain",
+    "job_title": "AI Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4477801493",
+    "job_url": "https://www.linkedin.com/jobs/view/4477801493",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-09",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09"
+  },
+  {
     "company": "ProQR Therapeutics",
     "job_title": "Machine Learning (ML) Engineer \u2013 AI & Bioinformatics",
     "location": "Leiden, South Holland, Netherlands",
@@ -1061,20 +1075,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-09"
-  },
-  {
-    "company": "Bonnie",
-    "job_title": "AI Engineer (Agent Platform)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476913931",
-    "job_url": "https://www.linkedin.com/jobs/view/4476913931",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-09",
     "last_seen": "2026-10-09"
   },
   {
@@ -1510,6 +1510,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-14",
     "last_seen": "2026-10-09"
+  },
+  {
+    "company": "Bonnie",
+    "job_title": "AI Engineer (Agent Platform)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476913931",
+    "job_url": "https://www.linkedin.com/jobs/view/4476913931",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09",
+    "stale": true
   },
   {
     "company": "Modash",
