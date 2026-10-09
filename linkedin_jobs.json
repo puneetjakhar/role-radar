@@ -1288,17 +1288,17 @@
     "last_seen": "2026-10-09"
   },
   {
-    "company": "Synopsys Inc",
-    "job_title": "Principal SerDes Systems Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4380945588",
-    "job_url": "https://www.linkedin.com/jobs/view/4380945588",
+    "company": "Sprint and Partners",
+    "job_title": "SRE Platform engineer - Senior & Staff - Amsterdam - global platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476189731",
+    "job_url": "https://www.linkedin.com/jobs/view/4476189731",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-06",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-05-30",
+    "first_seen": "2026-10-08",
     "last_seen": "2026-10-09"
   },
   {
@@ -1498,6 +1498,21 @@
     "last_seen": "2026-10-09"
   },
   {
+    "company": "Synopsys Inc",
+    "job_title": "Principal SerDes Systems Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4380945588",
+    "job_url": "https://www.linkedin.com/jobs/view/4380945588",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-05-30",
+    "last_seen": "2026-10-09",
+    "stale": true
+  },
+  {
     "company": "Nmbrs",
     "job_title": "Cloud Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1524,21 +1539,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-08",
-    "stale": true
-  },
-  {
-    "company": "Sprint and Partners",
-    "job_title": "SRE Platform engineer - Senior & Staff - Amsterdam - global platform",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476189731",
-    "job_url": "https://www.linkedin.com/jobs/view/4476189731",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "stale": true
   },
