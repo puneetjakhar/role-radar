@@ -686,20 +686,6 @@
     "last_seen": "2026-10-09"
   },
   {
-    "company": "Flexport",
-    "job_title": "Staff Engineer, Platform",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4475477332",
-    "job_url": "https://www.linkedin.com/jobs/view/4475477332",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-09"
-  },
-  {
     "company": "Datacation",
     "job_title": "AI Platform Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -851,6 +837,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-31",
+    "last_seen": "2026-10-09"
+  },
+  {
+    "company": "Nmbrs",
+    "job_title": "Cloud Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472546558",
+    "job_url": "https://www.linkedin.com/jobs/view/4472546558",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
     "last_seen": "2026-10-09"
   },
   {
@@ -1302,6 +1302,20 @@
     "last_seen": "2026-10-09"
   },
   {
+    "company": "Flexport",
+    "job_title": "Staff Engineer, Platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475477332",
+    "job_url": "https://www.linkedin.com/jobs/view/4475477332",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-09"
+  },
+  {
     "company": "Synopsys Inc",
     "job_title": "Principal SerDes Systems Engineer",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -1383,6 +1397,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-05",
+    "last_seen": "2026-10-09"
+  },
+  {
+    "company": "ASMPT ALSI",
+    "job_title": "Principal Electronics Engineer",
+    "location": "Beuningen, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474264942",
+    "job_url": "https://www.linkedin.com/jobs/view/4474264942",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-09",
     "last_seen": "2026-10-09"
   },
   {
@@ -1509,7 +1537,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-09"
+    "last_seen": "2026-10-09",
+    "stale": true
   },
   {
     "company": "Priva",
@@ -1568,21 +1597,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-09",
-    "stale": true
-  },
-  {
-    "company": "Nmbrs",
-    "job_title": "Cloud Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472546558",
-    "job_url": "https://www.linkedin.com/jobs/view/4472546558",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
     "last_seen": "2026-10-09",
     "stale": true
   },
