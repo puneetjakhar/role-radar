@@ -1,5 +1,19 @@
 [
   {
+    "company": "Motion (Creative Analytics)",
+    "job_title": "Senior Software Engineer (Backend)",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4412977186",
+    "job_url": "https://www.linkedin.com/jobs/view/4412977186",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-10",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-02",
+    "last_seen": "2026-10-10"
+  },
+  {
     "company": "VodafoneZiggo",
     "job_title": "Senior Fullstack Developer App Backend Platform (NestJS/Node.js)",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -25,20 +39,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-10"
-  },
-  {
-    "company": "Dyflexis",
-    "job_title": "Senior Backend Engineer (PHP)",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4477669592",
-    "job_url": "https://www.linkedin.com/jobs/view/4477669592",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-09",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-09",
     "last_seen": "2026-10-10"
   },
   {
@@ -350,17 +350,17 @@
     "last_seen": "2026-10-10"
   },
   {
-    "company": "Motion (Creative Analytics)",
-    "job_title": "Senior Software Engineer (Backend)",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4412977186",
-    "job_url": "https://www.linkedin.com/jobs/view/4412977186",
+    "company": "Dyflexis",
+    "job_title": "Senior Backend Engineer (PHP)",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4477669592",
+    "job_url": "https://www.linkedin.com/jobs/view/4477669592",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-10",
+    "date_posted": "2026-10-09",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-02",
+    "first_seen": "2026-10-09",
     "last_seen": "2026-10-10"
   },
   {
