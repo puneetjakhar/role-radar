@@ -1274,6 +1274,20 @@
     "last_seen": "2026-10-11"
   },
   {
+    "company": "Samba",
+    "job_title": "Senior Software Engineer - Identity",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4382864952",
+    "job_url": "https://www.linkedin.com/jobs/view/4382864952",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-11",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-10-11"
+  },
+  {
     "company": "Databricks",
     "job_title": "Senior Staff Software Engineer - Delta",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1327,20 +1341,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-12",
-    "last_seen": "2026-10-11"
-  },
-  {
-    "company": "Eye Security",
-    "job_title": "Senior Software Engineer, Agents (m/f/x)",
-    "location": "Rotterdam and The Hague",
-    "careers_url": "https://www.linkedin.com/jobs/view/4458975368",
-    "job_url": "https://www.linkedin.com/jobs/view/4458975368",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-10",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-28",
     "last_seen": "2026-10-11"
   },
   {
@@ -1524,6 +1524,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-11"
+  },
+  {
+    "company": "Eye Security",
+    "job_title": "Senior Software Engineer, Agents (m/f/x)",
+    "location": "Rotterdam and The Hague",
+    "careers_url": "https://www.linkedin.com/jobs/view/4458975368",
+    "job_url": "https://www.linkedin.com/jobs/view/4458975368",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-10",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-10-11",
+    "stale": true
   },
   {
     "company": "Ashby",
