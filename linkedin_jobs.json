@@ -1064,6 +1064,20 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "Youtility Investments",
+    "job_title": "Agentic AI Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475761811",
+    "job_url": "https://www.linkedin.com/jobs/view/4475761811",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "eBay",
     "job_title": "Machine Learning Engineer - Agents",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1257,20 +1271,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-12"
-  },
-  {
-    "company": "IT RBLS",
-    "job_title": "Medior/Senior AI Software Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4475555747",
-    "job_url": "https://www.linkedin.com/jobs/view/4475555747",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-11",
     "last_seen": "2026-10-12"
   },
   {
@@ -1526,17 +1526,17 @@
     "last_seen": "2026-10-12"
   },
   {
-    "company": "Youtility Investments",
-    "job_title": "Agentic AI Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4475761811",
-    "job_url": "https://www.linkedin.com/jobs/view/4475761811",
+    "company": "IT RBLS",
+    "job_title": "Medior/Senior AI Software Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475555747",
+    "job_url": "https://www.linkedin.com/jobs/view/4475555747",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-07",
+    "date_posted": "2026-10-06",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-08",
+    "first_seen": "2026-10-11",
     "last_seen": "2026-10-12",
     "stale": true
   },
