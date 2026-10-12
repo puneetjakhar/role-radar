@@ -1347,6 +1347,62 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "Revolut Netherlands B.V.",
+    "job_title": "Software Engineer (DevOps) - Observability Platform\nOffice: Bucharest \u00b7 Dubai \u00b7 Dublin \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madr",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-dev-ops-observability-platform-4eabb087-408d-4dc7-811d-141544ba4991/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-10-12"
+  },
+  {
+    "company": "Revolut Netherlands B.V.",
+    "job_title": "Graduate Programme 2027: Software Engineer (Android)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemot",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/graduate-programme-2027-software-engineer-android-dc268c11-5ef2-4398-8fe7-6e89dc8aebee/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-10-12"
+  },
+  {
+    "company": "Revolut Netherlands B.V.",
+    "job_title": "Internship Programme 2027: Software Engineer (Python)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemo",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/internship-programme-2027-software-engineer-python-41b145ef-e5b7-4b87-9217-1ca8d5c5a0e5/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-10-12"
+  },
+  {
+    "company": "Revolut Netherlands B.V.",
+    "job_title": "Graduate Programme 2027: Software Engineer (Python)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/graduate-programme-2027-software-engineer-python-f3f6861d-2013-4a52-b95f-15e44a73625f/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-05-30",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "Datadog Netherlands B.V.",
     "job_title": "Senior Partner Solutions Architect (Pan-EMEA GSI)",
     "location": "Germany, Remote; The Netherlands, Remote",
@@ -2066,21 +2122,6 @@
     "notes": "Dept: Tech Platform. Via Greenhouse board.",
     "first_seen": "2026-06-04",
     "last_seen": "2026-10-12",
-    "stale": true
-  },
-  {
-    "company": "Revolut Netherlands B.V.",
-    "job_title": "Graduate Programme 2027: Software Engineer (Android)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemot",
-    "location": "Netherlands",
-    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/graduate-programme-2027-software-engineer-android-dc268c11-5ef2-4398-8fe7-6e89dc8aebee/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-10-11",
     "stale": true
   },
   {
@@ -3445,21 +3486,6 @@
     "stale": true
   },
   {
-    "company": "Revolut Netherlands B.V.",
-    "job_title": "Software Engineer (DevOps) - Observability Platform\nOffice: Bucharest \u00b7 Dubai \u00b7 Dublin \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madr",
-    "location": "Netherlands",
-    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/software-engineer-dev-ops-observability-platform-4eabb087-408d-4dc7-811d-141544ba4991/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-10-05",
-    "stale": true
-  },
-  {
     "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
     "job_title": "Global Banking & Markets - Software Engineer - Vice President - London\nLondon\u00b7United Kingdom\n\u00b7Vice President",
     "location": "Netherlands",
@@ -3487,36 +3513,6 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-28",
     "last_seen": "2026-10-04",
-    "stale": true
-  },
-  {
-    "company": "Revolut Netherlands B.V.",
-    "job_title": "Graduate Programme 2027: Software Engineer (Python)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote",
-    "location": "Netherlands",
-    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/graduate-programme-2027-software-engineer-python-f3f6861d-2013-4a52-b95f-15e44a73625f/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-30",
-    "last_seen": "2026-10-04",
-    "stale": true
-  },
-  {
-    "company": "Revolut Netherlands B.V.",
-    "job_title": "Internship Programme 2027: Software Engineer (Python)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemo",
-    "location": "Netherlands",
-    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/internship-programme-2027-software-engineer-python-41b145ef-e5b7-4b87-9217-1ca8d5c5a0e5/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-10-05",
     "stale": true
   },
   {
