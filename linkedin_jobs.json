@@ -490,6 +490,20 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "bol",
+    "job_title": "Expert Backend Engineer, Finance Platform (Java/Kotlin, GCP)",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476714664",
+    "job_url": "https://www.linkedin.com/jobs/view/4476714664",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "Jobgether",
     "job_title": "Backend Engineer, PHP",
     "location": "Netherlands",
@@ -546,20 +560,6 @@
     "last_seen": "2026-10-12"
   },
   {
-    "company": "Infor",
-    "job_title": "Senior Java Software Engineer",
-    "location": "Barneveld, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473637246",
-    "job_url": "https://www.linkedin.com/jobs/view/4473637246",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-12"
-  },
-  {
     "company": "TOPdesk",
     "job_title": "Senior Backend Engineer, SaaS Tooling",
     "location": "Delft, South Holland, Netherlands",
@@ -588,17 +588,17 @@
     "last_seen": "2026-10-12"
   },
   {
-    "company": "RIXT.IT",
-    "job_title": "Azure Platform & DevOps Engineer",
-    "location": "Amstelveen, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4451233521",
-    "job_url": "https://www.linkedin.com/jobs/view/4451233521",
+    "company": "Royal Terberg Group",
+    "job_title": "Senior Cloud & Platform Engineer",
+    "location": "IJsselstein, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4478503772",
+    "job_url": "https://www.linkedin.com/jobs/view/4478503772",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-12",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-18",
+    "first_seen": "2026-10-12",
     "last_seen": "2026-10-12"
   },
   {
@@ -938,6 +938,20 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "Hyra",
+    "job_title": "Artificial Intelligence Engineer",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4478509593",
+    "job_url": "https://www.linkedin.com/jobs/view/4478509593",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "PostNL",
     "job_title": "AI Software Engineer",
     "location": "Rotterdam and The Hague",
@@ -977,20 +991,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-12"
-  },
-  {
-    "company": "ProQR Therapeutics",
-    "job_title": "Machine Learning (ML) Engineer \u2013 AI & Bioinformatics",
-    "location": "Leiden, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474839422",
-    "job_url": "https://www.linkedin.com/jobs/view/4474839422",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-08",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-08",
     "last_seen": "2026-10-12"
   },
   {
@@ -1414,20 +1414,6 @@
     "last_seen": "2026-10-12"
   },
   {
-    "company": "bol",
-    "job_title": "Expert Backend Engineer, Finance Platform (Java/Kotlin, GCP)",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476714664",
-    "job_url": "https://www.linkedin.com/jobs/view/4476714664",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-12"
-  },
-  {
     "company": "Polymodal",
     "job_title": "Principal Data Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1496,6 +1482,51 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-12"
+  },
+  {
+    "company": "Infor",
+    "job_title": "Senior Java Software Engineer",
+    "location": "Barneveld, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473637246",
+    "job_url": "https://www.linkedin.com/jobs/view/4473637246",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-12",
+    "stale": true
+  },
+  {
+    "company": "RIXT.IT",
+    "job_title": "Azure Platform & DevOps Engineer",
+    "location": "Amstelveen, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4451233521",
+    "job_url": "https://www.linkedin.com/jobs/view/4451233521",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-10-12",
+    "stale": true
+  },
+  {
+    "company": "ProQR Therapeutics",
+    "job_title": "Machine Learning (ML) Engineer \u2013 AI & Bioinformatics",
+    "location": "Leiden, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474839422",
+    "job_url": "https://www.linkedin.com/jobs/view/4474839422",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-12",
+    "stale": true
   },
   {
     "company": "DataSnipper",
