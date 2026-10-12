@@ -350,6 +350,20 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "Catawiki",
+    "job_title": "Backend Engineer",
+    "location": "The Randstad, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467360294",
+    "job_url": "https://www.linkedin.com/jobs/view/4467360294",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "Clipbook",
     "job_title": "Founding Senior Software Engineer (Europe \u2013 Remote)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -389,20 +403,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-12"
-  },
-  {
-    "company": "Catawiki",
-    "job_title": "Backend Engineer",
-    "location": "The Randstad, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467360294",
-    "job_url": "https://www.linkedin.com/jobs/view/4467360294",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-09",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-21",
     "last_seen": "2026-10-12"
   },
   {
@@ -924,6 +924,20 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "Jobgether",
+    "job_title": "Machine Learning Engineer: Ranking & Personalization",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4477279357",
+    "job_url": "https://www.linkedin.com/jobs/view/4477279357",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "TreeHouse NL",
     "job_title": "AI Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1047,20 +1061,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-12"
-  },
-  {
-    "company": "Youtility Investments",
-    "job_title": "Agentic AI Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4475761811",
-    "job_url": "https://www.linkedin.com/jobs/view/4475761811",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-08",
     "last_seen": "2026-10-12"
   },
   {
@@ -1344,6 +1344,20 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "Eye Security",
+    "job_title": "Senior Software Engineer, Agents (m/f/x)",
+    "location": "Rotterdam and The Hague",
+    "careers_url": "https://www.linkedin.com/jobs/view/4458975368",
+    "job_url": "https://www.linkedin.com/jobs/view/4458975368",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-10",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "Vinted",
     "job_title": "Staff/Senior Staff Engineer, Supply",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1498,20 +1512,6 @@
     "last_seen": "2026-10-12"
   },
   {
-    "company": "Jobgether",
-    "job_title": "Staff Platform Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474222601",
-    "job_url": "https://www.linkedin.com/jobs/view/4474222601",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-12"
-  },
-  {
     "company": "ASMPT ALSI",
     "job_title": "Principal Electronics Engineer",
     "location": "Beuningen, Gelderland, Netherlands",
@@ -1526,6 +1526,36 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "Youtility Investments",
+    "job_title": "Agentic AI Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475761811",
+    "job_url": "https://www.linkedin.com/jobs/view/4475761811",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-12",
+    "stale": true
+  },
+  {
+    "company": "Jobgether",
+    "job_title": "Staff Platform Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474222601",
+    "job_url": "https://www.linkedin.com/jobs/view/4474222601",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-12",
+    "stale": true
+  },
+  {
     "company": "Doghouse Recruitment",
     "job_title": "Platform Engineer",
     "location": "Eindhoven Area",
@@ -1537,21 +1567,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-09",
-    "last_seen": "2026-10-11",
-    "stale": true
-  },
-  {
-    "company": "Eye Security",
-    "job_title": "Senior Software Engineer, Agents (m/f/x)",
-    "location": "Rotterdam and The Hague",
-    "careers_url": "https://www.linkedin.com/jobs/view/4458975368",
-    "job_url": "https://www.linkedin.com/jobs/view/4458975368",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-10",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-28",
     "last_seen": "2026-10-11",
     "stale": true
   },
