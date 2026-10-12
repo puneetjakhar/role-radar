@@ -546,20 +546,6 @@
     "last_seen": "2026-10-12"
   },
   {
-    "company": "ClusterVision",
-    "job_title": "Python Developer",
-    "location": "Hoofddorp, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476172147",
-    "job_url": "https://www.linkedin.com/jobs/view/4476172147",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-12"
-  },
-  {
     "company": "TOPdesk",
     "job_title": "Senior Backend Engineer, SaaS Tooling",
     "location": "Delft, South Holland, Netherlands",
@@ -896,6 +882,34 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "UWV",
+    "job_title": "Artificial Intelligence Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4478399255",
+    "job_url": "https://www.linkedin.com/jobs/view/4478399255",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12"
+  },
+  {
+    "company": "Stealth Startup",
+    "job_title": "Agentic AI Engineer",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4477514313",
+    "job_url": "https://www.linkedin.com/jobs/view/4477514313",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "Jobgether",
     "job_title": "Machine Learning Engineer: Ranking & Personalization",
     "location": "Netherlands",
@@ -921,20 +935,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-12"
-  },
-  {
-    "company": "Wypoon Technologies",
-    "job_title": "Machine Learning Engineer \u2013 Cloud | MLOps | GenAI (Relocation provided)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470869347",
-    "job_url": "https://www.linkedin.com/jobs/view/4470869347",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-12",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
     "last_seen": "2026-10-12"
   },
   {
@@ -1232,20 +1232,6 @@
     "last_seen": "2026-10-12"
   },
   {
-    "company": "IT RBLS",
-    "job_title": "Medior/Senior AI Software Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4475555747",
-    "job_url": "https://www.linkedin.com/jobs/view/4475555747",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-11",
-    "last_seen": "2026-10-12"
-  },
-  {
     "company": "Jobgether",
     "job_title": "Staff Backend Engineer, Money Movement",
     "location": "Netherlands",
@@ -1468,6 +1454,51 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-12"
+  },
+  {
+    "company": "ClusterVision",
+    "job_title": "Python Developer",
+    "location": "Hoofddorp, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476172147",
+    "job_url": "https://www.linkedin.com/jobs/view/4476172147",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-12",
+    "stale": true
+  },
+  {
+    "company": "Wypoon Technologies",
+    "job_title": "Machine Learning Engineer \u2013 Cloud | MLOps | GenAI (Relocation provided)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470869347",
+    "job_url": "https://www.linkedin.com/jobs/view/4470869347",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-10-12",
+    "stale": true
+  },
+  {
+    "company": "IT RBLS",
+    "job_title": "Medior/Senior AI Software Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475555747",
+    "job_url": "https://www.linkedin.com/jobs/view/4475555747",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-12",
+    "stale": true
   },
   {
     "company": "DAF Trucks NV",
