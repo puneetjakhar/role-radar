@@ -14,6 +14,20 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "WeTravel",
+    "job_title": "Senior Software Engineer, Developer Experience (Platform Team)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4432254950",
+    "job_url": "https://www.linkedin.com/jobs/view/4432254950",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-11",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "Motion (Creative Analytics)",
     "job_title": "Senior Software Engineer (Backend)",
     "location": "Netherlands",
@@ -252,20 +266,6 @@
     "last_seen": "2026-10-12"
   },
   {
-    "company": "Simvia",
-    "job_title": "Senior Backend Software Engineer (Python) - Growing Impact Scale Up",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4475599196",
-    "job_url": "https://www.linkedin.com/jobs/view/4475599196",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-12"
-  },
-  {
     "company": "Oliver James",
     "job_title": "Senior Full-Stack Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -369,6 +369,20 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4478302100",
     "job_url": "https://www.linkedin.com/jobs/view/4478302100",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-11",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-12"
+  },
+  {
+    "company": "Clipbook",
+    "job_title": "Founding Senior Software Engineer (Netherlands)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4478082874",
+    "job_url": "https://www.linkedin.com/jobs/view/4478082874",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-11",
@@ -571,20 +585,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-07",
-    "last_seen": "2026-10-12"
-  },
-  {
-    "company": "WeTravel",
-    "job_title": "Senior Software Engineer, Developer Experience (Platform Team)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4432254950",
-    "job_url": "https://www.linkedin.com/jobs/view/4432254950",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-11",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-23",
     "last_seen": "2026-10-12"
   },
   {
@@ -1288,20 +1288,6 @@
     "last_seen": "2026-10-12"
   },
   {
-    "company": "Clipbook",
-    "job_title": "Founding Senior Software Engineer (Netherlands)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4478082874",
-    "job_url": "https://www.linkedin.com/jobs/view/4478082874",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-11",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-11",
-    "last_seen": "2026-10-12"
-  },
-  {
     "company": "Vinted",
     "job_title": "Staff / Senior Staff Security Engineer, Vinted Pay",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1510,6 +1496,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-12"
+  },
+  {
+    "company": "Simvia",
+    "job_title": "Senior Backend Software Engineer (Python) - Growing Impact Scale Up",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475599196",
+    "job_url": "https://www.linkedin.com/jobs/view/4475599196",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-12",
+    "stale": true
   },
   {
     "company": "Kadaster",
