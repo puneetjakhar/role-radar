@@ -1,5 +1,19 @@
 [
   {
+    "company": "Basic-Fit",
+    "job_title": "Senior TypeScript Developer",
+    "location": "Tilburg, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469848802",
+    "job_url": "https://www.linkedin.com/jobs/view/4469848802",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "GoodHabitz",
     "job_title": "Senior Software Engineer",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -336,20 +350,6 @@
     "last_seen": "2026-10-12"
   },
   {
-    "company": "Envalue Real Estate",
-    "job_title": "Senior Software Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4475580975",
-    "job_url": "https://www.linkedin.com/jobs/view/4475580975",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-12"
-  },
-  {
     "company": "Catawiki",
     "job_title": "Backend Engineer",
     "location": "The Randstad, Netherlands",
@@ -599,6 +599,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12"
+  },
+  {
+    "company": "RIXT.IT",
+    "job_title": "Azure Platform & DevOps Engineer",
+    "location": "Amstelveen, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4451233521",
+    "job_url": "https://www.linkedin.com/jobs/view/4451233521",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-18",
     "last_seen": "2026-10-12"
   },
   {
@@ -868,31 +882,17 @@
     "last_seen": "2026-10-12"
   },
   {
-    "company": "Schuberg Philis",
-    "job_title": "AWS Platform Engineer",
-    "location": "Schiphol-Rijk, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4446559830",
-    "job_url": "https://www.linkedin.com/jobs/view/4446559830",
+    "company": "Elevation Group",
+    "job_title": "Principal Cloud Engineer",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476324802",
+    "job_url": "https://www.linkedin.com/jobs/view/4476324802",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-05",
+    "date_posted": "2026-10-06",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-31",
-    "last_seen": "2026-10-12"
-  },
-  {
-    "company": "Nmbrs",
-    "job_title": "Cloud Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472546558",
-    "job_url": "https://www.linkedin.com/jobs/view/4472546558",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-02",
+    "first_seen": "2026-10-12",
     "last_seen": "2026-10-12"
   },
   {
@@ -935,6 +935,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12"
+  },
+  {
+    "company": "UWV",
+    "job_title": "AI software engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4437379455",
+    "job_url": "https://www.linkedin.com/jobs/view/4437379455",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-21",
     "last_seen": "2026-10-12"
   },
   {
@@ -1117,20 +1131,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-10-12"
-  },
-  {
-    "company": "Bonnie",
-    "job_title": "AI Engineer (Agent Platform)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476913931",
-    "job_url": "https://www.linkedin.com/jobs/view/4476913931",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-09",
     "last_seen": "2026-10-12"
   },
   {
@@ -1484,6 +1484,66 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "Envalue Real Estate",
+    "job_title": "Senior Software Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475580975",
+    "job_url": "https://www.linkedin.com/jobs/view/4475580975",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-12",
+    "stale": true
+  },
+  {
+    "company": "Schuberg Philis",
+    "job_title": "AWS Platform Engineer",
+    "location": "Schiphol-Rijk, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4446559830",
+    "job_url": "https://www.linkedin.com/jobs/view/4446559830",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-10-12",
+    "stale": true
+  },
+  {
+    "company": "Nmbrs",
+    "job_title": "Cloud Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472546558",
+    "job_url": "https://www.linkedin.com/jobs/view/4472546558",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-12",
+    "stale": true
+  },
+  {
+    "company": "Bonnie",
+    "job_title": "AI Engineer (Agent Platform)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476913931",
+    "job_url": "https://www.linkedin.com/jobs/view/4476913931",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-12",
+    "stale": true
+  },
+  {
     "company": "DAF Trucks NV",
     "job_title": "Senior Software Engineer IT/OT",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -1544,21 +1604,6 @@
     "stale": true
   },
   {
-    "company": "RIXT.IT",
-    "job_title": "Azure Platform & DevOps Engineer",
-    "location": "Amstelveen, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4451233521",
-    "job_url": "https://www.linkedin.com/jobs/view/4451233521",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-12",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-10-12",
-    "stale": true
-  },
-  {
     "company": "ProQR Therapeutics",
     "job_title": "Machine Learning (ML) Engineer \u2013 AI & Bioinformatics",
     "location": "Leiden, South Holland, Netherlands",
@@ -1585,21 +1630,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-25",
-    "last_seen": "2026-10-12",
-    "stale": true
-  },
-  {
-    "company": "Elevation Group",
-    "job_title": "Principal Cloud Engineer",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476324802",
-    "job_url": "https://www.linkedin.com/jobs/view/4476324802",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
     "stale": true
   },
