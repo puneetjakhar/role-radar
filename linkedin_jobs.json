@@ -1,5 +1,33 @@
 [
   {
+    "company": "GoodHabitz",
+    "job_title": "Senior Software Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4478511872",
+    "job_url": "https://www.linkedin.com/jobs/view/4478511872",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12"
+  },
+  {
+    "company": "Airwallex",
+    "job_title": "Senior Software Engineer, Payments Platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4278835281",
+    "job_url": "https://www.linkedin.com/jobs/view/4278835281",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "Qualogy",
     "job_title": "Senior Java Software Engineer",
     "location": "Rijswijk, South Holland, Netherlands",
@@ -201,34 +229,6 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4476752538",
     "job_url": "https://www.linkedin.com/jobs/view/4476752538",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-12"
-  },
-  {
-    "company": "DAF Trucks NV",
-    "job_title": "Senior Software Engineer IT/OT",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4475441380",
-    "job_url": "https://www.linkedin.com/jobs/view/4475441380",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12"
-  },
-  {
-    "company": "Parksphere by Giant Leap Technologies",
-    "job_title": "Senior Developer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476744103",
-    "job_url": "https://www.linkedin.com/jobs/view/4476744103",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-07",
@@ -490,6 +490,20 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "Parksphere by Giant Leap Technologies",
+    "job_title": "Senior Developer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476744103",
+    "job_url": "https://www.linkedin.com/jobs/view/4476744103",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "bol",
     "job_title": "Expert Backend Engineer, Finance Platform (Java/Kotlin, GCP)",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -557,20 +571,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-12"
-  },
-  {
-    "company": "TOPdesk",
-    "job_title": "Senior Backend Engineer, SaaS Tooling",
-    "location": "Delft, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474284111",
-    "job_url": "https://www.linkedin.com/jobs/view/4474284111",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
     "last_seen": "2026-10-12"
   },
   {
@@ -1274,6 +1274,20 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "Passionfruit",
+    "job_title": "Senior Product Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476331151",
+    "job_url": "https://www.linkedin.com/jobs/view/4476331151",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12"
+  },
+  {
     "company": "Samba",
     "job_title": "Senior Software Engineer - Identity",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1470,6 +1484,36 @@
     "last_seen": "2026-10-12"
   },
   {
+    "company": "DAF Trucks NV",
+    "job_title": "Senior Software Engineer IT/OT",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4475441380",
+    "job_url": "https://www.linkedin.com/jobs/view/4475441380",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "stale": true
+  },
+  {
+    "company": "TOPdesk",
+    "job_title": "Senior Backend Engineer, SaaS Tooling",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474284111",
+    "job_url": "https://www.linkedin.com/jobs/view/4474284111",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-12",
+    "stale": true
+  },
+  {
     "company": "ASMPT ALSI",
     "job_title": "Principal Electronics Engineer",
     "location": "Beuningen, Gelderland, Netherlands",
@@ -1481,7 +1525,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-12"
+    "last_seen": "2026-10-12",
+    "stale": true
   },
   {
     "company": "Infor",
