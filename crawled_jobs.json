@@ -1459,20 +1459,6 @@
     "last_seen": "2026-10-13"
   },
   {
-    "company": "ABN AMRO Bank N.V.",
-    "job_title": "Senior Business Developer IFRS9 chain",
-    "location": "Amsterdam",
-    "careers_url": "https://www.werkenbijabnamro.nl/en/vacancies?category=IT",
-    "job_url": "",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13"
-  },
-  {
     "company": "Flow Traders B.V.",
     "job_title": "Engineering Manager",
     "location": "Amsterdam , Netherlands",
@@ -1694,6 +1680,34 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-30",
+    "last_seen": "2026-10-13"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "The Core Engineering-Compliance, Senior Backend Engineer (Java & ETL Specialist), Vice President, Dallas\nDallas\u00b7United S",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/178635",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-10-13"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "The Core Engineering, Reporting, Vice President, Dallas, Software Engineering\nDallas\u00b7United States\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/165222",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-05-30",
     "last_seen": "2026-10-13"
   },
   {
@@ -2193,36 +2207,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-28",
-    "last_seen": "2026-10-13",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "The Core Engineering-Compliance, Senior Backend Engineer (Java & ETL Specialist), Vice President, Dallas\nDallas\u00b7United S",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/178635",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-07-30",
-    "last_seen": "2026-10-13",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "The Core Engineering, Reporting, Vice President, Dallas, Software Engineering\nDallas\u00b7United States\n\u00b7Vice President",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/165222",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-30",
     "last_seen": "2026-10-13",
     "stale": true
   },
