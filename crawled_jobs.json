@@ -1100,10 +1100,10 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Quality Engineer",
+    "job_title": "Senior AI Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052598/Senior-Quality-Engineer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053143/Senior-AI-Engineer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -2109,6 +2109,21 @@
     "last_seen": "2026-10-13"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Quality Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052598/Senior-Quality-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "stale": true
+  },
+  {
     "company": "Bol.com B.V.",
     "job_title": "Platform Engineer - Cloud Compute",
     "location": "Utrecht, Netherlands",
@@ -2180,21 +2195,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-28",
-    "last_seen": "2026-10-13",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior AI Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053143/Senior-AI-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
     "stale": true
   },
