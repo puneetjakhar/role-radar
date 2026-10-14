@@ -1425,7 +1425,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-06-12",
-    "description": "Flow Traders is looking for a Senior C++ Software Engineer to lead the next-generation architecture of the market data and execution platforms that power our fully systematic trading. We don't treat market data as plumbing - for us it's a source of alpha, where feed handling, order book construction, and a deep understanding of exchange microstructure are themselves a competitive edge. We're looking for a senior individual contributor who has lived this philosophy in a proprietary or systematic trading environment and can squeeze every nanosecond out of the path from wire to strategy. As a senior individual contributor, you'll help set the technical direction for the Core Platform that underpins quantitative research, pricing, strategy development, and execution across hundreds of venues - and drive its global rollout across our Market Data, Quant Research, Pricing, and Strategies groups. You'll work in a tight, iterative loop with quants and technical traders, applying deep expertise in modern C++, OS internals, CPU and memory architecture, lock-free concurrency, and low-latency networking to push our systems toward state-of-the-art performance, robustness, and observability. &nbsp; What you will do: Lead the development and global rollout of our Core market data platform used across multiple focus areas (Market data, Research engineering, Pricing, Strategies). Design and implement high\u2011performance components for market data ingestion, normalization, and distribution, as well as its usage for order execution and strategy infrastructure. Develop tools and frameworks that enable quants and technical traders to build, tune, and deploy data\u2011driven systematic pricing and trading strategies. Own the full lifecycle of your components in a fast\u2011paced, iterative environment: deploy, monitor, profile, and optimize your code in production. Work closely with focus group engineers, quants, and technical traders to refine requirements, collect feedback, and iterate on the platform's design and implementation. &nbsp; What you need to succeed: BSc, MSc, or PhD in Computer Science, Mathematics, or a related field. 7+ years of post\u2011graduation professional C++ software development experience. Experience building low\u2011latency market data ingestion, order execution, and algorithmic trading systems (proprietary trading industry preferred). Strong knowledge of algorithms and data structures. Experience in parallel, asynchronous, and multithreaded programming. Demonstrated ability to write clean, reliable, and highly scalable C++ code. Interest in extracting maximum performance from available hardware and software (CPU caches, memory layout, networking, etc.). Ability to communicate effectively with both technical and non\u2011technical colleagues. &nbsp; Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via email, ",
+    "description": "Job Application for Senior Software Engineer, C++ , Core Platform at Flow Traders Back to jobs Senior Software Engineer, C++ , Core Platform Amsterdam Apply Flow Traders is looking for a Senior C++ Software Engineer to lead the next-generation architecture of the market data and execution platforms that power our fully systematic trading. We don't treat market data as plumbing - for us it's a source of alpha, where feed handling, order book construction, and a deep understanding of exchange microstructure are themselves a competitive edge. We're looking for a senior individual contributor who has lived this philosophy in a proprietary or systematic trading environment and can squeeze every nanosecond out of the path from wire to strategy. As a senior individual contributor, you'll help set the technical direction for the Core Platform that underpins quantitative research, pricing, strategy development, and execution across hundreds of venues - and drive its global rollout across our Market Data, Quant Research, Pricing, and Strategies groups. You'll work in a tight, iterative loop with quants and technical traders, applying deep expertise in modern C++, OS internals, CPU and memory architecture, lock-free concurrency, and low-latency networking to push our systems toward state-of-the-art performance, robustness, and observability. What you will do: Lead the development and global rollout of our Core market data platform used across multiple focus areas (Market data, Research engineering, Pricing, Strategies). Design and implement high\u2011performance components for market data ingestion, normalization, and distribution, as well as its usage for order execution and strategy infrastructure. Develop tools and frameworks that enable quants and technical traders to build, tune, and deploy data\u2011driven systematic pricing and trading strategies. Own the full lifecycle of your components in a fast\u2011paced, iterative environment: deploy, monitor, profile, and optimize your code in production. Work closely with focus group engineers, quants, and technical traders to refine requirements, collect feedback, and iterate on the platform's design and implementation. What you need to succeed: BSc, MSc, or PhD in Computer Science, Mathematics, or a related field. 7+ years of post\u2011graduation professional C++ software development experience. Experience building low\u2011latency market data ingestion, order execution, and algorithmic trading systems (proprietary trading industry preferred). Strong knowledge of algorithms and data structures. Experience in parallel, asynchronous, and multithreaded programming. Demonstrated ability to write clean, reliable, and highly scalable C++ code. Interest in extracting maximum performance from available hardware and software (CPU caches, memory layout, networking, etc.). Ability to communicate effectively with both technical and non\u2011technical colleagues. Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via email, the Internet or directly without a valid and signed search agreement will be deemed free to contact by Flow Traders without any restrictions and no placement fee of any kind will be paid in the event the candidate is hired by Flow Traders Create a Job Alert Interested in building your career at Flow Traders? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Preferred First Name Email * Phone Country * Phone * Location (City) * Locate me Resume/CV * Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Cover Letter Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf LinkedIn Profile We use Greenhouse\u2019s AI-powered Talent Matching tool to help compare applications against the requirements of the role. This technology is used solely to support the recruitment process by highlighting potentially relevant skills and experience. The tool does not make hiring or screening decisions on behalf of Flow Traders. All applications and CVs are reviewed by members of our recruitment team, and all hiring decisions are made by humans. Learn more Submit application Powered by Greenhouse",
     "notes": "Dept: Product Development. Via Greenhouse board.",
     "first_seen": "2026-06-12",
     "last_seen": "2026-10-14"
@@ -1764,20 +1764,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-10-14"
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "The Core Engineering-L2-Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/186814",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-14",
     "last_seen": "2026-10-14"
   },
   {
@@ -2219,6 +2205,21 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-10-14"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "The Core Engineering-L2-Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/186814",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "stale": true
   },
   {
     "company": "Takeaway.com Group B.V.",
