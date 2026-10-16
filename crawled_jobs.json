@@ -344,7 +344,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-08-06",
-    "description": "Senior Specialist Solutions Engineer - Platform Security and Cloud Infrastructure - Databricks Skip to main content Login Why Databricks Discover For App Developers For Executives For Startups Lakehouse Architecture Databricks AI Research Customers Customer Stories Partners Partner Overview Explore the Databricks partner ecosystem Partner Spotlight Featured partner announcements Partner Program Explore benefits, tiers and how to become a partner Cloud Providers Databricks on AWS, Azure and GCP Find a Partner Discover Databricks partners for your needs Partner Solutions Find custom industry and migration solutions Product Databricks Data + AI Platform Platform Overview A unified platform for data, analytics and AI Data Engineering ETL and orchestration for batch and streaming data AI Assistant Agentic coworker for business users Data Warehousing Serverless data warehouse for SQL analytics Application Development Quickly build secure data and AI apps Database Postgres for data apps and AI agents Artificial Intelligence Build and deploy ML and GenAI applications Governance Unified governance for all data, analytics and AI assets Business Intelligence Intelligent analytics for real-world data Security Open agentic SIEM built for the AI era Customer Data Platform Agentic CDP embedded in Databricks Sharing Open data sharing for data, analytics and AI Integrations and Data Marketplace Open marketplace for data, analytics and AI IDE Integrations Build on the Lakehouse in your favorite IDE Partner Connect Discover and integrate with the Databricks ecosystem Pricing Databricks Pricing Explore product pricing, DBUs and more Cost Calculator Estimate your compute costs on any cloud Open Source Open Source Technologies Learn more about the innovations behind the platform Solutions Databricks for Industries Telecommunications Media and Entertainment Financial Services Public Sector Healthcare & Life Sciences Retail Manufacturing See All Industries Cross Industry Solutions AI Agents AI Governance Cybersecurity Marketing Migration & Deployment Data Migration Forward Deployed Engineering Solution Accelerators Explore Accelerators Move faster toward outcomes that matter Resources Learning Training Discover curriculum tailored to your needs Databricks Academy Sign in to the Databricks learning platform Certification Gain recognition and differentiation Free Edition Learn professional Data and AI tools for free University Alliance Want to teach Databricks? See how. Events Data + AI Summit Data + AI World Tour AI Days Event Calendar Blog and Podcasts Databricks Blog Explore news, product announcements, and more AI Blog Explore our AI research and engineering work Data Brew Podcast Let\u2019s talk data! Get Help Customer Support Documentation Community Dive Deep Resource Center Demo Center Architecture Center About Company Who We Are Our Team Databricks Ventures Contact Us Careers Working at Databricks Open Jobs Press Awards and Recognition Newsroom Security and Trust Security and Trust Ready to get started? Get a Demo Login Contact Us Try Databricks Overview Culture Benefits Diversity Engineering Research Students & new grads Back to search results Senior Specialist Solutions Engineer - Platform Security and Cloud Infrastructure Amsterdam, Netherlands Apply now (FEQ427R351) Senior Specialist Solutions Engineer - Platform Security and Cloud Infrastructure As a Senior Specialist Solutions Engineer, you will guide customers in building big data solutions on Databricks that span a large variety of use cases. This is a customer-facing role that works with and supports the Field Engineering pre-sales teams and requires hands-on production experience with cloud infrastructure and big data technologies. Specialist Solutions Engineers help customers through the design and successful implementation of essential workloads while aligning their technical roadmap to expand the use of the Databricks Data Intelligence Platform. As a deep go-to-expert reporting to the Specialist Field Engineering Manager, you will continue to strengthen your technical skills through mentorship, learning, and internal training programs to continuously consolidate the skills in your area of speciality. The impact you will have: Technical thought leader : Provide technical leadership to guide strategic customers to successful implementations on big data projects, ranging from architectural and security design to development and deployment best practices, including automation Assist Solution Architects with more advanced aspects of the technical sale, including custom proof of concept content, workload sizing, and custom architectures Cloud Infra & Security Expertise Architect production-level cloud native governed workloads Provide technical expertise in cloud infrastructure and security relating to our Databricks Lakehouse Platform Community & Adoption : Enable adoption by leading workshops, hackathons, and conference presentations, while actively contributing to the b",
+    "description": "(FEQ427R351) Senior Specialist Solutions Engineer - Platform Security and Cloud Infrastructure As a Senior Specialist Solutions Engineer, you will guide customers in building big data solutions on Databricks that span a large variety of use cases. This is a customer-facing role that works with and supports the Field Engineering pre-sales teams and requires hands-on production experience with cloud infrastructure and big data technologies. Specialist Solutions Engineers help customers through the design and successful implementation of essential workloads while aligning their technical roadmap to expand the use of the Databricks Data Intelligence Platform. As a deep go-to-expert reporting to the Specialist Field Engineering Manager, you will continue to strengthen your technical skills through mentorship, learning, and internal training programs to continuously consolidate the skills in your area of speciality.&nbsp;&nbsp; The impact you will have: Technical thought leader :&nbsp; Provide technical leadership to guide strategic customers to successful implementations on big data projects, ranging from architectural and security design to development and deployment best practices, including automation Assist Solution Architects with more advanced aspects of the technical sale, including custom proof of concept content, workload sizing, and custom architectures Cloud Infra &amp; Security Expertise Architect production-level cloud native governed workloads Provide technical expertise in cloud infrastructure and security relating to our&nbsp; Databricks Lakehouse Platform&nbsp;&nbsp;&nbsp; Community &amp; Adoption : Enable adoption by leading workshops, hackathons, and conference presentations, while actively contributing to the broader Databricks community. What we look for: Pre-sales or post-sales experience working with external customers (or internal clients/stakeholders) across industries 4+ years of experience designing Cloud infrastructure/Security and services, such as AWS, Azure, or GCP, applying best practices in cloud security and networking, including:&nbsp; Architecting, designing, deploying, and maintaining cloud networks and connectivity (VPC/VNet design, routing, segmentation, private connectivity). Identity &amp; Access Management (e.g. role-based access control, using the principle of least privilege, integration with IdPs, etc) Hands-on experience with cloud infrastructure automation (e.g. Terraform or cloud-specific resource management tools like ARM, CloudFormation, etc).&nbsp; Experience supporting customers (external or internal) in designing and implementing a security lakehouse/security data platform on Databricks to augment SIEM, enable security analytics and threat hunting, and build advanced detections.&nbsp;&nbsp; Hands-on experience with prompt engineering, vibe coding and agentic tools Foundational knowledge of large-scale processing/analytical engines for data pipeline architecture design.&nbsp; Databricks Certification",
     "notes": "Dept: Field Engineering - Other. Via Greenhouse board.",
     "first_seen": "2026-08-07",
     "last_seen": "2026-10-16"
@@ -1753,20 +1753,6 @@
     "last_seen": "2026-10-16"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "AM Mosaic Technology - Software Engineer - Associate - London\nLondon\u00b7United Kingdom\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/186506",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-16"
-  },
-  {
     "company": "N.V. Eneco",
     "job_title": "Senior Backend Engineer .NET (Quality Engineering)\nEneco - Rotterdam\nSoftware Engineering, Tech\nBekijk vacature",
     "location": "Netherlands",
@@ -2220,6 +2206,21 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-10-16"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "AM Mosaic Technology - Software Engineer - Associate - London\nLondon\u00b7United Kingdom\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/186506",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-16",
+    "stale": true
   },
   {
     "company": "TomTom International B.V.",
