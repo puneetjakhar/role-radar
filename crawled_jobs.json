@@ -1226,34 +1226,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Security Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-10-16"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Data Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052346/Senior-Data-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-10-16"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Golang Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1264,6 +1236,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-10-15",
+    "last_seen": "2026-10-16"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Security Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
     "last_seen": "2026-10-16"
   },
   {
@@ -1795,6 +1781,20 @@
     "last_seen": "2026-10-16"
   },
   {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Software Engineer, Global Banking & Markets, Trading Technology\nSalt Lake City\u00b7United States\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/182893",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-16"
+  },
+  {
     "company": "N.V. Eneco",
     "job_title": "Senior Backend Engineer .NET (Quality Engineering)\nEneco - Rotterdam\nSoftware Engineering, Tech\nBekijk vacature",
     "location": "Netherlands",
@@ -2262,6 +2262,21 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-10-16"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Data Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052346/Senior-Data-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-10-16",
+    "stale": true
   },
   {
     "company": "Revolut Netherlands B.V.",
@@ -3425,21 +3440,6 @@
     "description": "At Catawiki, every day brings the extraordinary! Whether it\u2019s Daniel Ricciardo\u2019s Formula 1 Car , a Woolly Mammoth\u2019s Skeleton , Lady Gaga's Jumpsuit or Usain Bolt\u2019s running shoe , we encounter exceptional objects every day. We\u2019re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by our passionate in-house experts. Having sold over 25 million unique objects, our mission is to become the world\u2019s most popular destination for special objects. As a growing, diverse and sustainable scale-up, we proudly live by three core values. If these values resonate with you, we\u2019d love to explore how you can join us. Taking ownership and driving impact&nbsp; Being open to change and feedback Being passionate about our mission and our customers.&nbsp; Your Mission On our path to becoming the most visited online curated marketplace for special objects, our Engineering team is on a mission to deliver the best experience across our platforms by building best-in-class products for search and discovery, bidding, curation, logistics, payments, and support. We\u2019re a scale-up tackling customer-facing challenges at high scale, with 75,000 auctions per week and more than 10 million visitors per month. As a&nbsp; Backend Engineer , you\u2019ll support one of our three verticals - Demand , Supply , or Fulfilment - improving and delivering product innovations for our platform. Working in a small, fully autonomous, and highly collaborative Agile team, you will build scalable, maintainable, and resilient microservices and features. That\u2019s why we\u2019re looking for developers who share ideas, explore options, and communicate openly. What You'll Do You\u2019ll be part of a team with end-to-end responsibility for its own microservices, collaborating across disciplines to build, operate, and continuously improve our products. Build end-to-end by designing, developing, testing, deploying, maintaining, and improving scalable microservices and features. Own what you deliver , taking responsibility for the quality, resilience, and maintainability of your team\u2019s services throughout their lifecycle. Collaborate across disciplines while closely working with product designers, product owners, and frontend, backend, and mobile engineers to share ideas and deliver product innovations. Improve how we work , identifying opportunities to make our engineering processes more effective and efficient. Strengthen our engineering culture by documenting and advocating for development best practices across the team. Raise product quality by fixing bugs and refactoring the codebase where necessary to keep our products reliable and maintainable. Learn and experiment by testing new technologies and participating in Technical Week - a week dedicated to creativity, innovation, and knowledge sharing across domains after every two product sprints. What You'll Bring You understand the full lifecycle of web development, identify oppor",
     "notes": "Dept: Engineering. Via Greenhouse board.",
     "first_seen": "2026-09-21",
-    "last_seen": "2026-10-12",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Software Engineer, Global Banking & Markets, Trading Technology\nSalt Lake City\u00b7United States\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/182893",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-03",
     "last_seen": "2026-10-12",
     "stale": true
   },
