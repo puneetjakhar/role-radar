@@ -980,20 +980,6 @@
     "last_seen": "2026-10-17"
   },
   {
-    "company": "SiTime",
-    "job_title": "Principal Software Engineer",
-    "location": "Rijswijk, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479351849",
-    "job_url": "https://www.linkedin.com/jobs/view/4479351849",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-16",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-17"
-  },
-  {
     "company": "Reddit, Inc.",
     "job_title": "Staff Machine Learning Engineer, Ads Foundational Representations",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1050,20 +1036,6 @@
     "last_seen": "2026-10-17"
   },
   {
-    "company": "GlobalFoundries",
-    "job_title": "Experienced Software Engineer for Physical AI",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474281630",
-    "job_url": "https://www.linkedin.com/jobs/view/4474281630",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-13",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-17"
-  },
-  {
     "company": "Wand AI",
     "job_title": "Staff Fullstack Engineer, Backend Focus (Wandy)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1106,20 +1078,6 @@
     "last_seen": "2026-10-17"
   },
   {
-    "company": "Passionfruit",
-    "job_title": "Senior Product Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476331151",
-    "job_url": "https://www.linkedin.com/jobs/view/4476331151",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-12",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-10-17"
-  },
-  {
     "company": "Databricks",
     "job_title": "Senior Staff Software Engineer - Delta",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1134,6 +1092,51 @@
     "last_seen": "2026-10-17"
   },
   {
+    "company": "SiTime",
+    "job_title": "Principal Software Engineer",
+    "location": "Rijswijk, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479351849",
+    "job_url": "https://www.linkedin.com/jobs/view/4479351849",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-16",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-17",
+    "stale": true
+  },
+  {
+    "company": "GlobalFoundries",
+    "job_title": "Experienced Software Engineer for Physical AI",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474281630",
+    "job_url": "https://www.linkedin.com/jobs/view/4474281630",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-13",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-17",
+    "stale": true
+  },
+  {
+    "company": "Passionfruit",
+    "job_title": "Senior Product Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476331151",
+    "job_url": "https://www.linkedin.com/jobs/view/4476331151",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-17",
+    "stale": true
+  },
+  {
     "company": "Eye Security",
     "job_title": "Senior Software Engineer, Agents (m/f/x)",
     "location": "Rotterdam and The Hague",
@@ -1145,7 +1148,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-28",
-    "last_seen": "2026-10-17"
+    "last_seen": "2026-10-17",
+    "stale": true
   },
   {
     "company": "Almaviva Group",
