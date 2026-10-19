@@ -281,6 +281,20 @@
   },
   {
     "company": "Catawiki B.V.",
+    "job_title": "Platform Engineer",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://catawiki.careers/vacancies?o=0&n=10&of=47810&f=194&of=47823&f=92",
+    "job_url": "https://job-boards.greenhouse.io/catawiki/jobs/8289117",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-19",
+    "description": "At Catawiki, every day brings the extraordinary! Whether it\u2019s Daniel Ricciardo\u2019s Formula 1 Car , a Woolly Mammoth\u2019s Skeleton , Lady Gaga's Jumpsuit or Usain Bolt\u2019s running shoe , we encounter exceptional objects every day. We\u2019re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by our passionate in-house experts. Having sold over 25 million unique objects, our mission is to become the world\u2019s most popular destination for special objects. As a growing, diverse and sustainable scale-up, we proudly live by three core values. If these values resonate with you, we\u2019d love to explore how you can join us. Taking ownership and driving impact&nbsp; Being open to change and feedback Being passionate about our mission and our customers.&nbsp; Your Mission At Catawiki, our Platform Horizontal has evolved from solely managing the cloud into a broad function supporting Reliability, Developer Experience, Security, and Quality. We take a holistic approach to creating systems and tools that help developers deliver applications seamlessly and reliably without getting bogged down in infrastructure complexity. As a&nbsp; Platform Engineer , you\u2019ll work at the intersection of development, infrastructure, and operations. You\u2019ll help shape and execute our long-term platform vision, empowering Catawiki teams to deliver value to customers with speed, reliability, and security. What You'll Do You\u2019ll build and improve the platform capabilities that enable our engineering teams to develop, deploy, and operate applications effectively at scale. Build a self-service developer platform with a particular emphasis on developer experience, designing and maintaining platforms that abstract complexity and give teams the tools to deploy, monitor, and optimise their applications. Orchestrate cloud-native infrastructure , manage Kubernetes clusters and other cloud resources, focusing on performance, scalability, and cost efficiency through FinOps practices. Boost developer productivity by building and enhancing CI/CD pipelines, GitOps workflows, and reusable templates that accelerate development and deployment cycles. Drive reliability and scalability through applying practices for fault tolerance, disaster recovery, and scaling so applications run smoothly under changing conditions. Improve platform operations usage and enhance our observability stack to monitor platform health and resolve incidents proactively. Collaborate and innovate by partnering with product teams to understand their needs, build simple and impactful solutions, and champion cloud-native best practices across Catawiki. What You'll Bring You measure what matters, introduce changes gradually, and treat failure as a normal part of learning. You use tooling and automation wherever possible to reduce toil, and enjoy sharing knowledge with others. Cloud-native expertise : At least 5 years of production experience with Kubern",
+    "notes": "Dept: Engineering. Via Greenhouse board.",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19"
+  },
+  {
+    "company": "Catawiki B.V.",
     "job_title": "Senior Manager \u2013 Data Engineering & Machine Learning",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://catawiki.careers/vacancies?o=0&n=10&of=47810&f=194&of=47823&f=92",
