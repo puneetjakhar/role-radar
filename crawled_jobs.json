@@ -2195,6 +2195,19 @@
     "last_seen": "2026-10-19"
   },
   {
+    "company": "Philips Electronics Nederland B.V.",
+    "job_title": "AI Senior Systems Engineer (AI for RAMS & Systems Engineering)",
+    "location": "Eindhoven",
+    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/AI-Senior-Systems-Engineer--AI-for-RAMS---Systems-Engineering-_591185-2",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-19"
+  },
+  {
     "company": "Vanderlande Industries B.V.",
     "job_title": "AI and Data Engineering lead",
     "location": "Veghel, Netherlands",
@@ -2205,6 +2218,34 @@
     "date_posted": null,
     "notes": "Via Workday API.",
     "first_seen": "2026-10-12",
+    "last_seen": "2026-10-19"
+  },
+  {
+    "company": "Tebi B.V.",
+    "job_title": "Senior Fullstack Mobile Engineer ",
+    "location": "Amsterdam",
+    "careers_url": "https://jobs.ashbyhq.com/tebi",
+    "job_url": "https://jobs.ashbyhq.com/tebi/b1363129-d05e-40fe-9b32-8545cf48621c",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-19",
+    "description": "About Us: Tebi is creating the first Connected Restaurant Management System that makes hospitality flow. In one seamless platform, Tebi embeds sales, reservations, kitchen prep, payments, and all the data that powers it, creating smooth service and intuitive insights. Founded by Arnout Schuijff, co-founder of Adyen, and backed by \u20ac50 million in funding from Index Ventures & CapitalG, Tebi is built in service of hospitality first. Thousands of restaurants, caf\u00e9s, bars, and coffee shops across the Netherlands, UK, Italy, Spain, Germany, Denmark and Finland already love running on Tebi. About the role: We\u2019re looking for a seasoned Fullstack Mobile Engineer to help shape the core experience for thousands of restaurant teams. This is a senior role focused on building performant, polished applications across mobile platforms. You\u2019ll lead development of cross-platform features, collaborate closely with design and product, and contribute to shared backend components when needed. You should bring a strong product mindset, care deeply about developer experience, and be excited about building better software, faster. This role is ideal for someone who has experience shipping real-world apps, and is looking to make high-impact technical decisions in a fast-moving team. Our Tech Stack: We use Kotlin multiplatform and Jetpack Compose. Everything runs in GCP and our database it\u2019s Postgres. What you will do: Work on the development of our app architecture across Android and iOS Design and implement shared business logic and client code, as well as platform-specific UI components where needed Work closely with designers, PMs, and other engineers to deliver intuitive, delightful product experiences Contribute to backend services where necessary, ensuring tight integration and performance across the stack Continuously improve build tooling, developer experience, and code quality Play a critical role in shaping how Tebi scales across new markets, languages, and user types What you bring: 7+ years of experience in software engineering, with deep expertise in mobile engineering Strong experience building and shipping Android apps; familiarity with iOS and multiplatform development patterns. Strong experience with Kotlin Comfortable owning architecture decisions and collaborating with cross-functional teams to ship features A strong product mindset, you care about solving real problems for users, not just writing code Great communication skills and a pragmatic approach to building scalable systems If this speaks to you we can be the right fit. Learn more about how we work from our Recipe here: https://www.tebi.com/gb/careers . Benefits: Start-up Equity Competitive Salary Lunch Provided in Office Team building events Unlimited time off Note: Interviews will start after the 14th of September. What is Restaurant Software? Restaurants and other merchants use various software systems such as Point of Sale (POS), Reservations, Kitchen Display Systems (KDS), Payments, Invento",
+    "notes": "Via Ashby API.",
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-10-19"
+  },
+  {
+    "company": "Tebi B.V.",
+    "job_title": "Engineering Manager",
+    "location": "Amsterdam",
+    "careers_url": "https://jobs.ashbyhq.com/tebi",
+    "job_url": "https://jobs.ashbyhq.com/tebi/8984eeb7-31f2-474f-acb0-de6f21383a5d",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-19",
+    "description": "About Us: Tebi is creating the first Connected Restaurant Management System that makes hospitality flow. In one seamless platform, Tebi embeds sales, reservations, kitchen prep, payments, and all the data that powers it, creating smooth service and intuitive insights. Founded by Arnout Schuijff, co-founder of Adyen, and backed by \u20ac50 million in funding from Index Ventures & CapitalG, Tebi is built in the service of hospitality first. Thousands of restaurants, caf\u00e9s, bars, and coffee shops across the Netherlands, UK, and more countries soon, love running on Tebi. About the Role: In this role, you will guide the team responsible for developing our core application, which is built on Kotlin Multiplatform. The app powers essential operations across the Point-of-Sale, kitchen, and dining floor for restaurant staff. We are driven by the belief that hospitality deserves superior technology with solutions that unify operations, save time, and support business growth while preserving what makes each venue unique. This role sits between leadership and hands-on building. You won't just set the technical direction, you\u2019ll dive into the code alongside your team. You'll bridge the gap between product vision and technical execution to build a fast, ultra-reliable product that handles the high-pressure environment of modern hospitality. What You'll Do: Lead and grow a very senior team of App Engineers, and holding the bar on quality and craft Drive the app roadmap and translate business priorities into a shippable plan, in close partnership with product and design Drive architecture decisions across native and cross-platform code, balancing speed today with maintainability tomorrow Build a strong engineering culture by mentoring your team, championing best practices, and collaborating with cross-functional partners. Run the day-to-day of the team: 1:1s, planning, hiring, and performance feedback Actively contribute to our product roadmap by shipping features What You'll Bring: 7+ years of professional experience as a mobile engineer and at least 2+ years of experience in leadership roles Excellent communication skills, with the ability to articulate complex technical trade-offs to both technical and non-technical stakeholders Proven experience managing engineering teams as a people manager, ideally in a fast-moving product company Strong technical background in iOS or Android, or cross-platform mobile development, with the judgment to guide architecture decisions Comfort with ambiguity and the ability to set direction without waiting for perfect information Benefits: Start-up Equity Competitive Salary Lunch Provided in Office Team building events Unlimited time off Note: Interviews will start after the 14th of September. What is Restaurant Software? Restaurants and other merchants use various software systems such as Point of Sale (POS), Reservations, Kitchen Display Systems (KDS), Payments, Inventory, Staffing, and the list goes on. These systems all need to sp",
+    "notes": "Via Ashby API.",
+    "first_seen": "2026-08-24",
     "last_seen": "2026-10-19"
   },
   {
@@ -2352,36 +2393,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-28",
-    "last_seen": "2026-10-18",
-    "stale": true
-  },
-  {
-    "company": "Tebi B.V.",
-    "job_title": "Senior Fullstack Mobile Engineer ",
-    "location": "Amsterdam",
-    "careers_url": "https://jobs.ashbyhq.com/tebi",
-    "job_url": "https://jobs.ashbyhq.com/tebi/b1363129-d05e-40fe-9b32-8545cf48621c",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-24",
-    "description": "About Us: Tebi is creating the first Connected Restaurant Management System that makes hospitality flow. In one seamless platform, Tebi embeds sales, reservations, kitchen prep, payments, and all the data that powers it, creating smooth service and intuitive insights. Founded by Arnout Schuijff, co-founder of Adyen, and backed by \u20ac50 million in funding from Index Ventures & CapitalG, Tebi is built in service of hospitality first. Thousands of restaurants, caf\u00e9s, bars, and coffee shops across the Netherlands, UK, Italy, Spain, Germany, Denmark and Finland already love running on Tebi. About the role: We\u2019re looking for a seasoned Fullstack Mobile Engineer to help shape the core experience for thousands of restaurant teams. This is a senior role focused on building performant, polished applications across mobile platforms. You\u2019ll lead development of cross-platform features, collaborate closely with design and product, and contribute to shared backend components when needed. You should bring a strong product mindset, care deeply about developer experience, and be excited about building better software, faster. This role is ideal for someone who has experience shipping real-world apps, and is looking to make high-impact technical decisions in a fast-moving team. Our Tech Stack: We use Kotlin multiplatform and Jetpack Compose. Everything runs in GCP and our database it\u2019s Postgres. What you will do: Work on the development of our app architecture across Android and iOS Design and implement shared business logic and client code, as well as platform-specific UI components where needed Work closely with designers, PMs, and other engineers to deliver intuitive, delightful product experiences Contribute to backend services where necessary, ensuring tight integration and performance across the stack Continuously improve build tooling, developer experience, and code quality Play a critical role in shaping how Tebi scales across new markets, languages, and user types What you bring: 7+ years of experience in software engineering, with deep expertise in mobile engineering Strong experience building and shipping Android apps; familiarity with iOS and multiplatform development patterns. Strong experience with Kotlin Comfortable owning architecture decisions and collaborating with cross-functional teams to ship features A strong product mindset, you care about solving real problems for users, not just writing code Great communication skills and a pragmatic approach to building scalable systems If this speaks to you we can be the right fit. Learn more about how we work from our Recipe here: https://www.tebi.com/gb/careers . Benefits: Start-up Equity Competitive Salary Lunch Provided in Office Team building events Unlimited time off Note: Interviews will start after the 14th of September. What is Restaurant Software? Restaurants and other merchants use various software systems such as Point of Sale (POS), Reservations, Kitchen Display Systems (KDS), Payments, Invento",
-    "notes": "Via Ashby API.",
-    "first_seen": "2026-08-24",
-    "last_seen": "2026-10-18",
-    "stale": true
-  },
-  {
-    "company": "Tebi B.V.",
-    "job_title": "Engineering Manager",
-    "location": "Amsterdam",
-    "careers_url": "https://jobs.ashbyhq.com/tebi",
-    "job_url": "https://jobs.ashbyhq.com/tebi/8984eeb7-31f2-474f-acb0-de6f21383a5d",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-24",
-    "description": "About Us: Tebi is creating the first Connected Restaurant Management System that makes hospitality flow. In one seamless platform, Tebi embeds sales, reservations, kitchen prep, payments, and all the data that powers it, creating smooth service and intuitive insights. Founded by Arnout Schuijff, co-founder of Adyen, and backed by \u20ac50 million in funding from Index Ventures & CapitalG, Tebi is built in the service of hospitality first. Thousands of restaurants, caf\u00e9s, bars, and coffee shops across the Netherlands, UK, and more countries soon, love running on Tebi. About the Role: In this role, you will guide the team responsible for developing our core application, which is built on Kotlin Multiplatform. The app powers essential operations across the Point-of-Sale, kitchen, and dining floor for restaurant staff. We are driven by the belief that hospitality deserves superior technology with solutions that unify operations, save time, and support business growth while preserving what makes each venue unique. This role sits between leadership and hands-on building. You won't just set the technical direction, you\u2019ll dive into the code alongside your team. You'll bridge the gap between product vision and technical execution to build a fast, ultra-reliable product that handles the high-pressure environment of modern hospitality. What You'll Do: Lead and grow a very senior team of App Engineers, and holding the bar on quality and craft Drive the app roadmap and translate business priorities into a shippable plan, in close partnership with product and design Drive architecture decisions across native and cross-platform code, balancing speed today with maintainability tomorrow Build a strong engineering culture by mentoring your team, championing best practices, and collaborating with cross-functional partners. Run the day-to-day of the team: 1:1s, planning, hiring, and performance feedback Actively contribute to our product roadmap by shipping features What You'll Bring: 7+ years of professional experience as a mobile engineer and at least 2+ years of experience in leadership roles Excellent communication skills, with the ability to articulate complex technical trade-offs to both technical and non-technical stakeholders Proven experience managing engineering teams as a people manager, ideally in a fast-moving product company Strong technical background in iOS or Android, or cross-platform mobile development, with the judgment to guide architecture decisions Comfort with ambiguity and the ability to set direction without waiting for perfect information Benefits: Start-up Equity Competitive Salary Lunch Provided in Office Team building events Unlimited time off Note: Interviews will start after the 14th of September. What is Restaurant Software? Restaurants and other merchants use various software systems such as Point of Sale (POS), Reservations, Kitchen Display Systems (KDS), Payments, Inventory, Staffing, and the list goes on. These systems all need to sp",
-    "notes": "Via Ashby API.",
-    "first_seen": "2026-08-24",
     "last_seen": "2026-10-18",
     "stale": true
   },
@@ -2727,20 +2738,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15",
-    "stale": true
-  },
-  {
-    "company": "Philips Electronics Nederland B.V.",
-    "job_title": "AI Senior Systems Engineer (AI for RAMS & Systems Engineering)",
-    "location": "Eindhoven",
-    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
-    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/AI-Senior-Systems-Engineer--AI-for-RAMS---Systems-Engineering-_591185-2",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-10-14",
     "last_seen": "2026-10-15",
     "stale": true
   },
