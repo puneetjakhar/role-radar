@@ -1851,34 +1851,6 @@
     "last_seen": "2026-10-19"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Internal Audit, Public Equities Engineering Auditor, Senior Vice President, Salt Lake City\nSalt Lake City\u00b7United States\n",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/181510",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-19"
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "AI/ML Engineer, Global Banking & Markets, RIA Engineering\nNew York\u00b7United States\n\u00b7Vice President",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/187069",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-19",
-    "last_seen": "2026-10-19"
-  },
-  {
     "company": "N.V. Eneco",
     "job_title": "Senior Backend Engineer .NET (Quality Engineering)\nEneco - Rotterdam\nSoftware Engineering, Tech\nBekijk vacature",
     "location": "Netherlands",
@@ -2347,6 +2319,36 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-10-19"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Internal Audit, Public Equities Engineering Auditor, Senior Vice President, Salt Lake City\nSalt Lake City\u00b7United States\n",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/181510",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-19",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "AI/ML Engineer, Global Banking & Markets, RIA Engineering\nNew York\u00b7United States\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/187069",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "stale": true
   },
   {
     "company": "TomTom International B.V.",
