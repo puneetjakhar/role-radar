@@ -70,20 +70,6 @@
     "last_seen": "2026-10-20"
   },
   {
-    "company": "Sytac",
-    "job_title": "Senior Backend Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4447552914",
-    "job_url": "https://www.linkedin.com/jobs/view/4447552914",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-31",
-    "last_seen": "2026-10-20"
-  },
-  {
     "company": "Vinted",
     "job_title": "Senior Backend Engineer, VGo Carrier Technology",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1400,20 +1386,6 @@
     "last_seen": "2026-10-20"
   },
   {
-    "company": "SiTime",
-    "job_title": "Principal Software Engineer",
-    "location": "Rijswijk, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479351849",
-    "job_url": "https://www.linkedin.com/jobs/view/4479351849",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-16",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-20"
-  },
-  {
     "company": "Kake",
     "job_title": "Senior Web & Video Player Engineer - Remote",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1540,6 +1512,21 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-14",
+    "last_seen": "2026-10-20",
+    "stale": true
+  },
+  {
+    "company": "SiTime",
+    "job_title": "Principal Software Engineer",
+    "location": "Rijswijk, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479351849",
+    "job_url": "https://www.linkedin.com/jobs/view/4479351849",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-16",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-16",
     "last_seen": "2026-10-20",
     "stale": true
   },
