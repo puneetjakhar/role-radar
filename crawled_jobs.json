@@ -1088,6 +1088,20 @@
     "last_seen": "2026-10-20"
   },
   {
+    "company": "Optiver Holding B.V.",
+    "job_title": "Senior Software Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://optiver.com/working-at-optiver/career-opportunities/?numberposts=50&paged=1&office=amsterdam&department=technology",
+    "job_url": "https://optiver.com/join-us/jobs/technology/shanghai/senior-software-engineer-5/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-10-20"
+  },
+  {
     "company": "TomTom International B.V.",
     "job_title": "Senior MLOps/Data Engineer",
     "location": "Amsterdam, The Netherlands",
@@ -3317,21 +3331,6 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-14",
     "last_seen": "2026-10-15",
-    "stale": true
-  },
-  {
-    "company": "Optiver Holding B.V.",
-    "job_title": "Senior Software Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://optiver.com/working-at-optiver/career-opportunities/?numberposts=50&paged=1&office=amsterdam&department=technology",
-    "job_url": "https://optiver.com/join-us/jobs/technology/shanghai/senior-software-engineer-5/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-10-14",
     "stale": true
   },
   {
