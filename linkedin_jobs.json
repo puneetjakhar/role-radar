@@ -98,48 +98,6 @@
     "last_seen": "2026-10-21"
   },
   {
-    "company": "Platform Science",
-    "job_title": "Senior Software Engineer",
-    "location": "Oldenzaal, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4352880551",
-    "job_url": "https://www.linkedin.com/jobs/view/4352880551",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-10-21"
-  },
-  {
-    "company": "Vinted",
-    "job_title": "Senior Backend Engineer, VGo Carrier Technology",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481215097",
-    "job_url": "https://www.linkedin.com/jobs/view/4481215097",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-19",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-19",
-    "last_seen": "2026-10-21"
-  },
-  {
-    "company": "Hadrian",
-    "job_title": "Senior Backend Engineer (Offensive Security Platforms)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4480269455",
-    "job_url": "https://www.linkedin.com/jobs/view/4480269455",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-19",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-19",
-    "last_seen": "2026-10-21"
-  },
-  {
     "company": "Jumbo Supermarkten",
     "job_title": "Senior Java Developer",
     "location": "Veghel, North Brabant, Netherlands",
@@ -308,20 +266,6 @@
     "last_seen": "2026-10-21"
   },
   {
-    "company": "Soar",
-    "job_title": "Senior Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4477097147",
-    "job_url": "https://www.linkedin.com/jobs/view/4477097147",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-21"
-  },
-  {
     "company": "MongoDB",
     "job_title": "Senior Software Engineer, Query Execution",
     "location": "Netherlands",
@@ -333,20 +277,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-21"
-  },
-  {
-    "company": "CNN",
-    "job_title": "Senior Software Engineer - tvOS",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4462153929",
-    "job_url": "https://www.linkedin.com/jobs/view/4462153929",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-14",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-03",
     "last_seen": "2026-10-21"
   },
   {
@@ -389,6 +319,34 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-09",
+    "last_seen": "2026-10-21"
+  },
+  {
+    "company": "Hadrian",
+    "job_title": "Senior Backend Engineer (Offensive Security Platforms)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4480269455",
+    "job_url": "https://www.linkedin.com/jobs/view/4480269455",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-19",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-21"
+  },
+  {
+    "company": "Vinted",
+    "job_title": "Senior Backend Engineer, VGo Carrier Technology",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481215097",
+    "job_url": "https://www.linkedin.com/jobs/view/4481215097",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-19",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-19",
     "last_seen": "2026-10-21"
   },
   {
@@ -966,6 +924,20 @@
     "last_seen": "2026-10-21"
   },
   {
+    "company": "Nationale-Nederlanden",
+    "job_title": "GenAI Engineer - Asset Reuse Team",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4443290150",
+    "job_url": "https://www.linkedin.com/jobs/view/4443290150",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-10-21"
+  },
+  {
     "company": "MarvelX AI",
     "job_title": "AI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1201,20 +1173,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-12",
-    "last_seen": "2026-10-21"
-  },
-  {
-    "company": "Capgemini",
-    "job_title": "Young professional Track AI Engineer - NL",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473219705",
-    "job_url": "https://www.linkedin.com/jobs/view/4473219705",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-29",
     "last_seen": "2026-10-21"
   },
   {
@@ -1510,6 +1468,66 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-21"
+  },
+  {
+    "company": "Platform Science",
+    "job_title": "Senior Software Engineer",
+    "location": "Oldenzaal, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4352880551",
+    "job_url": "https://www.linkedin.com/jobs/view/4352880551",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-10-21",
+    "stale": true
+  },
+  {
+    "company": "Soar",
+    "job_title": "Senior Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4477097147",
+    "job_url": "https://www.linkedin.com/jobs/view/4477097147",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-21",
+    "stale": true
+  },
+  {
+    "company": "CNN",
+    "job_title": "Senior Software Engineer - tvOS",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4462153929",
+    "job_url": "https://www.linkedin.com/jobs/view/4462153929",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-14",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-21",
+    "stale": true
+  },
+  {
+    "company": "Capgemini",
+    "job_title": "Young professional Track AI Engineer - NL",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473219705",
+    "job_url": "https://www.linkedin.com/jobs/view/4473219705",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-10-21",
+    "stale": true
   },
   {
     "company": "DataSnipper",
