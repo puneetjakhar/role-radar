@@ -350,6 +350,20 @@
     "last_seen": "2026-10-21"
   },
   {
+    "company": "Basic-Fit",
+    "job_title": "Senior Backend Developer (Node.Js)",
+    "location": "Tilburg, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4414924526",
+    "job_url": "https://www.linkedin.com/jobs/view/4414924526",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-10-21"
+  },
+  {
     "company": "SOURCE.ME",
     "job_title": "Senior Software Engineer",
     "location": "Amsterdam Area",
@@ -453,20 +467,6 @@
     "location": "Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4479325490",
     "job_url": "https://www.linkedin.com/jobs/view/4479325490",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-16",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-21"
-  },
-  {
-    "company": "Doghouse Recruitment",
-    "job_title": "Senior Dotnet Developer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479327951",
-    "job_url": "https://www.linkedin.com/jobs/view/4479327951",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-16",
@@ -770,6 +770,20 @@
     "last_seen": "2026-10-21"
   },
   {
+    "company": "Leaseweb",
+    "job_title": "Cloud Software Engineer \u2013 Managed Kubernetes",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470298522",
+    "job_url": "https://www.linkedin.com/jobs/view/4470298522",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-10-21"
+  },
+  {
     "company": "123inkt.nl",
     "job_title": "Kubernetes Engineer",
     "location": "Nederhorst den Berg, North Holland, Netherlands",
@@ -803,20 +817,6 @@
     "location": "Eindhoven, North Brabant, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4477306158",
     "job_url": "https://www.linkedin.com/jobs/view/4477306158",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-21"
-  },
-  {
-    "company": "Kyndryl",
-    "job_title": "AI Platform Engineer - AI Gateway",
-    "location": "Amstelveen, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479804642",
-    "job_url": "https://www.linkedin.com/jobs/view/4479804642",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-15",
@@ -1484,6 +1484,36 @@
     "last_seen": "2026-10-21"
   },
   {
+    "company": "Doghouse Recruitment",
+    "job_title": "Senior Dotnet Developer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479327951",
+    "job_url": "https://www.linkedin.com/jobs/view/4479327951",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-16",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-21",
+    "stale": true
+  },
+  {
+    "company": "Kyndryl",
+    "job_title": "AI Platform Engineer - AI Gateway",
+    "location": "Amstelveen, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479804642",
+    "job_url": "https://www.linkedin.com/jobs/view/4479804642",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-21",
+    "stale": true
+  },
+  {
     "company": "Suitsupply",
     "job_title": "Principal Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1495,7 +1525,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
-    "last_seen": "2026-10-21"
+    "last_seen": "2026-10-21",
+    "stale": true
   },
   {
     "company": "Flow Traders",
@@ -2184,21 +2215,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-21",
-    "last_seen": "2026-10-19",
-    "stale": true
-  },
-  {
-    "company": "Leaseweb",
-    "job_title": "Cloud Software Engineer \u2013 Managed Kubernetes",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470298522",
-    "job_url": "https://www.linkedin.com/jobs/view/4470298522",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-22",
     "last_seen": "2026-10-19",
     "stale": true
   },
