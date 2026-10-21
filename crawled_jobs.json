@@ -162,7 +162,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-18",
-    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Senior Partner Solutions Engineer - Hardware Adyen is looking for a Senior Partner Solutions Engineer with a track record of hands-on embedded Android or systems engineering work to own the technical relationship with one or more of our most complex hardware OEM partners. You'll be the primary technical authority on that relationship: root-causing the hardest device-level issues, holding senior OEM engineering counterparts accountable, and shaping how Adyen manages OEM technical relationships as the function grows. As Adyen evolves its hardware offerings and moves toward a hardware independence model, this role carries real weight. Your OEM relationship is one of the more demanding ones in the portfolio, and you're expected to bring judgment and strategy to it, not just execute an existing playbook. What you'll do: Serve as the primary, most senior technical advisor for your OEM's engineering team, leading escalations on the most complex device-level issues. Drive technical strategy for your OEM relationship: which issues to prioritize, which process gaps to close, and how automation and tooling should evolve. Lead cross-functional alignment across Product, Engineering, Hardware Integrity/Reliability, and Commercial on priorities for your OEM, especially when those priorities conflict. Design and drive adoption of tooling, automation, and process improvements that scale quality efforts across the relationship. Partner together with Commercial to drive proactive improvements to the Adyen payment experience on partner devices, not just reactive bug-fixing. Mentor other Partner Solutions Engineers on debugging approach and partner management, without formal management responsibility. Help shape the broader and scalable operating model for Hardware Partner Engineering as Adyen adds OEM relationships and device coverage. Who you are: 8+ years of experience in a technical solutions role, partner engineering, or related fields, with proven experience in a customer-facing role (e.g., developer advocate, partner engineer, technical solutions engineer, or solutions architect). 4+ years of hands-on embedded, firmware, or systems engineering experience, with meaningful exposure to hardware, embedded, or device-level environments. Embedded Android experience in a point-of-sale context (e.g. point-of-sale terminals, payment te",
+    "description": "Job Application for Senior Partner Solutions Engineer - Hardware at Adyen Senior Partner Solutions Engineer - Hardware Amsterdam Apply This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Senior Partner Solutions Engineer - Hardware Adyen is looking for a Senior Partner Solutions Engineer with a track record of hands-on embedded Android or systems engineering work to own the technical relationship with one or more of our most complex hardware OEM partners. You'll be the primary technical authority on that relationship: root-causing the hardest device-level issues, holding senior OEM engineering counterparts accountable, and shaping how Adyen manages OEM technical relationships as the function grows. As Adyen evolves its hardware offerings and moves toward a hardware independence model, this role carries real weight. Your OEM relationship is one of the more demanding ones in the portfolio, and you're expected to bring judgment and strategy to it, not just execute an existing playbook. What you'll do: Serve as the primary, most senior technical advisor for your OEM's engineering team, leading escalations on the most complex device-level issues. Drive technical strategy for your OEM relationship: which issues to prioritize, which process gaps to close, and how automation and tooling should evolve. Lead cross-functional alignment across Product, Engineering, Hardware Integrity/Reliability, and Commercial on priorities for your OEM, especially when those priorities conflict. Design and drive adoption of tooling, automation, and process improvements that scale quality efforts across the relationship. Partner together with Commercial to drive proactive improvements to the Adyen payment experience on partner devices, not just reactive bug-fixing. Mentor other Partner Solutions Engineers on debugging approach and partner management, without formal management responsibility. Help shape the broader and scalable operating model for Hardware Partner Engineering as Adyen adds OEM relationships and device coverage. Who you are: 8+ years of experience in a technical solutions role, partner engineering, or related fields, with proven experience in a customer-facing role (e.g., developer advocate, partner engineer, technical solutions engineer, or solutions architect). 4+ years of hands-on embedded, firmware, or systems engineering experience, with meaningful exposure to hardware, embedded, or device-level environments. Embedded Android experience in a point-of-sale context (e.g. point-of-sale terminals, payment terminals, kiosks, unattended/vending machines, etc.) is a plus. A credible technical authority who can evaluate an OEM's root-cause claims and hold senior OEM engineering counterparts accountable. Track record of turning a reactive backlog into durable process, tooling, or automation. Excellent communicator, comfortable leading discussions with senior partner engineering leadership and internal cross-functional stakeholders. High agency and a strategic mindset: you're thinking a few steps past the current ticket queue. Willing to travel to OEM locations and work across time zones. Our Diversity, Equity and Inclusion commitments Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them - voices like yours. No matter who you are or where you\u2019re from, we welcome you to be your true self at Adyen. Studies show that women and members of underrepresented communities apply for jobs only if they meet 100% of the qualifications. Does this sound like you? If so, Adyen encourages you to reconsider and apply. We look forward to your application! What\u2019s next? Ensuring a smooth and enjoyable candidate experience is critical for us. We aim to get back to you regarding your application within 5 business days. Our interview process tends to take about 4 weeks to complete, but may fluctuate depending on the role. Learn more about our hiring process here . Don\u2019t be afraid to let us know if you need more flexibility. This role is based out of our Amsterdam office. We are an office-first company and value in-person collaboration; we do not offer remote-only roles. Create a Job Alert Interested in building your career at Adyen? Get future opportun",
     "notes": "Dept: Payments Partnership. Via Greenhouse board.",
     "first_seen": "2026-09-18",
     "last_seen": "2026-10-21"
@@ -1198,20 +1198,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Security Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-10-21"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Golang Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1222,6 +1208,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-10-15",
+    "last_seen": "2026-10-21"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Security Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
     "last_seen": "2026-10-21"
   },
   {
