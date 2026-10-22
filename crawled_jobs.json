@@ -29,6 +29,20 @@
   },
   {
     "company": "Adyen N.V.",
+    "job_title": "Engineering Manager \u2013 Identity & Verification Services ",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
+    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/8229821",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Why join Identity &amp; Verification Services Every business that joins Adyen has to be verified before it can accept its first payment. Identity &amp; Verification Services is the team that makes that possible. It is part of Adyen\u2019s Unified Platform organization, and is responsible for: the systems that verify the businesses on our platform; the legal entity data behind them, across every jurisdiction and merchant type we serve. The team has built the verification framework that powers our KYC processes, flexible enough to run hundreds of different checks. These include automated checks with third-party data providers, document reviews, and checks handled by our operations teams. What you\u2019ll do Lead, coach and grow a team of 7 engineers. Own the team\u2019s execution and roadmap together with Product, making sure the team delivers on what matters most. Act as a technical partner to your engineers. You\u2019ll engage in system design and architecture discussions, ask the right questions and validate key decisions. This is not a hands-on coding role, but it is a technical one. Shape how the platform scales. That includes migrating existing checks, introducing versioning, simplifying how new checks are built, and opening the platform up to use cases beyond KYC. Work with leaders across Unified Platform and the product teams in other organizations who depend on verification, aligning with them on priorities and technical direction. Create an environment where engineers feel safe to take ownership and run with their own initiatives, with clear goals and priorities. Hire and develop engineers who thrive in a fast-moving environment. Your first six months In your first month you\u2019ll focus on learning the platform, the domain and the people. You\u2019ll build relationships with your team, Product and partner teams. By three to six months, you\u2019ll own the team\u2019s execution and roadmap, have earned the team\u2019s trust, and be shaping how the platform should scale next. Who you are An experienced engineering manager who leads by empowering people. You bring clarity, give engineers room to own their work, and build a team where people feel safe to speak up. Technically credible with senior engineers. You come from a strong backend background and understand distributed systems well enough to review designs, challenge trade-offs and spot risks. E",
+    "notes": "Dept: Development. Via Greenhouse board.",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22"
+  },
+  {
+    "company": "Adyen N.V.",
     "job_title": "Head of Engineering - Adyen protect",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
@@ -990,20 +1004,6 @@
     "last_seen": "2026-10-22"
   },
   {
-    "company": "TomTom International B.V.",
-    "job_title": "Senior MLOps/Data Engineer",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/564ca739-8bac-472b-a107-2d531ea1578f/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"5+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-10-22"
-  },
-  {
     "company": "Backbase B.V.",
     "job_title": "Lead Principal Solution Architect - EMEA",
     "location": "Amsterdam, Netherlands",
@@ -1341,7 +1341,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-09-09",
-    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 60 jobs found FinTech Subject Matter Expertise Specialist Financial Accounting Bachelor / Master 4.000-4.700 Utrecht 4-7 year Financieel strateeg die stakeholders makkelijk meekrijgt en zorgt voor grip Commerce Intern Stage Customer Experience Cultuur Bachelor Utrecht Student Til jij bols customer obsession naar het volgende niveau? Tech Engineering Tech Young Professional NL Bachelor / Master 4.190 Utrecht 0 year Boek een ticket naar de tech-reis van je leven Tech Engineering Tech Young Professional ENG Bachelor / Master 4.190 Utrecht 0 year Passenger on the Tech journey of a lifetime People& Service Partnering Payroll Specialist Bachelor 3.739-5.150 Utrecht 4-7 year Bouw mee aan een toekomstbestendige payroll voor al onze collega\u2019s Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Marketing Marketing Stage Campagnes & Promoties \u2013 Supermarket/FMCG Bachelor Utrecht Student Wij cre\u00ebren een omgeving waarin je \u00e9cht onderdeel bent van ons team. We zoeken twee enthousiaste, ondernemende studenten die niet bang zijn om initiatief te nemen en van samenwerken binnen een team energie krijgen. Data & Analytics Data Analysis Stage Fraude Bachelor Utrecht Student Krijg jij de betrouwbaarheid van ons platform omhoog door hands-on de Fraude impact te verkleinen? Commerce Commercial Expertise Stage Financi\u00eble Technologie Operations Bachelor Utrecht Student Klaar om een continue ontwikkelend domein future-proof te maken? Marketing Marketing Stage campagne & promoties speelgoed Bachelor Utrecht Student Klaar om jouw idee\u00ebn tot leven te brengen bij de leukste speelgoedcampagnes bij bol? Marketing Marketing Stage AI Content & Communicatie Bachelor Utrecht Student Ontdek hoe we met generatieve AI onze content nog scherper, slimmer en leuker maken, zonder de unieke bol-stem te verliezen. 1 2 3 \u2026 6 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
+    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 61 jobs found Data & Analytics Intern Stage Operations Control Specialist Bachelor Utrecht Student Neem het stuur in handen van de volledige logistieke keten. FinTech Subject Matter Expertise Specialist Financial Accounting Bachelor / Master 4.000-4.700 Utrecht 4-7 year Financieel strateeg die stakeholders makkelijk meekrijgt en zorgt voor grip Commerce Intern Stage Customer Experience Cultuur Bachelor Utrecht Student Til jij bols customer obsession naar het volgende niveau? Tech Engineering Tech Young Professional NL Bachelor / Master 4.190 Utrecht 0 year Boek een ticket naar de tech-reis van je leven Tech Engineering Tech Young Professional ENG Bachelor / Master 4.190 Utrecht 0 year Passenger on the Tech journey of a lifetime Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up People& Service Partnering Payroll Specialist Bachelor 3.739-5.150 Utrecht 4-7 year Bouw mee aan een toekomstbestendige payroll voor al onze collega\u2019s Marketing Marketing Stage Campagnes & Promoties \u2013 Supermarket/FMCG Bachelor Utrecht Student Wij cre\u00ebren een omgeving waarin je \u00e9cht onderdeel bent van ons team. We zoeken twee enthousiaste, ondernemende studenten die niet bang zijn om initiatief te nemen en van samenwerken binnen een team energie krijgen. Data & Analytics Data Analysis Stage Fraude Bachelor Utrecht Student Krijg jij de betrouwbaarheid van ons platform omhoog door hands-on de Fraude impact te verkleinen? Commerce Commercial Expertise Stage Financi\u00eble Technologie Operations Bachelor Utrecht Student Klaar om een continue ontwikkelend domein future-proof te maken? Marketing Marketing Stage campagne & promoties speelgoed Bachelor Utrecht Student Klaar om jouw idee\u00ebn tot leven te brengen bij de leukste speelgoedcampagnes bij bol? 1 2 3 \u2026 7 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
     "notes": "Dept: Technology. Via Greenhouse board.",
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-22"
@@ -1355,7 +1355,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-06-23",
-    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 60 jobs found FinTech Subject Matter Expertise Specialist Financial Accounting Bachelor / Master 4.000-4.700 Utrecht 4-7 year Financieel strateeg die stakeholders makkelijk meekrijgt en zorgt voor grip Commerce Intern Stage Customer Experience Cultuur Bachelor Utrecht Student Til jij bols customer obsession naar het volgende niveau? Tech Engineering Tech Young Professional NL Bachelor / Master 4.190 Utrecht 0 year Boek een ticket naar de tech-reis van je leven Tech Engineering Tech Young Professional ENG Bachelor / Master 4.190 Utrecht 0 year Passenger on the Tech journey of a lifetime People& Service Partnering Payroll Specialist Bachelor 3.739-5.150 Utrecht 4-7 year Bouw mee aan een toekomstbestendige payroll voor al onze collega\u2019s Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up Marketing Marketing Stage Campagnes & Promoties \u2013 Supermarket/FMCG Bachelor Utrecht Student Wij cre\u00ebren een omgeving waarin je \u00e9cht onderdeel bent van ons team. We zoeken twee enthousiaste, ondernemende studenten die niet bang zijn om initiatief te nemen en van samenwerken binnen een team energie krijgen. Data & Analytics Data Analysis Stage Fraude Bachelor Utrecht Student Krijg jij de betrouwbaarheid van ons platform omhoog door hands-on de Fraude impact te verkleinen? Commerce Commercial Expertise Stage Financi\u00eble Technologie Operations Bachelor Utrecht Student Klaar om een continue ontwikkelend domein future-proof te maken? Marketing Marketing Stage campagne & promoties speelgoed Bachelor Utrecht Student Klaar om jouw idee\u00ebn tot leven te brengen bij de leukste speelgoedcampagnes bij bol? Marketing Marketing Stage AI Content & Communicatie Bachelor Utrecht Student Ontdek hoe we met generatieve AI onze content nog scherper, slimmer en leuker maken, zonder de unieke bol-stem te verliezen. 1 2 3 \u2026 6 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
+    "description": "Jobs at bol - Working at bol Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login ENG Nederlands English Jobs Explore bol Product Tech Commerce Data & Analytics Logistics Platform Marketing People& FinTech Finance & Business Support About bol ESG Our culture Diversity & inclusion What you get in return Application process Moving to NL Life at Stories Early Careers Women in Tech Login Nederlands English Whatever you're looking for find it at bol Building the future of retail together For example: | Filters 61 jobs found Data & Analytics Intern Stage Operations Control Specialist Bachelor Utrecht Student Neem het stuur in handen van de volledige logistieke keten. FinTech Subject Matter Expertise Specialist Financial Accounting Bachelor / Master 4.000-4.700 Utrecht 4-7 year Financieel strateeg die stakeholders makkelijk meekrijgt en zorgt voor grip Commerce Intern Stage Customer Experience Cultuur Bachelor Utrecht Student Til jij bols customer obsession naar het volgende niveau? Tech Engineering Tech Young Professional NL Bachelor / Master 4.190 Utrecht 0 year Boek een ticket naar de tech-reis van je leven Tech Engineering Tech Young Professional ENG Bachelor / Master 4.190 Utrecht 0 year Passenger on the Tech journey of a lifetime Can't find the perfect job yet? Our jobalert lets you know when there is a fitting match for you. Sign-up People& Service Partnering Payroll Specialist Bachelor 3.739-5.150 Utrecht 4-7 year Bouw mee aan een toekomstbestendige payroll voor al onze collega\u2019s Marketing Marketing Stage Campagnes & Promoties \u2013 Supermarket/FMCG Bachelor Utrecht Student Wij cre\u00ebren een omgeving waarin je \u00e9cht onderdeel bent van ons team. We zoeken twee enthousiaste, ondernemende studenten die niet bang zijn om initiatief te nemen en van samenwerken binnen een team energie krijgen. Data & Analytics Data Analysis Stage Fraude Bachelor Utrecht Student Krijg jij de betrouwbaarheid van ons platform omhoog door hands-on de Fraude impact te verkleinen? Commerce Commercial Expertise Stage Financi\u00eble Technologie Operations Bachelor Utrecht Student Klaar om een continue ontwikkelend domein future-proof te maken? Marketing Marketing Stage campagne & promoties speelgoed Bachelor Utrecht Student Klaar om jouw idee\u00ebn tot leven te brengen bij de leukste speelgoedcampagnes bij bol? 1 2 3 \u2026 7 FAQ Contact Privacy Cookies \u00a9 1999 - 2026",
     "notes": "Dept: Technology. Via Greenhouse board.",
     "first_seen": "2026-07-08",
     "last_seen": "2026-10-22"
@@ -1708,6 +1708,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-30",
+    "last_seen": "2026-10-22"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "GBM - TxB Platform Eng - Bengaluru - Vice President - Software Engineering\nBengaluru\u00b7India\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/176088",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-22",
     "last_seen": "2026-10-22"
   },
   {
@@ -2113,19 +2127,6 @@
   },
   {
     "company": "Philips Electronics Nederland B.V.",
-    "job_title": "Internship: Full Stack Developer in Finance Domain",
-    "location": "Eindhoven",
-    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
-    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "company": "Philips Electronics Nederland B.V.",
     "job_title": "AI Senior Systems Engineer (AI for RAMS & Systems Engineering)",
     "location": "Eindhoven",
     "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
@@ -2191,6 +2192,35 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-07-10",
     "last_seen": "2026-10-22"
+  },
+  {
+    "company": "TomTom International B.V.",
+    "job_title": "Senior MLOps/Data Engineer",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/564ca739-8bac-472b-a107-2d531ea1578f/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"5+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-10-22",
+    "stale": true
+  },
+  {
+    "company": "Philips Electronics Nederland B.V.",
+    "job_title": "Internship: Full Stack Developer in Finance Domain",
+    "location": "Eindhoven",
+    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-22",
+    "stale": true
   },
   {
     "company": "Revolut Netherlands B.V.",
