@@ -518,6 +518,20 @@
     "last_seen": "2026-10-22"
   },
   {
+    "company": "Sprint and Partners",
+    "job_title": "Software engineer - DevEx Platform - Amsterdam - hybrid - new team - up to 135K base + stock + bonus",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482432496",
+    "job_url": "https://www.linkedin.com/jobs/view/4482432496",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22"
+  },
+  {
     "company": "Kyndryl",
     "job_title": "AI Platform Engineer Infra Stream",
     "location": "North Holland, Netherlands",
@@ -840,17 +854,17 @@
     "last_seen": "2026-10-22"
   },
   {
-    "company": "Sioux Technologies",
-    "job_title": "Senior Cloud & DevOps Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479848170",
-    "job_url": "https://www.linkedin.com/jobs/view/4479848170",
+    "company": "Telnyx",
+    "job_title": "Senior Machine Learning Engineer (Voice & Video AI)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482440372",
+    "job_url": "https://www.linkedin.com/jobs/view/4482440372",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-15",
+    "date_posted": "2026-10-22",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
+    "first_seen": "2026-10-22",
     "last_seen": "2026-10-22"
   },
   {
@@ -963,20 +977,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "company": "Nationale-Nederlanden",
-    "job_title": "GenAI Engineer - Asset Reuse Team",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4443290150",
-    "job_url": "https://www.linkedin.com/jobs/view/4443290150",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-30",
     "last_seen": "2026-10-22"
   },
   {
@@ -1496,6 +1496,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-22"
+  },
+  {
+    "company": "Sioux Technologies",
+    "job_title": "Senior Cloud & DevOps Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479848170",
+    "job_url": "https://www.linkedin.com/jobs/view/4479848170",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-22",
+    "stale": true
+  },
+  {
+    "company": "Nationale-Nederlanden",
+    "job_title": "GenAI Engineer - Asset Reuse Team",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4443290150",
+    "job_url": "https://www.linkedin.com/jobs/view/4443290150",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-10-22",
+    "stale": true
   },
   {
     "company": "Capgemini",
