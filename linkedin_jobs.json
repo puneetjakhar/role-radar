@@ -70,6 +70,20 @@
     "last_seen": "2026-10-22"
   },
   {
+    "company": "Logius",
+    "job_title": "Senior Developer C# .NET",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482073964",
+    "job_url": "https://www.linkedin.com/jobs/view/4482073964",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22"
+  },
+  {
     "company": "Databricks",
     "job_title": "Senior Software Engineer - Backend",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -322,20 +336,6 @@
     "last_seen": "2026-10-22"
   },
   {
-    "company": "Conflux",
-    "job_title": "Senior Java Developer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479811298",
-    "job_url": "https://www.linkedin.com/jobs/view/4479811298",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22"
-  },
-  {
     "company": "Soar",
     "job_title": "Senior Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -350,17 +350,17 @@
     "last_seen": "2026-10-22"
   },
   {
-    "company": "Toku",
-    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
-    "location": "South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
-    "job_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "company": "Sendcloud",
+    "job_title": "Senior Backend Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471997399",
+    "job_url": "https://www.linkedin.com/jobs/view/4471997399",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-21",
+    "date_posted": "2026-10-22",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-21",
+    "first_seen": "2026-09-30",
     "last_seen": "2026-10-22"
   },
   {
@@ -543,6 +543,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22"
+  },
+  {
+    "company": "Together AI",
+    "job_title": "Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4455452253",
+    "job_url": "https://www.linkedin.com/jobs/view/4455452253",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-19",
     "last_seen": "2026-10-22"
   },
   {
@@ -840,11 +854,11 @@
     "last_seen": "2026-10-22"
   },
   {
-    "company": "Conflux",
-    "job_title": "Senior Kubernetes Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479821083",
-    "job_url": "https://www.linkedin.com/jobs/view/4479821083",
+    "company": "McFly & Brown",
+    "job_title": "Senior Cloud & DevOps Engineer - High tech",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4477306158",
+    "job_url": "https://www.linkedin.com/jobs/view/4477306158",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-15",
@@ -854,11 +868,11 @@
     "last_seen": "2026-10-22"
   },
   {
-    "company": "McFly & Brown",
-    "job_title": "Senior Cloud & DevOps Engineer - High tech",
+    "company": "Sioux Technologies",
+    "job_title": "Senior Cloud & DevOps Engineer",
     "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4477306158",
-    "job_url": "https://www.linkedin.com/jobs/view/4477306158",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479848170",
+    "job_url": "https://www.linkedin.com/jobs/view/4479848170",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-15",
@@ -1246,6 +1260,20 @@
     "last_seen": "2026-10-22"
   },
   {
+    "company": "Flexport",
+    "job_title": "Staff Senior Software Engineer, DevEx SRE",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4460025118",
+    "job_url": "https://www.linkedin.com/jobs/view/4460025118",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-10-22"
+  },
+  {
     "company": "Adyen",
     "job_title": "Staff Engineer - Observability",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1285,6 +1313,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-17",
+    "last_seen": "2026-10-22"
+  },
+  {
+    "company": "Toku",
+    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "job_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-21",
     "last_seen": "2026-10-22"
   },
   {
@@ -1484,6 +1526,36 @@
     "last_seen": "2026-10-22"
   },
   {
+    "company": "Conflux",
+    "job_title": "Senior Java Developer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479811298",
+    "job_url": "https://www.linkedin.com/jobs/view/4479811298",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-22",
+    "stale": true
+  },
+  {
+    "company": "Conflux",
+    "job_title": "Senior Kubernetes Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479821083",
+    "job_url": "https://www.linkedin.com/jobs/view/4479821083",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-22",
+    "stale": true
+  },
+  {
     "company": "SiTime",
     "job_title": "Principal Engineer, Infrastructure Hardware",
     "location": "Rijswijk, South Holland, Netherlands",
@@ -1495,7 +1567,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-22"
+    "last_seen": "2026-10-22",
+    "stale": true
   },
   {
     "company": "Nationale-Nederlanden",
@@ -1659,21 +1732,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-09",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Sioux Technologies",
-    "job_title": "Senior Cloud & DevOps Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479848170",
-    "job_url": "https://www.linkedin.com/jobs/view/4479848170",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
     "last_seen": "2026-10-22",
     "stale": true
   },
