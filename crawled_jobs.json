@@ -148,7 +148,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-16",
-    "description": "Job Application for Senior Machine Learning Engineer at Adyen New Senior Machine Learning Engineer Amsterdam Apply This is Adyen At Adyen, we\u2019re engineered for ambition. We empower our teams with the culture and support they need to own their careers. The people of Adyen are motivated problem-solvers who tackle unique technical challenges at scale, delivering innovative and ethical solutions to help businesses achieve their ambitions faster. For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Senior Machine Learning Engineer Adyen is looking for a Senior Machine Learning Engineer to join our team in Amsterdam, someone with experience of building and operating robust machine learning systems at scale in production environments. You will be responsible for designing, productionizing and maintaining machine learning services that power data products at Adyen. Teams Currently Hiring: Optimise: Optimize Intelligence at Adyen is a specialized team of Machine Learning Scientists and Data Analysts focused on maximizing transaction success, minimizing transaction costs, and driving payment performance at a global scale. We build and scale advanced ML/DL solutions that operate over massive, complex decision spaces, determining the optimal path for every single transaction in real time. Our systems evaluate high-dimensional data streams to dynamically select the optimal authentication methods, apply smart payment message optimizations, and orchestrate intelligent transaction routing. Our models live-score millions of daily transactions, balancing coupled cost and performance objectives simultaneously. If you are passionate about solving intricate combinatorial challenges and pushing the boundaries of adaptive decision-making systems, join us in shaping the future of payments. Identity and Verification Decisioning: This is an opportunity to help define how Adyen makes identity decisions at global scale. The team sits at the intersection of machine learning, distributed systems, fraud prevention, compliance, and customer experience. Rather than optimizing isolated models, you'll help build the intelligence that determines how millions of businesses and individuals are verified throughout their lifecycle. You'll join a newly formed engineering team, giving you significant influence over the technical direction, architecture, and ML strategy from an early stage. Your work will directly impact fraud prevention, regulatory compliance, operational efficiency, and customer onboarding experience. Payments Core Data - Disputes: Adyen is building a dispute intelligence function. The team will be building ML and AI applications to make our dispute product more intelligent. We\u2019re looking for someone with an optimization mindset, looking for an opportunity which allows for continuous experimentation and improvement by enriching the algorithms context (structured and unstructured data). The challenge for the person refers to a greenfield opportunity, allowing for Disputes Machine Learning and AI use cases to be built from the ground up. You\u2019ll be working side-by-side with both the Data Engineers and Machine Learning Scientists with respect to disputes data, and with the disputes engineering team who are owning the dispute product as a whole. AML Tech: Adyen's Anti-Money Laundering team processes massive transaction volume to detect complex financial crime and cover a wide range of customer risks. We currently run a hybrid stack of business rules and machine learning models - with a clear mission to systematically reduce our dependence on static rules and transition to a modern, model-first detection engine. As a Senior Machine Learning Engineer, you'll play a critical role in this evolution. You will architect scalable batch processing pipelines, tackle hard technical challenges like extreme class imbalance and incomplete ground truth, and drive production ML systems that will make financial world safer for everyone. In this role, you will: Develop and maintain production ML pipelines for data ingestion, training, validation, and deployment. Examples ML domains are: on-line learning algorithms to pick the best optimization decision in a changing environment, clustering algorithms to group customers/shoppers, supervised and semi-supervised learning methods for inference on risk patterns or graph analysis, representation learning for behavior prediction and monitoring, Anti-Money Laundering (AML) systems and real-time anomaly detection based on time-series modeling; Identify and fix performance bottlenecks in ML training and inference (memory consumption, online latency, training time etc.); Collaborate with",
+    "description": "This is Adyen At Adyen, we\u2019re engineered for ambition. We empower our teams with the culture and support they need to own their careers. The people of Adyen are motivated problem-solvers who tackle unique technical challenges at scale, delivering innovative and ethical solutions to help businesses achieve their ambitions faster. For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Senior Machine Learning Engineer Adyen is looking for a Senior Machine Learning Engineer to join our team in Amsterdam, someone with experience of building and operating robust machine learning systems at scale in production environments. You will be responsible for designing, productionizing and maintaining machine learning services that power data products at Adyen. Teams Currently Hiring: Optimise: Optimize Intelligence at Adyen is a specialized team of Machine Learning Scientists and Data Analysts focused on maximizing transaction success, minimizing transaction costs, and driving payment performance at a global scale. We build and scale advanced ML/DL solutions that operate over massive, complex decision spaces, determining the optimal path for every single transaction in real time. Our systems evaluate high-dimensional data streams to dynamically select the optimal authentication methods, apply smart payment message optimizations, and orchestrate intelligent transaction routing. Our models live-score millions of daily transactions, balancing coupled cost and performance objectives simultaneously. If you are passionate about solving intricate combinatorial challenges and pushing the boundaries of adaptive decision-making systems, join us in shaping the future of payments. Identity and Verification Decisioning:&nbsp; This is an opportunity to help define how Adyen makes identity decisions at global scale. The team sits at the intersection of machine learning, distributed systems, fraud prevention, compliance, and customer experience. Rather than optimizing isolated models, you'll help build the intelligence that determines how millions of businesses and individuals are verified throughout their lifecycle. You'll join a newly formed engineering team, giving you significant influence over the technical direction, architecture, and ML strategy from an early stage. Your work will directly impact fraud prevention, regulatory compliance, operational efficiency, and customer onboarding experience. Payments Core Data - Disputes: Adyen is building a dispute intelligence function. The team will be building ML and AI applications to make our dispute product more intelligent. We\u2019re looking for someone with an optimization mindset, looking for an opport",
     "notes": "Dept: Development. Via Greenhouse board.",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-22"
@@ -990,6 +990,20 @@
     "last_seen": "2026-10-22"
   },
   {
+    "company": "TomTom International B.V.",
+    "job_title": "Senior MLOps/Data Engineer",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/564ca739-8bac-472b-a107-2d531ea1578f/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"5+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-10-22"
+  },
+  {
     "company": "Backbase B.V.",
     "job_title": "Lead Principal Solution Architect - EMEA",
     "location": "Amsterdam, Netherlands",
@@ -1128,20 +1142,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Security Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Golang Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1152,6 +1152,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-10-15",
+    "last_seen": "2026-10-22"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Security Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
     "last_seen": "2026-10-22"
   },
   {
@@ -2234,21 +2248,6 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-07-10",
     "last_seen": "2026-10-22"
-  },
-  {
-    "company": "TomTom International B.V.",
-    "job_title": "Senior MLOps/Data Engineer",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/564ca739-8bac-472b-a107-2d531ea1578f/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"5+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-10-22",
-    "stale": true
   },
   {
     "company": "Vinted Netherlands B.V.",
