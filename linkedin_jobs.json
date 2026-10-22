@@ -854,20 +854,6 @@
     "last_seen": "2026-10-22"
   },
   {
-    "company": "McFly & Brown",
-    "job_title": "Senior Cloud & DevOps Engineer - High tech",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4477306158",
-    "job_url": "https://www.linkedin.com/jobs/view/4477306158",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22"
-  },
-  {
     "company": "Young Financials",
     "job_title": "AI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -921,6 +907,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22"
+  },
+  {
+    "company": "Amaris Consulting  | Part of Mantu",
+    "job_title": "Functie: Generative AI Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473916428",
+    "job_url": "https://www.linkedin.com/jobs/view/4473916428",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
     "last_seen": "2026-10-22"
   },
   {
@@ -1173,20 +1173,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "company": "Plumerai",
-    "job_title": "Senior Deep Learning Research Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4451547955",
-    "job_url": "https://www.linkedin.com/jobs/view/4451547955",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-11",
     "last_seen": "2026-10-22"
   },
   {
@@ -1510,6 +1496,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-22"
+  },
+  {
+    "company": "McFly & Brown",
+    "job_title": "Senior Cloud & DevOps Engineer - High tech",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4477306158",
+    "job_url": "https://www.linkedin.com/jobs/view/4477306158",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-22",
+    "stale": true
+  },
+  {
+    "company": "Plumerai",
+    "job_title": "Senior Deep Learning Research Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4451547955",
+    "job_url": "https://www.linkedin.com/jobs/view/4451547955",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-10-22",
+    "stale": true
   },
   {
     "company": "Mendix",
