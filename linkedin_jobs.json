@@ -560,6 +560,20 @@
     "last_seen": "2026-10-22"
   },
   {
+    "company": "wolk",
+    "job_title": "Platform/DevOps Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482480136",
+    "job_url": "https://www.linkedin.com/jobs/view/4482480136",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22"
+  },
+  {
     "company": "ABN AMRO Bank N.V.",
     "job_title": "Platform Engineer Azure en Kubernetes",
     "location": "Amersfoort, Utrecht, Netherlands",
@@ -683,20 +697,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "company": "Xccelerated | Part of Xebia",
-    "job_title": "Senior Data Platform Engineer",
-    "location": "s-Hertogenbosch Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481585559",
-    "job_url": "https://www.linkedin.com/jobs/view/4481585559",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-22",
     "last_seen": "2026-10-22"
   },
   {
@@ -1496,6 +1496,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-24",
     "last_seen": "2026-10-22"
+  },
+  {
+    "company": "Xccelerated | Part of Xebia",
+    "job_title": "Senior Data Platform Engineer",
+    "location": "s-Hertogenbosch Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481585559",
+    "job_url": "https://www.linkedin.com/jobs/view/4481585559",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "stale": true
   },
   {
     "company": "SageBeans RPO",
