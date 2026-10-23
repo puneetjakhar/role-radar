@@ -700,6 +700,20 @@
     "last_seen": "2026-10-23"
   },
   {
+    "company": "Rituals (B Corp\u2122)",
+    "job_title": "Staff Engineer - Cloud (GCP) & Observability \u2013 CHO Keizersgracht Amsterdam | 32-40h",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481566685",
+    "job_url": "https://www.linkedin.com/jobs/view/4481566685",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-23"
+  },
+  {
     "company": "Xccelerated | Part of Xebia",
     "job_title": "Senior Data Platform Engineer",
     "location": "s-Hertogenbosch Area",
@@ -826,17 +840,17 @@
     "last_seen": "2026-10-23"
   },
   {
-    "company": "Sendcloud",
-    "job_title": "Senior Platform Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4443188379",
-    "job_url": "https://www.linkedin.com/jobs/view/4443188379",
+    "company": "Levy Global",
+    "job_title": "Senior AI Platform Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4480372615",
+    "job_url": "https://www.linkedin.com/jobs/view/4480372615",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-16",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-17",
+    "first_seen": "2026-10-23",
     "last_seen": "2026-10-23"
   },
   {
@@ -893,6 +907,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-22",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "company": "Datacation",
+    "job_title": "LLM Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474133585",
+    "job_url": "https://www.linkedin.com/jobs/view/4474133585",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
     "last_seen": "2026-10-23"
   },
   {
@@ -1134,20 +1162,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "company": "Datacation",
-    "job_title": "AI Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4480351739",
-    "job_url": "https://www.linkedin.com/jobs/view/4480351739",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-16",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-23"
-  },
-  {
     "company": "Plumerai",
     "job_title": "Deep Learning Research Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1173,6 +1187,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-22",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "company": "Airwallex",
+    "job_title": "Staff Software Engineer, Payments",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4460723304",
+    "job_url": "https://www.linkedin.com/jobs/view/4460723304",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-03",
     "last_seen": "2026-10-23"
   },
   {
@@ -1274,20 +1302,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "company": "Energie Data Services Nederland (EDSN) B.V.",
-    "job_title": "Staff Engineer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4440109939",
-    "job_url": "https://www.linkedin.com/jobs/view/4440109939",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-20",
-    "last_seen": "2026-10-23"
-  },
-  {
     "company": "Adyen",
     "job_title": "Staff Engineer - Banking Products",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1355,20 +1369,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-10-23"
-  },
-  {
-    "company": "Rituals (B Corp\u2122)",
-    "job_title": "Staff Engineer - Cloud (GCP) & Observability \u2013 CHO Keizersgracht Amsterdam | 32-40h",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481566685",
-    "job_url": "https://www.linkedin.com/jobs/view/4481566685",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-20",
     "last_seen": "2026-10-23"
   },
   {
@@ -1470,6 +1470,51 @@
     "last_seen": "2026-10-23"
   },
   {
+    "company": "Sendcloud",
+    "job_title": "Senior Platform Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4443188379",
+    "job_url": "https://www.linkedin.com/jobs/view/4443188379",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-16",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-10-23",
+    "stale": true
+  },
+  {
+    "company": "Datacation",
+    "job_title": "AI Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4480351739",
+    "job_url": "https://www.linkedin.com/jobs/view/4480351739",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-16",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-23",
+    "stale": true
+  },
+  {
+    "company": "Energie Data Services Nederland (EDSN) B.V.",
+    "job_title": "Staff Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4440109939",
+    "job_url": "https://www.linkedin.com/jobs/view/4440109939",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-10-23",
+    "stale": true
+  },
+  {
     "company": "SiTime",
     "job_title": "Principal Engineer, Infrastructure Hardware",
     "location": "Rijswijk, South Holland, Netherlands",
@@ -1481,7 +1526,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-23"
+    "last_seen": "2026-10-23",
+    "stale": true
   },
   {
     "company": "Wellis Health",
