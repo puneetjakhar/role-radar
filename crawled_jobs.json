@@ -1128,20 +1128,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Golang Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052851/Senior-Golang-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-23"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Security Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1152,6 +1138,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-26",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Golang Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052851/Senior-Golang-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-15",
     "last_seen": "2026-10-23"
   },
   {
