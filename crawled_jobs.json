@@ -865,6 +865,20 @@
   },
   {
     "company": "Picnic Technologies B.V.",
+    "job_title": "Software Engineer Java Logistics",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://jobs.picnic.app/en/jobs",
+    "job_url": "https://jobs.picnic.app/en/jobs/engineering/software-engineer-java-logistics/amsterdam/north-holland/netherlands",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via Picnic RSC slug extraction.",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "company": "Picnic Technologies B.V.",
     "job_title": "Software Engineer Java Store",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://jobs.picnic.app/en/jobs",
@@ -1128,20 +1142,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Security Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-10-23"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Golang Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1152,6 +1152,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-10-15",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Security Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
     "last_seen": "2026-10-23"
   },
   {
@@ -1739,6 +1753,20 @@
     "last_seen": "2026-10-23"
   },
   {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "GBM-Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/184878",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-10-23"
+  },
+  {
     "company": "N.V. Eneco",
     "job_title": "Senior OT Network Engineer\nEneco - Rotterdam\n40 uur\nSoftware Engineering\nBekijk vacature",
     "location": "Netherlands",
@@ -1834,20 +1862,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-29",
-    "last_seen": "2026-10-23"
-  },
-  {
-    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
-    "job_title": "Senior Process Engineer Lithography\nwerklocatie:\nEindhoven\nwerkenopafstand:\nOn-site\nopleidingsniveau:\nMaster",
-    "location": "Netherlands",
-    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
-    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/08/senior-process-engineer-lithography/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-29",
     "last_seen": "2026-10-23"
   },
   {
@@ -2208,6 +2222,21 @@
     "last_seen": "2026-10-23"
   },
   {
+    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
+    "job_title": "Senior Process Engineer Lithography\nwerklocatie:\nEindhoven\nwerkenopafstand:\nOn-site\nopleidingsniveau:\nMaster",
+    "location": "Netherlands",
+    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
+    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/08/senior-process-engineer-lithography/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-10-23",
+    "stale": true
+  },
+  {
     "company": "Picnic Technologies B.V.",
     "job_title": "Software Engineer Java Warehouse Systems",
     "location": "Amsterdam, Netherlands",
@@ -2294,21 +2323,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-28",
-    "last_seen": "2026-10-23",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "GBM-Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/184878",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-18",
     "last_seen": "2026-10-23",
     "stale": true
   },

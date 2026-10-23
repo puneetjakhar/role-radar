@@ -56,34 +56,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "company": "Mozilla",
-    "job_title": "Senior Software Engineer, Privacy",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481629258",
-    "job_url": "https://www.linkedin.com/jobs/view/4481629258",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23"
-  },
-  {
-    "company": "Flexport",
-    "job_title": "Senior Software Engineer, DevEx",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4418249839",
-    "job_url": "https://www.linkedin.com/jobs/view/4418249839",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-10-23"
-  },
-  {
     "company": "TapRaise",
     "job_title": "Senior Software Engineer (full-stack)",
     "location": "Breda, North Brabant, Netherlands",
@@ -131,6 +103,20 @@
     "location": "The Hague, South Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4482073964",
     "job_url": "https://www.linkedin.com/jobs/view/4482073964",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "company": "Virtual Vaults",
+    "job_title": "Senior Full Stack Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482064328",
+    "job_url": "https://www.linkedin.com/jobs/view/4482064328",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-21",
@@ -210,20 +196,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "company": "OverheidZZP",
-    "job_title": "Senior Backend Software Engineer",
-    "location": "Apeldoorn, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481777015",
-    "job_url": "https://www.linkedin.com/jobs/view/4481777015",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-10-23"
-  },
-  {
     "company": "Vinted",
     "job_title": "Senior Backend Engineer, VGo Carrier Technology",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -249,6 +221,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-19",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "company": "Energie Data Services Nederland (EDSN) B.V.",
+    "job_title": "Java developer (senior)",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4470859237",
+    "job_url": "https://www.linkedin.com/jobs/view/4470859237",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-19",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-28",
     "last_seen": "2026-10-23"
   },
   {
@@ -350,6 +336,20 @@
     "last_seen": "2026-10-23"
   },
   {
+    "company": "a.s.r.",
+    "job_title": "Senior Back-end Developer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4480522904",
+    "job_url": "https://www.linkedin.com/jobs/view/4480522904",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-16",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-23"
+  },
+  {
     "company": "Toku",
     "job_title": "Staff Software Engineer \u2013 Distributed Systems",
     "location": "South Holland, Netherlands",
@@ -403,6 +403,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-23",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "company": "OverheidZZP",
+    "job_title": "Senior Backend Software Engineer",
+    "location": "Apeldoorn, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481777015",
+    "job_url": "https://www.linkedin.com/jobs/view/4481777015",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-20",
     "last_seen": "2026-10-23"
   },
   {
@@ -473,34 +487,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-19",
-    "last_seen": "2026-10-23"
-  },
-  {
-    "company": "Energie Data Services Nederland (EDSN) B.V.",
-    "job_title": "Java developer (senior)",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470859237",
-    "job_url": "https://www.linkedin.com/jobs/view/4470859237",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-19",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-10-23"
-  },
-  {
-    "company": "a.s.r.",
-    "job_title": "Senior Back-end Developer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4480522904",
-    "job_url": "https://www.linkedin.com/jobs/view/4480522904",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-16",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
     "last_seen": "2026-10-23"
   },
   {
@@ -1246,20 +1232,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "company": "Adyen",
-    "job_title": "Staff Engineer - Observability",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4454943163",
-    "job_url": "https://www.linkedin.com/jobs/view/4454943163",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-23"
-  },
-  {
     "company": "Jobgether",
     "job_title": "Staff Software Engineer - Platform",
     "location": "Netherlands",
@@ -1355,6 +1327,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-18",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "company": "Wolters Kluwer",
+    "job_title": "Principal Full Stack Engineer, AI Platform & Agents",
+    "location": "Alphen aan den Rijn, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4351889039",
+    "job_url": "https://www.linkedin.com/jobs/view/4351889039",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-16",
     "last_seen": "2026-10-23"
   },
   {
@@ -1456,20 +1442,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "company": "MLabs",
-    "job_title": "Founding Platform Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4480342482",
-    "job_url": "https://www.linkedin.com/jobs/view/4480342482",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-16",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-23"
-  },
-  {
     "company": "CNH",
     "job_title": "Staff Software Engineer",
     "location": "Hoorn, North Holland, Netherlands",
@@ -1482,6 +1454,80 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-24",
     "last_seen": "2026-10-23"
+  },
+  {
+    "company": "SiTime",
+    "job_title": "Principal Engineer, Infrastructure Hardware",
+    "location": "Rijswijk, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479355729",
+    "job_url": "https://www.linkedin.com/jobs/view/4479355729",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-16",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-23"
+  },
+  {
+    "company": "Mozilla",
+    "job_title": "Senior Software Engineer, Privacy",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481629258",
+    "job_url": "https://www.linkedin.com/jobs/view/4481629258",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "stale": true
+  },
+  {
+    "company": "Flexport",
+    "job_title": "Senior Software Engineer, DevEx",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4418249839",
+    "job_url": "https://www.linkedin.com/jobs/view/4418249839",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-10-23",
+    "stale": true
+  },
+  {
+    "company": "Adyen",
+    "job_title": "Staff Engineer - Observability",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4454943163",
+    "job_url": "https://www.linkedin.com/jobs/view/4454943163",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-10-23",
+    "stale": true
+  },
+  {
+    "company": "MLabs",
+    "job_title": "Founding Platform Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4480342482",
+    "job_url": "https://www.linkedin.com/jobs/view/4480342482",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-16",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-23",
+    "stale": true
   },
   {
     "company": "Doghouse Recruitment",
@@ -1544,21 +1590,6 @@
     "stale": true
   },
   {
-    "company": "Wolters Kluwer",
-    "job_title": "Principal Full Stack Engineer, AI Platform & Agents",
-    "location": "Alphen aan den Rijn, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4351889039",
-    "job_url": "https://www.linkedin.com/jobs/view/4351889039",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-10-23",
-    "stale": true
-  },
-  {
     "company": "Spilberg",
     "job_title": "Senior Fullstack .NET developer",
     "location": "Arnhem, Gelderland, Netherlands",
@@ -1616,21 +1647,6 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-30",
     "last_seen": "2026-10-23",
-    "stale": true
-  },
-  {
-    "company": "Virtual Vaults",
-    "job_title": "Senior Full Stack Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482064328",
-    "job_url": "https://www.linkedin.com/jobs/view/4482064328",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-22",
     "stale": true
   },
   {
@@ -1705,21 +1721,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "SiTime",
-    "job_title": "Principal Engineer, Infrastructure Hardware",
-    "location": "Rijswijk, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479355729",
-    "job_url": "https://www.linkedin.com/jobs/view/4479355729",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-16",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
     "last_seen": "2026-10-22",
     "stale": true
   },
