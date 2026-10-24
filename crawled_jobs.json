@@ -1183,20 +1183,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Security Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-10-24"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Golang Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1207,6 +1193,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-10-15",
+    "last_seen": "2026-10-24"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Security Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
     "last_seen": "2026-10-24"
   },
   {
@@ -1780,20 +1780,6 @@
     "last_seen": "2026-10-24"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Software Engineer, Global Banking & Markets, Front Office Technology\nNew York\u00b7United States\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/177645",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-10-24"
-  },
-  {
     "company": "Van Lanschot Kempen N.V.",
     "job_title": "Software Engineer - Python",
     "location": "Amsterdam",
@@ -2261,6 +2247,21 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-07-10",
     "last_seen": "2026-10-24"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Software Engineer, Global Banking & Markets, Front Office Technology\nNew York\u00b7United States\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/177645",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-10-24",
+    "stale": true
   },
   {
     "company": "Vinted Netherlands B.V.",
