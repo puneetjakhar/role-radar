@@ -392,6 +392,20 @@
     "last_seen": "2026-10-24"
   },
   {
+    "company": "123inkt.nl",
+    "job_title": "Senior PHP Developer",
+    "location": "Nederhorst den Berg, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482877559",
+    "job_url": "https://www.linkedin.com/jobs/view/4482877559",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-24"
+  },
+  {
     "company": "Toku",
     "job_title": "Staff Software Engineer \u2013 Distributed Systems",
     "location": "South Holland, Netherlands",
@@ -431,20 +445,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-24"
-  },
-  {
-    "company": "123inkt.nl",
-    "job_title": "Senior PHP Developer",
-    "location": "Nederhorst den Berg, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4464353281",
-    "job_url": "https://www.linkedin.com/jobs/view/4464353281",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-09",
     "last_seen": "2026-10-24"
   },
   {
@@ -1445,14 +1445,14 @@
     "company": "123inkt.nl",
     "job_title": "Senior PHP Developer",
     "location": "Nederhorst den Berg, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482877559",
-    "job_url": "https://www.linkedin.com/jobs/view/4482877559",
+    "careers_url": "https://www.linkedin.com/jobs/view/4464353281",
+    "job_url": "https://www.linkedin.com/jobs/view/4464353281",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-23",
+    "date_posted": "2026-10-20",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-23",
+    "first_seen": "2026-09-09",
     "last_seen": "2026-10-24",
     "stale": true
   },
