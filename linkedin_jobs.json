@@ -546,20 +546,6 @@
     "last_seen": "2026-10-26"
   },
   {
-    "company": "Trengo",
-    "job_title": "Senior Cloud Engineer (Kubernetes)",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483117517",
-    "job_url": "https://www.linkedin.com/jobs/view/4483117517",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-26"
-  },
-  {
     "company": "Info Support",
     "job_title": "Platform Engineer Managed Services",
     "location": "Veenendaal, Utrecht, Netherlands",
@@ -823,6 +809,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-19",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Tech Rise",
+    "job_title": "Platform Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467380206",
+    "job_url": "https://www.linkedin.com/jobs/view/4467380206",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-19",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-23",
     "last_seen": "2026-10-26"
   },
   {
@@ -1456,17 +1456,17 @@
     "last_seen": "2026-10-26"
   },
   {
-    "company": "Tech Rise",
-    "job_title": "Platform Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467380206",
-    "job_url": "https://www.linkedin.com/jobs/view/4467380206",
+    "company": "Trengo",
+    "job_title": "Senior Cloud Engineer (Kubernetes)",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483117517",
+    "job_url": "https://www.linkedin.com/jobs/view/4483117517",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-19",
+    "date_posted": "2026-10-23",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-23",
+    "first_seen": "2026-10-23",
     "last_seen": "2026-10-26",
     "stale": true
   },
