@@ -420,34 +420,6 @@
     "last_seen": "2026-10-26"
   },
   {
-    "company": "Toku",
-    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
-    "location": "South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
-    "job_url": "https://www.linkedin.com/jobs/view/4482117309",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-26"
-  },
-  {
-    "company": "Airwallex",
-    "job_title": "Staff Software Engineer, Payments",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4460723304",
-    "job_url": "https://www.linkedin.com/jobs/view/4460723304",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-10-26"
-  },
-  {
     "company": "Sendcloud",
     "job_title": "Senior Backend Engineer",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -487,20 +459,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-10-26"
-  },
-  {
-    "company": "Secfi",
-    "job_title": "Senior Backend Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471887316",
-    "job_url": "https://www.linkedin.com/jobs/view/4471887316",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
     "last_seen": "2026-10-26"
   },
   {
@@ -854,6 +812,329 @@
     "last_seen": "2026-10-26"
   },
   {
+    "company": "Databricks",
+    "job_title": "Staff Software Engineer - Storage I/O",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473626000",
+    "job_url": "https://www.linkedin.com/jobs/view/4473626000",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Sendcloud",
+    "job_title": "Staff Platform Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4447128435",
+    "job_url": "https://www.linkedin.com/jobs/view/4447128435",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Adyen",
+    "job_title": "Staff Software Engineer - Merchant Fraud Prevention",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4446003399",
+    "job_url": "https://www.linkedin.com/jobs/view/4446003399",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Storio group",
+    "job_title": "Principal iOS Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4429037958",
+    "job_url": "https://www.linkedin.com/jobs/view/4429037958",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "HID",
+    "job_title": "Principal Software Engineer",
+    "location": "North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4400183483",
+    "job_url": "https://www.linkedin.com/jobs/view/4400183483",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Airwallex",
+    "job_title": "Staff Software Engineer, Payments",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4460723304",
+    "job_url": "https://www.linkedin.com/jobs/view/4460723304",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Toku",
+    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "job_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Together AI",
+    "job_title": "Staff Engineer, Distributed Storage and HPC & AI Infrastructure",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4464853803",
+    "job_url": "https://www.linkedin.com/jobs/view/4464853803",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "AeroVect",
+    "job_title": "Staff Software Engineer, Motion Planning",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483151089",
+    "job_url": "https://www.linkedin.com/jobs/view/4483151089",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "AeroVect",
+    "job_title": "Senior Staff Software Engineer, Perception",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483140717",
+    "job_url": "https://www.linkedin.com/jobs/view/4483140717",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "eBay",
+    "job_title": "Staff Software Engineer, Marketing Tech",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4463013568",
+    "job_url": "https://www.linkedin.com/jobs/view/4463013568",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "eBay",
+    "job_title": "Sr Staff Software Engineer, MarTech",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4463006433",
+    "job_url": "https://www.linkedin.com/jobs/view/4463006433",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Flexport",
+    "job_title": "Staff Applied AI Engineer, Autonomous Supply Chains",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4403398977",
+    "job_url": "https://www.linkedin.com/jobs/view/4403398977",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Jobgether",
+    "job_title": "Staff Software Engineer - Platform",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481185259",
+    "job_url": "https://www.linkedin.com/jobs/view/4481185259",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "BlockTech",
+    "job_title": "Senior Software Engineer | Data Infrastructure | Rust",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4438195985",
+    "job_url": "https://www.linkedin.com/jobs/view/4438195985",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Energie Data Services Nederland (EDSN) B.V.",
+    "job_title": "Staff Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4440109939",
+    "job_url": "https://www.linkedin.com/jobs/view/4440109939",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Adyen",
+    "job_title": "Staff Engineer - Banking Products",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4454274124",
+    "job_url": "https://www.linkedin.com/jobs/view/4454274124",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Cboe Global Markets",
+    "job_title": "Lead Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4446135073",
+    "job_url": "https://www.linkedin.com/jobs/view/4446135073",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Jobgether",
+    "job_title": "Staff Software Engineer - Market Data",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4480447215",
+    "job_url": "https://www.linkedin.com/jobs/view/4480447215",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Wolters Kluwer",
+    "job_title": "Lead/Staff Full Stack Engineer, AI Platform & Agents",
+    "location": "Alphen aan den Rijn, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4354768030",
+    "job_url": "https://www.linkedin.com/jobs/view/4354768030",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Rituals (B Corp\u2122)",
+    "job_title": "Staff Engineer - Cloud (GCP) & Observability \u2013 CHO Keizersgracht Amsterdam | 32-40h",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481566685",
+    "job_url": "https://www.linkedin.com/jobs/view/4481566685",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Wolters Kluwer",
+    "job_title": "Principal Full Stack Engineer, AI Platform & Agents",
+    "location": "Alphen aan den Rijn, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4351889039",
+    "job_url": "https://www.linkedin.com/jobs/view/4351889039",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-10-26"
+  },
+  {
+    "company": "Secfi",
+    "job_title": "Senior Backend Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471887316",
+    "job_url": "https://www.linkedin.com/jobs/view/4471887316",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-10-26",
+    "stale": true
+  },
+  {
     "company": "FRISS",
     "job_title": "Junior AI Engineer",
     "location": "Utrecht, Netherlands",
@@ -865,7 +1146,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Harnham",
@@ -879,7 +1161,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-29",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Harnham",
@@ -893,7 +1176,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Engaige",
@@ -907,7 +1191,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Curamando",
@@ -921,7 +1206,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-20",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "eBay",
@@ -935,7 +1221,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Lefebvre Sdu",
@@ -949,7 +1236,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Young Financials",
@@ -963,7 +1251,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Datacation",
@@ -977,7 +1266,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Bluebird",
@@ -991,7 +1281,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Telnyx",
@@ -1005,7 +1296,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Datacation",
@@ -1019,7 +1311,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Amaris Consulting  | Part of Mantu",
@@ -1033,7 +1326,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Flexport",
@@ -1047,7 +1341,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-20",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "House of Covebo",
@@ -1061,7 +1356,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Eraneos",
@@ -1075,7 +1371,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-24",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "All Your BI",
@@ -1089,7 +1386,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-09",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Xccelerated | Part of Xebia",
@@ -1103,7 +1401,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-10-26"
+    "last_seen": "2026-10-26",
+    "stale": true
   },
   {
     "company": "Hadrian",
@@ -1192,306 +1491,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-28",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Databricks",
-    "job_title": "Staff Software Engineer - Storage I/O",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473626000",
-    "job_url": "https://www.linkedin.com/jobs/view/4473626000",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Sendcloud",
-    "job_title": "Staff Platform Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4447128435",
-    "job_url": "https://www.linkedin.com/jobs/view/4447128435",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-31",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Adyen",
-    "job_title": "Staff Software Engineer - Merchant Fraud Prevention",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4446003399",
-    "job_url": "https://www.linkedin.com/jobs/view/4446003399",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-02",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Storio group",
-    "job_title": "Principal iOS Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4429037958",
-    "job_url": "https://www.linkedin.com/jobs/view/4429037958",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-02",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "HID",
-    "job_title": "Principal Software Engineer",
-    "location": "North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4400183483",
-    "job_url": "https://www.linkedin.com/jobs/view/4400183483",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Together AI",
-    "job_title": "Staff Engineer, Distributed Storage and HPC & AI Infrastructure",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4464853803",
-    "job_url": "https://www.linkedin.com/jobs/view/4464853803",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "AeroVect",
-    "job_title": "Staff Software Engineer, Motion Planning",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483151089",
-    "job_url": "https://www.linkedin.com/jobs/view/4483151089",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "AeroVect",
-    "job_title": "Senior Staff Software Engineer, Perception",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483140717",
-    "job_url": "https://www.linkedin.com/jobs/view/4483140717",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "eBay",
-    "job_title": "Staff Software Engineer, Marketing Tech",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4463013568",
-    "job_url": "https://www.linkedin.com/jobs/view/4463013568",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "eBay",
-    "job_title": "Sr Staff Software Engineer, MarTech",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4463006433",
-    "job_url": "https://www.linkedin.com/jobs/view/4463006433",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Flexport",
-    "job_title": "Staff Applied AI Engineer, Autonomous Supply Chains",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4403398977",
-    "job_url": "https://www.linkedin.com/jobs/view/4403398977",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Staff Software Engineer - Platform",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481185259",
-    "job_url": "https://www.linkedin.com/jobs/view/4481185259",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "BlockTech",
-    "job_title": "Senior Software Engineer | Data Infrastructure | Rust",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4438195985",
-    "job_url": "https://www.linkedin.com/jobs/view/4438195985",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Energie Data Services Nederland (EDSN) B.V.",
-    "job_title": "Staff Engineer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4440109939",
-    "job_url": "https://www.linkedin.com/jobs/view/4440109939",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-20",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Adyen",
-    "job_title": "Staff Engineer - Banking Products",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4454274124",
-    "job_url": "https://www.linkedin.com/jobs/view/4454274124",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Cboe Global Markets",
-    "job_title": "Lead Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4446135073",
-    "job_url": "https://www.linkedin.com/jobs/view/4446135073",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-12",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Staff Software Engineer - Market Data",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4480447215",
-    "job_url": "https://www.linkedin.com/jobs/view/4480447215",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Wolters Kluwer",
-    "job_title": "Lead/Staff Full Stack Engineer, AI Platform & Agents",
-    "location": "Alphen aan den Rijn, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4354768030",
-    "job_url": "https://www.linkedin.com/jobs/view/4354768030",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Rituals (B Corp\u2122)",
-    "job_title": "Staff Engineer - Cloud (GCP) & Observability \u2013 CHO Keizersgracht Amsterdam | 32-40h",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481566685",
-    "job_url": "https://www.linkedin.com/jobs/view/4481566685",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-10-26",
-    "stale": true
-  },
-  {
-    "company": "Wolters Kluwer",
-    "job_title": "Principal Full Stack Engineer, AI Platform & Agents",
-    "location": "Alphen aan den Rijn, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4351889039",
-    "job_url": "https://www.linkedin.com/jobs/view/4351889039",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-16",
     "last_seen": "2026-10-26",
     "stale": true
   },
