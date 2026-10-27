@@ -1921,6 +1921,34 @@
     "last_seen": "2026-10-27"
   },
   {
+    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
+    "job_title": "Senior System Engineer\nwerklocatie:\nThe Hague\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nMaster",
+    "location": "Netherlands",
+    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
+    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/06/senior-system-engineer/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-10-27"
+  },
+  {
+    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
+    "job_title": "Senior Business Developer Biobased Chemicals\nwerklocatie:\nRijswijk\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nMaster",
+    "location": "Netherlands",
+    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
+    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/08/senior-business-developer-sustainable/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-10-27"
+  },
+  {
     "company": "Brunel Nederland B.V.",
     "job_title": "GIS Technician\n\nQatar\n\nProfessional Bachelor\n\nNot applicable\n\n* Update the enterprise GIS Data including data format tra",
     "location": "Netherlands",
@@ -2289,20 +2317,6 @@
     "last_seen": "2026-10-27"
   },
   {
-    "company": "Tebi B.V.",
-    "job_title": "Engineering Manager",
-    "location": "Amsterdam",
-    "careers_url": "https://jobs.ashbyhq.com/tebi",
-    "job_url": "https://jobs.ashbyhq.com/tebi/8984eeb7-31f2-474f-acb0-de6f21383a5d",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-19",
-    "description": "About Us: Tebi is creating the first Connected Restaurant Management System that makes hospitality flow. In one seamless platform, Tebi embeds sales, reservations, kitchen prep, payments, and all the data that powers it, creating smooth service and intuitive insights. Founded by Arnout Schuijff, co-founder of Adyen, and backed by \u20ac50 million in funding from Index Ventures & CapitalG, Tebi is built in the service of hospitality first. Thousands of restaurants, caf\u00e9s, bars, and coffee shops across the Netherlands, UK, and more countries soon, love running on Tebi. About the Role: In this role, you will guide the team responsible for developing our core application, which is built on Kotlin Multiplatform. The app powers essential operations across the Point-of-Sale, kitchen, and dining floor for restaurant staff. We are driven by the belief that hospitality deserves superior technology with solutions that unify operations, save time, and support business growth while preserving what makes each venue unique. This role sits between leadership and hands-on building. You won't just set the technical direction, you\u2019ll dive into the code alongside your team. You'll bridge the gap between product vision and technical execution to build a fast, ultra-reliable product that handles the high-pressure environment of modern hospitality. What You'll Do: Lead and grow a very senior team of App Engineers, and holding the bar on quality and craft Drive the app roadmap and translate business priorities into a shippable plan, in close partnership with product and design Drive architecture decisions across native and cross-platform code, balancing speed today with maintainability tomorrow Build a strong engineering culture by mentoring your team, championing best practices, and collaborating with cross-functional partners. Run the day-to-day of the team: 1:1s, planning, hiring, and performance feedback Actively contribute to our product roadmap by shipping features What You'll Bring: 7+ years of professional experience as a mobile engineer and at least 2+ years of experience in leadership roles Excellent communication skills, with the ability to articulate complex technical trade-offs to both technical and non-technical stakeholders Proven experience managing engineering teams as a people manager, ideally in a fast-moving product company Strong technical background in iOS or Android, or cross-platform mobile development, with the judgment to guide architecture decisions Comfort with ambiguity and the ability to set direction without waiting for perfect information Benefits: Start-up Equity Competitive Salary Lunch Provided in Office Team building events Unlimited time off Note: Interviews will start after the 14th of September. What is Restaurant Software? Restaurants and other merchants use various software systems such as Point of Sale (POS), Reservations, Kitchen Display Systems (KDS), Payments, Inventory, Staffing, and the list goes on. These systems all need to sp",
-    "notes": "Via Ashby API.",
-    "first_seen": "2026-08-24",
-    "last_seen": "2026-10-27"
-  },
-  {
     "company": "Aquablu B.V.",
     "job_title": "Senior AI Platform Engineer",
     "location": "Amsterdam, Netherlands",
@@ -2315,6 +2329,21 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-07-10",
     "last_seen": "2026-10-27"
+  },
+  {
+    "company": "Tebi B.V.",
+    "job_title": "Engineering Manager",
+    "location": "Amsterdam",
+    "careers_url": "https://jobs.ashbyhq.com/tebi",
+    "job_url": "https://jobs.ashbyhq.com/tebi/8984eeb7-31f2-474f-acb0-de6f21383a5d",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-19",
+    "description": "About Us: Tebi is creating the first Connected Restaurant Management System that makes hospitality flow. In one seamless platform, Tebi embeds sales, reservations, kitchen prep, payments, and all the data that powers it, creating smooth service and intuitive insights. Founded by Arnout Schuijff, co-founder of Adyen, and backed by \u20ac50 million in funding from Index Ventures & CapitalG, Tebi is built in the service of hospitality first. Thousands of restaurants, caf\u00e9s, bars, and coffee shops across the Netherlands, UK, and more countries soon, love running on Tebi. About the Role: In this role, you will guide the team responsible for developing our core application, which is built on Kotlin Multiplatform. The app powers essential operations across the Point-of-Sale, kitchen, and dining floor for restaurant staff. We are driven by the belief that hospitality deserves superior technology with solutions that unify operations, save time, and support business growth while preserving what makes each venue unique. This role sits between leadership and hands-on building. You won't just set the technical direction, you\u2019ll dive into the code alongside your team. You'll bridge the gap between product vision and technical execution to build a fast, ultra-reliable product that handles the high-pressure environment of modern hospitality. What You'll Do: Lead and grow a very senior team of App Engineers, and holding the bar on quality and craft Drive the app roadmap and translate business priorities into a shippable plan, in close partnership with product and design Drive architecture decisions across native and cross-platform code, balancing speed today with maintainability tomorrow Build a strong engineering culture by mentoring your team, championing best practices, and collaborating with cross-functional partners. Run the day-to-day of the team: 1:1s, planning, hiring, and performance feedback Actively contribute to our product roadmap by shipping features What You'll Bring: 7+ years of professional experience as a mobile engineer and at least 2+ years of experience in leadership roles Excellent communication skills, with the ability to articulate complex technical trade-offs to both technical and non-technical stakeholders Proven experience managing engineering teams as a people manager, ideally in a fast-moving product company Strong technical background in iOS or Android, or cross-platform mobile development, with the judgment to guide architecture decisions Comfort with ambiguity and the ability to set direction without waiting for perfect information Benefits: Start-up Equity Competitive Salary Lunch Provided in Office Team building events Unlimited time off Note: Interviews will start after the 14th of September. What is Restaurant Software? Restaurants and other merchants use various software systems such as Point of Sale (POS), Reservations, Kitchen Display Systems (KDS), Payments, Inventory, Staffing, and the list goes on. These systems all need to sp",
+    "notes": "Via Ashby API.",
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-10-27",
+    "stale": true
   },
   {
     "company": "Takeaway.com Group B.V.",
@@ -2358,36 +2387,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-07-17",
-    "last_seen": "2026-10-27",
-    "stale": true
-  },
-  {
-    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
-    "job_title": "Senior System Engineer\nwerklocatie:\nThe Hague\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nMaster",
-    "location": "Netherlands",
-    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
-    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/06/senior-system-engineer/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-04",
-    "last_seen": "2026-10-27",
-    "stale": true
-  },
-  {
-    "company": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
-    "job_title": "Senior Business Developer Biobased Chemicals\nwerklocatie:\nRijswijk\nwerkenopafstand:\nHybrid\nopleidingsniveau:\nMaster",
-    "location": "Netherlands",
-    "careers_url": "https://www.tno.nl/en/careers/vacancies/",
-    "job_url": "https://www.tno.nl/en/careers/vacancies/2026/08/senior-business-developer-sustainable/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-11",
     "last_seen": "2026-10-27",
     "stale": true
   },
