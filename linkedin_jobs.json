@@ -1495,7 +1495,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-10-27"
+    "last_seen": "2026-10-27",
+    "stale": true
   },
   {
     "company": "12Build",
