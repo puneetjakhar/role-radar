@@ -28,25 +28,25 @@
     "last_seen": "2026-10-27"
   },
   {
-    "company": "Infor",
-    "job_title": "Senior Java Software Engineer",
-    "location": "Barneveld, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473637246",
-    "job_url": "https://www.linkedin.com/jobs/view/4473637246",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-27"
-  },
-  {
     "company": "Thunderbird",
     "job_title": "Senior Software Engineer, Privacy",
     "location": "Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4483276613",
     "job_url": "https://www.linkedin.com/jobs/view/4483276613",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27"
+  },
+  {
+    "company": "elockers",
+    "job_title": "Senior Back End Developer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481882736",
+    "job_url": "https://www.linkedin.com/jobs/view/4481882736",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-27",
@@ -364,20 +364,6 @@
     "last_seen": "2026-10-27"
   },
   {
-    "company": "elockers",
-    "job_title": "Senior Back End Developer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481882736",
-    "job_url": "https://www.linkedin.com/jobs/view/4481882736",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-27"
-  },
-  {
     "company": "Jobgether",
     "job_title": "Staff Backend Software Engineer",
     "location": "Netherlands",
@@ -417,6 +403,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-20",
+    "last_seen": "2026-10-27"
+  },
+  {
+    "company": "Secfi",
+    "job_title": "Senior Backend Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471887316",
+    "job_url": "https://www.linkedin.com/jobs/view/4471887316",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
     "last_seen": "2026-10-27"
   },
   {
@@ -1470,6 +1470,21 @@
     "last_seen": "2026-10-27"
   },
   {
+    "company": "Infor",
+    "job_title": "Senior Java Software Engineer",
+    "location": "Barneveld, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473637246",
+    "job_url": "https://www.linkedin.com/jobs/view/4473637246",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-27",
+    "stale": true
+  },
+  {
     "company": "OverheidZZP",
     "job_title": "Senior Backend Software Engineer",
     "location": "Apeldoorn, Gelderland, Netherlands",
@@ -1661,21 +1676,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-06",
-    "last_seen": "2026-10-27",
-    "stale": true
-  },
-  {
-    "company": "Secfi",
-    "job_title": "Senior Backend Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471887316",
-    "job_url": "https://www.linkedin.com/jobs/view/4471887316",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
     "last_seen": "2026-10-27",
     "stale": true
   },
