@@ -406,6 +406,20 @@
     "last_seen": "2026-10-27"
   },
   {
+    "company": "Online Payment Platform",
+    "job_title": "Senior Backend Developer (PHP)",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4382457585",
+    "job_url": "https://www.linkedin.com/jobs/view/4382457585",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-10-27"
+  },
+  {
     "company": "Tether.io",
     "job_title": "Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)",
     "location": "Netherlands",
@@ -882,11 +896,39 @@
     "last_seen": "2026-10-27"
   },
   {
+    "company": "Booking.com",
+    "job_title": "Machine Learning Engineer I",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484098956",
+    "job_url": "https://www.linkedin.com/jobs/view/4484098956",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27"
+  },
+  {
     "company": "Infinity Quest",
     "job_title": "Artificial Intelligence Engineer",
     "location": "Utrecht, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4484008902",
     "job_url": "https://www.linkedin.com/jobs/view/4484008902",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27"
+  },
+  {
+    "company": "HVC",
+    "job_title": "ai engineer",
+    "location": "Alkmaar, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483664938",
+    "job_url": "https://www.linkedin.com/jobs/view/4483664938",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-27",
@@ -971,20 +1013,6 @@
     "location": "Utrecht, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4483574415",
     "job_url": "https://www.linkedin.com/jobs/view/4483574415",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-26",
-    "last_seen": "2026-10-27"
-  },
-  {
-    "company": "12Build",
-    "job_title": "AI Engineer",
-    "location": "Nijverdal, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483549241",
-    "job_url": "https://www.linkedin.com/jobs/view/4483549241",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-26",
@@ -1145,20 +1173,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-20",
-    "last_seen": "2026-10-27"
-  },
-  {
-    "company": "Mimica",
-    "job_title": "Senior/Lead Machine Learning Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482498232",
-    "job_url": "https://www.linkedin.com/jobs/view/4482498232",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-23",
     "last_seen": "2026-10-27"
   },
   {
@@ -1428,6 +1442,20 @@
     "last_seen": "2026-10-27"
   },
   {
+    "company": "Energie Data Services Nederland (EDSN) B.V.",
+    "job_title": "Staff Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4440109939",
+    "job_url": "https://www.linkedin.com/jobs/view/4440109939",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-10-27"
+  },
+  {
     "company": "Adyen",
     "job_title": "Staff Engineer - Banking Products",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1470,6 +1498,36 @@
     "last_seen": "2026-10-27"
   },
   {
+    "company": "12Build",
+    "job_title": "AI Engineer",
+    "location": "Nijverdal, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483549241",
+    "job_url": "https://www.linkedin.com/jobs/view/4483549241",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-27",
+    "stale": true
+  },
+  {
+    "company": "Mimica",
+    "job_title": "Senior/Lead Machine Learning Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482498232",
+    "job_url": "https://www.linkedin.com/jobs/view/4482498232",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-27",
+    "stale": true
+  },
+  {
     "company": "Wolters Kluwer",
     "job_title": "Principal Full Stack Engineer, AI Platform & Agents",
     "location": "Alphen aan den Rijn, South Holland, Netherlands",
@@ -1481,7 +1539,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-16",
-    "last_seen": "2026-10-27"
+    "last_seen": "2026-10-27",
+    "stale": true
   },
   {
     "company": "Zwinq",
@@ -1781,21 +1840,6 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-27",
-    "stale": true
-  },
-  {
-    "company": "Energie Data Services Nederland (EDSN) B.V.",
-    "job_title": "Staff Engineer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4440109939",
-    "job_url": "https://www.linkedin.com/jobs/view/4440109939",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-20",
-    "last_seen": "2026-10-26",
     "stale": true
   },
   {
