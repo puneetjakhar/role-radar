@@ -225,6 +225,20 @@
   },
   {
     "company": "Adyen N.V.",
+    "job_title": "Senior Software Engineer (Java) - Unified Platform ",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
+    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/7342887",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2025-10-24",
+    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Facebook, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. The people of Adyen are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Unified Platform&nbsp; The Unified Platform is at the heart of Adyen\u2019s infrastructure, bringing together accounting, reporting, billing, pricing, reconciliation, and configuration into one streamlined experience. It enables us to stay agile and innovative while running a scalable, efficient business. As part of this initiative, we\u2019re rethinking five core product areas: Platform experience \u2013 Creating a unified and intuitive backend experience across Adyen products Accounting systems \u2013 Defining a cohesive and high-performing financial architecture Reporting &amp; reconciliation \u2013 Making financial data more accurate, accessible, and satisfying for customers and regulators Billing &amp; pricing infrastructure \u2013 Simplifying pricing and automating invoicing at scale Observability &amp; tooling \u2013 Strengthening visibility and control of money movement through advanced tooling .While all roles share a strong technical foundation, each team brings a unique focus in scaling our unified platform, We'll explore the best team fit together throughout the interview process. What you\u2019ll do: Work on complex technical projects from requirements analysis through design, implementation, testing and launch into production. Be hands-on and contribute to the implementation. Identify and improve parts of the platform to make it more robust and scalable. Bring your own point of view on best engineering practices.&nbsp; Your code will be used at scale and you are expected to think in that mindset when building features. We launch fast and iterate often. Concretely, this means that within your first few weeks, you will bring live functionalities that impact many merchants and shoppers.&nbsp; Build APIs and tooling according to quality principles such as performance and code quality. Collaborate across teams and time zones to get projects over the finish line. Who you are: Familiar with complex large scale distributed systems. You have experience with Java, Web Services, REST Apis, Webhooks and SQL/PostgreSql. You have a good understanding of Software Engineering practices and interest in product knowledge. You enjoy working in a cross-functional team with roles like Data Science, Frontend, and Product. You value involving other people to hear different perspectives. You have an experimental mindset with a launch fast an",
+    "notes": "Dept: Development. Via Greenhouse board.",
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-10-27"
+  },
+  {
+    "company": "Adyen N.V.",
     "job_title": "Senior Storage Engineer ",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
@@ -1005,6 +1019,20 @@
     "last_seen": "2026-10-27"
   },
   {
+    "company": "TomTom International B.V.",
+    "job_title": "Senior MLOps/Data Engineer",
+    "location": "Amsterdam, The Netherlands",
+    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
+    "job_url": "https://jobs.eu.lever.co/tomtom/564ca739-8bac-472b-a107-2d531ea1578f/apply",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"5+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-10-27"
+  },
+  {
     "company": "Backbase B.V.",
     "job_title": "Lead Principal Solution Architect - EMEA",
     "location": "Amsterdam, Netherlands",
@@ -1155,20 +1183,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Security Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-10-27"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Golang Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1179,6 +1193,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-10-15",
+    "last_seen": "2026-10-27"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Security Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
     "last_seen": "2026-10-27"
   },
   {
@@ -2221,6 +2249,19 @@
     "last_seen": "2026-10-27"
   },
   {
+    "company": "Vanderlande Industries B.V.",
+    "job_title": "Senior Pro-Code Developer",
+    "location": "Veghel, Netherlands",
+    "careers_url": "https://vanderlande.wd3.myworkdayjobs.com/careers",
+    "job_url": "https://vanderlande.wd3.myworkdayjobs.com/job/Veghel-Netherlands/Senior-Pro-Code-Developer_JR38293-2",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27"
+  },
+  {
     "company": "Tebi B.V.",
     "job_title": "Senior Fullstack Mobile Engineer ",
     "location": "Amsterdam",
@@ -2261,21 +2302,6 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-07-10",
     "last_seen": "2026-10-27"
-  },
-  {
-    "company": "TomTom International B.V.",
-    "job_title": "Senior MLOps/Data Engineer",
-    "location": "Amsterdam, The Netherlands",
-    "careers_url": "https://www.tomtom.com/careers/joboverview/?location=Amsterdam%252C%2520The%2520Netherlands&category=IT%2520Systems",
-    "job_url": "https://jobs.eu.lever.co/tomtom/564ca739-8bac-472b-a107-2d531ea1578f/apply",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "{\"body\": [], \"sections\": [{\"title\": \"What you'll do\", \"items\": [{\"text\": \"Orchestrate and maintain ML pipelines (ingest \\u2192 feature engineering \\u2192 train \\u2192 evaluate \\u2192 deploy\\u2192monitor\\u2192repeat) on Azure + Databricks\"}, {\"text\": \"Standardize experimentation using MLflow or similar tools (tracking, artifacts, model registry, stages)\"}, {\"text\": \"Automate jobs with Databricks Workflows and CI/CD (GitHub Actions or Azure DevOps)\"}, {\"text\": \"Implement data & model observability: freshness/completeness, drift (features/model), training/serving skew, SLA/SLO monitoring\"}, {\"text\": \"Ensure security & compliance\"}, {\"text\": \"Handle incidents and post-mortems for ML pipelines and serving infrastructure\"}]}, {\"title\": \"What you'll need\", \"items\": [{\"text\": \"Excellence in Python software engineering and developing tests\"}, {\"text\": \"Fundamental understanding of Machine Learning\"}, {\"text\": \"5+ years in Data Eng/MLOps roles\"}, {\"text\": \"Strong PySpark\"}, {\"text\": \"Hands-on with Databricks and Delta Lake\"}, {\"text\": \"CI/CD for data/ML (Git, PR workflow, automated tests, environment pinning)\"}, {\"text\": \"Azure basics\"}, {\"text\": \"Monitoring and building dashboards\"}, {\"text\": \"Clear communication; operational-excellence mindset (SLA/SLO ownership)\"}]}, {\"title\": \"What's nice to have\", \"items\": [{\"text\": \"Unity Catalog experience\"}, {\"text\": \"Databricks Feature Store\"}, {\"text\": \"Terraform for workspace/clusters/jobs/UC objects\"}, {\"text\": \"Telemetry domain exposure\"}, {\"text\": \"Optimize PySpark jobs (partitioning, caching, etc.) and cost (autoscaling, spot).\"}]}], \"closing\": [{\"text\": \"What we offer\", \"isHeading\": true}, {\"text\": \"A competitive compensation package, of course.\", \"isHeading\": false}, {\"text\": \"Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O\\u2019Reilly and LinkedIn Learning.\", \"isHeading\": false}, {\"text\": \"Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities.\", \"isHeading\": false}, {\"text\": \"Work flexibility, where TomTom\\u2019ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It\\u2019s all about getting the best out of both worlds \\u2013\\u00a0we ask TomTom\\u2019ers to come to the office two days a week, and the remaining three are free to be worked in either location.\", \"isHeading\": false}, {\"text\": \"Improve your home office with a setup budget and get extra support with a monthly allowance.\", \"isHeading\": false}, {\"text\": \"Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we\\u2019re mapping.\", \"isHeading\": false}, {\"text\": \"Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday.\", \"isHeading\"",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-10-27",
-    "stale": true
   },
   {
     "company": "Revolut Netherlands B.V.",
