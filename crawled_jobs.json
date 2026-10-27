@@ -36,7 +36,7 @@
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-04-01",
-    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Head of Engineering, Adyen Protect We are seeking a visionary and highly technical Head of Engineering to lead the development and scaling of Adyen Protect . Adyen Protect is our ML-first product suite designed to detect and mitigate payment fraud in real-time across billions of transactions. In this role, you will lead a specialized domain of four high-impact engineering teams dedicated to staying ahead of increasingly sophisticated global fraud networks. You will be the strategic driver behind our risk engine, ensuring that our ML models are not only accurate and performant but also transparent and actionable for the world's largest merchants. This is a role for a leader who thrives at the intersection of big data, predictive modeling, and high-availability systems. You will be responsible for ensuring that as Adyen grows, our ability to protect our merchants and their consumers remains world-class. What you\u2019ll do: Vision &amp; Strategy: Define and execute the technical roadmap for Adyen Protect, aligning Machine Learning capabilities with the evolving needs of global e-commerce and regulatory landscapes. Scale ML Operations: Lead four multidisciplinary teams in building and maintaining scalable infrastructure for model training, real-time scoring, and automated experimentation (A/B testing) at the millisecond level. Engineering Excellence: Establish and maintain high standards for engineering quality and reliability. Ensure our fraud detection systems are resilient, low-latency, and capable of processing massive data volumes without downtime. Cross-Functional Leadership: Partner closely with Product Leaders, Risk officers, and other parts of the business to translate complex fraud patterns into robust technical features and automated mitigation strategies. Team Development: Mentor and grow a high-performing organization of engineers and engineering managers. Foster an inclusive environment that encourages rapid prototyping, ethical AI practices, and continuous learning. Merchant Advocacy: Interface with our largest global merchants to understand their unique risk profiles and ensure Adyen Protect provides the granular control and insights they need to grow their business safely. Who you are: ML &amp; Data Enthusiast: You have a deep understanding of Machine Learning lifecycles, from data engineering and featur",
+    "description": "Job Application for Head of Engineering - Adyen protect at Adyen Head of Engineering - Adyen protect Amsterdam Apply This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Head of Engineering, Adyen Protect We are seeking a visionary and highly technical Head of Engineering to lead the development and scaling of Adyen Protect . Adyen Protect is our ML-first product suite designed to detect and mitigate payment fraud in real-time across billions of transactions. In this role, you will lead a specialized domain of four high-impact engineering teams dedicated to staying ahead of increasingly sophisticated global fraud networks. You will be the strategic driver behind our risk engine, ensuring that our ML models are not only accurate and performant but also transparent and actionable for the world's largest merchants. This is a role for a leader who thrives at the intersection of big data, predictive modeling, and high-availability systems. You will be responsible for ensuring that as Adyen grows, our ability to protect our merchants and their consumers remains world-class. What you\u2019ll do: Vision & Strategy: Define and execute the technical roadmap for Adyen Protect, aligning Machine Learning capabilities with the evolving needs of global e-commerce and regulatory landscapes. Scale ML Operations: Lead four multidisciplinary teams in building and maintaining scalable infrastructure for model training, real-time scoring, and automated experimentation (A/B testing) at the millisecond level. Engineering Excellence: Establish and maintain high standards for engineering quality and reliability. Ensure our fraud detection systems are resilient, low-latency, and capable of processing massive data volumes without downtime. Cross-Functional Leadership: Partner closely with Product Leaders, Risk officers, and other parts of the business to translate complex fraud patterns into robust technical features and automated mitigation strategies. Team Development: Mentor and grow a high-performing organization of engineers and engineering managers. Foster an inclusive environment that encourages rapid prototyping, ethical AI practices, and continuous learning. Merchant Advocacy: Interface with our largest global merchants to understand their unique risk profiles and ensure Adyen Protect provides the granular control and insights they need to grow their business safely. Who you are: ML & Data Enthusiast: You have a deep understanding of Machine Learning lifecycles, from data engineering and feature extraction to model deployment and monitoring. Proven Leader: You have a track record of leading complex engineering organizations and managing other managers, specifically within high-growth fintech or SaaS environments. Strategic Problem Solver: You can balance the immediate need for fraud mitigation with the long-term goal of reducing \"false positives\" to maximize merchant revenue. Tech-Fluent: You remain technically literate and are comfortable diving into architecture discussions regarding distributed systems, data pipelines, and real-time processing. Collaborative: You excel at building bridges between technical and non-technical stakeholders, explaining the \"why\" behind complex (ML) decisions. Minimum Qualifications: 7+ years of technical experience, including significant tenure as a hands-on software or machine learning engineer. 5+ years of experience in manager-of-managers roles, overseeing multiple engineering teams. Experience with High-Scale Systems: Proven track record of managing products that handle high-throughput, low-latency workloads (e.g., payments, cybersecurity, or real-time bidding). Domain Expertise: Familiarity with fraud detection, risk management, or identity verification systems is highly preferred. Our Diversity, Equity and Inclusion commitments Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them - voices like yours. No matter who you are or where you\u2019re from, we welcome you to be your true self at Adyen. Studies show that women and members of underrepresented communities apply for jobs only if they meet 100% of the qualifications. Does this sound like you? If so, Adyen encourages you to reconsider and apply. We ",
     "notes": "Dept: Development. Via Greenhouse board.",
     "first_seen": "2026-05-28",
     "last_seen": "2026-10-27"
@@ -1169,20 +1169,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Golang Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052851/Senior-Golang-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-27"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Security Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1193,6 +1179,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-26",
+    "last_seen": "2026-10-27"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Golang Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_052851/Senior-Golang-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-15",
     "last_seen": "2026-10-27"
   },
   {
@@ -1211,10 +1211,10 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior IOS Developer",
+    "job_title": "Senior Android Developer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053633/Senior-IOS-Developer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053634/Senior-Android-Developer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -2445,21 +2445,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-08-14",
-    "last_seen": "2026-10-27",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Android Developer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053634/Senior-Android-Developer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-27",
     "last_seen": "2026-10-27",
     "stale": true
   },
