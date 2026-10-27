@@ -154,6 +154,20 @@
     "last_seen": "2026-10-27"
   },
   {
+    "company": "Kake",
+    "job_title": "Senior AI/LLM Engineer (Python) - Remote",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481462397",
+    "job_url": "https://www.linkedin.com/jobs/view/4481462397",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-27"
+  },
+  {
     "company": "Esprit ICT",
     "job_title": "Senior Back-end Developer",
     "location": "Apeldoorn, Gelderland, Netherlands",
@@ -322,20 +336,6 @@
     "last_seen": "2026-10-27"
   },
   {
-    "company": "OverheidZZP",
-    "job_title": "Senior Backend Software Engineer",
-    "location": "Apeldoorn, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481777015",
-    "job_url": "https://www.linkedin.com/jobs/view/4481777015",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-20",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-10-27"
-  },
-  {
     "company": "FRANK",
     "job_title": "\ud83e\uddd1\ud83d\udcbb Senior Backend Developer (PHP / Laravel)",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -467,6 +467,20 @@
     "location": "Hardenberg, Overijssel, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4482868887",
     "job_url": "https://www.linkedin.com/jobs/view/4482868887",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-27"
+  },
+  {
+    "company": "123inkt.nl",
+    "job_title": "Senior PHP Developer",
+    "location": "Nederhorst den Berg, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482877559",
+    "job_url": "https://www.linkedin.com/jobs/view/4482877559",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-23",
@@ -980,20 +994,6 @@
     "last_seen": "2026-10-27"
   },
   {
-    "company": "Kake",
-    "job_title": "Senior AI/LLM Engineer (Python) - Remote",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481462397",
-    "job_url": "https://www.linkedin.com/jobs/view/4481462397",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-26",
-    "last_seen": "2026-10-27"
-  },
-  {
     "company": "Engaige",
     "job_title": "Senior Ai engineer",
     "location": "Utrecht, Netherlands",
@@ -1470,17 +1470,17 @@
     "last_seen": "2026-10-27"
   },
   {
-    "company": "123inkt.nl",
-    "job_title": "Senior PHP Developer",
-    "location": "Nederhorst den Berg, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482877559",
-    "job_url": "https://www.linkedin.com/jobs/view/4482877559",
+    "company": "OverheidZZP",
+    "job_title": "Senior Backend Software Engineer",
+    "location": "Apeldoorn, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481777015",
+    "job_url": "https://www.linkedin.com/jobs/view/4481777015",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-23",
+    "date_posted": "2026-10-20",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-23",
+    "first_seen": "2026-10-20",
     "last_seen": "2026-10-27",
     "stale": true
   },
