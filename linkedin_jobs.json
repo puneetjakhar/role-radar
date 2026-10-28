@@ -28,20 +28,6 @@
     "last_seen": "2026-10-28"
   },
   {
-    "company": "Thunderbird",
-    "job_title": "Senior Software Engineer, Privacy",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483276613",
-    "job_url": "https://www.linkedin.com/jobs/view/4483276613",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-28"
-  },
-  {
     "company": "elockers",
     "job_title": "Senior Back End Developer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -159,6 +145,20 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4481462397",
     "job_url": "https://www.linkedin.com/jobs/view/4481462397",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-28"
+  },
+  {
+    "company": "Tether.io",
+    "job_title": "Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483584117",
+    "job_url": "https://www.linkedin.com/jobs/view/4483584117",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-26",
@@ -417,20 +417,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-10-28"
-  },
-  {
-    "company": "Tether.io",
-    "job_title": "Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483584117",
-    "job_url": "https://www.linkedin.com/jobs/view/4483584117",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-26",
     "last_seen": "2026-10-28"
   },
   {
@@ -1482,6 +1468,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
     "last_seen": "2026-10-28"
+  },
+  {
+    "company": "Thunderbird",
+    "job_title": "Senior Software Engineer, Privacy",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483276613",
+    "job_url": "https://www.linkedin.com/jobs/view/4483276613",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-28",
+    "stale": true
   },
   {
     "company": "Infor",
