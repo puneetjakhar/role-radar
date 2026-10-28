@@ -980,17 +980,17 @@
     "last_seen": "2026-10-28"
   },
   {
-    "company": "Haystack People",
-    "job_title": "Machine Learning Engineer (Greenfield Project)",
+    "company": "DataSnipper",
+    "job_title": "Senior Applied AI Engineer \u2013 Agent Runtime (Alwin by DataSnipper)",
     "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483851362",
-    "job_url": "https://www.linkedin.com/jobs/view/4483851362",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467213036",
+    "job_url": "https://www.linkedin.com/jobs/view/4467213036",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-28",
+    "date_posted": "2026-10-27",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
+    "first_seen": "2026-09-14",
     "last_seen": "2026-10-28"
   },
   {
@@ -1498,6 +1498,21 @@
     "last_seen": "2026-10-28"
   },
   {
+    "company": "Haystack People",
+    "job_title": "Machine Learning Engineer (Greenfield Project)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483851362",
+    "job_url": "https://www.linkedin.com/jobs/view/4483851362",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "stale": true
+  },
+  {
     "company": "Cboe Global Markets",
     "job_title": "Lead Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1509,20 +1524,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
-    "last_seen": "2026-10-28"
-  },
-  {
-    "company": "DataSnipper",
-    "job_title": "Senior Applied AI Engineer \u2013 Agent Runtime (Alwin by DataSnipper)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467213036",
-    "job_url": "https://www.linkedin.com/jobs/view/4467213036",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-14",
     "last_seen": "2026-10-28",
     "stale": true
   },
