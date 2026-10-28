@@ -392,6 +392,34 @@
     "last_seen": "2026-10-28"
   },
   {
+    "company": "Online Payment Platform",
+    "job_title": "Senior Backend Developer (PHP)",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4382457585",
+    "job_url": "https://www.linkedin.com/jobs/view/4382457585",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-10-28"
+  },
+  {
+    "company": "Secfi",
+    "job_title": "Senior Backend Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4471887316",
+    "job_url": "https://www.linkedin.com/jobs/view/4471887316",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-10-28"
+  },
+  {
     "company": "Tether.io",
     "job_title": "Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)",
     "location": "Netherlands",
@@ -459,6 +487,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-23",
+    "last_seen": "2026-10-28"
+  },
+  {
+    "company": "Toku",
+    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "job_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-21",
     "last_seen": "2026-10-28"
   },
   {
@@ -966,6 +1008,20 @@
     "last_seen": "2026-10-28"
   },
   {
+    "company": "12Build",
+    "job_title": "AI Engineer",
+    "location": "Nijverdal, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483549241",
+    "job_url": "https://www.linkedin.com/jobs/view/4483549241",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-28"
+  },
+  {
     "company": "Curamando",
     "job_title": "Senior GenAI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1274,20 +1330,6 @@
     "last_seen": "2026-10-28"
   },
   {
-    "company": "Toku",
-    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
-    "location": "South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
-    "job_url": "https://www.linkedin.com/jobs/view/4482117309",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-28"
-  },
-  {
     "company": "Together AI",
     "job_title": "Staff Engineer, Distributed Storage and HPC & AI Infrastructure",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1442,36 +1484,6 @@
     "last_seen": "2026-10-28"
   },
   {
-    "company": "Online Payment Platform",
-    "job_title": "Senior Backend Developer (PHP)",
-    "location": "Delft, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4382457585",
-    "job_url": "https://www.linkedin.com/jobs/view/4382457585",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-10-27",
-    "stale": true
-  },
-  {
-    "company": "Secfi",
-    "job_title": "Senior Backend Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471887316",
-    "job_url": "https://www.linkedin.com/jobs/view/4471887316",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-10-27",
-    "stale": true
-  },
-  {
     "company": "Infor",
     "job_title": "Senior Java Software Engineer",
     "location": "Barneveld, Gelderland, Netherlands",
@@ -1513,21 +1525,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-10-27",
-    "stale": true
-  },
-  {
-    "company": "12Build",
-    "job_title": "AI Engineer",
-    "location": "Nijverdal, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483549241",
-    "job_url": "https://www.linkedin.com/jobs/view/4483549241",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-26",
     "last_seen": "2026-10-27",
     "stale": true
   },
