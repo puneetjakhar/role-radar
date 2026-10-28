@@ -854,17 +854,17 @@
     "last_seen": "2026-10-28"
   },
   {
-    "company": "ABN AMRO Bank N.V.",
-    "job_title": "Platform Engineer Azure en Kubernetes",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473260904",
-    "job_url": "https://www.linkedin.com/jobs/view/4473260904",
+    "company": "Kyndryl",
+    "job_title": "Azure Cloud Engineer",
+    "location": "North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481301094",
+    "job_url": "https://www.linkedin.com/jobs/view/4481301094",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-21",
+    "date_posted": "2026-10-22",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-29",
+    "first_seen": "2026-10-26",
     "last_seen": "2026-10-28"
   },
   {
@@ -1106,6 +1106,20 @@
     "last_seen": "2026-10-28"
   },
   {
+    "company": "ADC Consulting",
+    "job_title": "Consultant | AI Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483105515",
+    "job_url": "https://www.linkedin.com/jobs/view/4483105515",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-28"
+  },
+  {
     "company": "Young Financials",
     "job_title": "AI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1187,20 +1201,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-28"
-  },
-  {
-    "company": "Flexport",
-    "job_title": "Senior Applied AI Engineer, Autonomous Supply Chains",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4455404151",
-    "job_url": "https://www.linkedin.com/jobs/view/4455404151",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-20",
     "last_seen": "2026-10-28"
   },
   {
@@ -1526,17 +1526,32 @@
     "last_seen": "2026-10-28"
   },
   {
-    "company": "Kyndryl",
-    "job_title": "Azure Cloud Engineer",
-    "location": "North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481301094",
-    "job_url": "https://www.linkedin.com/jobs/view/4481301094",
+    "company": "ABN AMRO Bank N.V.",
+    "job_title": "Platform Engineer Azure en Kubernetes",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473260904",
+    "job_url": "https://www.linkedin.com/jobs/view/4473260904",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-21",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-10-28",
+    "stale": true
+  },
+  {
+    "company": "Flexport",
+    "job_title": "Senior Applied AI Engineer, Autonomous Supply Chains",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4455404151",
+    "job_url": "https://www.linkedin.com/jobs/view/4455404151",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-22",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-26",
+    "first_seen": "2026-08-20",
     "last_seen": "2026-10-28",
     "stale": true
   },
@@ -1597,21 +1612,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28",
-    "stale": true
-  },
-  {
-    "company": "ADC Consulting",
-    "job_title": "Consultant | AI Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483105515",
-    "job_url": "https://www.linkedin.com/jobs/view/4483105515",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-23",
     "last_seen": "2026-10-28",
     "stale": true
   },
