@@ -1470,20 +1470,6 @@
     "last_seen": "2026-10-29"
   },
   {
-    "company": "Jobgether",
-    "job_title": "Staff Software Engineer - Platform",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481185259",
-    "job_url": "https://www.linkedin.com/jobs/view/4481185259",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29"
-  },
-  {
     "company": "BlockTech",
     "job_title": "Senior Software Engineer | Data Infrastructure | Rust",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1510,6 +1496,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-20",
     "last_seen": "2026-10-29"
+  },
+  {
+    "company": "Jobgether",
+    "job_title": "Staff Software Engineer - Platform",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481185259",
+    "job_url": "https://www.linkedin.com/jobs/view/4481185259",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-29",
+    "stale": true
   },
   {
     "company": "Haystack People",
