@@ -630,20 +630,6 @@
     "last_seen": "2026-10-29"
   },
   {
-    "company": "Eneco",
-    "job_title": "Senior Engineer Infrastructure Platforms",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482217298",
-    "job_url": "https://www.linkedin.com/jobs/view/4482217298",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29"
-  },
-  {
     "company": "Schuberg Philis",
     "job_title": "Senior Platform Engineer (Kubernetes)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -826,17 +812,17 @@
     "last_seen": "2026-10-29"
   },
   {
-    "company": "Trengo",
-    "job_title": "Senior Cloud Engineer (Kubernetes)",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483117517",
-    "job_url": "https://www.linkedin.com/jobs/view/4483117517",
+    "company": "Info Support",
+    "job_title": "Platform Engineer Managed Services",
+    "location": "Veenendaal, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4447001677",
+    "job_url": "https://www.linkedin.com/jobs/view/4447001677",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-23",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-23",
+    "first_seen": "2026-07-30",
     "last_seen": "2026-10-29"
   },
   {
@@ -851,6 +837,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-23",
+    "last_seen": "2026-10-29"
+  },
+  {
+    "company": "Kyndryl",
+    "job_title": "AI Platform Engineer",
+    "location": "North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481646339",
+    "job_url": "https://www.linkedin.com/jobs/view/4481646339",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
     "last_seen": "2026-10-29"
   },
   {
@@ -1470,17 +1470,32 @@
     "last_seen": "2026-10-29"
   },
   {
-    "company": "Info Support",
-    "job_title": "Platform Engineer Managed Services",
-    "location": "Veenendaal, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4447001677",
-    "job_url": "https://www.linkedin.com/jobs/view/4447001677",
+    "company": "Eneco",
+    "job_title": "Senior Engineer Infrastructure Platforms",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482217298",
+    "job_url": "https://www.linkedin.com/jobs/view/4482217298",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
+    "stale": true
+  },
+  {
+    "company": "Trengo",
+    "job_title": "Senior Cloud Engineer (Kubernetes)",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483117517",
+    "job_url": "https://www.linkedin.com/jobs/view/4483117517",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-23",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-30",
+    "first_seen": "2026-10-23",
     "last_seen": "2026-10-29",
     "stale": true
   },
