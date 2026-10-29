@@ -532,6 +532,20 @@
     "last_seen": "2026-10-29"
   },
   {
+    "company": "Royal Terberg Group",
+    "job_title": "Senior Platform Engineer",
+    "location": "IJsselstein, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4478902960",
+    "job_url": "https://www.linkedin.com/jobs/view/4478902960",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-29"
+  },
+  {
     "company": "Amp\u00e8re",
     "job_title": "Platform Engineer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -599,6 +613,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-14",
+    "last_seen": "2026-10-29"
+  },
+  {
+    "company": "Eneco",
+    "job_title": "Senior Engineer Infrastructure Platforms",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482217298",
+    "job_url": "https://www.linkedin.com/jobs/view/4482217298",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
     "last_seen": "2026-10-29"
   },
   {
@@ -742,20 +770,6 @@
     "last_seen": "2026-10-29"
   },
   {
-    "company": "Royal Terberg Group",
-    "job_title": "Senior Platform Engineer",
-    "location": "IJsselstein, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4478902960",
-    "job_url": "https://www.linkedin.com/jobs/view/4478902960",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-25",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-10-29"
-  },
-  {
     "company": "Stream",
     "job_title": "Staff Software Engineer, Platform & Infrastructure",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -795,6 +809,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-30",
+    "last_seen": "2026-10-29"
+  },
+  {
+    "company": "Schuberg Philis",
+    "job_title": "AI Platform Engineer",
+    "location": "Schiphol-Rijk, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482894865",
+    "job_url": "https://www.linkedin.com/jobs/view/4482894865",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-23",
     "last_seen": "2026-10-29"
   },
   {
@@ -840,20 +868,6 @@
     "last_seen": "2026-10-29"
   },
   {
-    "company": "Kyndryl",
-    "job_title": "AI Platform Engineer Infra Stream",
-    "location": "North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481300083",
-    "job_url": "https://www.linkedin.com/jobs/view/4481300083",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29"
-  },
-  {
     "company": "wolk",
     "job_title": "Platform/DevOps Engineer",
     "location": "Utrecht, Netherlands",
@@ -865,20 +879,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-10-29"
-  },
-  {
-    "company": "Kyndryl",
-    "job_title": "Azure Cloud Engineer",
-    "location": "North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481301094",
-    "job_url": "https://www.linkedin.com/jobs/view/4481301094",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-26",
     "last_seen": "2026-10-29"
   },
   {
@@ -1498,6 +1498,36 @@
     "last_seen": "2026-10-29"
   },
   {
+    "company": "Kyndryl",
+    "job_title": "AI Platform Engineer Infra Stream",
+    "location": "North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481300083",
+    "job_url": "https://www.linkedin.com/jobs/view/4481300083",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-29",
+    "stale": true
+  },
+  {
+    "company": "Kyndryl",
+    "job_title": "Azure Cloud Engineer",
+    "location": "North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481301094",
+    "job_url": "https://www.linkedin.com/jobs/view/4481301094",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-29",
+    "stale": true
+  },
+  {
     "company": "Jobgether",
     "job_title": "Staff Software Engineer - Platform",
     "location": "Netherlands",
@@ -1663,21 +1693,6 @@
     "stale": true
   },
   {
-    "company": "Eneco",
-    "job_title": "Senior Engineer Infrastructure Platforms",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482217298",
-    "job_url": "https://www.linkedin.com/jobs/view/4482217298",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28",
-    "stale": true
-  },
-  {
     "company": "Booking.com",
     "job_title": "Machine Learning Engineer I",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1809,21 +1824,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-10-28",
-    "stale": true
-  },
-  {
-    "company": "Schuberg Philis",
-    "job_title": "AI Platform Engineer",
-    "location": "Schiphol-Rijk, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482894865",
-    "job_url": "https://www.linkedin.com/jobs/view/4482894865",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-23",
     "last_seen": "2026-10-28",
     "stale": true
   },
