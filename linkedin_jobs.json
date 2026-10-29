@@ -1,19 +1,5 @@
 [
   {
-    "company": "Albert Heijn",
-    "job_title": "Senior Backend Developer (Kotlin/Java, Spring, Kafka)",
-    "location": "Zaandam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476743712",
-    "job_url": "https://www.linkedin.com/jobs/view/4476743712",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-29"
-  },
-  {
     "company": "Spilberg",
     "job_title": "Senior Fullstack .NET developer",
     "location": "Arnhem, Gelderland, Netherlands",
@@ -123,6 +109,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
+    "last_seen": "2026-10-29"
+  },
+  {
+    "company": "ASN Bank",
+    "job_title": "Senior Java Developer",
+    "location": "The Randstad, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483633480",
+    "job_url": "https://www.linkedin.com/jobs/view/4483633480",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-27",
     "last_seen": "2026-10-29"
   },
   {
@@ -397,20 +397,6 @@
     "location": "Rotterdam, South Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4484061755",
     "job_url": "https://www.linkedin.com/jobs/view/4484061755",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-29"
-  },
-  {
-    "company": "ASN Bank",
-    "job_title": "Senior Java Developer",
-    "location": "The Randstad, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483633480",
-    "job_url": "https://www.linkedin.com/jobs/view/4483633480",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-27",
@@ -798,6 +784,20 @@
     "last_seen": "2026-10-29"
   },
   {
+    "company": "Tata Consultancy Services",
+    "job_title": "Senior Azure Cloud Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482964892",
+    "job_url": "https://www.linkedin.com/jobs/view/4482964892",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29"
+  },
+  {
     "company": "Ashby",
     "job_title": "Staff Platform Engineer - EU",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -868,20 +868,6 @@
     "last_seen": "2026-10-29"
   },
   {
-    "company": "Interstellar",
-    "job_title": "Kubernetes Platform Engineer | YOUR2030",
-    "location": "Odijk, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482714799",
-    "job_url": "https://www.linkedin.com/jobs/view/4482714799",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-29"
-  },
-  {
     "company": "SKIM",
     "job_title": "Junior AI Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -921,6 +907,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29"
+  },
+  {
+    "company": "All Your BI",
+    "job_title": "Senior AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4465065221",
+    "job_url": "https://www.linkedin.com/jobs/view/4465065221",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-09",
     "last_seen": "2026-10-29"
   },
   {
@@ -1061,20 +1061,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29"
-  },
-  {
-    "company": "Xomnia",
-    "job_title": "Machine Learning Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4282843346",
-    "job_url": "https://www.linkedin.com/jobs/view/4282843346",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-05-31",
     "last_seen": "2026-10-29"
   },
   {
@@ -1316,20 +1302,6 @@
     "last_seen": "2026-10-29"
   },
   {
-    "company": "Sendcloud",
-    "job_title": "Staff Platform Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4447128435",
-    "job_url": "https://www.linkedin.com/jobs/view/4447128435",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-31",
-    "last_seen": "2026-10-29"
-  },
-  {
     "company": "Axelera AI",
     "job_title": "Staff AI Application Engineer - Heterogeneous Computing",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1341,6 +1313,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
+    "last_seen": "2026-10-29"
+  },
+  {
+    "company": "Sendcloud",
+    "job_title": "Staff Platform Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4447128435",
+    "job_url": "https://www.linkedin.com/jobs/view/4447128435",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-31",
     "last_seen": "2026-10-29"
   },
   {
@@ -1482,6 +1468,51 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-29"
+  },
+  {
+    "company": "Albert Heijn",
+    "job_title": "Senior Backend Developer (Kotlin/Java, Spring, Kafka)",
+    "location": "Zaandam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476743712",
+    "job_url": "https://www.linkedin.com/jobs/view/4476743712",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-29",
+    "stale": true
+  },
+  {
+    "company": "Interstellar",
+    "job_title": "Kubernetes Platform Engineer | YOUR2030",
+    "location": "Odijk, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482714799",
+    "job_url": "https://www.linkedin.com/jobs/view/4482714799",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-22",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-29",
+    "stale": true
+  },
+  {
+    "company": "Xomnia",
+    "job_title": "Machine Learning Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4282843346",
+    "job_url": "https://www.linkedin.com/jobs/view/4282843346",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-05-31",
+    "last_seen": "2026-10-29",
+    "stale": true
   },
   {
     "company": "Royal Terberg Group",
@@ -1960,21 +1991,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
-    "last_seen": "2026-10-28",
-    "stale": true
-  },
-  {
-    "company": "All Your BI",
-    "job_title": "Senior AI Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4465065221",
-    "job_url": "https://www.linkedin.com/jobs/view/4465065221",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-09",
     "last_seen": "2026-10-28",
     "stale": true
   },
