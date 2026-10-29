@@ -518,6 +518,20 @@
     "last_seen": "2026-10-29"
   },
   {
+    "company": "Royal Terberg Group",
+    "job_title": "Senior Platform Engineer",
+    "location": "IJsselstein, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4478902960",
+    "job_url": "https://www.linkedin.com/jobs/view/4478902960",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-29"
+  },
+  {
     "company": "Amp\u00e8re",
     "job_title": "Platform Engineer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -781,20 +795,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-29"
-  },
-  {
-    "company": "Tata Consultancy Services",
-    "job_title": "Senior Azure Cloud Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482964892",
-    "job_url": "https://www.linkedin.com/jobs/view/4482964892",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-29",
     "last_seen": "2026-10-29"
   },
   {
@@ -1470,6 +1470,21 @@
     "last_seen": "2026-10-29"
   },
   {
+    "company": "Tata Consultancy Services",
+    "job_title": "Senior Azure Cloud Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482964892",
+    "job_url": "https://www.linkedin.com/jobs/view/4482964892",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "stale": true
+  },
+  {
     "company": "DHL eCommerce Nederland",
     "job_title": "Senior Java Developer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -1526,21 +1541,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-31",
-    "last_seen": "2026-10-29",
-    "stale": true
-  },
-  {
-    "company": "Royal Terberg Group",
-    "job_title": "Senior Platform Engineer",
-    "location": "IJsselstein, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4478902960",
-    "job_url": "https://www.linkedin.com/jobs/view/4478902960",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-20",
     "last_seen": "2026-10-29",
     "stale": true
   },
