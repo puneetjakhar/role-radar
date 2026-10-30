@@ -1414,20 +1414,6 @@
     "last_seen": "2026-10-30"
   },
   {
-    "company": "Toku",
-    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
-    "location": "South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
-    "job_url": "https://www.linkedin.com/jobs/view/4482117309",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-30"
-  },
-  {
     "company": "Together AI",
     "job_title": "Staff Engineer, Distributed Storage and HPC & AI Infrastructure",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1482,6 +1468,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-30"
+  },
+  {
+    "company": "Toku",
+    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "job_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-30",
+    "stale": true
   },
   {
     "company": "Accenture the Netherlands",
