@@ -378,6 +378,20 @@
     "last_seen": "2026-10-30"
   },
   {
+    "company": "DataSnipper",
+    "job_title": "Senior Software Engineer, Billing & Monetization",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483025869",
+    "job_url": "https://www.linkedin.com/jobs/view/4483025869",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30"
+  },
+  {
     "company": "Lemon.io",
     "job_title": "Senior Back End Developer",
     "location": "Netherlands",
@@ -504,17 +518,31 @@
     "last_seen": "2026-10-30"
   },
   {
-    "company": "Toku",
-    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
-    "location": "South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
-    "job_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "company": "Signicat",
+    "job_title": "Software Engineer \u2013 AI Agent Infrastructure",
+    "location": "Rotterdam and The Hague",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484536274",
+    "job_url": "https://www.linkedin.com/jobs/view/4484536274",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-23",
+    "date_posted": "2026-10-29",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-21",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30"
+  },
+  {
+    "company": "Trengo",
+    "job_title": "Senior Cloud Engineer (Kubernetes)",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483057189",
+    "job_url": "https://www.linkedin.com/jobs/view/4483057189",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-30",
     "last_seen": "2026-10-30"
   },
   {
@@ -571,20 +599,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-10-30"
-  },
-  {
-    "company": "Accenture the Netherlands",
-    "job_title": "Senior Cloud Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483895364",
-    "job_url": "https://www.linkedin.com/jobs/view/4483895364",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-29",
     "last_seen": "2026-10-30"
   },
   {
@@ -784,20 +798,6 @@
     "last_seen": "2026-10-30"
   },
   {
-    "company": "Tiqets",
-    "job_title": "Senior Platform Engineer",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479286344",
-    "job_url": "https://www.linkedin.com/jobs/view/4479286344",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-14",
-    "last_seen": "2026-10-30"
-  },
-  {
     "company": "Ashby",
     "job_title": "Staff Platform Engineer - EU",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -949,6 +949,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
+    "last_seen": "2026-10-30"
+  },
+  {
+    "company": "PwC Nederland",
+    "job_title": "Senior AI Engineer - Finance & Process",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484548018",
+    "job_url": "https://www.linkedin.com/jobs/view/4484548018",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-30",
     "last_seen": "2026-10-30"
   },
   {
@@ -1190,20 +1204,6 @@
     "last_seen": "2026-10-30"
   },
   {
-    "company": "ADC Consulting",
-    "job_title": "Consultant | AI Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483105515",
-    "job_url": "https://www.linkedin.com/jobs/view/4483105515",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-23",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-30"
-  },
-  {
     "company": "Checkout.com",
     "job_title": "Staff Software Engineer - Experimentation & Decisioning Platform",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1414,6 +1414,20 @@
     "last_seen": "2026-10-30"
   },
   {
+    "company": "Toku",
+    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "job_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-30"
+  },
+  {
     "company": "Together AI",
     "job_title": "Staff Engineer, Distributed Storage and HPC & AI Infrastructure",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1468,6 +1482,51 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-30"
+  },
+  {
+    "company": "Accenture the Netherlands",
+    "job_title": "Senior Cloud Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483895364",
+    "job_url": "https://www.linkedin.com/jobs/view/4483895364",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "stale": true
+  },
+  {
+    "company": "Tiqets",
+    "job_title": "Senior Platform Engineer",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479286344",
+    "job_url": "https://www.linkedin.com/jobs/view/4479286344",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-30",
+    "stale": true
+  },
+  {
+    "company": "ADC Consulting",
+    "job_title": "Consultant | AI Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483105515",
+    "job_url": "https://www.linkedin.com/jobs/view/4483105515",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-23",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-30",
+    "stale": true
   },
   {
     "company": "Mozilla",
