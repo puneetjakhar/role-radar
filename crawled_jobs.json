@@ -922,6 +922,20 @@
   },
   {
     "company": "Optiver Holding B.V.",
+    "job_title": "Software Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://optiver.com/working-at-optiver/career-opportunities/?numberposts=50&paged=1&office=amsterdam&department=technology",
+    "job_url": "https://optiver.com/join-us/jobs/technology/austin/software-engineer-2/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30"
+  },
+  {
+    "company": "Optiver Holding B.V.",
     "job_title": "Software Engineer (C++) - Derivatives",
     "location": "Netherlands",
     "careers_url": "https://optiver.com/working-at-optiver/career-opportunities/?numberposts=50&paged=1&office=amsterdam&department=technology",
