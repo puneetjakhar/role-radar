@@ -518,6 +518,20 @@
     "last_seen": "2026-10-30"
   },
   {
+    "company": "Devoteam",
+    "job_title": "Cloud Native Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4458347897",
+    "job_url": "https://www.linkedin.com/jobs/view/4458347897",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-10-30"
+  },
+  {
     "company": "Qualcomm",
     "job_title": "Infrastructure Engineer - Edge AI Platform - Qualcomm - Remote - Europe",
     "location": "Brabantine City Row",
@@ -823,20 +837,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-30"
-  },
-  {
-    "company": "Tata Consultancy Services",
-    "job_title": "Senior Azure Cloud Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482964892",
-    "job_url": "https://www.linkedin.com/jobs/view/4482964892",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-29",
     "last_seen": "2026-10-30"
   },
   {
@@ -1468,6 +1468,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-30"
+  },
+  {
+    "company": "Tata Consultancy Services",
+    "job_title": "Senior Azure Cloud Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482964892",
+    "job_url": "https://www.linkedin.com/jobs/view/4482964892",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "stale": true
   },
   {
     "company": "SOURCE.ME",
