@@ -42,20 +42,6 @@
     "last_seen": "2026-10-30"
   },
   {
-    "company": "Doctolib",
-    "job_title": "Senior Fullstack Engineer - Java, React (x/f/m)",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484946989",
-    "job_url": "https://www.linkedin.com/jobs/view/4484946989",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-29",
-    "last_seen": "2026-10-30"
-  },
-  {
     "company": "CGI Nederland",
     "job_title": "Senior Java Developer - Justice & Tax",
     "location": "The Randstad, Netherlands",
@@ -280,6 +266,20 @@
     "last_seen": "2026-10-30"
   },
   {
+    "company": "Tether.io",
+    "job_title": "Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483584117",
+    "job_url": "https://www.linkedin.com/jobs/view/4483584117",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-30"
+  },
+  {
     "company": "Esprit ICT",
     "job_title": "Senior Back-end Developer",
     "location": "Apeldoorn, Gelderland, Netherlands",
@@ -445,20 +445,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-10-30"
-  },
-  {
-    "company": "Tether.io",
-    "job_title": "Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483584117",
-    "job_url": "https://www.linkedin.com/jobs/view/4483584117",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-26",
     "last_seen": "2026-10-30"
   },
   {
@@ -1468,6 +1454,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-30"
+  },
+  {
+    "company": "Doctolib",
+    "job_title": "Senior Fullstack Engineer - Java, React (x/f/m)",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484946989",
+    "job_url": "https://www.linkedin.com/jobs/view/4484946989",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "stale": true
   },
   {
     "company": "Toku",
