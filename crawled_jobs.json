@@ -2207,20 +2207,6 @@
     "last_seen": "2026-10-30"
   },
   {
-    "company": "Tebi B.V.",
-    "job_title": "Senior Backend Engineer",
-    "location": "Amsterdam",
-    "careers_url": "https://jobs.ashbyhq.com/tebi",
-    "job_url": "https://jobs.ashbyhq.com/tebi/44666d09-157c-473c-b713-1d1b8ae7b0cb",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-28",
-    "description": "About Us Tebi is creating the first Connected Restaurant Management System that makes hospitality flow. In one seamless platform, Tebi embeds sales, reservations, kitchen prep, payments, and all the data that powers it, creating smooth service and intuitive insights. Founded by Arnout Schuijff, co-founder of Adyen, and backed by \u20ac50 million in funding from Index Ventures & CapitalG, Tebi is built in service of hospitality first. Thousands of restaurants, caf\u00e9s, bars, and coffee shops across the Netherlands, UK, Italy, Spain, Germany, Denmark and Finland already love running on Tebi. About the role: We\u2019re looking for a Senior Backend Engineer to help us build powerful, delightful features that empower restaurant teams. You\u2019ll work across the stack to bring new ideas to life, whether it\u2019s building intuitive interfaces, scalable backend services, or the glue in between that makes everything feel seamless. You\u2019ll collaborate closely with design, product, and other engineers to rapidly ship impactful features. As an early team member, you\u2019ll also help shape our engineering culture, tooling, and technical direction. This role is perfect for someone who thrives in fast-paced environments, loves solving real user problems, and wants to help modernize an underserved industry with thoughtful, elegant software. Responsibilities: Build, test, and ship end-to-end features across the stack\u2014from APIs and data models. Collaborate with designers and PMs to translate user needs into working, intuitive product experiences Own projects from concept to launch and beyond, balancing speed, quality, and scalability Improve system performance and reliability across frontend and backend systems Help evolve our codebase and technical architecture as we scale Contribute to shared tooling, component libraries, and best practices that level up the whole team What you\u2019ll need: 8+ years of professional experience as a fullstack or backend engineer in a product-focused environment Deep expertise in either Kotlin, Java, or Scala. Significant experience with distributed systems. You know how to build and maintain scalable, resilient services that work together. Experience with event-driven architectures (e.g., Kafka). Good experience of relational databases, such as Postgres. Comfortable working with APIs, relational databases, and docker A product mindset, you care about the why behind what you\u2019re building and optimizing for user impact Ability to work collaboratively across functions and communicate clearly with both technical and non-technical stakeholders Strong attention to detail and a sense of pride in crafting great user experiences What is Restaurant Software? Restaurants and other merchants use various software systems such as Point of Sale (POS), Reservations, Kitchen Display Systems (KDS), Payments, Inventory, Staffing, and the list goes on. These systems all need to speak to each other which they frequently don\u2019t. It\u2019s a mess, and we are fixing it. From buying a crois",
-    "notes": "Via Ashby API.",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-30"
-  },
-  {
     "company": "Aquablu B.V.",
     "job_title": "Senior AI Platform Engineer",
     "location": "Amsterdam, Netherlands",
@@ -2233,6 +2219,21 @@
     "notes": "Via Recruitee API.",
     "first_seen": "2026-07-10",
     "last_seen": "2026-10-30"
+  },
+  {
+    "company": "Tebi B.V.",
+    "job_title": "Senior Backend Engineer",
+    "location": "Amsterdam",
+    "careers_url": "https://jobs.ashbyhq.com/tebi",
+    "job_url": "https://jobs.ashbyhq.com/tebi/44666d09-157c-473c-b713-1d1b8ae7b0cb",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "About Us Tebi is creating the first Connected Restaurant Management System that makes hospitality flow. In one seamless platform, Tebi embeds sales, reservations, kitchen prep, payments, and all the data that powers it, creating smooth service and intuitive insights. Founded by Arnout Schuijff, co-founder of Adyen, and backed by \u20ac50 million in funding from Index Ventures & CapitalG, Tebi is built in service of hospitality first. Thousands of restaurants, caf\u00e9s, bars, and coffee shops across the Netherlands, UK, Italy, Spain, Germany, Denmark and Finland already love running on Tebi. About the role: We\u2019re looking for a Senior Backend Engineer to help us build powerful, delightful features that empower restaurant teams. You\u2019ll work across the stack to bring new ideas to life, whether it\u2019s building intuitive interfaces, scalable backend services, or the glue in between that makes everything feel seamless. You\u2019ll collaborate closely with design, product, and other engineers to rapidly ship impactful features. As an early team member, you\u2019ll also help shape our engineering culture, tooling, and technical direction. This role is perfect for someone who thrives in fast-paced environments, loves solving real user problems, and wants to help modernize an underserved industry with thoughtful, elegant software. Responsibilities: Build, test, and ship end-to-end features across the stack\u2014from APIs and data models. Collaborate with designers and PMs to translate user needs into working, intuitive product experiences Own projects from concept to launch and beyond, balancing speed, quality, and scalability Improve system performance and reliability across frontend and backend systems Help evolve our codebase and technical architecture as we scale Contribute to shared tooling, component libraries, and best practices that level up the whole team What you\u2019ll need: 8+ years of professional experience as a fullstack or backend engineer in a product-focused environment Deep expertise in either Kotlin, Java, or Scala. Significant experience with distributed systems. You know how to build and maintain scalable, resilient services that work together. Experience with event-driven architectures (e.g., Kafka). Good experience of relational databases, such as Postgres. Comfortable working with APIs, relational databases, and docker A product mindset, you care about the why behind what you\u2019re building and optimizing for user impact Ability to work collaboratively across functions and communicate clearly with both technical and non-technical stakeholders Strong attention to detail and a sense of pride in crafting great user experiences What is Restaurant Software? Restaurants and other merchants use various software systems such as Point of Sale (POS), Reservations, Kitchen Display Systems (KDS), Payments, Inventory, Staffing, and the list goes on. These systems all need to speak to each other which they frequently don\u2019t. It\u2019s a mess, and we are fixing it. From buying a crois",
+    "notes": "Via Ashby API.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-30",
+    "stale": true
   },
   {
     "company": "Takeaway.com Group B.V.",
