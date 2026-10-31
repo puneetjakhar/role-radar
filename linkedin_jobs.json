@@ -1190,6 +1190,20 @@
     "last_seen": "2026-10-31"
   },
   {
+    "company": "12Build",
+    "job_title": "AI Engineer",
+    "location": "Nijverdal, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483549241",
+    "job_url": "https://www.linkedin.com/jobs/view/4483549241",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-31"
+  },
+  {
     "company": "Curamando",
     "job_title": "Senior GenAI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1201,20 +1215,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-20",
-    "last_seen": "2026-10-31"
-  },
-  {
-    "company": "eBay",
-    "job_title": "Tech Lead Machine Learning Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4464249849",
-    "job_url": "https://www.linkedin.com/jobs/view/4464249849",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-12",
     "last_seen": "2026-10-31"
   },
   {
@@ -1386,20 +1386,6 @@
     "last_seen": "2026-10-31"
   },
   {
-    "company": "12Build",
-    "job_title": "AI Engineer",
-    "location": "Nijverdal, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483549241",
-    "job_url": "https://www.linkedin.com/jobs/view/4483549241",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-26",
-    "last_seen": "2026-10-31"
-  },
-  {
     "company": "Sprint and Partners",
     "job_title": "SRE Platform engineer - Senior & Staff - Amsterdam - global platform",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1482,6 +1468,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-21",
     "last_seen": "2026-10-31"
+  },
+  {
+    "company": "eBay",
+    "job_title": "Tech Lead Machine Learning Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4464249849",
+    "job_url": "https://www.linkedin.com/jobs/view/4464249849",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-10-31",
+    "stale": true
   },
   {
     "company": "Spherical Analytics",
