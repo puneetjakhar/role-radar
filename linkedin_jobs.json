@@ -1232,17 +1232,17 @@
     "last_seen": "2026-10-31"
   },
   {
-    "company": "StarIC",
-    "job_title": "Senior IC Digital Design Engineer (Netherlands office)",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484885954",
-    "job_url": "https://www.linkedin.com/jobs/view/4484885954",
+    "company": "Eye Security",
+    "job_title": "Senior Software Engineer, Agents (m/f/x)",
+    "location": "Rotterdam and The Hague",
+    "careers_url": "https://www.linkedin.com/jobs/view/4458975368",
+    "job_url": "https://www.linkedin.com/jobs/view/4458975368",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-30",
+    "date_posted": "2026-10-31",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-31",
+    "first_seen": "2026-08-28",
     "last_seen": "2026-10-31"
   },
   {
@@ -1468,6 +1468,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-31"
+  },
+  {
+    "company": "StarIC",
+    "job_title": "Senior IC Digital Design Engineer (Netherlands office)",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484885954",
+    "job_url": "https://www.linkedin.com/jobs/view/4484885954",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "stale": true
   },
   {
     "company": "Cushman & Wakefield",
