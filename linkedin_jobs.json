@@ -840,6 +840,20 @@
     "last_seen": "2026-10-31"
   },
   {
+    "company": "Tata Consultancy Services",
+    "job_title": "Senior Azure Cloud Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482964892",
+    "job_url": "https://www.linkedin.com/jobs/view/4482964892",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-31"
+  },
+  {
     "company": "Ashby",
     "job_title": "Staff Platform Engineer - EU",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -851,20 +865,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-28",
-    "last_seen": "2026-10-31"
-  },
-  {
-    "company": "Stream",
-    "job_title": "Staff Software Engineer, Platform & Infrastructure",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482627589",
-    "job_url": "https://www.linkedin.com/jobs/view/4482627589",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-24",
     "last_seen": "2026-10-31"
   },
   {
@@ -1218,6 +1218,20 @@
     "last_seen": "2026-10-31"
   },
   {
+    "company": "StarIC",
+    "job_title": "Senior IC Digital Design Engineer (Netherlands office)",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484885954",
+    "job_url": "https://www.linkedin.com/jobs/view/4484885954",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31"
+  },
+  {
     "company": "Checkout.com",
     "job_title": "Staff Software Engineer - Experimentation & Decisioning Platform",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1229,8 +1243,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
   },
   {
     "company": "Flexport",
@@ -1244,8 +1257,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
   },
   {
     "company": "Flow Traders",
@@ -1259,8 +1271,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-06",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
   },
   {
     "company": "SKIM",
@@ -1274,8 +1285,21 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
+  },
+  {
+    "company": "ParkBee",
+    "job_title": "Principal Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484931989",
+    "job_url": "https://www.linkedin.com/jobs/view/4484931989",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31"
   },
   {
     "company": "ServiceNow",
@@ -1289,8 +1313,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
   },
   {
     "company": "Wand AI",
@@ -1304,8 +1327,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
   },
   {
     "company": "Vinted",
@@ -1319,8 +1341,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
   },
   {
     "company": "Jobgether",
@@ -1334,8 +1355,21 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
+  },
+  {
+    "company": "Onto Innovation",
+    "job_title": "Staff Electrical Engineer",
+    "location": "Eindhoven, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484056353",
+    "job_url": "https://www.linkedin.com/jobs/view/4484056353",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31"
   },
   {
     "company": "Databricks",
@@ -1349,8 +1383,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
   },
   {
     "company": "Sendcloud",
@@ -1364,8 +1397,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
   },
   {
     "company": "Axelera AI",
@@ -1379,8 +1411,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
   },
   {
     "company": "Axelera AI",
@@ -1394,8 +1425,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
   },
   {
     "company": "Sprint and Partners",
@@ -1409,8 +1439,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-31",
-    "stale": true
+    "last_seen": "2026-10-31"
   },
   {
     "company": "Haystack People",
@@ -1424,6 +1453,48 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
+    "last_seen": "2026-10-31"
+  },
+  {
+    "company": "Storio group",
+    "job_title": "Principal iOS Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4429037958",
+    "job_url": "https://www.linkedin.com/jobs/view/4429037958",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-10-31"
+  },
+  {
+    "company": "HID",
+    "job_title": "Principal Software Engineer",
+    "location": "North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4400183483",
+    "job_url": "https://www.linkedin.com/jobs/view/4400183483",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-10-31"
+  },
+  {
+    "company": "Stream",
+    "job_title": "Staff Software Engineer, Platform & Infrastructure",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482627589",
+    "job_url": "https://www.linkedin.com/jobs/view/4482627589",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-24",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-24",
     "last_seen": "2026-10-31",
     "stale": true
   },
@@ -1454,36 +1525,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-02",
-    "last_seen": "2026-10-31",
-    "stale": true
-  },
-  {
-    "company": "Storio group",
-    "job_title": "Principal iOS Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4429037958",
-    "job_url": "https://www.linkedin.com/jobs/view/4429037958",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-02",
-    "last_seen": "2026-10-31",
-    "stale": true
-  },
-  {
-    "company": "HID",
-    "job_title": "Principal Software Engineer",
-    "location": "North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4400183483",
-    "job_url": "https://www.linkedin.com/jobs/view/4400183483",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-24",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-21",
     "last_seen": "2026-10-31",
     "stale": true
   },
@@ -1574,21 +1615,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-30",
-    "stale": true
-  },
-  {
-    "company": "Tata Consultancy Services",
-    "job_title": "Senior Azure Cloud Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482964892",
-    "job_url": "https://www.linkedin.com/jobs/view/4482964892",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-29",
     "last_seen": "2026-10-30",
     "stale": true
   },
