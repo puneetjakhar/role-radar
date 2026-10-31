@@ -1218,6 +1218,20 @@
     "last_seen": "2026-10-31"
   },
   {
+    "company": "Vinted",
+    "job_title": "Staff / Senior Staff Security Engineer, Vinted Pay",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469182726",
+    "job_url": "https://www.linkedin.com/jobs/view/4469182726",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-31",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-10-31"
+  },
+  {
     "company": "StarIC",
     "job_title": "Senior IC Digital Design Engineer (Netherlands office)",
     "location": "Utrecht, Netherlands",
@@ -1442,20 +1456,6 @@
     "last_seen": "2026-10-31"
   },
   {
-    "company": "Cushman & Wakefield",
-    "job_title": "Principal Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483741336",
-    "job_url": "https://www.linkedin.com/jobs/view/4483741336",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-31",
-    "last_seen": "2026-10-31"
-  },
-  {
     "company": "Haystack People",
     "job_title": "Backend Developer (Python)",
     "location": "Delft, South Holland, Netherlands",
@@ -1468,6 +1468,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-31"
+  },
+  {
+    "company": "Cushman & Wakefield",
+    "job_title": "Principal Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483741336",
+    "job_url": "https://www.linkedin.com/jobs/view/4483741336",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "stale": true
   },
   {
     "company": "ShowBird Nederland",
