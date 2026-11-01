@@ -11,7 +11,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Cboe Global Markets",
@@ -25,7 +26,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "FeedbackFruits",
@@ -39,7 +41,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "FeedbackFruits",
@@ -53,7 +56,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Zwinq",
@@ -67,7 +71,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Albert Heijn",
@@ -81,7 +86,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Databricks",
@@ -95,7 +101,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Databricks",
@@ -109,7 +116,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-05",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Lumera",
@@ -123,7 +131,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Mollie",
@@ -137,7 +146,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Jobgether",
@@ -151,7 +161,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "a.s.r.",
@@ -165,7 +176,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Vinted",
@@ -179,7 +191,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Dyflexis",
@@ -193,7 +206,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Jobgether",
@@ -207,7 +221,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "CGI Nederland",
@@ -221,7 +236,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Doghouse Recruitment",
@@ -235,7 +251,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "DataSnipper",
@@ -249,7 +266,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Fastned",
@@ -263,11 +281,12 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "FRANK",
-    "job_title": "\ud83e\uddd1\ud83d\udcbb Senior Backend Developer (PHP / Laravel)",
+    "job_title": "🧑💻 Senior Backend Developer (PHP / Laravel)",
     "location": "Rotterdam, South Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4484061755",
     "job_url": "https://www.linkedin.com/jobs/view/4484061755",
@@ -277,7 +296,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "ASN Bank",
@@ -291,7 +311,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "elockers",
@@ -305,7 +326,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Justworks",
@@ -319,7 +341,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Xebia",
@@ -333,7 +356,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Tether.io",
@@ -347,7 +371,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Bitvavo",
@@ -361,7 +386,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-06",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Devoteam",
@@ -375,11 +401,12 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Signicat",
-    "job_title": "Software Engineer \u2013 AI Agent Infrastructure",
+    "job_title": "Software Engineer – AI Agent Infrastructure",
     "location": "Rotterdam and The Hague",
     "careers_url": "https://www.linkedin.com/jobs/view/4484536274",
     "job_url": "https://www.linkedin.com/jobs/view/4484536274",
@@ -389,7 +416,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Trengo",
@@ -403,10 +431,11 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
-    "company": "Amp\u00e8re",
+    "company": "Ampère",
     "job_title": "Platform Engineer",
     "location": "Utrecht, Utrecht, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4475188199",
@@ -417,7 +446,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Erasmus MC Academie",
@@ -431,7 +461,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Together AI",
@@ -445,7 +476,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-02",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Schuberg Philis",
@@ -459,7 +491,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-19",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Together AI",
@@ -473,7 +506,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Sprint and Partners",
@@ -487,7 +521,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Datacation",
@@ -501,7 +536,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Harnham",
@@ -515,7 +551,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Humanoids",
@@ -529,7 +566,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "KLM Royal Dutch Airlines",
@@ -543,7 +581,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Tebi",
@@ -557,7 +596,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "SKIM",
@@ -571,7 +611,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Engaige",
@@ -585,7 +626,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Dustin",
@@ -599,7 +641,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Fellowmind",
@@ -613,7 +656,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "HVC",
@@ -627,7 +671,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "PwC Nederland",
@@ -641,7 +686,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "ilionx healthcare",
@@ -655,7 +701,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "LexisNexis Risk Solutions",
@@ -669,7 +716,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "ilionx",
@@ -683,7 +731,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Hilbert",
@@ -697,7 +746,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "eBay",
@@ -711,7 +761,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-24",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "SkinVision",
@@ -725,7 +776,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Haystack People",
@@ -739,11 +791,12 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "DataSnipper",
-    "job_title": "Senior Applied AI Engineer \u2013 Agent Runtime (Alwin by DataSnipper)",
+    "job_title": "Senior Applied AI Engineer – Agent Runtime (Alwin by DataSnipper)",
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4467213036",
     "job_url": "https://www.linkedin.com/jobs/view/4467213036",
@@ -753,7 +806,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-14",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Infinity Quest",
@@ -767,7 +821,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Xccelerated | Part of Xebia",
@@ -781,7 +836,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "FRISS",
@@ -795,7 +851,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Harnham",
@@ -809,7 +866,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-29",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Kake",
@@ -823,7 +881,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "12Build",
@@ -837,7 +896,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-01",
+    "stale": true
   },
   {
     "company": "Eye Security",
@@ -2101,7 +2161,7 @@
   },
   {
     "company": "Toku",
-    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
+    "job_title": "Staff Software Engineer – Distributed Systems",
     "location": "South Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
     "job_url": "https://www.linkedin.com/jobs/view/4482117309",
@@ -2416,7 +2476,7 @@
   },
   {
     "company": "Bluebird",
-    "job_title": "Senior Machine Learning Engineer | up to \u20ac180k",
+    "job_title": "Senior Machine Learning Engineer | up to €180k",
     "location": "Amsterdam Area",
     "careers_url": "https://www.linkedin.com/jobs/view/4482462214",
     "job_url": "https://www.linkedin.com/jobs/view/4482462214",
@@ -2791,7 +2851,7 @@
   },
   {
     "company": "Eye Security",
-    "job_title": "Senior Infrastructure Engineer \u2013 AI Platform (f/m/x)",
+    "job_title": "Senior Infrastructure Engineer – AI Platform (f/m/x)",
     "location": "Rotterdam and The Hague",
     "careers_url": "https://www.linkedin.com/jobs/view/4472172127",
     "job_url": "https://www.linkedin.com/jobs/view/4472172127",
@@ -3015,8 +3075,8 @@
     "stale": true
   },
   {
-    "company": "Rituals (B Corp\u2122)",
-    "job_title": "Staff Engineer - Cloud (GCP) & Observability \u2013 CHO Keizersgracht Amsterdam | 32-40h",
+    "company": "Rituals (B Corp™)",
+    "job_title": "Staff Engineer - Cloud (GCP) & Observability – CHO Keizersgracht Amsterdam | 32-40h",
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4481566685",
     "job_url": "https://www.linkedin.com/jobs/view/4481566685",
@@ -3046,7 +3106,7 @@
   },
   {
     "company": "Together AI",
-    "job_title": "Senior Software Engineer \u2014 Infra Agent Systems",
+    "job_title": "Senior Software Engineer — Infra Agent Systems",
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4462691471",
     "job_url": "https://www.linkedin.com/jobs/view/4462691471",
@@ -4531,7 +4591,7 @@
   },
   {
     "company": "Leaseweb",
-    "job_title": "Cloud Software Engineer \u2013 Managed Kubernetes",
+    "job_title": "Cloud Software Engineer – Managed Kubernetes",
     "location": "Amsterdam Area",
     "careers_url": "https://www.linkedin.com/jobs/view/4470298522",
     "job_url": "https://www.linkedin.com/jobs/view/4470298522",
@@ -4681,7 +4741,7 @@
   },
   {
     "company": "Sunweb Group",
-    "job_title": "Senior Backend Engineer \u2013 Mobile",
+    "job_title": "Senior Backend Engineer – Mobile",
     "location": "Rotterdam and The Hague",
     "careers_url": "https://www.linkedin.com/jobs/view/4479130014",
     "job_url": "https://www.linkedin.com/jobs/view/4479130014",
