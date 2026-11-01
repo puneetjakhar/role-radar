@@ -1,5 +1,19 @@
 [
   {
+    "company": "Datacation",
+    "job_title": "Junior AI Engineer",
+    "location": "Arnhem, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485944836",
+    "job_url": "https://www.linkedin.com/jobs/view/4485944836",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01"
+  },
+  {
     "company": "Harnham",
     "job_title": "AI/Machine Learning Engineer",
     "location": "Amsterdam Area",
@@ -322,20 +336,6 @@
     "last_seen": "2026-11-01"
   },
   {
-    "company": "12Build",
-    "job_title": "AI Engineer",
-    "location": "Nijverdal, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483549241",
-    "job_url": "https://www.linkedin.com/jobs/view/4483549241",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
-  },
-  {
     "company": "Curamando",
     "job_title": "Senior GenAI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -593,6 +593,20 @@
     "location": "Eindhoven, North Brabant, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4483741857",
     "job_url": "https://www.linkedin.com/jobs/view/4483741857",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-11-01"
+  },
+  {
+    "company": "12Build",
+    "job_title": "AI Engineer",
+    "location": "Nijverdal, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483549241",
+    "job_url": "https://www.linkedin.com/jobs/view/4483549241",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-26",
