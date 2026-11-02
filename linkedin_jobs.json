@@ -11,7 +11,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Cboe Global Markets",
@@ -25,7 +25,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "FeedbackFruits",
@@ -39,7 +39,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "FeedbackFruits",
@@ -53,7 +53,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Zwinq",
@@ -67,7 +67,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Albert Heijn",
@@ -81,7 +81,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Databricks",
@@ -95,7 +95,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Databricks",
@@ -109,7 +109,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-05",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Lumera",
@@ -123,7 +123,105 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "a.s.r.",
+    "job_title": "Senior Back-end Developer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485606681",
+    "job_url": "https://www.linkedin.com/jobs/view/4485606681",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "Dyflexis",
+    "job_title": "Senior Backend Engineer (PHP)",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484941262",
+    "job_url": "https://www.linkedin.com/jobs/view/4484941262",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "Fastned",
+    "job_title": "Senior Backend Engineer - Operator Team",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482503982",
+    "job_url": "https://www.linkedin.com/jobs/view/4482503982",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "FRANK",
+    "job_title": "\ud83e\uddd1\ud83d\udcbb Senior Backend Developer (PHP / Laravel)",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484061755",
+    "job_url": "https://www.linkedin.com/jobs/view/4484061755",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "ASN Bank",
+    "job_title": "Senior Java Developer",
+    "location": "The Randstad, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483633480",
+    "job_url": "https://www.linkedin.com/jobs/view/4483633480",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "elockers",
+    "job_title": "Senior Back End Developer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481882736",
+    "job_url": "https://www.linkedin.com/jobs/view/4481882736",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "Xebia",
+    "job_title": "Senior Backend Engineer (AI-Driven)",
+    "location": "Hilversum, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483535513",
+    "job_url": "https://www.linkedin.com/jobs/view/4483535513",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Dustin",
@@ -137,7 +235,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-12",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Bitvavo",
@@ -151,7 +249,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-06",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Devoteam",
@@ -165,7 +263,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Qualcomm",
@@ -179,7 +277,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Codefield",
@@ -193,7 +291,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Signicat",
@@ -207,7 +305,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Trengo",
@@ -221,7 +319,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Amp\u00e8re",
@@ -235,7 +333,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Luscii - an OMRON Healthcare service",
@@ -249,7 +347,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Taxonic",
@@ -263,7 +361,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Accenture the Netherlands",
@@ -277,7 +375,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Erasmus MC Academie",
@@ -291,7 +389,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Together AI",
@@ -305,7 +403,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-02",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Signicat",
@@ -319,7 +417,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-14",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Eneco",
@@ -333,7 +431,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Schuberg Philis",
@@ -347,7 +445,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-19",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Together AI",
@@ -361,7 +459,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Sprint and Partners",
@@ -375,7 +473,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Kabisa - Software Artisans",
@@ -389,7 +487,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "CIMSOLUTIONS",
@@ -403,7 +501,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Itility",
@@ -417,7 +515,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "CIMSOLUTIONS",
@@ -431,7 +529,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Alliander",
@@ -445,7 +543,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Sprint and Partners",
@@ -459,7 +557,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-30",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Tiqets",
@@ -473,7 +571,147 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-01"
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "Harnham",
+    "job_title": "AI/Machine Learning Engineer",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484488648",
+    "job_url": "https://www.linkedin.com/jobs/view/4484488648",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "SKIM",
+    "job_title": "Junior AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484968880",
+    "job_url": "https://www.linkedin.com/jobs/view/4484968880",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "Engaige",
+    "job_title": "Full Stack AI Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484925845",
+    "job_url": "https://www.linkedin.com/jobs/view/4484925845",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "ilionx healthcare",
+    "job_title": "AI Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484722513",
+    "job_url": "https://www.linkedin.com/jobs/view/4484722513",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "LexisNexis Risk Solutions",
+    "job_title": "AI Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484100150",
+    "job_url": "https://www.linkedin.com/jobs/view/4484100150",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "ilionx",
+    "job_title": "Senior AI Engineer",
+    "location": "Groningen, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484100097",
+    "job_url": "https://www.linkedin.com/jobs/view/4484100097",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "Hilbert",
+    "job_title": "AI Engineer",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483825158",
+    "job_url": "https://www.linkedin.com/jobs/view/4483825158",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "DataSnipper",
+    "job_title": "Senior Applied AI Engineer \u2013 Agent Runtime (Alwin by DataSnipper)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4467213036",
+    "job_url": "https://www.linkedin.com/jobs/view/4467213036",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-27",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "FRISS",
+    "job_title": "Junior AI Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483567304",
+    "job_url": "https://www.linkedin.com/jobs/view/4483567304",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-11-02"
+  },
+  {
+    "company": "Harnham",
+    "job_title": "Senior AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473282342",
+    "job_url": "https://www.linkedin.com/jobs/view/4473282342",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-26",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-11-02"
   },
   {
     "company": "Eye Security",
@@ -581,21 +819,6 @@
     "stale": true
   },
   {
-    "company": "Fastned",
-    "job_title": "Senior Backend Engineer - Operator Team",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482503982",
-    "job_url": "https://www.linkedin.com/jobs/view/4482503982",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
     "company": "Kadaster",
     "job_title": "Senior Software Engineer Omgevingswet",
     "location": "Apeldoorn, Gelderland, Netherlands",
@@ -607,21 +830,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
-    "company": "ASN Bank",
-    "job_title": "Senior Java Developer",
-    "location": "The Randstad, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483633480",
-    "job_url": "https://www.linkedin.com/jobs/view/4483633480",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-27",
     "last_seen": "2026-11-01",
     "stale": true
   },
@@ -652,21 +860,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
-    "company": "Xebia",
-    "job_title": "Senior Backend Engineer (AI-Driven)",
-    "location": "Hilversum, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483535513",
-    "job_url": "https://www.linkedin.com/jobs/view/4483535513",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-26",
     "last_seen": "2026-11-01",
     "stale": true
   },
@@ -716,21 +909,6 @@
     "stale": true
   },
   {
-    "company": "a.s.r.",
-    "job_title": "Senior Back-end Developer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4485606681",
-    "job_url": "https://www.linkedin.com/jobs/view/4485606681",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-30",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
     "company": "Vinted",
     "job_title": "Senior Backend Engineer II, Resilience",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -742,21 +920,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
-    "company": "Dyflexis",
-    "job_title": "Senior Backend Engineer (PHP)",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484941262",
-    "job_url": "https://www.linkedin.com/jobs/view/4484941262",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-29",
     "last_seen": "2026-11-01",
     "stale": true
   },
@@ -821,36 +984,6 @@
     "stale": true
   },
   {
-    "company": "FRANK",
-    "job_title": "\ud83e\uddd1\ud83d\udcbb Senior Backend Developer (PHP / Laravel)",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484061755",
-    "job_url": "https://www.linkedin.com/jobs/view/4484061755",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
-    "company": "elockers",
-    "job_title": "Senior Back End Developer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481882736",
-    "job_url": "https://www.linkedin.com/jobs/view/4481882736",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
     "company": "Justworks",
     "job_title": "Senior Software Engineer, Applied AI  (Netherlands)",
     "location": "Netherlands",
@@ -896,21 +1029,6 @@
     "stale": true
   },
   {
-    "company": "Harnham",
-    "job_title": "AI/Machine Learning Engineer",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484488648",
-    "job_url": "https://www.linkedin.com/jobs/view/4484488648",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-30",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
     "company": "Humanoids",
     "job_title": "Medior/Senior AI Engineer (Dutch speaking)",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -952,36 +1070,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
-    "company": "SKIM",
-    "job_title": "Junior AI Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484968880",
-    "job_url": "https://www.linkedin.com/jobs/view/4484968880",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-29",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
-    "company": "Engaige",
-    "job_title": "Full Stack AI Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484925845",
-    "job_url": "https://www.linkedin.com/jobs/view/4484925845",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-29",
     "last_seen": "2026-11-01",
     "stale": true
   },
@@ -1046,66 +1134,6 @@
     "stale": true
   },
   {
-    "company": "ilionx healthcare",
-    "job_title": "AI Engineer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484722513",
-    "job_url": "https://www.linkedin.com/jobs/view/4484722513",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
-    "company": "LexisNexis Risk Solutions",
-    "job_title": "AI Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484100150",
-    "job_url": "https://www.linkedin.com/jobs/view/4484100150",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
-    "company": "ilionx",
-    "job_title": "Senior AI Engineer",
-    "location": "Groningen, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484100097",
-    "job_url": "https://www.linkedin.com/jobs/view/4484100097",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
-    "company": "Hilbert",
-    "job_title": "AI Engineer",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483825158",
-    "job_url": "https://www.linkedin.com/jobs/view/4483825158",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
     "company": "eBay",
     "job_title": "Machine Learning Engineer - Agents",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1151,21 +1179,6 @@
     "stale": true
   },
   {
-    "company": "DataSnipper",
-    "job_title": "Senior Applied AI Engineer \u2013 Agent Runtime (Alwin by DataSnipper)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4467213036",
-    "job_url": "https://www.linkedin.com/jobs/view/4467213036",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-27",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-14",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
     "company": "Infinity Quest",
     "job_title": "Artificial Intelligence Engineer",
     "location": "Utrecht, Netherlands",
@@ -1192,36 +1205,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
-    "company": "FRISS",
-    "job_title": "Junior AI Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483567304",
-    "job_url": "https://www.linkedin.com/jobs/view/4483567304",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-26",
-    "last_seen": "2026-11-01",
-    "stale": true
-  },
-  {
-    "company": "Harnham",
-    "job_title": "Senior AI Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4473282342",
-    "job_url": "https://www.linkedin.com/jobs/view/4473282342",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-26",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-29",
     "last_seen": "2026-11-01",
     "stale": true
   },
@@ -4328,456 +4311,6 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-30",
     "last_seen": "2026-10-23",
-    "stale": true
-  },
-  {
-    "company": "Tellent",
-    "job_title": "Senior Backend Developer (Elixir)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4477304868",
-    "job_url": "https://www.linkedin.com/jobs/view/4477304868",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Assertive Yield B.V.",
-    "job_title": "Senior Full-Stack Engineer (TypeScript)",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479153194",
-    "job_url": "https://www.linkedin.com/jobs/view/4479153194",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-22",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "SageBeans RPO",
-    "job_title": "Senior AI Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479407680",
-    "job_url": "https://www.linkedin.com/jobs/view/4479407680",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Sogeti",
-    "job_title": "Medior AI Engineer",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4477315076",
-    "job_url": "https://www.linkedin.com/jobs/view/4477315076",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "McFly & Brown",
-    "job_title": "Senior Cloud & DevOps Engineer - High tech",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4477306158",
-    "job_url": "https://www.linkedin.com/jobs/view/4477306158",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Plumerai",
-    "job_title": "Senior Deep Learning Research Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4451547955",
-    "job_url": "https://www.linkedin.com/jobs/view/4451547955",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-11",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Mendix",
-    "job_title": "Senior Software Engineer - Offline",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4440449341",
-    "job_url": "https://www.linkedin.com/jobs/view/4440449341",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-21",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Soar",
-    "job_title": "Senior Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4477097147",
-    "job_url": "https://www.linkedin.com/jobs/view/4477097147",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Veneta.com",
-    "job_title": "Senior Back-end Developer",
-    "location": "Zwolle, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479118523",
-    "job_url": "https://www.linkedin.com/jobs/view/4479118523",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "123inkt.nl",
-    "job_title": "Kubernetes Engineer",
-    "location": "Nederhorst den Berg, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479835648",
-    "job_url": "https://www.linkedin.com/jobs/view/4479835648",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Sioux Technologies",
-    "job_title": "Senior Cloud & DevOps Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479848170",
-    "job_url": "https://www.linkedin.com/jobs/view/4479848170",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Picnic Technologies",
-    "job_title": "Senior Machine Learning Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4284413550",
-    "job_url": "https://www.linkedin.com/jobs/view/4284413550",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-12",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Veneta.com",
-    "job_title": "Senior AI Engineer",
-    "location": "Zwolle, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479111735",
-    "job_url": "https://www.linkedin.com/jobs/view/4479111735",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Tellent",
-    "job_title": "Senior Backend Engineer (Node.js)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4441507827",
-    "job_url": "https://www.linkedin.com/jobs/view/4441507827",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-23",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Brain Corp",
-    "job_title": "Software Engineer II, Cloud",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469499700",
-    "job_url": "https://www.linkedin.com/jobs/view/4469499700",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Leaseweb",
-    "job_title": "Cloud Software Engineer \u2013 Managed Kubernetes",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4470298522",
-    "job_url": "https://www.linkedin.com/jobs/view/4470298522",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Flexport",
-    "job_title": "Staff Senior Software Engineer, DevEx SRE",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4460025118",
-    "job_url": "https://www.linkedin.com/jobs/view/4460025118",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-22",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Conflux",
-    "job_title": "Senior Java Developer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479811298",
-    "job_url": "https://www.linkedin.com/jobs/view/4479811298",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Conflux",
-    "job_title": "Senior Kubernetes Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479821083",
-    "job_url": "https://www.linkedin.com/jobs/view/4479821083",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Reddit, Inc.",
-    "job_title": "Staff Machine Learning Engineer, Ads Foundational Representations",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4442744251",
-    "job_url": "https://www.linkedin.com/jobs/view/4442744251",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-12",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "NAVARA",
-    "job_title": "Senior Java Software Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4414093614",
-    "job_url": "https://www.linkedin.com/jobs/view/4414093614",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Infor",
-    "job_title": "Senior Java Software Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4477056922",
-    "job_url": "https://www.linkedin.com/jobs/view/4477056922",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Sprint and Partners",
-    "job_title": "Exceptional Engineers (Python -> AI coding) - AI Native scale up - You are a true bar raiser - Solid runway (fresh funding) - Real e2e product impact - Significant equity package - Amsterdam",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4459146834",
-    "job_url": "https://www.linkedin.com/jobs/view/4459146834",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-27",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "SiTime",
-    "job_title": "Principal Software Engineer",
-    "location": "Rijswijk, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479351849",
-    "job_url": "https://www.linkedin.com/jobs/view/4479351849",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-16",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Overstory",
-    "job_title": "Staff Machine Learning Engineer - Wildfire",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4477326789",
-    "job_url": "https://www.linkedin.com/jobs/view/4477326789",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Sunweb Group",
-    "job_title": "Senior Backend Engineer \u2013 Mobile",
-    "location": "Rotterdam and The Hague",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479130014",
-    "job_url": "https://www.linkedin.com/jobs/view/4479130014",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "ALOIS Solutions",
-    "job_title": "Machine Learning Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482047571",
-    "job_url": "https://www.linkedin.com/jobs/view/4482047571",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-21",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Capgemini",
-    "job_title": "AI Engineer - NL",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4471500997",
-    "job_url": "https://www.linkedin.com/jobs/view/4471500997",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Kyndryl",
-    "job_title": "AI Platform Engineer - AI Gateway",
-    "location": "Amstelveen, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479804642",
-    "job_url": "https://www.linkedin.com/jobs/view/4479804642",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-15",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-10-22",
-    "stale": true
-  },
-  {
-    "company": "Aptly",
-    "job_title": "Founding Engineer",
-    "location": "Eindhoven, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4480937765",
-    "job_url": "https://www.linkedin.com/jobs/view/4480937765",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-19",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-19",
-    "last_seen": "2026-10-22",
     "stale": true
   }
 ]
