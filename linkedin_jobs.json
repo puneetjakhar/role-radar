@@ -378,17 +378,17 @@
     "last_seen": "2026-11-03"
   },
   {
-    "company": "Mollie",
-    "job_title": "Senior Application Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4464606727",
-    "job_url": "https://www.linkedin.com/jobs/view/4464606727",
+    "company": "Toku",
+    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
+    "location": "South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
+    "job_url": "https://www.linkedin.com/jobs/view/4482117309",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-31",
+    "date_posted": "2026-11-02",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-08",
+    "first_seen": "2026-10-21",
     "last_seen": "2026-11-03"
   },
   {
@@ -1246,20 +1246,6 @@
     "last_seen": "2026-11-03"
   },
   {
-    "company": "Toku",
-    "job_title": "Staff Software Engineer \u2013 Distributed Systems",
-    "location": "South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4482117309",
-    "job_url": "https://www.linkedin.com/jobs/view/4482117309",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-11-03"
-  },
-  {
     "company": "WhiteSpace Solutions",
     "job_title": "Artificial Intelligence Engineer",
     "location": "The Hague, South Holland, Netherlands",
@@ -1327,6 +1313,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-28",
+    "last_seen": "2026-11-03"
+  },
+  {
+    "company": "StarIC",
+    "job_title": "Senior IC Digital Design Engineer (Netherlands office)",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484885954",
+    "job_url": "https://www.linkedin.com/jobs/view/4484885954",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-31",
     "last_seen": "2026-11-03"
   },
   {
@@ -1428,6 +1428,21 @@
     "last_seen": "2026-11-03"
   },
   {
+    "company": "Mollie",
+    "job_title": "Senior Application Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4464606727",
+    "job_url": "https://www.linkedin.com/jobs/view/4464606727",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-31",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-11-03",
+    "stale": true
+  },
+  {
     "company": "Haystack People",
     "job_title": "Senior fullstack typescript developer",
     "location": "Utrecht, Netherlands",
@@ -1484,21 +1499,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-20",
-    "last_seen": "2026-11-03",
-    "stale": true
-  },
-  {
-    "company": "StarIC",
-    "job_title": "Senior IC Digital Design Engineer (Netherlands office)",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484885954",
-    "job_url": "https://www.linkedin.com/jobs/view/4484885954",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-30",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-31",
     "last_seen": "2026-11-03",
     "stale": true
   },
