@@ -1190,6 +1190,20 @@
     "last_seen": "2026-11-03"
   },
   {
+    "company": "Jobgether",
+    "job_title": "Staff Software Engineer, Field Engineering",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486020777",
+    "job_url": "https://www.linkedin.com/jobs/view/4486020777",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03"
+  },
+  {
     "company": "WhiteSpace Solutions",
     "job_title": "Artificial Intelligence Engineer",
     "location": "The Hague, South Holland, Netherlands",
@@ -1400,20 +1414,6 @@
     "last_seen": "2026-11-03"
   },
   {
-    "company": "QuantWare",
-    "job_title": "Quantum R&D Engineer \u2013 Processor Development",
-    "location": "Delft, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4453364641",
-    "job_url": "https://www.linkedin.com/jobs/view/4453364641",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-11-03"
-  },
-  {
     "company": "Jobgether",
     "job_title": "Staff Backend Software Engineer",
     "location": "Netherlands",
@@ -1454,6 +1454,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-05-30",
     "last_seen": "2026-11-03"
+  },
+  {
+    "company": "QuantWare",
+    "job_title": "Quantum R&D Engineer \u2013 Processor Development",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4453364641",
+    "job_url": "https://www.linkedin.com/jobs/view/4453364641",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-11-03",
+    "stale": true
   },
   {
     "company": "Albert Heijn",
