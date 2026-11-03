@@ -1169,20 +1169,6 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Security Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-11-03"
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior Golang Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1193,6 +1179,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-10-15",
+    "last_seen": "2026-11-03"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Security Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053157/Senior-Security-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-26",
     "last_seen": "2026-11-03"
   },
   {
@@ -1211,10 +1211,10 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Android Developer",
+    "job_title": "Senior IOS Developer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053634/Senior-Android-Developer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053633/Senior-IOS-Developer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -2234,6 +2234,21 @@
     "last_seen": "2026-11-03"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Android Developer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053634/Senior-Android-Developer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-03",
+    "stale": true
+  },
+  {
     "company": "Adyen N.V.",
     "job_title": "Software Engineer (Full-Stack)",
     "location": "Amsterdam, Netherlands",
@@ -2245,21 +2260,6 @@
     "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. About Our Team As a Fullstack Engineer in the Merchant Fraud Prevention group, you will build and maintain fraud detection and mitigation features across both frontend and backend systems. Working alongside product managers, designers, and data teams, you will turn product requirements into merchant-facing interfaces and backend services. You will deliver end-to-end features, write clean code across the full stack, and help improve the overall fraud prevention platform. What You'll Do: Design, build, and deploy frontend features across the Merchant Fraud Prevention group, including risk profile configuration, rule builders, analytics dashboards and case management tools. Work across the full stack, with backend work focused on small features, bug fixes, and implementing and exposing APIs for frontend consumption.&nbsp; Design, implement and maintain component libraries as part of a comprehensive design system. Ensure web applications meet accessibility standards and support a global customer base providing the best possible user experience.&nbsp; Who You Are: You\u2019re a Software Engineer with 4 or more years of experience in JavaScript and TypeScript; deep familiarity with Vue.js is strongly preferred. Experience in fullstack environments, including reading and contributing to backend API layers and writing performant SQL queries; familiarity with Java or other statically-typed backend languages,&nbsp; and with database schema changes, including larger migrations requiring team alignment, is a plus. Expertise in designing and using component libraries, including defining and implementing design systems. Working experience with micro-frontend architectures and building highly scalable frontend solutions. Strong understanding of Software Engineering fundamentals, including testing practices (unit, integration, and end-to-end), CI/CD pipelines, and an interest in building reliable, maintainable systems Our Diversity, Equity and Inclusion commitments&nbsp; Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them - voices like yours. No matter who you are or where you\u2019re from, we welcome you to be yo",
     "notes": "Dept: Development. Via Greenhouse board.",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-11-03",
-    "stale": true
-  },
-  {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior IOS Developer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053633/Senior-IOS-Developer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-27",
     "last_seen": "2026-11-03",
     "stale": true
   },
