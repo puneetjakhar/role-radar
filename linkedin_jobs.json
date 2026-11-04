@@ -1162,17 +1162,17 @@
     "last_seen": "2026-11-04"
   },
   {
-    "company": "Veldsink Groep",
-    "job_title": "AI Engineer",
-    "location": "Nuenen, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484427576",
-    "job_url": "https://www.linkedin.com/jobs/view/4484427576",
+    "company": "Xomnia",
+    "job_title": "Machine Learning Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4282843346",
+    "job_url": "https://www.linkedin.com/jobs/view/4282843346",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-28",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-29",
+    "first_seen": "2026-05-31",
     "last_seen": "2026-11-04"
   },
   {
@@ -1428,6 +1428,21 @@
     "last_seen": "2026-11-04"
   },
   {
+    "company": "Veldsink Groep",
+    "job_title": "AI Engineer",
+    "location": "Nuenen, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484427576",
+    "job_url": "https://www.linkedin.com/jobs/view/4484427576",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-11-04",
+    "stale": true
+  },
+  {
     "company": "Albert Heijn",
     "job_title": "Senior Backend Developer (Kotlin/Java, Spring, Kafka)",
     "location": "Zaandam, North Holland, Netherlands",
@@ -1604,21 +1619,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-02",
-    "last_seen": "2026-11-03",
-    "stale": true
-  },
-  {
-    "company": "Xomnia",
-    "job_title": "Machine Learning Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4282843346",
-    "job_url": "https://www.linkedin.com/jobs/view/4282843346",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-05-31",
     "last_seen": "2026-11-03",
     "stale": true
   },
