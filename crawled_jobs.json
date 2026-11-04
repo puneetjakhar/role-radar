@@ -155,6 +155,20 @@
   },
   {
     "company": "Adyen N.V.",
+    "job_title": "Senior Manager, Application Engineering",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
+    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/8329027",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Senior Manager, Application Engineering&nbsp; Adyen\u2019s Application Engineering team builds, runs, and automates the core platforms Adyen uses every day to collaborate: the Atlassian suite, Slack Enterprise Grid, Google Workspace, Zoom, and the emerging AI tooling that connects them (such as Claude, Gemini Enterprise, and Rovo). We are looking for an experienced engineering leader who has guided workplace collaboration, tooling, or internal platforms teams, and who excels at translating complex backlogs into clear, high-impact deliverables. In this role, you will lead a team of 11+ engineers, own the platform roadmap, and partner closely with cross-functional stakeholders who rely on our productivity ecosystem across the company. ***(internally, the role is being called Team Lead, Application Engineering)&nbsp; What You\u2019ll Do Strategy &amp; Roadmapping: Establish the team\u2019s short- and medium-term vision. Synthesize requests from across the business, balance priorities against capacity, and transparently communicate trade-offs to stakeholders. Project Delivery: Guide projects end-to-end\u2014from scoping and planning through delivery and rollout\u2014establishing clear milestones, ownership, risk management, and progress reporting. Platform Operations: Coordinate and execute tool launches, migrations, and platform enhancements across a global workforce, incorporating effective change management, communication, and training. Governance &amp; Reliability: Maintain a secure, reliable, and scalable SaaS ecosystem, partnering with Security and Enterprise Access Management on identity, access governance, and data protection controls. Automation &amp; AI Innovation: Champion the team\u2019s automation and AI roadmap in partnership with our Forward Deployed Engineering team, integrating agentic workflows that reduce friction for both your team and end users. Vendor Partnerships: Oversee SaaS vendor relationships, licensing strategies, and contract renewals. People Leadership: Mentor, support, and grow a team of Enterprise Applications Engineers. Set transparent goals, provide constructive feedback to support career progression, and lead using Adyen\u2019s framework: Empower, Care, Act, Scale . Team Growth: Lead hiring initiatives and intentionally shape team organization and capabilities as Adyen scales. Operational Excellence: Set and sustain",
+    "notes": "Dept: Infrastructure. Via Greenhouse board.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-11-04"
+  },
+  {
+    "company": "Adyen N.V.",
     "job_title": "Senior Partner Solutions Engineer - Cellular Connectivity",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
@@ -235,20 +249,6 @@
     "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Why you should join the Adyen Storage Team&nbsp; This team is part of our Platform Engineering team in Amsterdam. The purpose of Platform Engineering is to enable Adyen engineers to autonomously build and support secure, scalable and reliable applications with high speed and quality through a common technology ecosystem. As a storage engineer of our Storage team in Amsterdam, you will be responsible for designing, implementing, managing, and maintaining data storage systems and solutions. This role involves the end-to-end management of our organization's data storage infrastructure. This includes strategic design for scalability, hands-on implementation and integration, continuous performance monitoring, capacity planning, security, and troubleshooting. It also requires proactive maintenance with updates, backups, disaster recovery, and planning for future growth by evaluating and recommending new technologies for data availability, reliability, and efficiency.&nbsp; Sounds exciting? Keep reading! What You\u2019ll Do:&nbsp; Design and deploy storage infrastructure (SAN, Object Storage) in accordance with organizational needs.&nbsp; Monitor and maintain storage systems to guarantee optimal performance, availability, and reliability.&nbsp; Perform capacity planning and forecasting for future storage needs.&nbsp; Develop and implement strategies for backup, replication, and disaster recovery.&nbsp; Troubleshoot and resolve issues related to storage systems.&nbsp; Maintain documentation of configurations, procedures, and standards.&nbsp; Collaborate with other Platform Engineering teams on system upgrades, migrations, and integrations.&nbsp; Automate storage provisioning and management using scripting or infrastructure-as-code tools &nbsp; Who You Are:&nbsp; 5+ years of experience in Linux systems administration with a focus on storage (e.g., Ceph) Proven experience with enterprise storage systems (e.g., Purestorage, NetApp, EMC, Dell, IBM, Hitachi). You have a strong understanding of RAID, LVM, NFS, iSCSI, multipathing, and file systems (ext4, XFS, ZFS, etc.)&nbsp; Hands-on experience with enterprise storage systems and clustering technologies&nbsp; Proficiency in shell scripting;&nbsp; You have Python, Puppet or Ansible knowledge experience with virtualization technologies such as VMware or KVM.&nbsp; You have familiari",
     "notes": "Dept: Infrastructure. Via Greenhouse board.",
     "first_seen": "2026-08-17",
-    "last_seen": "2026-11-04"
-  },
-  {
-    "company": "Adyen N.V.",
-    "job_title": "Software Engineer (Full-Stack)",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
-    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/8105757",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-09",
-    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. About Our Team As a Fullstack Engineer in the Merchant Fraud Prevention group, you will build and maintain fraud detection and mitigation features across both frontend and backend systems. Working alongside product managers, designers, and data teams, you will turn product requirements into merchant-facing interfaces and backend services. You will deliver end-to-end features, write clean code across the full stack, and help improve the overall fraud prevention platform. What You'll Do: Design, build, and deploy frontend features across the Merchant Fraud Prevention group, including risk profile configuration, rule builders, analytics dashboards and case management tools. Work across the full stack, with backend work focused on small features, bug fixes, and implementing and exposing APIs for frontend consumption.&nbsp; Design, implement and maintain component libraries as part of a comprehensive design system. Ensure web applications meet accessibility standards and support a global customer base providing the best possible user experience.&nbsp; Who You Are: You\u2019re a Software Engineer with 4 or more years of experience in JavaScript and TypeScript; deep familiarity with Vue.js is strongly preferred. Experience in fullstack environments, including reading and contributing to backend API layers and writing performant SQL queries; familiarity with Java or other statically-typed backend languages,&nbsp; and with database schema changes, including larger migrations requiring team alignment, is a plus. Expertise in designing and using component libraries, including defining and implementing design systems. Working experience with micro-frontend architectures and building highly scalable frontend solutions. Strong understanding of Software Engineering fundamentals, including testing practices (unit, integration, and end-to-end), CI/CD pipelines, and an interest in building reliable, maintainable systems Our Diversity, Equity and Inclusion commitments&nbsp; Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them - voices like yours. No matter who you are or where you\u2019re from, we welcome you to be yo",
-    "notes": "Dept: Development. Via Greenhouse board.",
-    "first_seen": "2026-10-09",
     "last_seen": "2026-11-04"
   },
   {
@@ -1347,20 +1347,6 @@
     "last_seen": "2026-11-04"
   },
   {
-    "company": "Criteo Netherlands B.V.",
-    "job_title": "Machine Learning Engineer Intern",
-    "location": "Netherlands",
-    "careers_url": "https://careers.criteo.com/en/jobs/?Location=Amsterdam",
-    "job_url": "https://careers.criteo.com/en/jobs/r14933/machine-learning-engineer-intern/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-11-04"
-  },
-  {
     "company": "Flow Traders B.V.",
     "job_title": "AI Engineering Manager",
     "location": "Amsterdam, Netherlands",
@@ -2163,6 +2149,36 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-02",
     "last_seen": "2026-11-04"
+  },
+  {
+    "company": "Adyen N.V.",
+    "job_title": "Software Engineer (Full-Stack)",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
+    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/8105757",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-09",
+    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. About Our Team As a Fullstack Engineer in the Merchant Fraud Prevention group, you will build and maintain fraud detection and mitigation features across both frontend and backend systems. Working alongside product managers, designers, and data teams, you will turn product requirements into merchant-facing interfaces and backend services. You will deliver end-to-end features, write clean code across the full stack, and help improve the overall fraud prevention platform. What You'll Do: Design, build, and deploy frontend features across the Merchant Fraud Prevention group, including risk profile configuration, rule builders, analytics dashboards and case management tools. Work across the full stack, with backend work focused on small features, bug fixes, and implementing and exposing APIs for frontend consumption.&nbsp; Design, implement and maintain component libraries as part of a comprehensive design system. Ensure web applications meet accessibility standards and support a global customer base providing the best possible user experience.&nbsp; Who You Are: You\u2019re a Software Engineer with 4 or more years of experience in JavaScript and TypeScript; deep familiarity with Vue.js is strongly preferred. Experience in fullstack environments, including reading and contributing to backend API layers and writing performant SQL queries; familiarity with Java or other statically-typed backend languages,&nbsp; and with database schema changes, including larger migrations requiring team alignment, is a plus. Expertise in designing and using component libraries, including defining and implementing design systems. Working experience with micro-frontend architectures and building highly scalable frontend solutions. Strong understanding of Software Engineering fundamentals, including testing practices (unit, integration, and end-to-end), CI/CD pipelines, and an interest in building reliable, maintainable systems Our Diversity, Equity and Inclusion commitments&nbsp; Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them - voices like yours. No matter who you are or where you\u2019re from, we welcome you to be yo",
+    "notes": "Dept: Development. Via Greenhouse board.",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-11-04",
+    "stale": true
+  },
+  {
+    "company": "Criteo Netherlands B.V.",
+    "job_title": "Machine Learning Engineer Intern",
+    "location": "Netherlands",
+    "careers_url": "https://careers.criteo.com/en/jobs/?Location=Amsterdam",
+    "job_url": "https://careers.criteo.com/en/jobs/r14933/machine-learning-engineer-intern/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-11-04",
+    "stale": true
   },
   {
     "company": "JetBrains N.V.",
@@ -3493,21 +3509,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29",
-    "stale": true
-  },
-  {
-    "company": "Adyen N.V.",
-    "job_title": "Senior Manager, Application Engineering",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
-    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/8329027",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-28",
-    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Senior Manager, Application Engineering&nbsp; Adyen\u2019s Application Engineering team builds, runs, and automates the core platforms Adyen uses every day to collaborate: the Atlassian suite, Slack Enterprise Grid, Google Workspace, Zoom, and the emerging AI tooling that connects them (such as Claude, Gemini Enterprise, and Rovo). We are looking for an experienced engineering leader who has guided workplace collaboration, tooling, or internal platforms teams, and who excels at translating complex backlogs into clear, high-impact deliverables. In this role, you will lead a team of 11+ engineers, own the platform roadmap, and partner closely with cross-functional stakeholders who rely on our productivity ecosystem across the company. ***(internally, the role is being called Team Lead, Application Engineering)&nbsp; What You\u2019ll Do Strategy &amp; Roadmapping: Establish the team\u2019s short- and medium-term vision. Synthesize requests from across the business, balance priorities against capacity, and transparently communicate trade-offs to stakeholders. Project Delivery: Guide projects end-to-end\u2014from scoping and planning through delivery and rollout\u2014establishing clear milestones, ownership, risk management, and progress reporting. Platform Operations: Coordinate and execute tool launches, migrations, and platform enhancements across a global workforce, incorporating effective change management, communication, and training. Governance &amp; Reliability: Maintain a secure, reliable, and scalable SaaS ecosystem, partnering with Security and Enterprise Access Management on identity, access governance, and data protection controls. Automation &amp; AI Innovation: Champion the team\u2019s automation and AI roadmap in partnership with our Forward Deployed Engineering team, integrating agentic workflows that reduce friction for both your team and end users. Vendor Partnerships: Oversee SaaS vendor relationships, licensing strategies, and contract renewals. People Leadership: Mentor, support, and grow a team of Enterprise Applications Engineers. Set transparent goals, provide constructive feedback to support career progression, and lead using Adyen\u2019s framework: Empower, Care, Act, Scale . Team Growth: Lead hiring initiatives and intentionally shape team organization and capabilities as Adyen scales. Operational Excellence: Set and sustain",
-    "notes": "Dept: Infrastructure. Via Greenhouse board.",
-    "first_seen": "2026-10-28",
     "last_seen": "2026-10-29",
     "stale": true
   },
