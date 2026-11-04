@@ -1,5 +1,19 @@
 [
   {
+    "company": "Sartre Group",
+    "job_title": "Senior Software Engineer (Rust) - Algorithmic Trading",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4487261583",
+    "job_url": "https://www.linkedin.com/jobs/view/4487261583",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04"
+  },
+  {
     "company": "Vesper",
     "job_title": "Senior Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -277,20 +291,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-04"
-  },
-  {
-    "company": "Kadaster",
-    "job_title": "Senior Software Engineer (Mikado)",
-    "location": "Apeldoorn, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4474232568",
-    "job_url": "https://www.linkedin.com/jobs/view/4474232568",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-05",
     "last_seen": "2026-11-04"
   },
   {
@@ -840,6 +840,20 @@
     "last_seen": "2026-11-04"
   },
   {
+    "company": "Sogeti",
+    "job_title": "Medior AI Machine Learning Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476468350",
+    "job_url": "https://www.linkedin.com/jobs/view/4476468350",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04"
+  },
+  {
     "company": "JetBrains",
     "job_title": "Founding ML Engineer (Spectrum)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -873,20 +887,6 @@
     "location": "The Randstad, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4486833396",
     "job_url": "https://www.linkedin.com/jobs/view/4486833396",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-04"
-  },
-  {
-    "company": "adesso SE",
-    "job_title": "Medior AI Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4487013012",
-    "job_url": "https://www.linkedin.com/jobs/view/4487013012",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-11-03",
@@ -1246,20 +1246,6 @@
     "last_seen": "2026-11-04"
   },
   {
-    "company": "Fivetran",
-    "job_title": "Senior Staff Software Engineer - SAP Connectors",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4487075232",
-    "job_url": "https://www.linkedin.com/jobs/view/4487075232",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-04"
-  },
-  {
     "company": "WhiteSpace Solutions",
     "job_title": "Artificial Intelligence Engineer",
     "location": "The Hague, South Holland, Netherlands",
@@ -1426,6 +1412,51 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
     "last_seen": "2026-11-04"
+  },
+  {
+    "company": "Kadaster",
+    "job_title": "Senior Software Engineer (Mikado)",
+    "location": "Apeldoorn, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4474232568",
+    "job_url": "https://www.linkedin.com/jobs/view/4474232568",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-11-04",
+    "stale": true
+  },
+  {
+    "company": "adesso SE",
+    "job_title": "Medior AI Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4487013012",
+    "job_url": "https://www.linkedin.com/jobs/view/4487013012",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
+    "stale": true
+  },
+  {
+    "company": "Fivetran",
+    "job_title": "Senior Staff Software Engineer - SAP Connectors",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4487075232",
+    "job_url": "https://www.linkedin.com/jobs/view/4487075232",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-04",
+    "stale": true
   },
   {
     "company": "Taxonic",
