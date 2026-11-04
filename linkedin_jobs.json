@@ -896,6 +896,20 @@
     "last_seen": "2026-11-04"
   },
   {
+    "company": "Lefebvre Sdu",
+    "job_title": "Senior AI Engineer (Agentic AI)",
+    "location": "The Randstad, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486833396",
+    "job_url": "https://www.linkedin.com/jobs/view/4486833396",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-04"
+  },
+  {
     "company": "adesso SE",
     "job_title": "Medior AI Engineer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -1162,20 +1176,6 @@
     "last_seen": "2026-11-04"
   },
   {
-    "company": "ilionx healthcare",
-    "job_title": "AI Engineer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484722513",
-    "job_url": "https://www.linkedin.com/jobs/view/4484722513",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-28",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-11-04"
-  },
-  {
     "company": "Samba",
     "job_title": "Senior Software Engineer - Identity",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1428,6 +1428,21 @@
     "last_seen": "2026-11-04"
   },
   {
+    "company": "ilionx healthcare",
+    "job_title": "AI Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484722513",
+    "job_url": "https://www.linkedin.com/jobs/view/4484722513",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-28",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-11-04",
+    "stale": true
+  },
+  {
     "company": "Kadaster",
     "job_title": "Senior Software Engineer Omgevingswet",
     "location": "Apeldoorn, Gelderland, Netherlands",
@@ -1439,21 +1454,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-04",
-    "stale": true
-  },
-  {
-    "company": "Lefebvre Sdu",
-    "job_title": "Senior AI Engineer (Agentic AI)",
-    "location": "The Randstad, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486833396",
-    "job_url": "https://www.linkedin.com/jobs/view/4486833396",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-03",
     "last_seen": "2026-11-04",
     "stale": true
   },
