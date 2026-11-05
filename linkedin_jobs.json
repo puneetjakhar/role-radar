@@ -868,20 +868,6 @@
     "last_seen": "2026-11-05"
   },
   {
-    "company": "Robin AI",
-    "job_title": "Deep Learning Engineer",
-    "location": "Delft, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4485589824",
-    "job_url": "https://www.linkedin.com/jobs/view/4485589824",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-05"
-  },
-  {
     "company": "Harnham",
     "job_title": "Data Scientist/AI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -957,6 +943,20 @@
     "location": "The Randstad, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4486833396",
     "job_url": "https://www.linkedin.com/jobs/view/4486833396",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-05"
+  },
+  {
+    "company": "adesso SE",
+    "job_title": "Medior AI Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4487013012",
+    "job_url": "https://www.linkedin.com/jobs/view/4487013012",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-11-03",
@@ -1414,6 +1414,21 @@
     "last_seen": "2026-11-05"
   },
   {
+    "company": "Robin AI",
+    "job_title": "Deep Learning Engineer",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485589824",
+    "job_url": "https://www.linkedin.com/jobs/view/4485589824",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "stale": true
+  },
+  {
     "company": "Basic-Fit",
     "job_title": "Senior TypeScript Developer",
     "location": "Tilburg, North Brabant, Netherlands",
@@ -1425,21 +1440,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-21",
-    "last_seen": "2026-11-05",
-    "stale": true
-  },
-  {
-    "company": "adesso SE",
-    "job_title": "Medior AI Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4487013012",
-    "job_url": "https://www.linkedin.com/jobs/view/4487013012",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-03",
     "last_seen": "2026-11-05",
     "stale": true
   },
