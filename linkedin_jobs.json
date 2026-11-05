@@ -140,20 +140,6 @@
     "last_seen": "2026-11-05"
   },
   {
-    "company": "Essent",
-    "job_title": "Senior Software Engineer",
-    "location": "\u2019s-Hertogenbosch, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486507542",
-    "job_url": "https://www.linkedin.com/jobs/view/4486507542",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
-  },
-  {
     "company": "Walker & Dunlop",
     "job_title": "Senior Software Engineer",
     "location": "Amsterdam Area",
@@ -193,6 +179,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-03",
+    "last_seen": "2026-11-05"
+  },
+  {
+    "company": "Airwallex",
+    "job_title": "Senior Software Engineer, Payments Platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4278835281",
+    "job_url": "https://www.linkedin.com/jobs/view/4278835281",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-05",
     "last_seen": "2026-11-05"
   },
   {
@@ -445,20 +445,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "company": "Airwallex",
-    "job_title": "Senior Software Engineer, Payments Platform",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4278835281",
-    "job_url": "https://www.linkedin.com/jobs/view/4278835281",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-05",
     "last_seen": "2026-11-05"
   },
   {
@@ -1454,6 +1440,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-28",
     "last_seen": "2026-11-05"
+  },
+  {
+    "company": "Essent",
+    "job_title": "Senior Software Engineer",
+    "location": "\u2019s-Hertogenbosch, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486507542",
+    "job_url": "https://www.linkedin.com/jobs/view/4486507542",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
+    "stale": true
   },
   {
     "company": "Get-e",
