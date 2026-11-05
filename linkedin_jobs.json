@@ -1,5 +1,19 @@
 [
   {
+    "company": "Voodoo",
+    "job_title": "Senior Backend Engineer (Golang) - Castle Busters",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4452623319",
+    "job_url": "https://www.linkedin.com/jobs/view/4452623319",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-11-05"
+  },
+  {
     "company": "Jobgether",
     "job_title": "Delphi Senior Software Engineer",
     "location": "Netherlands",
@@ -221,20 +235,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "company": "Eye Security",
-    "job_title": "Senior Software Engineer (m/f/x)",
-    "location": "Rotterdam and The Hague",
-    "careers_url": "https://www.linkedin.com/jobs/view/4404292908",
-    "job_url": "https://www.linkedin.com/jobs/view/4404292908",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-03",
     "last_seen": "2026-11-05"
   },
   {
@@ -473,20 +473,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "company": "CGI Nederland",
-    "job_title": "Senior Java Developer - Justice & Tax",
-    "location": "The Randstad, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484996115",
-    "job_url": "https://www.linkedin.com/jobs/view/4484996115",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-29",
     "last_seen": "2026-11-05"
   },
   {
@@ -1050,6 +1036,20 @@
     "last_seen": "2026-11-05"
   },
   {
+    "company": "Robin Radar Systems",
+    "job_title": "Deep Learning Engineer (Radar Computer Vision)",
+    "location": "Delft, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486168105",
+    "job_url": "https://www.linkedin.com/jobs/view/4486168105",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-05"
+  },
+  {
     "company": "Datacation",
     "job_title": "Junior AI Engineer",
     "location": "Arnhem, Gelderland, Netherlands",
@@ -1134,20 +1134,6 @@
     "last_seen": "2026-11-05"
   },
   {
-    "company": "HVC",
-    "job_title": "AI engineer",
-    "location": "Alkmaar, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483664938",
-    "job_url": "https://www.linkedin.com/jobs/view/4483664938",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-05"
-  },
-  {
     "company": "PwC Nederland",
     "job_title": "Senior AI Engineer - Finance & Process",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1209,6 +1195,20 @@
     "location": "'s-Hertogenbosch, North Brabant, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4485508046",
     "job_url": "https://www.linkedin.com/jobs/view/4485508046",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-05"
+  },
+  {
+    "company": "IKEA",
+    "job_title": "Senior Software Engineer - Android, IKEA App [Amsterdam]",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486392250",
+    "job_url": "https://www.linkedin.com/jobs/view/4486392250",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-11-04",
@@ -1344,6 +1344,20 @@
     "last_seen": "2026-11-05"
   },
   {
+    "company": "Eye Security",
+    "job_title": "Senior Software Engineer (m/f/x)",
+    "location": "Rotterdam and The Hague",
+    "careers_url": "https://www.linkedin.com/jobs/view/4404292908",
+    "job_url": "https://www.linkedin.com/jobs/view/4404292908",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-11-05"
+  },
+  {
     "company": "Vinted",
     "job_title": "Staff / Senior Staff Security Engineer, Vinted Pay",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1372,17 +1386,17 @@
     "last_seen": "2026-11-05"
   },
   {
-    "company": "Checkout.com",
-    "job_title": "Staff Software Engineer - Experimentation & Decisioning Platform",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4457289173",
-    "job_url": "https://www.linkedin.com/jobs/view/4457289173",
+    "company": "StarIC",
+    "job_title": "Senior IC Digital Design Engineer (Netherlands office)",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484885954",
+    "job_url": "https://www.linkedin.com/jobs/view/4484885954",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-10-29",
+    "date_posted": "2026-10-30",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-26",
+    "first_seen": "2026-10-31",
     "last_seen": "2026-11-05"
   },
   {
@@ -1414,6 +1428,51 @@
     "last_seen": "2026-11-05"
   },
   {
+    "company": "CGI Nederland",
+    "job_title": "Senior Java Developer - Justice & Tax",
+    "location": "The Randstad, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484996115",
+    "job_url": "https://www.linkedin.com/jobs/view/4484996115",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-11-05",
+    "stale": true
+  },
+  {
+    "company": "HVC",
+    "job_title": "AI engineer",
+    "location": "Alkmaar, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483664938",
+    "job_url": "https://www.linkedin.com/jobs/view/4483664938",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-05",
+    "stale": true
+  },
+  {
+    "company": "Checkout.com",
+    "job_title": "Staff Software Engineer - Experimentation & Decisioning Platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4457289173",
+    "job_url": "https://www.linkedin.com/jobs/view/4457289173",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-11-05",
+    "stale": true
+  },
+  {
     "company": "ParkBee",
     "job_title": "Principal Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1425,7 +1484,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-05",
+    "stale": true
   },
   {
     "company": "Dyflexis",
@@ -1593,21 +1653,6 @@
     "stale": true
   },
   {
-    "company": "Robin Radar Systems",
-    "job_title": "Deep Learning Engineer (Radar Computer Vision)",
-    "location": "Delft, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486168105",
-    "job_url": "https://www.linkedin.com/jobs/view/4486168105",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-02",
-    "last_seen": "2026-11-05",
-    "stale": true
-  },
-  {
     "company": "Jobgether",
     "job_title": "Senior Backend Developer (Java/Spring Boot, Agentic LLMs)",
     "location": "Netherlands",
@@ -1634,21 +1679,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-21",
-    "last_seen": "2026-11-05",
-    "stale": true
-  },
-  {
-    "company": "IKEA",
-    "job_title": "Senior Software Engineer - Android, IKEA App [Amsterdam]",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486392250",
-    "job_url": "https://www.linkedin.com/jobs/view/4486392250",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-04",
     "last_seen": "2026-11-05",
     "stale": true
   },
@@ -1904,21 +1934,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-04",
-    "stale": true
-  },
-  {
-    "company": "StarIC",
-    "job_title": "Senior IC Digital Design Engineer (Netherlands office)",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484885954",
-    "job_url": "https://www.linkedin.com/jobs/view/4484885954",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-30",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-31",
     "last_seen": "2026-11-04",
     "stale": true
   },
