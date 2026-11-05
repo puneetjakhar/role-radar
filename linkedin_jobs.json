@@ -350,6 +350,20 @@
     "last_seen": "2026-11-05"
   },
   {
+    "company": "Tellent",
+    "job_title": "Senior Backend Engineer (Node.js)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4441507827",
+    "job_url": "https://www.linkedin.com/jobs/view/4441507827",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-11-05"
+  },
+  {
     "company": "Shiftbase",
     "job_title": "Senior PHP Backend Developer",
     "location": "Zoetermeer, South Holland, Netherlands",
@@ -431,20 +445,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-02",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Senior .NET Developer (Fintech)",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4485129516",
-    "job_url": "https://www.linkedin.com/jobs/view/4485129516",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-31",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-31",
     "last_seen": "2026-11-05"
   },
   {
@@ -1400,20 +1400,6 @@
     "last_seen": "2026-11-05"
   },
   {
-    "company": "Flow Traders",
-    "job_title": "Staff Enterprise Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4448411208",
-    "job_url": "https://www.linkedin.com/jobs/view/4448411208",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-06",
-    "last_seen": "2026-11-05"
-  },
-  {
     "company": "SKIM",
     "job_title": "Senior AI Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1426,6 +1412,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
     "last_seen": "2026-11-05"
+  },
+  {
+    "company": "Jobgether",
+    "job_title": "Senior .NET Developer (Fintech)",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485129516",
+    "job_url": "https://www.linkedin.com/jobs/view/4485129516",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-31",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-11-05",
+    "stale": true
+  },
+  {
+    "company": "Flow Traders",
+    "job_title": "Staff Enterprise Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4448411208",
+    "job_url": "https://www.linkedin.com/jobs/view/4448411208",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-11-05",
+    "stale": true
   },
   {
     "company": "Dustin",
