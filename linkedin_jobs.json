@@ -840,6 +840,20 @@
     "last_seen": "2026-11-05"
   },
   {
+    "company": "Staffworx",
+    "job_title": "Senior Agentic AI Engineer (Netherlands)",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4487712981",
+    "job_url": "https://www.linkedin.com/jobs/view/4487712981",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  {
     "company": "Robin AI",
     "job_title": "Deep Learning Engineer",
     "location": "Delft, South Holland, Netherlands",
@@ -1103,20 +1117,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "company": "Fellowmind",
-    "job_title": "AI Engineer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4483012620",
-    "job_url": "https://www.linkedin.com/jobs/view/4483012620",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-30",
     "last_seen": "2026-11-05"
   },
   {
@@ -1426,6 +1426,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
     "last_seen": "2026-11-05"
+  },
+  {
+    "company": "Fellowmind",
+    "job_title": "AI Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483012620",
+    "job_url": "https://www.linkedin.com/jobs/view/4483012620",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-11-05",
+    "stale": true
   },
   {
     "company": "Spilberg",
