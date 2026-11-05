@@ -1,5 +1,19 @@
 [
   {
+    "company": "Redwood Software",
+    "job_title": "Senior Software Engineer",
+    "location": "Houten, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486779227",
+    "job_url": "https://www.linkedin.com/jobs/view/4486779227",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  {
     "company": "Nebius",
     "job_title": "Senior Backend Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -182,20 +196,6 @@
     "last_seen": "2026-11-05"
   },
   {
-    "company": "Basic-Fit",
-    "job_title": "Senior TypeScript Developer",
-    "location": "Tilburg, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4469848802",
-    "job_url": "https://www.linkedin.com/jobs/view/4469848802",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-21",
-    "last_seen": "2026-11-05"
-  },
-  {
     "company": "Adyen",
     "job_title": "Senior Software Engineer (Java) - Financial Products",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -319,20 +319,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "company": "Redwood Software",
-    "job_title": "Senior Software Engineer",
-    "location": "Houten, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486779227",
-    "job_url": "https://www.linkedin.com/jobs/view/4486779227",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-05",
     "last_seen": "2026-11-05"
   },
   {
@@ -798,6 +784,20 @@
     "last_seen": "2026-11-05"
   },
   {
+    "company": "HelloPrint",
+    "job_title": "Junior or Medior AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488016427",
+    "job_url": "https://www.linkedin.com/jobs/view/4488016427",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  {
     "company": "Suitsupply",
     "job_title": "AI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -966,20 +966,6 @@
     "last_seen": "2026-11-05"
   },
   {
-    "company": "adesso SE",
-    "job_title": "Medior AI Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4487013012",
-    "job_url": "https://www.linkedin.com/jobs/view/4487013012",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-05"
-  },
-  {
     "company": "Hilbert",
     "job_title": "AI Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1078,20 +1064,6 @@
     "last_seen": "2026-11-05"
   },
   {
-    "company": "Harnham",
-    "job_title": "Data Scientist/AI Engineer",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484488648",
-    "job_url": "https://www.linkedin.com/jobs/view/4484488648",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-30",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-11-05"
-  },
-  {
     "company": "KLM Royal Dutch Airlines",
     "job_title": "Machine Learning Engineer Level 1",
     "location": "Schiphol, North Holland, Netherlands",
@@ -1134,11 +1106,67 @@
     "last_seen": "2026-11-05"
   },
   {
+    "company": "Harnham",
+    "job_title": "Data Scientist/AI Engineer",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484488648",
+    "job_url": "https://www.linkedin.com/jobs/view/4484488648",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-11-05"
+  },
+  {
+    "company": "Lemonade",
+    "job_title": "Senior Backend Engineer, Pricing Platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488026152",
+    "job_url": "https://www.linkedin.com/jobs/view/4488026152",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  {
+    "company": "Redwood Software",
+    "job_title": "Principle Software Engineer",
+    "location": "Houten, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486777415",
+    "job_url": "https://www.linkedin.com/jobs/view/4486777415",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  {
     "company": "EngRadar",
     "job_title": "Principle Software Engineer",
     "location": "Houten, Utrecht, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4487777953",
     "job_url": "https://www.linkedin.com/jobs/view/4487777953",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  {
+    "company": "Nexperia",
+    "job_title": "Senior Principal IC Design Engineer",
+    "location": "Nijmegen, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485832880",
+    "job_url": "https://www.linkedin.com/jobs/view/4485832880",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-11-05",
@@ -1181,20 +1209,6 @@
     "location": "Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4481629256",
     "job_url": "https://www.linkedin.com/jobs/view/4481629256",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "company": "ENTER BV",
-    "job_title": "Principal Mechatronics Engineer",
-    "location": "Eindhoven Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486417532",
-    "job_url": "https://www.linkedin.com/jobs/view/4486417532",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-11-05",
@@ -1400,6 +1414,51 @@
     "last_seen": "2026-11-05"
   },
   {
+    "company": "Basic-Fit",
+    "job_title": "Senior TypeScript Developer",
+    "location": "Tilburg, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469848802",
+    "job_url": "https://www.linkedin.com/jobs/view/4469848802",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-21",
+    "last_seen": "2026-11-05",
+    "stale": true
+  },
+  {
+    "company": "adesso SE",
+    "job_title": "Medior AI Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4487013012",
+    "job_url": "https://www.linkedin.com/jobs/view/4487013012",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-05",
+    "stale": true
+  },
+  {
+    "company": "ENTER BV",
+    "job_title": "Principal Mechatronics Engineer",
+    "location": "Eindhoven Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486417532",
+    "job_url": "https://www.linkedin.com/jobs/view/4486417532",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "stale": true
+  },
+  {
     "company": "StarIC",
     "job_title": "Senior IC Digital Design Engineer (Netherlands office)",
     "location": "Utrecht, Netherlands",
@@ -1411,7 +1470,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-05",
+    "stale": true
   },
   {
     "company": "ClusterVision",
