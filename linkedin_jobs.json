@@ -336,6 +336,20 @@
     "last_seen": "2026-11-05"
   },
   {
+    "company": "Lemonade",
+    "job_title": "Senior Backend Engineer, Growth Platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4487030140",
+    "job_url": "https://www.linkedin.com/jobs/view/4487030140",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-05"
+  },
+  {
     "company": "Shiftbase",
     "job_title": "Senior PHP Backend Developer",
     "location": "Zoetermeer, South Holland, Netherlands",
@@ -361,20 +375,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "company": "Lemonade",
-    "job_title": "Senior Backend Engineer, Growth Platform",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4487030140",
-    "job_url": "https://www.linkedin.com/jobs/view/4487030140",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-03",
     "last_seen": "2026-11-05"
   },
   {
@@ -529,6 +529,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  {
+    "company": "123inkt.nl",
+    "job_title": "Kubernetes Engineer",
+    "location": "Nederhorst den Berg, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479835648",
+    "job_url": "https://www.linkedin.com/jobs/view/4479835648",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-15",
     "last_seen": "2026-11-05"
   },
   {
@@ -728,20 +742,6 @@
     "last_seen": "2026-11-05"
   },
   {
-    "company": "Dustin",
-    "job_title": "Software Engineer DevOps",
-    "location": "Leiden, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4433369473",
-    "job_url": "https://www.linkedin.com/jobs/view/4433369473",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-12",
-    "last_seen": "2026-11-05"
-  },
-  {
     "company": "Bitvavo",
     "job_title": "Senior Platform Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -823,6 +823,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-08",
+    "last_seen": "2026-11-05"
+  },
+  {
+    "company": "Nationale-Nederlanden",
+    "job_title": "AI Engineer",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486750783",
+    "job_url": "https://www.linkedin.com/jobs/view/4486750783",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
     "last_seen": "2026-11-05"
   },
   {
@@ -1061,20 +1075,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "company": "TreeHouse NL",
-    "job_title": "AI Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4434108451",
-    "job_url": "https://www.linkedin.com/jobs/view/4434108451",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-31",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-21",
     "last_seen": "2026-11-05"
   },
   {
@@ -1426,6 +1426,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-29",
     "last_seen": "2026-11-05"
+  },
+  {
+    "company": "Dustin",
+    "job_title": "Software Engineer DevOps",
+    "location": "Leiden, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4433369473",
+    "job_url": "https://www.linkedin.com/jobs/view/4433369473",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-11-05",
+    "stale": true
+  },
+  {
+    "company": "TreeHouse NL",
+    "job_title": "AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4434108451",
+    "job_url": "https://www.linkedin.com/jobs/view/4434108451",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-31",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-11-05",
+    "stale": true
   },
   {
     "company": "Sytac",
