@@ -1374,20 +1374,6 @@
     "last_seen": "2026-11-05"
   },
   {
-    "company": "Criteo Netherlands B.V.",
-    "job_title": "Machine Learning Engineer Intern",
-    "location": "Netherlands",
-    "careers_url": "https://careers.criteo.com/en/jobs/?Location=Amsterdam",
-    "job_url": "https://careers.criteo.com/en/jobs/r14933/machine-learning-engineer-intern/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-11-05"
-  },
-  {
     "company": "Flow Traders B.V.",
     "job_title": "AI Engineering Manager",
     "location": "Amsterdam, Netherlands",
@@ -1668,20 +1654,6 @@
     "last_seen": "2026-11-05"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Global Investment Research-Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/188067",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-05"
-  },
-  {
     "company": "CM.com International B.V.",
     "job_title": "Full Stack Developer (Onboarding & Enablement)",
     "location": "Breda, Netherlands",
@@ -1851,20 +1823,6 @@
   },
   {
     "company": "Sigma Software Group",
-    "job_title": "SENIOR EMBEDDED SOFTWARE DEVELOPER (NETWORKING, SECURITY)\nDnipro\nEurope\nLviv\nPoland\nUkraine\nWarsaw\nC++\nEmbedded\nEngineer",
-    "location": "Netherlands",
-    "careers_url": "https://career.sigma.software/",
-    "job_url": "https://career.sigma.software/vacancy/senior-embedded-software-developer-2/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "company": "Sigma Software Group",
     "job_title": "SENIOR DATA ENGINEER\nEurope\nData Engineering\nEngineering\nAPPLY",
     "location": "Netherlands",
     "careers_url": "https://career.sigma.software/",
@@ -1875,6 +1833,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-10-27",
+    "last_seen": "2026-11-05"
+  },
+  {
+    "company": "Sigma Software Group",
+    "job_title": "SENIOR BACKEND ENGINEER( ADTECH)\nAlbania\nBrazil\nEurope\nLatin America\nPoland\nRomania\nUkraine\nEngineering\nAPPLY",
+    "location": "Netherlands",
+    "careers_url": "https://career.sigma.software/",
+    "job_url": "https://career.sigma.software/vacancy/senior-backend-engineer-3/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-04",
     "last_seen": "2026-11-05"
   },
   {
@@ -2217,6 +2189,51 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-02",
     "last_seen": "2026-11-05"
+  },
+  {
+    "company": "Criteo Netherlands B.V.",
+    "job_title": "Machine Learning Engineer Intern",
+    "location": "Netherlands",
+    "careers_url": "https://careers.criteo.com/en/jobs/?Location=Amsterdam",
+    "job_url": "https://careers.criteo.com/en/jobs/r14933/machine-learning-engineer-intern/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-11-05",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Global Investment Research-Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/188067",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "stale": true
+  },
+  {
+    "company": "Sigma Software Group",
+    "job_title": "SENIOR EMBEDDED SOFTWARE DEVELOPER (NETWORKING, SECURITY)\nDnipro\nEurope\nLviv\nPoland\nUkraine\nWarsaw\nC++\nEmbedded\nEngineer",
+    "location": "Netherlands",
+    "careers_url": "https://career.sigma.software/",
+    "job_url": "https://career.sigma.software/vacancy/senior-embedded-software-developer-2/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-05",
+    "stale": true
   },
   {
     "company": "TomTom International B.V.",
@@ -2650,21 +2667,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-29",
-    "last_seen": "2026-11-04",
-    "stale": true
-  },
-  {
-    "company": "Sigma Software Group",
-    "job_title": "SENIOR BACKEND ENGINEER( ADTECH)\nAlbania\nBrazil\nEurope\nLatin America\nPoland\nRomania\nUkraine\nEngineering\nAPPLY",
-    "location": "Netherlands",
-    "careers_url": "https://career.sigma.software/",
-    "job_url": "https://career.sigma.software/vacancy/senior-backend-engineer-3/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-11-04",
     "last_seen": "2026-11-04",
     "stale": true
   },
