@@ -322,6 +322,20 @@
     "last_seen": "2026-11-05"
   },
   {
+    "company": "Just Eat Takeaway.com",
+    "job_title": "Senior open to Mid Backend Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485574922",
+    "job_url": "https://www.linkedin.com/jobs/view/4485574922",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  {
     "company": "Shiftbase",
     "job_title": "Senior PHP Backend Developer",
     "location": "Zoetermeer, South Holland, Netherlands",
@@ -467,20 +481,6 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4484913976",
     "job_url": "https://www.linkedin.com/jobs/view/4484913976",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-29",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-29",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "company": "CGI Nederland",
-    "job_title": "Senior Java Developer - Justice & Tax",
-    "location": "The Randstad, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484996115",
-    "job_url": "https://www.linkedin.com/jobs/view/4484996115",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-10-29",
@@ -826,6 +826,20 @@
     "last_seen": "2026-11-05"
   },
   {
+    "company": "Just Eat Takeaway.com",
+    "job_title": "Machine Learning Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485593082",
+    "job_url": "https://www.linkedin.com/jobs/view/4485593082",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  {
     "company": "Sogeti",
     "job_title": "AI Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1019,20 +1033,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "company": "TreeHouse NL",
-    "job_title": "AI Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4434108451",
-    "job_url": "https://www.linkedin.com/jobs/view/4434108451",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-31",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-21",
     "last_seen": "2026-11-05"
   },
   {
@@ -1426,6 +1426,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-31",
     "last_seen": "2026-11-05"
+  },
+  {
+    "company": "CGI Nederland",
+    "job_title": "Senior Java Developer - Justice & Tax",
+    "location": "The Randstad, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484996115",
+    "job_url": "https://www.linkedin.com/jobs/view/4484996115",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-29",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-11-05",
+    "stale": true
+  },
+  {
+    "company": "TreeHouse NL",
+    "job_title": "AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4434108451",
+    "job_url": "https://www.linkedin.com/jobs/view/4434108451",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-31",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-11-05",
+    "stale": true
   },
   {
     "company": "IKEA",
