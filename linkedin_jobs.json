@@ -686,6 +686,20 @@
     "last_seen": "2026-11-06"
   },
   {
+    "company": "Jobgether",
+    "job_title": "Staff Platform Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486742761",
+    "job_url": "https://www.linkedin.com/jobs/view/4486742761",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-06"
+  },
+  {
     "company": "12Build",
     "job_title": "Agentic Platform Engineer",
     "location": "Nijverdal, Overijssel, Netherlands",
@@ -809,20 +823,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-02",
-    "last_seen": "2026-11-06"
-  },
-  {
-    "company": "Dustin",
-    "job_title": "Software Engineer DevOps",
-    "location": "Leiden, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4433369473",
-    "job_url": "https://www.linkedin.com/jobs/view/4433369473",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-12",
     "last_seen": "2026-11-06"
   },
   {
@@ -1442,6 +1442,21 @@
     "last_seen": "2026-11-06"
   },
   {
+    "company": "Dustin",
+    "job_title": "Software Engineer DevOps",
+    "location": "Leiden, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4433369473",
+    "job_url": "https://www.linkedin.com/jobs/view/4433369473",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-11-06",
+    "stale": true
+  },
+  {
     "company": "Doctolib",
     "job_title": "Senior Fullstack Engineer - Java, React (x/f/m)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1453,21 +1468,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-06",
-    "stale": true
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Staff Platform Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486742761",
-    "job_url": "https://www.linkedin.com/jobs/view/4486742761",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-05",
     "last_seen": "2026-11-06",
     "stale": true
   },
