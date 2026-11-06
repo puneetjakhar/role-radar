@@ -1347,20 +1347,6 @@
     "last_seen": "2026-11-06"
   },
   {
-    "company": "Criteo Netherlands B.V.",
-    "job_title": "Machine Learning Engineer Intern",
-    "location": "Netherlands",
-    "careers_url": "https://careers.criteo.com/en/jobs/?Location=Amsterdam",
-    "job_url": "https://careers.criteo.com/en/jobs/r14933/machine-learning-engineer-intern/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-11-06"
-  },
-  {
     "company": "Flow Traders B.V.",
     "job_title": "AI Engineering Manager",
     "location": "Amsterdam, Netherlands",
@@ -1638,6 +1624,34 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-30",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "The Core Engineering -Bengaluru-Associate-Software Engineering\nBengaluru\u00b7India\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/180912",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Software Engineer, Global Investment Research, Agentic Systems\nDallas\u00b7United States\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/187976",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-28",
     "last_seen": "2026-11-06"
   },
   {
@@ -2190,6 +2204,21 @@
     "last_seen": "2026-11-06"
   },
   {
+    "company": "Criteo Netherlands B.V.",
+    "job_title": "Machine Learning Engineer Intern",
+    "location": "Netherlands",
+    "careers_url": "https://careers.criteo.com/en/jobs/?Location=Amsterdam",
+    "job_url": "https://careers.criteo.com/en/jobs/r14933/machine-learning-engineer-intern/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-11-06",
+    "stale": true
+  },
+  {
     "company": "TomTom International B.V.",
     "job_title": "Software Engineering Intern - Internal Developer Platform",
     "location": "Amsterdam, The Netherlands",
@@ -2246,21 +2275,6 @@
     "description": "{\"body\": [\"We\\u2019re looking for a Software Engineer to join our team and help us build a production-ready AI/data product for TomTom. The work is covering everything from new feature development to infrastructure, and data Engineering.\"], \"sections\": [{\"title\": \"Responsibilities:\", \"items\": [{\"text\": \"Build AI systems: Design, develop and maintain production AI solutions, including LLM-based applications, retrieval-augmented generation (RAG) pipelines, agentic workflows and ML model services.\"}, {\"text\": \"Productionize models: Take models and prototypes from applied scientists and turn them into robust, low-latency, cost-efficient services that scale to global traffic.\"}, {\"text\": \"Evaluation and quality: Define and automate evaluation frameworks, benchmarks and guardrails that measure accuracy, safety, latency and cost, and monitor models once they're in production.\"}, {\"text\": \"Data and pipelines: Build and optimize data pipelines for training, fine-tuning, embedding and inference, making sure data is high quality, traceable and handled in line with privacy requirements.\"}, {\"text\": \"MLOps and infrastructure: Implement CI/CD for ML, model versioning, experiment tracking and observability on cloud platforms.\"}, {\"text\": \"Cross-functional collaboration: Work with product, engineering and science stakeholders to understand requirements, weigh trade-offs and deliver AI solutions that meet customer needs.\"}, {\"text\": \"Continuous improvement: Keep up with the fast-moving AI ecosystem, evaluate new models, tools and techniques, and share what you learn with the wider engineering community.\"}]}, {\"title\": \"Qualifications\", \"items\": [{\"text\": \"Bachelor's degree in Computer Science, Engineering, AI/ML or a related field, or equivalent professional experience.\"}, {\"text\": \"Strong proficiency in one or more high-level programming languages such as C++, Java, Python, or similar languages.\"}, {\"text\": \"Hands-on experience with LLMs and their ecosystem: prompt engineering, RAG, embeddings and vector databases, tool use and agent frameworks, and fine-tuning is preferred.\"}, {\"text\": \"Solid understanding of software architecture, API design, design patterns and best practices for maintainable, scalable systems.\"}, {\"text\": \"Experience with cloud service providers (e.g., Azure, AWS, GCP), containerization (Docker, Kubernetes) and CI/CD tools.\"}, {\"text\": \"Knowledge of version control systems, preferably Git.\"}, {\"text\": \"Excellent problem-solving and communication skills, with the ability to work effectively in a cross-functional team.\"}, {\"text\": \"Experience with ML frameworks and libraries such as PyTorch, TensorFlow or Hugging Face is preferred.\"}, {\"text\": \"Familiarity with MLOps practices and tools (e.g., MLflow, experiment tracking, model monitoring) is preferred.\"}, {\"text\": \"Experience with geospatial, mapping or location data is a plus, but not required.\"}]}], \"closing\": []}",
     "notes": "Via XHR interception (Playwright).",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-06",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Software Engineer, Global Investment Research, Agentic Systems\nDallas\u00b7United States\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/187976",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-28",
     "last_seen": "2026-11-06",
     "stale": true
   },
