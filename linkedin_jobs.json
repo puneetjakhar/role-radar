@@ -490,20 +490,6 @@
     "last_seen": "2026-11-06"
   },
   {
-    "company": "a.s.r.",
-    "job_title": "Senior Back-end Developer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4485606681",
-    "job_url": "https://www.linkedin.com/jobs/view/4485606681",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-30",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-11-06"
-  },
-  {
     "company": "Wellis Health",
     "job_title": "DevOps/Platform Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1440,6 +1426,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-18",
     "last_seen": "2026-11-06"
+  },
+  {
+    "company": "a.s.r.",
+    "job_title": "Senior Back-end Developer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485606681",
+    "job_url": "https://www.linkedin.com/jobs/view/4485606681",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-11-06",
+    "stale": true
   },
   {
     "company": "Dustin",
