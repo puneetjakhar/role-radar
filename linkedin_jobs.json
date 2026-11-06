@@ -1204,6 +1204,20 @@
     "last_seen": "2026-11-06"
   },
   {
+    "company": "Nexperia",
+    "job_title": "Senior Principal IC Design Engineer",
+    "location": "Nijmegen, Gelderland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485832880",
+    "job_url": "https://www.linkedin.com/jobs/view/4485832880",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-06"
+  },
+  {
     "company": "Jobgether",
     "job_title": "Staff AI Engineer",
     "location": "Netherlands",
@@ -1232,6 +1246,20 @@
     "last_seen": "2026-11-06"
   },
   {
+    "company": "Mozilla",
+    "job_title": "Staff Software Engineer, Tools & Systems",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481629256",
+    "job_url": "https://www.linkedin.com/jobs/view/4481629256",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-06"
+  },
+  {
     "company": "Samba",
     "job_title": "Senior Software Engineer - Identity",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1243,6 +1271,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-14",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "company": "Guidewell",
+    "job_title": "Full Stack Engineer",
+    "location": "'s-Hertogenbosch, North Brabant, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485508046",
+    "job_url": "https://www.linkedin.com/jobs/view/4485508046",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-04",
     "last_seen": "2026-11-06"
   },
   {
@@ -1386,51 +1428,6 @@
     "last_seen": "2026-11-06"
   },
   {
-    "company": "Nexperia",
-    "job_title": "Senior Principal IC Design Engineer",
-    "location": "Nijmegen, Gelderland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4485832880",
-    "job_url": "https://www.linkedin.com/jobs/view/4485832880",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-06",
-    "stale": true
-  },
-  {
-    "company": "Mozilla",
-    "job_title": "Staff Software Engineer, Tools & Systems",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4481629256",
-    "job_url": "https://www.linkedin.com/jobs/view/4481629256",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-06",
-    "stale": true
-  },
-  {
-    "company": "Guidewell",
-    "job_title": "Full Stack Engineer",
-    "location": "'s-Hertogenbosch, North Brabant, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4485508046",
-    "job_url": "https://www.linkedin.com/jobs/view/4485508046",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-04",
-    "last_seen": "2026-11-06",
-    "stale": true
-  },
-  {
     "company": "Eye Security",
     "job_title": "Senior Software Engineer, Agents (m/f/x)",
     "location": "Rotterdam and The Hague",
@@ -1442,8 +1439,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-28",
-    "last_seen": "2026-11-06",
-    "stale": true
+    "last_seen": "2026-11-06"
   },
   {
     "company": "Schuberg Philis",
