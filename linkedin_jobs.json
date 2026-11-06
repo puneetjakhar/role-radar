@@ -140,6 +140,20 @@
     "last_seen": "2026-11-06"
   },
   {
+    "company": "Milence",
+    "job_title": "Senior Software Engineer, Core Systems \u2014 AI-powered Cloud",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485856697",
+    "job_url": "https://www.linkedin.com/jobs/view/4485856697",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-06"
+  },
+  {
     "company": "Flow Traders",
     "job_title": "Senior Software Engineer - OTC Trading",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -333,20 +347,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-06-03",
-    "last_seen": "2026-11-06"
-  },
-  {
-    "company": "Doctolib",
-    "job_title": "Senior Fullstack Engineer - Java, React (x/f/m)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4485608228",
-    "job_url": "https://www.linkedin.com/jobs/view/4485608228",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-30",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-30",
     "last_seen": "2026-11-06"
   },
   {
@@ -1442,6 +1442,21 @@
     "last_seen": "2026-11-06"
   },
   {
+    "company": "Doctolib",
+    "job_title": "Senior Fullstack Engineer - Java, React (x/f/m)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485608228",
+    "job_url": "https://www.linkedin.com/jobs/view/4485608228",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-11-06",
+    "stale": true
+  },
+  {
     "company": "Jobgether",
     "job_title": "Staff Platform Engineer",
     "location": "Netherlands",
@@ -1498,21 +1513,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-11-06",
-    "stale": true
-  },
-  {
-    "company": "Milence",
-    "job_title": "Senior Software Engineer, Core Systems \u2014 AI-powered Cloud",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4485856697",
-    "job_url": "https://www.linkedin.com/jobs/view/4485856697",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-05",
     "last_seen": "2026-11-06",
     "stale": true
   },
