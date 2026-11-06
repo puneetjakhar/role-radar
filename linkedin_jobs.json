@@ -658,6 +658,20 @@
     "last_seen": "2026-11-06"
   },
   {
+    "company": "Jobgether",
+    "job_title": "Staff Platform Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486742761",
+    "job_url": "https://www.linkedin.com/jobs/view/4486742761",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-06"
+  },
+  {
     "company": "12Build",
     "job_title": "Agentic Platform Engineer",
     "location": "Nijverdal, Overijssel, Netherlands",
@@ -784,20 +798,6 @@
     "last_seen": "2026-11-06"
   },
   {
-    "company": "Dustin",
-    "job_title": "Software Engineer DevOps",
-    "location": "Leiden, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4433369473",
-    "job_url": "https://www.linkedin.com/jobs/view/4433369473",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-12",
-    "last_seen": "2026-11-06"
-  },
-  {
     "company": "Bitvavo",
     "job_title": "Senior Platform Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -826,6 +826,20 @@
     "last_seen": "2026-11-06"
   },
   {
+    "company": "Wehkamp Retail Group",
+    "job_title": "AI Engineer | jij bouwt de AI in onze toepassingen | 5 vacatures",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486257117",
+    "job_url": "https://www.linkedin.com/jobs/view/4486257117",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06"
+  },
+  {
     "company": "Picnic Technologies",
     "job_title": "Senior Machine Learning Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -851,6 +865,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-11",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "company": "Harnham",
+    "job_title": "Machine Learning/AI Engineer",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4473901639",
+    "job_url": "https://www.linkedin.com/jobs/view/4473901639",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-06",
     "last_seen": "2026-11-06"
   },
   {
@@ -1106,20 +1134,6 @@
     "last_seen": "2026-11-06"
   },
   {
-    "company": "Haystack People",
-    "job_title": "Machine Learning Engineer (Greenfield Project)",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4485744795",
-    "job_url": "https://www.linkedin.com/jobs/view/4485744795",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-02",
-    "last_seen": "2026-11-06"
-  },
-  {
     "company": "Datacation",
     "job_title": "Junior AI Engineer",
     "location": "Arnhem, Gelderland, Netherlands",
@@ -1145,20 +1159,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-06"
-  },
-  {
-    "company": "Harnham",
-    "job_title": "Data Scientist/AI Engineer",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484488648",
-    "job_url": "https://www.linkedin.com/jobs/view/4484488648",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-30",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
     "last_seen": "2026-11-06"
   },
   {
@@ -1442,6 +1442,51 @@
     "last_seen": "2026-11-06"
   },
   {
+    "company": "Dustin",
+    "job_title": "Software Engineer DevOps",
+    "location": "Leiden, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4433369473",
+    "job_url": "https://www.linkedin.com/jobs/view/4433369473",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-11-06",
+    "stale": true
+  },
+  {
+    "company": "Haystack People",
+    "job_title": "Machine Learning Engineer (Greenfield Project)",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485744795",
+    "job_url": "https://www.linkedin.com/jobs/view/4485744795",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-06",
+    "stale": true
+  },
+  {
+    "company": "Harnham",
+    "job_title": "Data Scientist/AI Engineer",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484488648",
+    "job_url": "https://www.linkedin.com/jobs/view/4484488648",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-30",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-11-06",
+    "stale": true
+  },
+  {
     "company": "adesso SE",
     "job_title": "Medior AI Engineer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -1468,21 +1513,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-06",
-    "stale": true
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Staff Platform Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486742761",
-    "job_url": "https://www.linkedin.com/jobs/view/4486742761",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-05",
     "last_seen": "2026-11-06",
     "stale": true
   },
