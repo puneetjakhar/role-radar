@@ -336,6 +336,20 @@
     "last_seen": "2026-11-06"
   },
   {
+    "company": "Jobgether",
+    "job_title": "Senior Software Engineer (Backend): Onboarding",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486963544",
+    "job_url": "https://www.linkedin.com/jobs/view/4486963544",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06"
+  },
+  {
     "company": "Just Eat Takeaway.com",
     "job_title": "Senior open to Mid Backend Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -448,20 +462,6 @@
     "last_seen": "2026-11-06"
   },
   {
-    "company": "Jobgether",
-    "job_title": "Software Engineer, Flights",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4485453560",
-    "job_url": "https://www.linkedin.com/jobs/view/4485453560",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-02",
-    "last_seen": "2026-11-06"
-  },
-  {
     "company": "a.s.r.",
     "job_title": "Senior Back-end Developer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -473,6 +473,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "company": "Codefield",
+    "job_title": "Azure Cloud Developer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488127380",
+    "job_url": "https://www.linkedin.com/jobs/view/4488127380",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-06",
     "last_seen": "2026-11-06"
   },
   {
@@ -725,20 +739,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-07",
-    "last_seen": "2026-11-06"
-  },
-  {
-    "company": "Codefield",
-    "job_title": "Azure Cloud Developer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486170799",
-    "job_url": "https://www.linkedin.com/jobs/view/4486170799",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-02",
     "last_seen": "2026-11-06"
   },
   {
@@ -1302,20 +1302,6 @@
     "last_seen": "2026-11-06"
   },
   {
-    "company": "IKEA",
-    "job_title": "Senior Software Engineer - Android, IKEA App [Amsterdam]",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486392250",
-    "job_url": "https://www.linkedin.com/jobs/view/4486392250",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-04",
-    "last_seen": "2026-11-06"
-  },
-  {
     "company": "Shine",
     "job_title": "Staff Engineer - Payment",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1369,6 +1355,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-03",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "company": "WhiteSpace Solutions",
+    "job_title": "Artificial Intelligence Engineer",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484317944",
+    "job_url": "https://www.linkedin.com/jobs/view/4484317944",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-02",
     "last_seen": "2026-11-06"
   },
   {
@@ -1442,6 +1442,51 @@
     "last_seen": "2026-11-06"
   },
   {
+    "company": "Jobgether",
+    "job_title": "Software Engineer, Flights",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485453560",
+    "job_url": "https://www.linkedin.com/jobs/view/4485453560",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-06",
+    "stale": true
+  },
+  {
+    "company": "Codefield",
+    "job_title": "Azure Cloud Developer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486170799",
+    "job_url": "https://www.linkedin.com/jobs/view/4486170799",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-06",
+    "stale": true
+  },
+  {
+    "company": "IKEA",
+    "job_title": "Senior Software Engineer - Android, IKEA App [Amsterdam]",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486392250",
+    "job_url": "https://www.linkedin.com/jobs/view/4486392250",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-06",
+    "stale": true
+  },
+  {
     "company": "Essent",
     "job_title": "Senior Software Engineer",
     "location": "\u2019s-Hertogenbosch, North Brabant, Netherlands",
@@ -1453,21 +1498,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-06",
-    "stale": true
-  },
-  {
-    "company": "WhiteSpace Solutions",
-    "job_title": "Artificial Intelligence Engineer",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484317944",
-    "job_url": "https://www.linkedin.com/jobs/view/4484317944",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-02",
     "last_seen": "2026-11-06",
     "stale": true
   },
