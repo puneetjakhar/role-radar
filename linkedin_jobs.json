@@ -798,17 +798,17 @@
     "last_seen": "2026-11-07"
   },
   {
-    "company": "Erasmus MC Academie",
-    "job_title": "Machine learning engineer AI Platform",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486165851",
-    "job_url": "https://www.linkedin.com/jobs/view/4486165851",
+    "company": "Dustin",
+    "job_title": "Software Engineer DevOps",
+    "location": "Leiden, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4433369473",
+    "job_url": "https://www.linkedin.com/jobs/view/4433369473",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-11-02",
+    "date_posted": "2026-11-01",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-02",
+    "first_seen": "2026-08-12",
     "last_seen": "2026-11-07"
   },
   {
@@ -1428,6 +1428,21 @@
     "last_seen": "2026-11-07"
   },
   {
+    "company": "Erasmus MC Academie",
+    "job_title": "Machine learning engineer AI Platform",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486165851",
+    "job_url": "https://www.linkedin.com/jobs/view/4486165851",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-07",
+    "stale": true
+  },
+  {
     "company": "a.s.r.",
     "job_title": "Senior Back-end Developer",
     "location": "Utrecht, Utrecht, Netherlands",
@@ -1439,21 +1454,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-06",
-    "stale": true
-  },
-  {
-    "company": "Dustin",
-    "job_title": "Software Engineer DevOps",
-    "location": "Leiden, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4433369473",
-    "job_url": "https://www.linkedin.com/jobs/view/4433369473",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-12",
     "last_seen": "2026-11-06",
     "stale": true
   },
