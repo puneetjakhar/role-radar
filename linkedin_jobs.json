@@ -1162,6 +1162,34 @@
     "last_seen": "2026-11-07"
   },
   {
+    "company": "Axelera AI",
+    "job_title": "Staff AI Platform Engineer \u2013 Heterogeneous Compute",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486642113",
+    "job_url": "https://www.linkedin.com/jobs/view/4486642113",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07"
+  },
+  {
+    "company": "FDE Times",
+    "job_title": "Staff Applied AI Engineer, Autonomous Supply Chains",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486628753",
+    "job_url": "https://www.linkedin.com/jobs/view/4486628753",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07"
+  },
+  {
     "company": "Toku",
     "job_title": "Staff Software Engineer \u2013 Distributed Systems",
     "location": "South Holland, Netherlands",
@@ -1288,34 +1316,6 @@
     "last_seen": "2026-11-07"
   },
   {
-    "company": "Suitsupply",
-    "job_title": "Principal Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4465444006",
-    "job_url": "https://www.linkedin.com/jobs/view/4465444006",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-12",
-    "last_seen": "2026-11-07"
-  },
-  {
-    "company": "Samba",
-    "job_title": "Senior Software Engineer - Identity",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4478198811",
-    "job_url": "https://www.linkedin.com/jobs/view/4478198811",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-14",
-    "last_seen": "2026-11-07"
-  },
-  {
     "company": "Shine",
     "job_title": "Staff Engineer - Payment",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1426,6 +1426,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-18",
     "last_seen": "2026-11-07"
+  },
+  {
+    "company": "Suitsupply",
+    "job_title": "Principal Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4465444006",
+    "job_url": "https://www.linkedin.com/jobs/view/4465444006",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-11-07",
+    "stale": true
+  },
+  {
+    "company": "Samba",
+    "job_title": "Senior Software Engineer - Identity",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4478198811",
+    "job_url": "https://www.linkedin.com/jobs/view/4478198811",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-11-07",
+    "stale": true
   },
   {
     "company": "Dustin",
