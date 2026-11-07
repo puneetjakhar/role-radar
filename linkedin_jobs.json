@@ -742,6 +742,20 @@
     "last_seen": "2026-11-07"
   },
   {
+    "company": "Conclusion Intelligence",
+    "job_title": "Senior Platform Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486857782",
+    "job_url": "https://www.linkedin.com/jobs/view/4486857782",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-07"
+  },
+  {
     "company": "Jobgether",
     "job_title": "DevOps + Go (Platform Engineer )",
     "location": "Netherlands",
@@ -879,6 +893,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-16",
+    "last_seen": "2026-11-07"
+  },
+  {
+    "company": "Plumerai",
+    "job_title": "Deep Learning Research Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4451566225",
+    "job_url": "https://www.linkedin.com/jobs/view/4451566225",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-11",
     "last_seen": "2026-11-07"
   },
   {
@@ -1145,20 +1173,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-21",
-    "last_seen": "2026-11-07"
-  },
-  {
-    "company": "Mozaik",
-    "job_title": "AI Engineer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486449127",
-    "job_url": "https://www.linkedin.com/jobs/view/4486449127",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-02",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-02",
     "last_seen": "2026-11-07"
   },
   {
@@ -1470,6 +1484,21 @@
     "last_seen": "2026-11-07"
   },
   {
+    "company": "Mozaik",
+    "job_title": "AI Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486449127",
+    "job_url": "https://www.linkedin.com/jobs/view/4486449127",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-02",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-07",
+    "stale": true
+  },
+  {
     "company": "Huisartsopleiding Erasmus MC",
     "job_title": "ML Platform Engineer - AI Solutions",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1511,21 +1540,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
-    "stale": true
-  },
-  {
-    "company": "Conclusion Intelligence",
-    "job_title": "Senior Platform Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486857782",
-    "job_url": "https://www.linkedin.com/jobs/view/4486857782",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-03",
     "last_seen": "2026-11-07",
     "stale": true
   },
