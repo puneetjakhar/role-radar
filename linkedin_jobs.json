@@ -1173,8 +1173,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
   },
   {
     "company": "CNH",
@@ -1188,8 +1187,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
   },
   {
     "company": "Doghouse Recruitment",
@@ -1203,98 +1201,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
-    "stale": true
-  },
-  {
-    "company": "DataSnipper",
-    "job_title": "Staff Software Engineer - Alwin",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4488071203",
-    "job_url": "https://www.linkedin.com/jobs/view/4488071203",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
-    "stale": true
-  },
-  {
-    "company": "Lemonade",
-    "job_title": "Senior Backend Engineer, Pricing Platform",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4488026152",
-    "job_url": "https://www.linkedin.com/jobs/view/4488026152",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
-    "stale": true
-  },
-  {
-    "company": "Redwood Software",
-    "job_title": "Principle Software Engineer",
-    "location": "Houten, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486777415",
-    "job_url": "https://www.linkedin.com/jobs/view/4486777415",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
-    "stale": true
-  },
-  {
-    "company": "Shine",
-    "job_title": "Staff Engineer - Payment",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4439234497",
-    "job_url": "https://www.linkedin.com/jobs/view/4439234497",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-11-07",
-    "stale": true
-  },
-  {
-    "company": "ServiceNow",
-    "job_title": "Staff Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4484742310",
-    "job_url": "https://www.linkedin.com/jobs/view/4484742310",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-11-07",
-    "stale": true
-  },
-  {
-    "company": "Databricks",
-    "job_title": "Senior Staff Software Engineer - Delta",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4341929909",
-    "job_url": "https://www.linkedin.com/jobs/view/4341929909",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-01",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-04",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
   },
   {
     "company": "ING Nederland",
@@ -1308,8 +1215,49 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
+  },
+  {
+    "company": "DataSnipper",
+    "job_title": "Staff Software Engineer - Alwin",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488071203",
+    "job_url": "https://www.linkedin.com/jobs/view/4488071203",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-07"
+  },
+  {
+    "company": "Lemonade",
+    "job_title": "Senior Backend Engineer, Pricing Platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488026152",
+    "job_url": "https://www.linkedin.com/jobs/view/4488026152",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-07"
+  },
+  {
+    "company": "Redwood Software",
+    "job_title": "Principle Software Engineer",
+    "location": "Houten, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486777415",
+    "job_url": "https://www.linkedin.com/jobs/view/4486777415",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-07"
   },
   {
     "company": "Nexperia",
@@ -1323,8 +1271,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
   },
   {
     "company": "Jobgether",
@@ -1338,8 +1285,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
   },
   {
     "company": "Suitsupply",
@@ -1353,8 +1299,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
   },
   {
     "company": "Samba",
@@ -1368,8 +1313,21 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
+  },
+  {
+    "company": "Shine",
+    "job_title": "Staff Engineer - Payment",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4439234497",
+    "job_url": "https://www.linkedin.com/jobs/view/4439234497",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-11-07"
   },
   {
     "company": "Jobgether",
@@ -1383,8 +1341,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
   },
   {
     "company": "Albert Bow",
@@ -1398,8 +1355,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
   },
   {
     "company": "Elsevier",
@@ -1413,8 +1369,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
   },
   {
     "company": "WhiteSpace Solutions",
@@ -1428,8 +1383,35 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-02",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
+  },
+  {
+    "company": "ServiceNow",
+    "job_title": "Staff Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4484742310",
+    "job_url": "https://www.linkedin.com/jobs/view/4484742310",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-11-07"
+  },
+  {
+    "company": "Databricks",
+    "job_title": "Senior Staff Software Engineer - Delta",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4341929909",
+    "job_url": "https://www.linkedin.com/jobs/view/4341929909",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-01",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-11-07"
   },
   {
     "company": "Vinted",
@@ -1443,8 +1425,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-18",
-    "last_seen": "2026-11-07",
-    "stale": true
+    "last_seen": "2026-11-07"
   },
   {
     "company": "a.s.r.",
