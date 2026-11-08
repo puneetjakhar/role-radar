@@ -1308,6 +1308,20 @@
     "last_seen": "2026-11-08"
   },
   {
+    "company": "Criteo Netherlands B.V.",
+    "job_title": "Machine Learning Engineer Intern",
+    "location": "Netherlands",
+    "careers_url": "https://careers.criteo.com/en/jobs/?Location=Amsterdam",
+    "job_url": "https://careers.criteo.com/en/jobs/r14933/machine-learning-engineer-intern/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-11-08"
+  },
+  {
     "company": "Flow Traders B.V.",
     "job_title": "AI Engineering Manager",
     "location": "Amsterdam, Netherlands",
@@ -2155,21 +2169,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-29",
-    "last_seen": "2026-11-08",
-    "stale": true
-  },
-  {
-    "company": "Criteo Netherlands B.V.",
-    "job_title": "Machine Learning Engineer Intern",
-    "location": "Netherlands",
-    "careers_url": "https://careers.criteo.com/en/jobs/?Location=Amsterdam",
-    "job_url": "https://careers.criteo.com/en/jobs/r14933/machine-learning-engineer-intern/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-22",
     "last_seen": "2026-11-08",
     "stale": true
   },
