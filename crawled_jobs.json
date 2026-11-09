@@ -1198,10 +1198,10 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Android Developer",
+    "job_title": "Senior IOS Developer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053634/Senior-Android-Developer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053633/Senior-IOS-Developer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -1212,10 +1212,10 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior IOS Developer",
+    "job_title": "Senior Android Developer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053633/Senior-IOS-Developer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053634/Senior-Android-Developer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -1974,6 +1974,19 @@
     "date_posted": null,
     "notes": "Via Workday API.",
     "first_seen": "2026-11-05",
+    "last_seen": "2026-11-09"
+  },
+  {
+    "company": "Rabobank Nederland",
+    "job_title": "Medior/Senior Java Software Engineer",
+    "location": "Utrecht Croeselaan 18",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Medior-Senior-Java-Software-Engineer_JR_00139456",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-11-09",
     "last_seen": "2026-11-09"
   },
   {
