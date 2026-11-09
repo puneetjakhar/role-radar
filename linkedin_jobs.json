@@ -1,5 +1,19 @@
 [
   {
+    "company": "Supergrads",
+    "job_title": "Senior Software Engineer - Amsterdam - 120-140K + OTE",
+    "location": "Amsterdam Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488873781",
+    "job_url": "https://www.linkedin.com/jobs/view/4488873781",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-09",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09"
+  },
+  {
     "company": "Swapfiets",
     "job_title": "Senior Backend Engineer - Subscription Management",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -252,20 +266,6 @@
     "last_seen": "2026-11-09"
   },
   {
-    "company": "Shiftbase",
-    "job_title": "Senior PHP Backend Developer",
-    "location": "Zoetermeer, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4487263972",
-    "job_url": "https://www.linkedin.com/jobs/view/4487263972",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-04",
-    "last_seen": "2026-11-09"
-  },
-  {
     "company": "Walker & Dunlop",
     "job_title": "Senior Software Engineer",
     "location": "Amsterdam Area",
@@ -350,6 +350,20 @@
     "last_seen": "2026-11-09"
   },
   {
+    "company": "Rabobank",
+    "job_title": "Medior/Senior Java Software Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488896068",
+    "job_url": "https://www.linkedin.com/jobs/view/4488896068",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-09",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09"
+  },
+  {
     "company": "TSG Group",
     "job_title": "Senior Back End Developer \u2013 Finetic",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -364,31 +378,17 @@
     "last_seen": "2026-11-09"
   },
   {
-    "company": "Supergrads",
-    "job_title": "Senior Software Engineer - Amsterdam - 120-140K + OTE",
-    "location": "Amsterdam Area",
-    "careers_url": "https://www.linkedin.com/jobs/view/4488873781",
-    "job_url": "https://www.linkedin.com/jobs/view/4488873781",
+    "company": "Fuse Energy",
+    "job_title": "Senior/Lead Backend Engineer (Remote)",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4458509014",
+    "job_url": "https://www.linkedin.com/jobs/view/4458509014",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-11-09",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-09",
-    "last_seen": "2026-11-09"
-  },
-  {
-    "company": "Appjection",
-    "job_title": "Senior PHP Developer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4487900040",
-    "job_url": "https://www.linkedin.com/jobs/view/4487900040",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-09",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-09",
+    "first_seen": "2026-10-01",
     "last_seen": "2026-11-09"
   },
   {
@@ -462,20 +462,6 @@
     "last_seen": "2026-11-09"
   },
   {
-    "company": "Locus EU",
-    "job_title": "Senior Python Developer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486274113",
-    "job_url": "https://www.linkedin.com/jobs/view/4486274113",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-08",
-    "last_seen": "2026-11-09"
-  },
-  {
     "company": "Just Eat Takeaway.com",
     "job_title": "Senior open to Mid Backend Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -515,6 +501,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-01",
+    "last_seen": "2026-11-09"
+  },
+  {
+    "company": "Shiftbase",
+    "job_title": "Senior PHP Backend Developer",
+    "location": "Zoetermeer, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4487263972",
+    "job_url": "https://www.linkedin.com/jobs/view/4487263972",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-04",
     "last_seen": "2026-11-09"
   },
   {
@@ -658,6 +658,20 @@
     "last_seen": "2026-11-09"
   },
   {
+    "company": "FDE Times",
+    "job_title": "Senior Software Engineer - AI Compute, Together Cloud",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486693288",
+    "job_url": "https://www.linkedin.com/jobs/view/4486693288",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-09"
+  },
+  {
     "company": "Centraal Bureau voor de Statistiek",
     "job_title": "IAM Platform Engineer - PKI & Cloud Native",
     "location": "Heerlen, Limburg, Netherlands",
@@ -686,6 +700,20 @@
     "last_seen": "2026-11-09"
   },
   {
+    "company": "Together AI",
+    "job_title": "AI Infrastructure Systems Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4405986802",
+    "job_url": "https://www.linkedin.com/jobs/view/4405986802",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-12",
+    "last_seen": "2026-11-09"
+  },
+  {
     "company": "Sprint and Partners",
     "job_title": "AI Engineer - Focus on Platform AI (AWS) - Healthcare - Build technology that helps save lives worldwide in 32 countries already - Hybrid (1 day office)",
     "location": "The Randstad, Netherlands",
@@ -697,6 +725,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-26",
+    "last_seen": "2026-11-09"
+  },
+  {
+    "company": "Logius",
+    "job_title": "Platform engineer - HashiCorp Vault",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4480350427",
+    "job_url": "https://www.linkedin.com/jobs/view/4480350427",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-16",
     "last_seen": "2026-11-09"
   },
   {
@@ -784,6 +826,20 @@
     "last_seen": "2026-11-09"
   },
   {
+    "company": "Conclusion Xforce",
+    "job_title": "Cloud Platform Engineer - Azure",
+    "location": "Nieuwegein, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4485824515",
+    "job_url": "https://www.linkedin.com/jobs/view/4485824515",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-09"
+  },
+  {
     "company": "12Build",
     "job_title": "Agentic Platform Engineer",
     "location": "Nijverdal, Overijssel, Netherlands",
@@ -809,6 +865,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-13",
+    "last_seen": "2026-11-09"
+  },
+  {
+    "company": "Conclusion Intelligence",
+    "job_title": "Senior Platform Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486857782",
+    "job_url": "https://www.linkedin.com/jobs/view/4486857782",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-03",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-03",
     "last_seen": "2026-11-09"
   },
   {
@@ -1428,6 +1498,36 @@
     "last_seen": "2026-11-09"
   },
   {
+    "company": "Appjection",
+    "job_title": "Senior PHP Developer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4487900040",
+    "job_url": "https://www.linkedin.com/jobs/view/4487900040",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-09",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "stale": true
+  },
+  {
+    "company": "Locus EU",
+    "job_title": "Senior Python Developer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486274113",
+    "job_url": "https://www.linkedin.com/jobs/view/4486274113",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-09",
+    "stale": true
+  },
+  {
     "company": "Klipboard",
     "job_title": "Senior Software Engineer: ERP Systems & REST API",
     "location": "Gouda, South Holland, Netherlands",
@@ -1443,51 +1543,6 @@
     "stale": true
   },
   {
-    "company": "Together AI",
-    "job_title": "AI Infrastructure Systems Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4405986802",
-    "job_url": "https://www.linkedin.com/jobs/view/4405986802",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-12",
-    "last_seen": "2026-11-09",
-    "stale": true
-  },
-  {
-    "company": "Logius",
-    "job_title": "Platform engineer - HashiCorp Vault",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4480350427",
-    "job_url": "https://www.linkedin.com/jobs/view/4480350427",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-11-09",
-    "stale": true
-  },
-  {
-    "company": "Conclusion Xforce",
-    "job_title": "Cloud Platform Engineer - Azure",
-    "location": "Nieuwegein, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4485824515",
-    "job_url": "https://www.linkedin.com/jobs/view/4485824515",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-09",
-    "stale": true
-  },
-  {
     "company": "Jobgether",
     "job_title": "Staff Platform Engineer",
     "location": "Netherlands",
@@ -1499,36 +1554,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-09",
-    "stale": true
-  },
-  {
-    "company": "Conclusion Intelligence",
-    "job_title": "Senior Platform Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486857782",
-    "job_url": "https://www.linkedin.com/jobs/view/4486857782",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-03",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-09",
-    "stale": true
-  },
-  {
-    "company": "FDE Times",
-    "job_title": "Senior Software Engineer - AI Compute, Together Cloud",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486693288",
-    "job_url": "https://www.linkedin.com/jobs/view/4486693288",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-08",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-08",
     "last_seen": "2026-11-09",
     "stale": true
   },
