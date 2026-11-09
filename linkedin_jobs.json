@@ -1,5 +1,19 @@
 [
   {
+    "company": "Rabobank",
+    "job_title": "Medior/Senior Java Software Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488896068",
+    "job_url": "https://www.linkedin.com/jobs/view/4488896068",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-09",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09"
+  },
+  {
     "company": "Supergrads",
     "job_title": "Senior Software Engineer - Amsterdam - 120-140K + OTE",
     "location": "Amsterdam Area",
@@ -210,20 +224,6 @@
     "last_seen": "2026-11-09"
   },
   {
-    "company": "CNN",
-    "job_title": "Senior Software Engineer - tvOS",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4462153929",
-    "job_url": "https://www.linkedin.com/jobs/view/4462153929",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-11-09"
-  },
-  {
     "company": "Flow Traders",
     "job_title": "Senior Software Engineer - OTC Trading",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -350,20 +350,6 @@
     "last_seen": "2026-11-09"
   },
   {
-    "company": "Rabobank",
-    "job_title": "Medior/Senior Java Software Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4488896068",
-    "job_url": "https://www.linkedin.com/jobs/view/4488896068",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-09",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-09",
-    "last_seen": "2026-11-09"
-  },
-  {
     "company": "TSG Group",
     "job_title": "Senior Back End Developer \u2013 Finetic",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -434,34 +420,6 @@
     "last_seen": "2026-11-09"
   },
   {
-    "company": "Manychat",
-    "job_title": "Senior Backend Engineer, Backend Platform (PHP and Python)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4487316629",
-    "job_url": "https://www.linkedin.com/jobs/view/4487316629",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-09"
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Senior Software Engineer (Backend): Onboarding",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486963544",
-    "job_url": "https://www.linkedin.com/jobs/view/4486963544",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-09"
-  },
-  {
     "company": "Just Eat Takeaway.com",
     "job_title": "Senior open to Mid Backend Software Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -490,20 +448,6 @@
     "last_seen": "2026-11-09"
   },
   {
-    "company": "myTomorrows",
-    "job_title": "Senior Backend Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4472575201",
-    "job_url": "https://www.linkedin.com/jobs/view/4472575201",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-11-09"
-  },
-  {
     "company": "Shiftbase",
     "job_title": "Senior PHP Backend Developer",
     "location": "Zoetermeer, South Holland, Netherlands",
@@ -515,20 +459,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-09"
-  },
-  {
-    "company": "Doghouse Recruitment",
-    "job_title": "Senior Backend .NET Engineer \u2013 Microservices | Azure | Amsterdam [Up to \u20ac93K OTE]",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476271872",
-    "job_url": "https://www.linkedin.com/jobs/view/4476271872",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-09",
     "last_seen": "2026-11-09"
   },
   {
@@ -1496,6 +1426,81 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-09"
+  },
+  {
+    "company": "CNN",
+    "job_title": "Senior Software Engineer - tvOS",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4462153929",
+    "job_url": "https://www.linkedin.com/jobs/view/4462153929",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-11-09",
+    "stale": true
+  },
+  {
+    "company": "Manychat",
+    "job_title": "Senior Backend Engineer, Backend Platform (PHP and Python)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4487316629",
+    "job_url": "https://www.linkedin.com/jobs/view/4487316629",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-09",
+    "stale": true
+  },
+  {
+    "company": "Jobgether",
+    "job_title": "Senior Software Engineer (Backend): Onboarding",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486963544",
+    "job_url": "https://www.linkedin.com/jobs/view/4486963544",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-09",
+    "stale": true
+  },
+  {
+    "company": "myTomorrows",
+    "job_title": "Senior Backend Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4472575201",
+    "job_url": "https://www.linkedin.com/jobs/view/4472575201",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-11-09",
+    "stale": true
+  },
+  {
+    "company": "Doghouse Recruitment",
+    "job_title": "Senior Backend .NET Engineer \u2013 Microservices | Azure | Amsterdam [Up to \u20ac93K OTE]",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476271872",
+    "job_url": "https://www.linkedin.com/jobs/view/4476271872",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-11-09",
+    "stale": true
   },
   {
     "company": "Appjection",
