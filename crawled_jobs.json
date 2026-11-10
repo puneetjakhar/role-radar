@@ -1617,6 +1617,20 @@
   },
   {
     "company": "Van Lanschot Kempen N.V.",
+    "job_title": "Software Engineer KYC Center",
+    "location": "Amsterdam",
+    "careers_url": "https://careers.vanlanschotkempen.com/en-nl/vacancies",
+    "job_url": "https://careers.vanlanschotkempen.com/en-nl/vacancies/software-engineer-kyc-center",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10"
+  },
+  {
+    "company": "Van Lanschot Kempen N.V.",
     "job_title": "AI Software Engineer",
     "location": "Amsterdam",
     "careers_url": "https://careers.vanlanschotkempen.com/en-nl/vacancies",
