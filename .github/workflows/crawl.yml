@@ -68,8 +68,17 @@ jobs:
       # Unconditional: on a version-matched cache hit this verifies the binary and
       # skips the download (fast); on a miss it installs the correct build. --with-deps
       # also (re)installs the system libraries the browser needs.
+      # Retries because an unreachable Ubuntu apt mirror (seen 2026-11-11) used to fail
+      # the whole run. If apt stays down, fall back to the browser alone: ubuntu-latest
+      # already ships Chromium's runtime libraries, so only optional fonts are missed.
       - name: Install Playwright chromium + system deps
-        run: playwright install chromium --with-deps
+        run: |
+          for i in 1 2 3; do
+            sudo apt-get update -o Acquire::Retries=3 && playwright install chromium --with-deps && exit 0
+            echo "attempt $i failed, retrying in 30s"; sleep 30
+          done
+          echo "::warning::system deps install failed, falling back to browser-only install"
+          playwright install chromium
 
       - name: Run portal + LinkedIn crawl in parallel
         run: |
