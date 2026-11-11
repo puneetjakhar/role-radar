@@ -73,9 +73,10 @@ jobs:
       # already ships Chromium's runtime libraries, so only optional fonts are missed.
       - name: Install Playwright chromium + system deps
         run: |
-          for i in 1 2 3; do
-            sudo apt-get update -o Acquire::Retries=3 && playwright install chromium --with-deps && exit 0
-            echo "attempt $i failed, retrying in 30s"; sleep 30
+          # Each attempt is capped at 4 min: a dead mirror otherwise stalls apt for ~10 min.
+          for i in 1 2; do
+            timeout 240 bash -c 'sudo apt-get update -qq && playwright install chromium --with-deps' && exit 0
+            echo "attempt $i failed, retrying in 20s"; sleep 20
           done
           echo "::warning::system deps install failed, falling back to browser-only install"
           playwright install chromium
