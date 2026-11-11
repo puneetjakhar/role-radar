@@ -42,17 +42,17 @@
     "last_seen": "2026-11-11"
   },
   {
-    "company": "Platform Science",
-    "job_title": "Senior Software Engineer",
-    "location": "Oldenzaal, Overijssel, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4352880551",
-    "job_url": "https://www.linkedin.com/jobs/view/4352880551",
+    "company": "Conflux",
+    "job_title": "Senior Java Developer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479811298",
+    "job_url": "https://www.linkedin.com/jobs/view/4479811298",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-11-11",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-13",
+    "first_seen": "2026-10-15",
     "last_seen": "2026-11-11"
   },
   {
@@ -560,6 +560,20 @@
     "last_seen": "2026-11-11"
   },
   {
+    "company": "Conflux",
+    "job_title": "Senior Kubernetes Engineer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479821083",
+    "job_url": "https://www.linkedin.com/jobs/view/4479821083",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-11",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-11-11"
+  },
+  {
     "company": "Eye Security",
     "job_title": "Senior Infrastructure Engineer \u2013 AI Platform (f/m/x)",
     "location": "Rotterdam and The Hague",
@@ -635,20 +649,6 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4488302285",
     "job_url": "https://www.linkedin.com/jobs/view/4488302285",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-10",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-11"
-  },
-  {
-    "company": "NN Group",
-    "job_title": "Kubernetes Enablement Platform Engineer",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4488341996",
-    "job_url": "https://www.linkedin.com/jobs/view/4488341996",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-11-10",
@@ -1538,6 +1538,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
     "last_seen": "2026-11-11"
+  },
+  {
+    "company": "Platform Science",
+    "job_title": "Senior Software Engineer",
+    "location": "Oldenzaal, Overijssel, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4352880551",
+    "job_url": "https://www.linkedin.com/jobs/view/4352880551",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-11",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-11-11",
+    "stale": true
+  },
+  {
+    "company": "NN Group",
+    "job_title": "Kubernetes Enablement Platform Engineer",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488341996",
+    "job_url": "https://www.linkedin.com/jobs/view/4488341996",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-10",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
+    "stale": true
   },
   {
     "company": "FDE Times",
