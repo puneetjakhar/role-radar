@@ -294,20 +294,6 @@
     "last_seen": "2026-11-11"
   },
   {
-    "company": "NVIDIA",
-    "job_title": "Senior Deep Learning Software Engineer, Inference",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4451453915",
-    "job_url": "https://www.linkedin.com/jobs/view/4451453915",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-05",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-14",
-    "last_seen": "2026-11-11"
-  },
-  {
     "company": "Sartre Group",
     "job_title": "Senior Software Engineer (Rust) - Algorithmic Trading",
     "location": "Amsterdam Area",
@@ -347,6 +333,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-04",
+    "last_seen": "2026-11-11"
+  },
+  {
+    "company": "Lab Digital",
+    "job_title": "Senior Software Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4452435844",
+    "job_url": "https://www.linkedin.com/jobs/view/4452435844",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-04",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-12",
     "last_seen": "2026-11-11"
   },
   {
@@ -1498,6 +1498,21 @@
     "last_seen": "2026-11-11"
   },
   {
+    "company": "NVIDIA",
+    "job_title": "Senior Deep Learning Software Engineer, Inference",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4451453915",
+    "job_url": "https://www.linkedin.com/jobs/view/4451453915",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-05",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-11-11",
+    "stale": true
+  },
+  {
     "company": "Just Eat Takeaway.com",
     "job_title": "Machine Learning Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1539,21 +1554,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-10",
-    "stale": true
-  },
-  {
-    "company": "Lab Digital",
-    "job_title": "Senior Software Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4452435844",
-    "job_url": "https://www.linkedin.com/jobs/view/4452435844",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-12",
     "last_seen": "2026-11-10",
     "stale": true
   },
