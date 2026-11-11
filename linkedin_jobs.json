@@ -882,6 +882,34 @@
     "last_seen": "2026-11-11"
   },
   {
+    "company": "Sogeti",
+    "job_title": "AI Engineer",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476474048",
+    "job_url": "https://www.linkedin.com/jobs/view/4476474048",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-11",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-11-11"
+  },
+  {
+    "company": "Sogeti",
+    "job_title": "Senior AI Engineer",
+    "location": "Utrecht, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4476455862",
+    "job_url": "https://www.linkedin.com/jobs/view/4476455862",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-11",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-11-11"
+  },
+  {
     "company": "Bluebird",
     "job_title": "Senior Machine Learning Engineer | up to \u20ac180k",
     "location": "Amsterdam Area",
@@ -1190,34 +1218,6 @@
     "last_seen": "2026-11-11"
   },
   {
-    "company": "Sogeti",
-    "job_title": "AI Engineer",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476474048",
-    "job_url": "https://www.linkedin.com/jobs/view/4476474048",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-11-11"
-  },
-  {
-    "company": "Sogeti",
-    "job_title": "Senior AI Engineer",
-    "location": "Utrecht, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4476455862",
-    "job_url": "https://www.linkedin.com/jobs/view/4476455862",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-04",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-14",
-    "last_seen": "2026-11-11"
-  },
-  {
     "company": "Canonical",
     "job_title": "Senior/Staff/Principal Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1288,6 +1288,34 @@
     "last_seen": "2026-11-11"
   },
   {
+    "company": "Doghouse Recruitment",
+    "job_title": "Senior Staff Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4489423967",
+    "job_url": "https://www.linkedin.com/jobs/view/4489423967",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-10",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-11"
+  },
+  {
+    "company": "Wolters Kluwer",
+    "job_title": "Senior Full Stack Engineer, AI Platform & Agents",
+    "location": "Alphen aan den Rijn, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4354854127",
+    "job_url": "https://www.linkedin.com/jobs/view/4354854127",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-10",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-11-11"
+  },
+  {
     "company": "Databricks",
     "job_title": "Staff Software Engineer - Backend",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1355,6 +1383,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-05",
+    "last_seen": "2026-11-11"
+  },
+  {
+    "company": "SiTime",
+    "job_title": "Principal Engineer, Infrastructure Hardware",
+    "location": "Rijswijk, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479355729",
+    "job_url": "https://www.linkedin.com/jobs/view/4479355729",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-16",
     "last_seen": "2026-11-11"
   },
   {
@@ -1442,51 +1484,6 @@
     "last_seen": "2026-11-11"
   },
   {
-    "company": "Doghouse Recruitment",
-    "job_title": "Senior Staff Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4489423967",
-    "job_url": "https://www.linkedin.com/jobs/view/4489423967",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-10",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-11",
-    "stale": true
-  },
-  {
-    "company": "Wolters Kluwer",
-    "job_title": "Senior Full Stack Engineer, AI Platform & Agents",
-    "location": "Alphen aan den Rijn, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4354854127",
-    "job_url": "https://www.linkedin.com/jobs/view/4354854127",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-10",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-11-11",
-    "stale": true
-  },
-  {
-    "company": "SiTime",
-    "job_title": "Principal Engineer, Infrastructure Hardware",
-    "location": "Rijswijk, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479355729",
-    "job_url": "https://www.linkedin.com/jobs/view/4479355729",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-11-11",
-    "stale": true
-  },
-  {
     "company": "Suitsupply",
     "job_title": "Principal Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1498,8 +1495,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-12",
-    "last_seen": "2026-11-11",
-    "stale": true
+    "last_seen": "2026-11-11"
   },
   {
     "company": "Samba",
@@ -1513,8 +1509,7 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-11",
-    "stale": true
+    "last_seen": "2026-11-11"
   },
   {
     "company": "Harnham",
