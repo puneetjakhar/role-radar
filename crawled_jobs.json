@@ -1575,20 +1575,6 @@
   },
   {
     "company": "N.V. Eneco",
-    "job_title": "Staff Full-Stack Data Engineer\nEneco - Rotterdam\nData & AI\nBekijk vacature",
-    "location": "Netherlands",
-    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
-    "job_url": "https://www.werkenbijeneco.nl/vacatures/staff-full-stack-data-engineer-3362",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-11-11",
-    "last_seen": "2026-11-12"
-  },
-  {
-    "company": "N.V. Eneco",
     "job_title": "Senior Backend Engineer .NET (Quality Engineering)\nEneco - Rotterdam\n40 uur\nSoftware Engineering, Tech\nBekijk vacature",
     "location": "Netherlands",
     "careers_url": "https://www.werkenbijeneco.nl/vacatures",
@@ -2083,6 +2069,21 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-09-02",
     "last_seen": "2026-11-12"
+  },
+  {
+    "company": "N.V. Eneco",
+    "job_title": "Staff Full-Stack Data Engineer\nEneco - Rotterdam\nData & AI\nBekijk vacature",
+    "location": "Netherlands",
+    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
+    "job_url": "https://www.werkenbijeneco.nl/vacatures/staff-full-stack-data-engineer-3362",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-12",
+    "stale": true
   },
   {
     "company": "TomTom International B.V.",
