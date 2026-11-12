@@ -1,5 +1,19 @@
 [
   {
+    "company": "ASN Bank",
+    "job_title": "Senior Software Engineer RiskShield",
+    "location": "Utrecht Area",
+    "careers_url": "https://www.linkedin.com/jobs/view/4481123820",
+    "job_url": "https://www.linkedin.com/jobs/view/4481123820",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-11-12"
+  },
+  {
     "company": "Spilberg",
     "job_title": "Senior Fullstack .NET developer",
     "location": "Arnhem, Gelderland, Netherlands",
@@ -25,6 +39,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12"
+  },
+  {
+    "company": "Shiftbase",
+    "job_title": "Senior PHP Backend Developer",
+    "location": "Zoetermeer, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4487263972",
+    "job_url": "https://www.linkedin.com/jobs/view/4487263972",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-04",
     "last_seen": "2026-11-12"
   },
   {
@@ -182,20 +210,6 @@
     "last_seen": "2026-11-12"
   },
   {
-    "company": "Together AI",
-    "job_title": "Senior Software Engineer \u2014 Infra Agent Systems",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4462691471",
-    "job_url": "https://www.linkedin.com/jobs/view/4462691471",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-10",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-06",
-    "last_seen": "2026-11-12"
-  },
-  {
     "company": "Canonical",
     "job_title": "Senior Software Engineer - MAAS",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -322,34 +336,6 @@
     "last_seen": "2026-11-12"
   },
   {
-    "company": "Locus EU",
-    "job_title": "Senior Python Developer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486274113",
-    "job_url": "https://www.linkedin.com/jobs/view/4486274113",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-08",
-    "last_seen": "2026-11-12"
-  },
-  {
-    "company": "Shiftbase",
-    "job_title": "Senior PHP Backend Developer",
-    "location": "Zoetermeer, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4487263972",
-    "job_url": "https://www.linkedin.com/jobs/view/4487263972",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-12",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-04",
-    "last_seen": "2026-11-12"
-  },
-  {
     "company": "Sendcloud",
     "job_title": "Senior Backend Engineer",
     "location": "Eindhoven, North Brabant, Netherlands",
@@ -431,6 +417,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-10",
+    "last_seen": "2026-11-12"
+  },
+  {
+    "company": "Together AI",
+    "job_title": "Senior Software Engineer \u2014 Infra Agent Systems",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4462691471",
+    "job_url": "https://www.linkedin.com/jobs/view/4462691471",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-10",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-06",
     "last_seen": "2026-11-12"
   },
   {
@@ -543,6 +543,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-06",
+    "last_seen": "2026-11-12"
+  },
+  {
+    "company": "Locus EU",
+    "job_title": "Senior Python Developer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486274113",
+    "job_url": "https://www.linkedin.com/jobs/view/4486274113",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-08",
     "last_seen": "2026-11-12"
   },
   {
