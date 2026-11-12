@@ -714,6 +714,19 @@
     "last_seen": "2026-11-12"
   },
   {
+    "company": "Booking.com B.V.",
+    "job_title": "Software Engineer II - Mulesoft / Backend",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://jobs.booking.com/booking/jobs?location=Netherlands&woe=12&regionCode=NL&stretchUnit=MILES&stretch=25&categories=Engineering",
+    "job_url": "https://jobs.booking.com/booking/jobs/30246",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-12",
+    "notes": "Via iCIMS/Jibe API.",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12"
+  },
+  {
     "company": "Picnic Technologies B.V.",
     "job_title": "Ai Platform Engineer",
     "location": "Amsterdam, Netherlands",
@@ -1184,6 +1197,34 @@
     "last_seen": "2026-11-12"
   },
   {
+    "company": "Revolut Netherlands B.V.",
+    "job_title": "Internship Programme 2027: Software Engineer (Java)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/internship-programme-2027-software-engineer-java-a9cd5545-7d52-4e8f-bce9-1b67343ccc11/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-11-12"
+  },
+  {
+    "company": "Revolut Netherlands B.V.",
+    "job_title": "Internship Programme 2027: Software Engineer (iOS)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote:",
+    "location": "Netherlands",
+    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
+    "job_url": "https://www.revolut.com/en-US/careers/position/internship-programme-2027-software-engineer-i-os-bc2ddc16-c0ca-4c39-9db7-390db7f6cb3c/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-11-12"
+  },
+  {
     "company": "Datadog Netherlands B.V.",
     "job_title": "Senior Partner Solutions Architect (Pan-EMEA GSI)",
     "location": "Germany, Remote; The Netherlands, Remote",
@@ -1209,20 +1250,6 @@
     "description": "As a Senior Enterprise Sales Engineer, you\u2019ll serve as a trusted technical advisor and strategic partner to both customers and Sales. You\u2019ll lead complex technical evaluations, align solutions to business outcomes, and help shape deal strategy in high-impact opportunities. This role goes beyond delivering demos - you\u2019ll own the evaluation experience end-to-end, influence key stakeholders, and help drive successful outcomes across enterprise accounts. What You\u2019ll Do: Own the technical strategy across your accounts as a peer to the Account Executive - a standing weekly 1:1 with each AE you support, and a standing weekly account team call with the full ecosystem where you carry POV status, technical blockers, and the explanation behind any usage movement. Own the technical explanation behind consumption movement in your accounts. Work with the CSM and TAM to separate legitimate growth from misconfiguration, make sure legitimate growth gets quantified before renewal, and flag forward-looking usage the customer has signalled rather than explaining it backwards a month later. Lead discovery in every meeting, not only in discovery meetings - including meetings where you were invited to present. Leave each meeting knowing something about their business you did not know going in. Deliver engaging product demos, technical presentations, solution workshops, etc. that connect platform capabilities to customer outcomes for diverse stakeholder audiences including executives&nbsp; Full ownership of the technical evaluations (POVs) end-to-end: scoping use cases and requirements, defining competitive success criteria, building a project plan with clear timelines, and holding all participants accountable to the process Identify, develop, and leverage technical champions across multi-stakeholder environments, building a structured plan for champion cultivation and influence throughout the deal cycle and beyond Contribute to product direction through active participation in structured product and engineering field feedback sessions, bringing field insights and customer patterns to PM and engineering teams Drive operational excellence by ensuring activity, deal progress, and customer interactions are accurately documented and up to date in related systems&nbsp; Identify and proactively resolve technical and organizational blockers by collaborating across Product, Support, and GTM teams before customers are impacted Contribute to team enablement by mentoring peers, sharing best practices, and creating reusable assets that scale knowledge across the region Who You Are:&nbsp; 7+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role within an enterprise environment Skilled at influencing and adapting communication across technical, business, and executive audiences&nbsp; Advanced background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability Strong communication skills, w",
     "notes": "Dept: Enterprise Sales Engineering. Via Greenhouse board.",
     "first_seen": "2026-05-28",
-    "last_seen": "2026-11-12"
-  },
-  {
-    "company": "ABN AMRO Bank N.V.",
-    "job_title": "Senior DevOps Engineer",
-    "location": "Amsterdam",
-    "careers_url": "https://www.werkenbijabnamro.nl/en/vacancies?category=IT",
-    "job_url": "",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via XHR interception (Playwright).",
-    "first_seen": "2026-11-12",
     "last_seen": "2026-11-12"
   },
   {
@@ -1576,17 +1603,45 @@
     "last_seen": "2026-11-12"
   },
   {
-    "company": "N.V. Eneco",
-    "job_title": "Senior Software Engineer Platform & AI\nEneco - Rotterdam\n32 - 40 uur\nSoftware Engineering\nBekijk vacature",
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Global Banking & Markets - Software Engineer - Systematic Market Making - Analyst/ Associate/Vice President - London\nLon",
     "location": "Netherlands",
-    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
-    "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-software-engineer-platform-ai-3333",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/184831",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-20",
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-11-12"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "The Core Engineering-L2-Bengaluru-Vice President-Software Engineering\nBengaluru\u00b7India\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/185870",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "The Core Engineering-L2-Hyderabad-Vice President-Software Engineering\nHyderabad\u00b7India\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/184630",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-12",
     "last_seen": "2026-11-12"
   },
   {
@@ -1939,6 +1994,20 @@
     "last_seen": "2026-11-12"
   },
   {
+    "company": "Mews Systems B.V.",
+    "job_title": "Staff Engineer - Fintech",
+    "location": "Czechia; Ireland; Netherlands; Spain; United Kingdom, Netherlands",
+    "careers_url": "https://job-boards.greenhouse.io/mewssystems",
+    "job_url": "https://www.mews.com/en/careers/jobs/5035201101?gh_jid=5035201101",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-12",
+    "description": "Help make the world more hospitable The hospitality industry is uniquely human, and it deserves technology that\u2019s just as inspiring as the people behind it. At Mews, we\u2019re transforming the industry with a platform that helps hotels run smarter, move faster and create better guest experiences. You\u2019ll work with smart, curious people who care deeply about what they do. You\u2019ll have autonomy and the trust to make good decisions and move quickly. And you\u2019ll enjoy a real sense of purpose as you see the impact of what we\u2019re building. If you\u2019re motivated by ownership, curiosity and meaningful impact, and are driven to deliver consistent high performance, you\u2019ll feel at home here. About the role Let's get into the specifics. It\u2019s impossible to capture every nuance of a role \u2013 especially at a rapidly growing company like Mews \u2013 but if we had to distil it into a job description (which we do because this is a job description), it would be this: You will own the agents, skills and standards that let a tribe of product builders move quickly on payments without the architecture fragmenting. Hotels take payments across regions and through providers that each behave differently, and Payment Interfaces exists to give customers one coherent payment experience on top of several PSPs. Embedded payments at this depth is rare among European SaaS companies, so the problems here are ones few engineers get to work on. You will be a Staff Engineer in the Payment Interfaces team, part of the Fintech tribe. You will report to the Director of Product and Engineering, sit in the tribe\u2019s leadership group, and work alongside product builders, other staff engineers and product managers. No one reports to you, so your influence comes from the architecture, tools and standards that other people choose to work in. The team integrates several PSPs depending on region and conditions. When integrations drift apart, builders slow down and quality suffers. This role exists to keep them coherent by encoding what good looks like into tools and agents, so every builder meets the standard by default. What you would do &nbsp; Own the tribe\u2019s engineering agents, skills and context, and encode architectural standards, review logic and quality gates into them so the standard is met by default. Build an AI first responder for customer tickets about payment issues, with clear rules for when it answers and when it hands over to a person. Stay hands-on for the hardest technical problems: migrations, system-wide refactors and long-lived architecture decisions across PSP integrations. Keep Payment Interfaces integrations coherent as PSPs and regional requirements change, collaborating with builders who own their own work. Coach builders and fix off-standard outcomes at the cause, so the lesson sticks. AI Fluency Level 4: in this role, that means you build the AI systems the tribe works in, not only use them. You design the agents, skills and evaluations that builders rely on every day, make the enginee",
+    "notes": "Dept: RND Fintech. Via Greenhouse board.",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12"
+  },
+  {
     "company": "Rabobank Nederland",
     "job_title": "Junior DevOps Engineer | Azure Platform Engineering |IT Early career program",
     "location": "Utrecht Croeselaan 18",
@@ -2102,6 +2171,21 @@
     "last_seen": "2026-11-12"
   },
   {
+    "company": "N.V. Eneco",
+    "job_title": "Senior Software Engineer Platform & AI\nEneco - Rotterdam\n32 - 40 uur\nSoftware Engineering\nBekijk vacature",
+    "location": "Netherlands",
+    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
+    "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-software-engineer-platform-ai-3333",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-11-12",
+    "stale": true
+  },
+  {
     "company": "Booking.com B.V.",
     "job_title": "Software Engineer II - Backend",
     "location": "Amsterdam, Netherlands",
@@ -2112,51 +2196,6 @@
     "date_posted": "2026-09-30",
     "notes": "Via iCIMS/Jibe API.",
     "first_seen": "2026-09-30",
-    "last_seen": "2026-11-12",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Global Banking & Markets - Software Engineer - Systematic Market Making - Analyst/ Associate/Vice President - London\nLon",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/184831",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-11-12",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "The Core Engineering-L2-Bengaluru-Vice President-Software Engineering\nBengaluru\u00b7India\n\u00b7Vice President",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/185870",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-11-12",
-    "last_seen": "2026-11-12",
-    "stale": true
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "The Core Engineering-L2-Hyderabad-Vice President-Software Engineering\nHyderabad\u00b7India\n\u00b7Vice President",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/184630",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-11-12",
     "last_seen": "2026-11-12",
     "stale": true
   },
@@ -2416,21 +2455,6 @@
     "stale": true
   },
   {
-    "company": "Revolut Netherlands B.V.",
-    "job_title": "Internship Programme 2027: Software Engineer (Java)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote",
-    "location": "Netherlands",
-    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/internship-programme-2027-software-engineer-java-a9cd5545-7d52-4e8f-bce9-1b67343ccc11/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-28",
-    "last_seen": "2026-11-12",
-    "stale": true
-  },
-  {
     "company": "N.V. Eneco",
     "job_title": "Senior OT Network Engineer\nEneco - Rotterdam\n40 uur\nSoftware Engineering\nBekijk vacature",
     "location": "Netherlands",
@@ -2575,21 +2599,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-12",
-    "stale": true
-  },
-  {
-    "company": "Revolut Netherlands B.V.",
-    "job_title": "Internship Programme 2027: Software Engineer (iOS)\nOffice: Barcelona \u00b7 Dubai \u00b7 Krakow \u00b7 Lisbon \u00b7 London \u00b7 Madrid\nRemote:",
-    "location": "Netherlands",
-    "careers_url": "https://www.revolut.com/en-US/careers/?team=Engineering&location=Amsterdam",
-    "job_url": "https://www.revolut.com/en-US/careers/position/internship-programme-2027-software-engineer-i-os-bc2ddc16-c0ca-4c39-9db7-390db7f6cb3c/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-05-28",
     "last_seen": "2026-11-12",
     "stale": true
   },
