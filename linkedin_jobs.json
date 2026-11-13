@@ -364,6 +364,20 @@
     "last_seen": "2026-11-13"
   },
   {
+    "company": "Jobgether",
+    "job_title": "Senior Backend Engineer, AI Platform",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4489078965",
+    "job_url": "https://www.linkedin.com/jobs/view/4489078965",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13"
+  },
+  {
     "company": "Sopra Steria",
     "job_title": "Java Developer (Senior)",
     "location": "Groningen, Groningen, Netherlands",
@@ -476,17 +490,17 @@
     "last_seen": "2026-11-13"
   },
   {
-    "company": "Dyflexis",
-    "job_title": "Senior Backend Engineer (PHP)",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4488122631",
-    "job_url": "https://www.linkedin.com/jobs/view/4488122631",
+    "company": "Manychat",
+    "job_title": "Senior Python Engineer, Billing & Accounts",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4452910756",
+    "job_url": "https://www.linkedin.com/jobs/view/4452910756",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-11-06",
+    "date_posted": "2026-11-07",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-06",
+    "first_seen": "2026-08-18",
     "last_seen": "2026-11-13"
   },
   {
@@ -509,20 +523,6 @@
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4487316629",
     "job_url": "https://www.linkedin.com/jobs/view/4487316629",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-13"
-  },
-  {
-    "company": "Jobgether",
-    "job_title": "Senior Software Engineer (Backend): Onboarding",
-    "location": "Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486963544",
-    "job_url": "https://www.linkedin.com/jobs/view/4486963544",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": "2026-11-06",
@@ -1538,6 +1538,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-24",
     "last_seen": "2026-11-13"
+  },
+  {
+    "company": "Dyflexis",
+    "job_title": "Senior Backend Engineer (PHP)",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488122631",
+    "job_url": "https://www.linkedin.com/jobs/view/4488122631",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-13",
+    "stale": true
+  },
+  {
+    "company": "Jobgether",
+    "job_title": "Senior Software Engineer (Backend): Onboarding",
+    "location": "Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486963544",
+    "job_url": "https://www.linkedin.com/jobs/view/4486963544",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-13",
+    "stale": true
   },
   {
     "company": "Toku",
