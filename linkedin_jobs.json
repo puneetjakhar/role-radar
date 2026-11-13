@@ -533,6 +533,20 @@
   },
   {
     "company": "Manychat",
+    "job_title": "Senior Python Engineer, Billing & Accounts",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4452910756",
+    "job_url": "https://www.linkedin.com/jobs/view/4452910756",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-11-13"
+  },
+  {
+    "company": "Manychat",
     "job_title": "Senior Backend Engineer, Backend Platform (PHP and Python)",
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4487316629",
@@ -1246,17 +1260,17 @@
     "last_seen": "2026-11-13"
   },
   {
-    "company": "Harnham",
-    "job_title": "AI Engineer",
+    "company": "Adyen",
+    "job_title": "Senior Machine Learning Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4458221746",
-    "job_url": "https://www.linkedin.com/jobs/view/4458221746",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479372208",
+    "job_url": "https://www.linkedin.com/jobs/view/4479372208",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-11-06",
+    "date_posted": "2026-11-07",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-31",
+    "first_seen": "2026-10-22",
     "last_seen": "2026-11-13"
   },
   {
@@ -1568,6 +1582,21 @@
     "last_seen": "2026-11-13"
   },
   {
+    "company": "Harnham",
+    "job_title": "AI Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4458221746",
+    "job_url": "https://www.linkedin.com/jobs/view/4458221746",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-11-13",
+    "stale": true
+  },
+  {
     "company": "adesso Netherlands",
     "job_title": "Senior Java/Kotlin Developer",
     "location": "Utrecht, Netherlands",
@@ -1579,21 +1608,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-13",
-    "stale": true
-  },
-  {
-    "company": "Manychat",
-    "job_title": "Senior Python Engineer, Billing & Accounts",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4452910756",
-    "job_url": "https://www.linkedin.com/jobs/view/4452910756",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-18",
     "last_seen": "2026-11-13",
     "stale": true
   },
