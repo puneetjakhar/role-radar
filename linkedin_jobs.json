@@ -546,20 +546,6 @@
     "last_seen": "2026-11-13"
   },
   {
-    "company": "CodeGuild",
-    "job_title": "Senior Software Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486991684",
-    "job_url": "https://www.linkedin.com/jobs/view/4486991684",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-06",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-13"
-  },
-  {
     "company": "Together AI",
     "job_title": "Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1566,6 +1552,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-16",
     "last_seen": "2026-11-13"
+  },
+  {
+    "company": "CodeGuild",
+    "job_title": "Senior Software Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486991684",
+    "job_url": "https://www.linkedin.com/jobs/view/4486991684",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-06",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "stale": true
   },
   {
     "company": "Tellent",
