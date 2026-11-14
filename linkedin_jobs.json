@@ -1,5 +1,19 @@
 [
   {
+    "company": "Bitvavo",
+    "job_title": "Senior Backend Engineer - Low Latency",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483102667",
+    "job_url": "https://www.linkedin.com/jobs/view/4483102667",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-14",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-11-14"
+  },
+  {
     "company": "Transparent",
     "job_title": "Senior Software Developer",
     "location": "Amstelveen, North Holland, Netherlands",
@@ -263,20 +277,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-06",
-    "last_seen": "2026-11-14"
-  },
-  {
-    "company": "Canonical",
-    "job_title": "Senior Software Engineer - MAAS",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4489642300",
-    "job_url": "https://www.linkedin.com/jobs/view/4489642300",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-10",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-10",
     "last_seen": "2026-11-14"
   },
   {
@@ -938,6 +938,20 @@
     "last_seen": "2026-11-14"
   },
   {
+    "company": "Accenture the Netherlands",
+    "job_title": "Junior AI Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4489594643",
+    "job_url": "https://www.linkedin.com/jobs/view/4489594643",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-13",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14"
+  },
+  {
     "company": "Stealth",
     "job_title": "Senior AI Engineer",
     "location": "Amsterdam Area",
@@ -1229,20 +1243,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-27",
-    "last_seen": "2026-11-14"
-  },
-  {
-    "company": "Plumerai",
-    "job_title": "Deep Learning Research Engineer",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4451566225",
-    "job_url": "https://www.linkedin.com/jobs/view/4451566225",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-11",
     "last_seen": "2026-11-14"
   },
   {
@@ -1538,6 +1538,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-04",
     "last_seen": "2026-11-14"
+  },
+  {
+    "company": "Canonical",
+    "job_title": "Senior Software Engineer - MAAS",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4489642300",
+    "job_url": "https://www.linkedin.com/jobs/view/4489642300",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-10",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-14",
+    "stale": true
+  },
+  {
+    "company": "Plumerai",
+    "job_title": "Deep Learning Research Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4451566225",
+    "job_url": "https://www.linkedin.com/jobs/view/4451566225",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-11-14",
+    "stale": true
   },
   {
     "company": "FDE Times",
