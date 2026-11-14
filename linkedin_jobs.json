@@ -280,6 +280,20 @@
     "last_seen": "2026-11-14"
   },
   {
+    "company": "Canonical",
+    "job_title": "Senior Software Engineer - MAAS",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4489642300",
+    "job_url": "https://www.linkedin.com/jobs/view/4489642300",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-10",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-14"
+  },
+  {
     "company": "Just Eat Takeaway.com",
     "job_title": "Senior Fullstack Java Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -319,20 +333,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-14"
-  },
-  {
-    "company": "adesso Netherlands",
-    "job_title": "Senior Java/Kotlin Developer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4488831931",
-    "job_url": "https://www.linkedin.com/jobs/view/4488831931",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-09",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-12",
     "last_seen": "2026-11-14"
   },
   {
@@ -882,17 +882,17 @@
     "last_seen": "2026-11-14"
   },
   {
-    "company": "Centraal Bureau voor de Statistiek",
-    "job_title": "IAM Platform Engineer - PKI & Cloud Native",
-    "location": "Heerlen, Limburg, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4443174215",
-    "job_url": "https://www.linkedin.com/jobs/view/4443174215",
+    "company": "FDE Times",
+    "job_title": "Senior Software Engineer - AI Compute, Together Cloud",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486693288",
+    "job_url": "https://www.linkedin.com/jobs/view/4486693288",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-11-07",
+    "date_posted": "2026-11-08",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-15",
+    "first_seen": "2026-11-08",
     "last_seen": "2026-11-14"
   },
   {
@@ -1540,17 +1540,32 @@
     "last_seen": "2026-11-14"
   },
   {
-    "company": "Canonical",
-    "job_title": "Senior Software Engineer - MAAS",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4489642300",
-    "job_url": "https://www.linkedin.com/jobs/view/4489642300",
+    "company": "adesso Netherlands",
+    "job_title": "Senior Java/Kotlin Developer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488831931",
+    "job_url": "https://www.linkedin.com/jobs/view/4488831931",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-11-10",
+    "date_posted": "2026-11-09",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-10",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-14",
+    "stale": true
+  },
+  {
+    "company": "Centraal Bureau voor de Statistiek",
+    "job_title": "IAM Platform Engineer - PKI & Cloud Native",
+    "location": "Heerlen, Limburg, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4443174215",
+    "job_url": "https://www.linkedin.com/jobs/view/4443174215",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-15",
     "last_seen": "2026-11-14",
     "stale": true
   },
@@ -1566,21 +1581,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-11",
-    "last_seen": "2026-11-14",
-    "stale": true
-  },
-  {
-    "company": "FDE Times",
-    "job_title": "Senior Software Engineer - AI Compute, Together Cloud",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486693288",
-    "job_url": "https://www.linkedin.com/jobs/view/4486693288",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-08",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-08",
     "last_seen": "2026-11-14",
     "stale": true
   },
