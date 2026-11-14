@@ -994,20 +994,6 @@
     "last_seen": "2026-11-14"
   },
   {
-    "company": "&Work",
-    "job_title": "Software Engineer AI",
-    "location": "Rotterdam, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4490338858",
-    "job_url": "https://www.linkedin.com/jobs/view/4490338858",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-12",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-14"
-  },
-  {
     "company": "Sogeti",
     "job_title": "AI Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1257,6 +1243,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-22",
+    "last_seen": "2026-11-14"
+  },
+  {
+    "company": "Cognizant",
+    "job_title": "Frontier Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4457175323",
+    "job_url": "https://www.linkedin.com/jobs/view/4457175323",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-26",
     "last_seen": "2026-11-14"
   },
   {
@@ -1552,6 +1552,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-16",
     "last_seen": "2026-11-14"
+  },
+  {
+    "company": "&Work",
+    "job_title": "Software Engineer AI",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4490338858",
+    "job_url": "https://www.linkedin.com/jobs/view/4490338858",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-14",
+    "stale": true
   },
   {
     "company": "Cboe Global Markets",
