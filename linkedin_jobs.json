@@ -1,6 +1,20 @@
 [
   {
     "company": "Bitvavo",
+    "job_title": "Senior Backend Engineer - Securities Trading",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4483111539",
+    "job_url": "https://www.linkedin.com/jobs/view/4483111539",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-14",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-11-14"
+  },
+  {
+    "company": "Bitvavo",
     "job_title": "Senior Backend Engineer - Low Latency",
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4483102667",
@@ -39,20 +53,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-14"
-  },
-  {
-    "company": "Path\u00e9 Nederland",
-    "job_title": "Senior Software Engineer (Apps)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4490724888",
-    "job_url": "https://www.linkedin.com/jobs/view/4490724888",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-13",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-13",
     "last_seen": "2026-11-14"
   },
   {
@@ -543,20 +543,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-14"
-  },
-  {
-    "company": "Manychat",
-    "job_title": "Senior Python Engineer, Billing & Accounts",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4452910756",
-    "job_url": "https://www.linkedin.com/jobs/view/4452910756",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-18",
     "last_seen": "2026-11-14"
   },
   {
@@ -1538,6 +1524,36 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-04",
     "last_seen": "2026-11-14"
+  },
+  {
+    "company": "Path\u00e9 Nederland",
+    "job_title": "Senior Software Engineer (Apps)",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4490724888",
+    "job_url": "https://www.linkedin.com/jobs/view/4490724888",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-13",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-14",
+    "stale": true
+  },
+  {
+    "company": "Manychat",
+    "job_title": "Senior Python Engineer, Billing & Accounts",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4452910756",
+    "job_url": "https://www.linkedin.com/jobs/view/4452910756",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-11-14",
+    "stale": true
   },
   {
     "company": "adesso Netherlands",
