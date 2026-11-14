@@ -322,17 +322,17 @@
     "last_seen": "2026-11-14"
   },
   {
-    "company": "Adyen",
-    "job_title": "Senior Java Software Engineer - Payments",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4452969965",
-    "job_url": "https://www.linkedin.com/jobs/view/4452969965",
+    "company": "adesso Netherlands",
+    "job_title": "Senior Java/Kotlin Developer",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488831931",
+    "job_url": "https://www.linkedin.com/jobs/view/4488831931",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-11-07",
+    "date_posted": "2026-11-09",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-13",
+    "first_seen": "2026-11-12",
     "last_seen": "2026-11-14"
   },
   {
@@ -938,6 +938,20 @@
     "last_seen": "2026-11-14"
   },
   {
+    "company": "ADC Consulting",
+    "job_title": "Data & AI Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4489559863",
+    "job_url": "https://www.linkedin.com/jobs/view/4489559863",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-13",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14"
+  },
+  {
     "company": "Stealth",
     "job_title": "Senior AI Engineer",
     "location": "Amsterdam Area",
@@ -1215,20 +1229,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-07-27",
-    "last_seen": "2026-11-14"
-  },
-  {
-    "company": "Adyen",
-    "job_title": "Senior Machine Learning Engineer - AML Tech",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4479371246",
-    "job_url": "https://www.linkedin.com/jobs/view/4479371246",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-07",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-10-16",
     "last_seen": "2026-11-14"
   },
   {
@@ -1555,6 +1555,36 @@
   },
   {
     "company": "Adyen",
+    "job_title": "Senior Java Software Engineer - Payments",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4452969965",
+    "job_url": "https://www.linkedin.com/jobs/view/4452969965",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-11-14",
+    "stale": true
+  },
+  {
+    "company": "Adyen",
+    "job_title": "Senior Machine Learning Engineer - AML Tech",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4479371246",
+    "job_url": "https://www.linkedin.com/jobs/view/4479371246",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-07",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-11-14",
+    "stale": true
+  },
+  {
+    "company": "Adyen",
     "job_title": "Senior Machine Learning Engineer",
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4479372208",
@@ -1655,21 +1685,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-31",
-    "last_seen": "2026-11-13",
-    "stale": true
-  },
-  {
-    "company": "adesso Netherlands",
-    "job_title": "Senior Java/Kotlin Developer",
-    "location": "Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4488831931",
-    "job_url": "https://www.linkedin.com/jobs/view/4488831931",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-09",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-12",
     "last_seen": "2026-11-13",
     "stale": true
   },
