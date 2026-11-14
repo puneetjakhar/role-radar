@@ -784,20 +784,6 @@
     "last_seen": "2026-11-14"
   },
   {
-    "company": "NN Group",
-    "job_title": "Kubernetes Enablement Platform Engineer",
-    "location": "The Hague, South Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4488341996",
-    "job_url": "https://www.linkedin.com/jobs/view/4488341996",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-10",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-14"
-  },
-  {
     "company": "Schuberg Philis",
     "job_title": "Senior Platform Engineer (Kubernetes)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -879,6 +865,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-09",
+    "last_seen": "2026-11-14"
+  },
+  {
+    "company": "FDE Times",
+    "job_title": "Senior Software Engineer - AI Compute, Together Cloud",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486693288",
+    "job_url": "https://www.linkedin.com/jobs/view/4486693288",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-08",
     "last_seen": "2026-11-14"
   },
   {
@@ -1554,17 +1554,17 @@
     "last_seen": "2026-11-14"
   },
   {
-    "company": "FDE Times",
-    "job_title": "Senior Software Engineer - AI Compute, Together Cloud",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486693288",
-    "job_url": "https://www.linkedin.com/jobs/view/4486693288",
+    "company": "NN Group",
+    "job_title": "Kubernetes Enablement Platform Engineer",
+    "location": "The Hague, South Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488341996",
+    "job_url": "https://www.linkedin.com/jobs/view/4488341996",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-11-08",
+    "date_posted": "2026-11-10",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-08",
+    "first_seen": "2026-11-10",
     "last_seen": "2026-11-14",
     "stale": true
   },
