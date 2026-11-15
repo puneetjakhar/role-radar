@@ -43,6 +43,20 @@
   },
   {
     "company": "Adyen N.V.",
+    "job_title": "Head of Forward Deployed Engineering - Operations ",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
+    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/7953778",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-06-05",
+    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. Head of Forward Deployed Engineering - Operations&nbsp; This role focuses on moving beyond isolated pilots and volunteer-led activity, and building a more deliberate approach to re-engineering work through AI, automation, and better operating design. This role will lead that for Ops. It will set the direction for what an AI-native, and highly leveraged operations model should look like, help identify where the biggest opportunities sit, and create the structure that allows domain-owned use cases to turn into real outcomes. Domain leads will remain accountable for the impact delivered in their own areas. This role exists to bring the thought leadership, technical credibility, outside-in perspective, and driving force needed to help make that happen across the function.&nbsp; &nbsp;Head of Forward Deployed Engineering - Operations&nbsp; Set the AI and innovation direction for Operations, with a clear view of what will create the most meaningful step change in customer experience, productivity, quality, and scalability. Work with the domains to identify and prioritise the use cases that matter most, based on business value, feasibility, and readiness. Lead the central Ops innovation model, including the structure, ways of working, and foundations needed for domain-led re-engineering to succeed. Lead a small team of Forward Deployed AI specialists to turn ideas into real, scalable solutions. Build credibility for AI across Ops through clear thinking, practical examples, and a strong view of where the real value is and where the risks are. Stay current on the AI landscape, emerging patterns, and market developments, and translate that into practical implications for how Ops should evolve. Work with central business enablement and capability teams so that new capabilities landing across the company are connected to Ops needs, and the right upskilling happens as use cases scale. Represent Operations in central engineering, making sure that Ops priorities are well understood, well framed, and well supported. Track progress and value delivered, and keep the focus on outcomes rather than activity. What good looks like Ops has a clear and credible point of view on where AI should and should not be applied. The Domains have better clarity on where to focus and what will drive the biggest outcomes.&nbsp; High-value use cases ",
+    "notes": "Dept: Infrastructure. Via Greenhouse board.",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Adyen N.V.",
     "job_title": "Java Software Engineer - CX ",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
@@ -295,6 +309,20 @@
   },
   {
     "company": "Catawiki B.V.",
+    "job_title": "Security Tech Lead Manager ",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://catawiki.careers/vacancies?o=0&n=10&of=47810&f=194&of=47823&f=92",
+    "job_url": "https://job-boards.greenhouse.io/catawiki/jobs/8245625",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-01",
+    "description": "At Catawiki, every day brings the extraordinary! Whether it\u2019s Daniel Ricciardo\u2019s Formula 1 Car , a Woolly Mammoth\u2019s Skeleton , Lady Gaga's Jumpsuit or Usain Bolt\u2019s running shoe , we encounter exceptional objects every day. We\u2019re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by our passionate in-house experts. Having sold over 25 million unique objects, our mission is to become the world\u2019s most popular destination for special objects. As a growing, diverse and sustainable scale-up, we proudly live by three core values. If these values resonate with you, we\u2019d love to explore how you can join us. Taking ownership and driving impact&nbsp; Being open to change and feedback Being passionate about our mission and our customers.&nbsp; About the role and team As our Security Tech Lead Manager, you\u2019ll manage a team of 2\u20133 security engineers within Platform Engineering and remain hands-on. You\u2019ll own the security engineering roadmap and take responsibility for the team\u2019s delivery, performance and development. Working with Product and Platform Engineering, you\u2019ll help protect our marketplace, our customers and their data. Our platform runs on Google Cloud and Kubernetes. You\u2019ll focus on application and cloud security, secure software delivery and risks in internal and AI-enabled systems. You\u2019ll turn security priorities into engineering work, make clear trade-offs and help teams adopt controls that fit their everyday workflows. What you will do Manage and develop the security team through regular one-to-ones, timely feedback, performance reviews and career development. Address underperformance and support hiring and onboarding. Own the security engineering roadmap. Prioritise work based on risk, business needs and team capacity, delegate effectively and remove blockers to delivery. Stay hands-on by building security controls and automation, reviewing code and guiding technical decisions across applications, cloud infrastructure and software delivery. Partner with Product and Platform Engineering early in design. Lead threat modelling and security reviews, and help teams choose secure approaches that are practical to implement. Improve vulnerability management. Assess findings in the context of exposure and business impact, agree remediation priorities with system owners and track issues through resolution. Improve security checks in CI/CD and infrastructure as code, including dependency and secret scanning. Reduce false positives and help engineers act on findings. Coordinate the security team\u2019s technical contribution to incident response and investigations. Turn lessons from incidents into improvements to detection, response and preventive controls. Work with Legal, IT and Trust &amp; Safety on security controls, policies and audit evidence where responsibilities overlap. Measure and communicate progress through remediation times, control coverage and adoptio",
+    "notes": "Dept: Engineering. Via Greenhouse board.",
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Catawiki B.V.",
     "job_title": "Senior Manager \u2013 Data Engineering & Machine Learning",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://catawiki.careers/vacancies?o=0&n=10&of=47810&f=194&of=47823&f=92",
@@ -319,6 +347,20 @@
     "description": "RDQ427R369 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Our Developer Ecosystem organisation shapes how developers and the AI agents working for them build on the Databricks Data and AI Platform, from within the product to the tools they already use. We are hiring an Engineering Manager to lead our declarative deployment framework, which turns data and AI projects into versioned, reviewable, repeatable software. It is one product with two entry points. Third-party developers use our open-source CLI from their IDEs, terminals, and CI/CD systems. First-party, they author, deploy and inspect the same projects inside the Databricks workspace. In both, AI agents increasingly do the work: coding agents drive the CLI, and our in-product AI assistant authors and deploys projects alongside the developer. Thousands of organisations run their CI/CD on it, and it is one of the fastest-growing parts of the platform. The team owns the deployment engine and CLI, the in-workspace authoring and deployment experience, and the metadata service and deployment history that record every deployment. The hard problems are real infrastructure-as-code problems: reconciling declared and live state, making plans safe for humans and agents to approve, keeping visual authoring and code in sync, and shipping weekly releases that remain backwards-compatible for our largest customers. The impact you will have: Lead and grow the team: Manage a team of senior engineers across three closely connected areas (the deployment engine and open-source CLI, the in-workspace authoring and deployment experience, and deployment history and metadata), working with strong tech leads. Hire, coach and promote, and grow engineers into tech leads. Make agentic development the default path: Shape how developers and AI agents author, validate and deploy projects, both inside the workspace and from the developer's own coding agent. Design the tools, skills and guardrails so agents get the same safety and auditability as humans. Own the strategy and roadmap: Partner with Product and Design to set a multi-quarter roadmap for declarative deployment: agentic development, governed deployments and deployment history, enterprise CI/CD, and new resource coverage. Make the trade-offs explicit when the demand is larger than the team. Raise the bar on execution and operational excellence: Run a predictable delivery process for a fast-moving, open-source product with frequent releases. Own reliability, on-call health, incident response and the quality bar for a tool customers depend on to ship to production. Treat backward compatibility as a product feature: Lead engine and configuration migra",
     "notes": "Dept: Engineering. Via Greenhouse board.",
     "first_seen": "2026-11-13",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Databricks",
+    "job_title": "Forward Deployed Engineer",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://www.databricks.com/company/careers/open-positions?department=Engineering&location=Netherlands%7CAmsterdam%2C%20Netherlands",
+    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-03-13",
+    "description": "CSQ327R45 As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives alongside engineering, product, and developer relations. FDEs deliver with customer empathy, integrating with client systems, training, and other technical needs to help customers get most value out of their data.&nbsp; &nbsp; This is a hands-on, customer-facing role for builders who thrive at the intersection of technology and business impact. The ideal candidate combines engineering expertise with adaptability, curiosity, and a passion for working with customers and teammates to solve complex problems that drive measurable outcomes. FDEs are billable and know how to complete projects according to specification with exceptional customer empathy. &nbsp; The impact you will have: Production Solution Delivery: Lead impactful customer technical projects by delivering production-grade systems, designing and building reference architectures, custom applications and data ingestion and ML/AI model integration Transformational Impact: Guide strategic customers as they implement transformational big data projects including end-to-end design, build and deployment of industry-leading big data and AI applications. Work with engagement managers to scope technical delivery work with input from the customer Empower Customers: Guide customers on architecture and design; bootstrap or implement customer projects which leads to a customers' successful understanding, evaluation and adoption of Databricks. Own the Architecture: Lead architecture and design decisions, ensuring solutions are secure, scalable, and aligned with both customer needs and Databricks best practices. Work with the Databricks technical team, Project Manager, Architect and Customer team to ensure the technical components of the engagement are delivered to meet customer's needs. Work with Engineering and Databricks Customer Support to provide product and implementation feedback and to guide rapid resolution for engagement specific product and support issues. Customer Immersion: Embed with customer teams, engaging with stakeholders from technical ICs to executives to deeply understand challenges and deliver impact. Reusable Assets &amp; Scale: Contribute accelerators, frameworks, and best practices that scale impact across accounts and influence the Databricks product roadmap. &nbsp; What we look for: Extensive experience in data engineering, data platforms &amp; analytics, or software engineering Comfortable writing code in either Python, Scala, JavaScript/TypeScript, and modern frameworks Working knowledge of two or more common Cloud ecosystems (AWS, Azure, GCP) with expertise in at least one De",
+    "notes": "Dept: Professional Services Operations. Via Greenhouse board.",
+    "first_seen": "2026-11-15",
     "last_seen": "2026-11-15"
   },
   {
@@ -463,20 +505,6 @@
   },
   {
     "company": "Databricks",
-    "job_title": "Software Engineering Intern (2027 Start) - Amsterdam",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://www.databricks.com/company/careers/open-positions?department=Engineering&location=Netherlands%7CAmsterdam%2C%20Netherlands",
-    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2023-09-01",
-    "description": "P-969 At Databricks, we are passionate about helping data teams solve the world's toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We're hiring across all of our teams, including full stack, backend, infrastructure, systems, tools, cloud, databases, and customer-facing products. You will have a dedicated mentor and will join our 2027 intern cohort where you'll connect with engineers, other interns, and leaders from across the company. We are hiring Software Engineering Interns across multiple offices. Please apply for the single location that you're the most interested in, and we will discuss more with you as you move through the process. We can only consider one application in 30 days.&nbsp; The impact you will have: Work with a team to build features for the Databricks platform Manage your project end-to-end, including design, code, and feedback Learn about building a platform that scales quickly while maintaining quality and security What we look for: You will graduate between fall 2027 and Summer 2028 with a degree in Computer Science, Engineering, or related subject You have implementation skills with a general purpose program language, such as Python, Java, or C++ You have good knowledge of algorithms, data structures, and OOP principles You are excited to solve ambiguous problems with a collaborative team This is a Summer 12-week internship. Co-ops are only available to students enrolled in a co-op program. About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 \u2014 rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . Our Commitment to Diversity and Inclusion At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identi",
-    "notes": "Dept: University Recruiting - Engineering. Via Greenhouse board.",
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-11-15"
-  },
-  {
-    "company": "Databricks",
     "job_title": "Software Engineer - New Grad (2027 Start) - Amsterdam",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://www.databricks.com/company/careers/open-positions?department=Engineering&location=Netherlands%7CAmsterdam%2C%20Netherlands",
@@ -491,6 +519,20 @@
   },
   {
     "company": "Databricks",
+    "job_title": "Sr. Designated Support Engineer",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://www.databricks.com/company/careers/open-positions?department=Engineering&location=Netherlands%7CAmsterdam%2C%20Netherlands",
+    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8125173002",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2025-08-19",
+    "description": "P-1448 About the Role As a Designated Support Engineer (DSE) at Databricks, you will serve as the principal technical support advisor and voice of the customer for our most strategic enterprise accounts leveraging technical experience and business skills. In this role, you will lead high-touch, support-driven customer engagements, and provide proactive advisory. You will leverage support trends, ticket history, and operational telemetry to ensure the operational health, scale, and resiliency of customer data platforms. This self-motivated professional will demonstrate high commitment to both customers and internal teams, with excellent communication, project management, and problem-solving skills. While this is a support-anchored role, you will play a critical role in driving proactive operational best practices, mitigating risk, and bridging customer challenges directly with Databricks Product, Engineering, and Field teams. Responsibilities &amp; Core Duties Technical &amp; Architectural Guidance: Guide external stakeholders on operational best practices and architectural design across Distributed Data Processing (Apache Spark\u2122), Query Optimization, Lakehouse open table formats (Delta Lake, Iceberg), Cloud Infrastructure &amp; IaC, OS, Networking and Containerization (Kubernetes/Docker), Security &amp; Governance, and Data Warehousing. Proactive Operational Health &amp; Trend Analysis: Leverage support history, ticket metrics, and system telemetry to deliver predictive health checks, risk assessments, and preventive recommendations - applying deep platform domain knowledge to advise customers on environment scaling, upgrade readiness, and long-term platform stability. Critical Escalation &amp; Technical Incident Facilitation: Coordinate and facilitate critical, high-impact escalations by aligning customer leadership with internal Databricks Escalation Engineers and Core Engineering teams to ensure swift, well-communicated resolutions. Strategic Support Ownership: Serve as the strategic ambassador for the Databricks Support organization, operating as the customer\u2019s dedicated operational quarterback to align platform operations with business goals and ensure enterprise accounts realize maximum business value. Executive Reporting &amp; Operational Governance: Lead regular Support Business Reviews (SBRs/QBRs) for customer leadership, articulating ticket health trends, Root Cause Analyses (RCAs), upgrade readiness roadmaps, and strategic operational trade-offs. Voice of the Customer Advocacy: Synthesize customer operational patterns, systemic technical friction, and platform blockers, channeling actionable feedback directly into Databricks Product, Support, and Engineering organizations to steer platform reliability and enhance customer experience. Basic Qualifications: 5+ years of experience in customer-facing technical roles such as Premier Support Engineer (DSE), Technical Account Manager (TAM), Solutions Architect, or Senior Escalation Engineer i",
+    "notes": "Dept: Support. Via Greenhouse board.",
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Databricks",
     "job_title": "Sr. Engineering Manager - Developer Ecosystem",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://www.databricks.com/company/careers/open-positions?department=Engineering&location=Netherlands%7CAmsterdam%2C%20Netherlands",
@@ -501,6 +543,20 @@
     "description": "RDQ427R369 At Databricks, we are passionate about enabling data teams to solve the world's toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Our Developer Ecosystem organisation shapes how developers and the AI agents working for them build on the Databricks Data and AI Platform, from within the product to the tools they already use. We are hiring an Engineering Manager to lead our declarative deployment framework, which turns data and AI projects into versioned, reviewable, repeatable software. It is one product with two entry points. Third-party developers use our open-source CLI from their IDEs, terminals, and CI/CD systems. First-party, they author, deploy and inspect the same projects inside the Databricks workspace. In both, AI agents increasingly do the work: coding agents drive the CLI, and our in-product AI assistant authors and deploys projects alongside the developer. Thousands of organisations run their CI/CD on it, and it is one of the fastest-growing parts of the platform. The team owns the deployment engine and CLI, the in-workspace authoring and deployment experience, and the metadata service and deployment history that record every deployment. The hard problems are real infrastructure-as-code problems: reconciling declared and live state, making plans safe for humans and agents to approve, keeping visual authoring and code in sync, and shipping weekly releases that remain backwards-compatible for our largest customers. The impact you will have: Lead and grow the team: Manage a team of senior engineers across three closely connected areas (the deployment engine and open-source CLI, the in-workspace authoring and deployment experience, and deployment history and metadata), working with strong tech leads. Hire, coach and promote, and grow engineers into tech leads. Make agentic development the default path: Shape how developers and AI agents author, validate and deploy projects, both inside the workspace and from the developer's own coding agent. Design the tools, skills and guardrails so agents get the same safety and auditability as humans. Own the strategy and roadmap: Partner with Product and Design to set a multi-quarter roadmap for declarative deployment: agentic development, governed deployments and deployment history, enterprise CI/CD, and new resource coverage. Make the trade-offs explicit when the demand is larger than the team. Raise the bar on execution and operational excellence: Run a predictable delivery process for a fast-moving, open-source product with frequent releases. Own reliability, on-call health, incident response and the quality bar for a tool customers depend on to ship to production. Treat backward compatibility as a product feature: Lead engine and configuration migra",
     "notes": "Dept: Engineering. Via Greenhouse board.",
     "first_seen": "2026-11-13",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Databricks",
+    "job_title": "Sr. Manager, AI Forward Deployed Engineering",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://www.databricks.com/company/careers/open-positions?department=Engineering&location=Netherlands%7CAmsterdam%2C%20Netherlands",
+    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574912002",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-06-04",
+    "description": "REQ ID: CSQ427R198 Location: Amsterdam, Netherlands Mission The Forward Deployed AI Engineering (AI FDE) team is a highly specialised customer-facing AI team at Databricks. We deliver professional services (PS) engagements to help our customers build and productionize first-of-its-kind AI applications with a focus on GenAI. We work cross-functionally with AI/ML Product, Research, and Engineering to shape long-term strategic priorities and initiatives. We are looking for a world-class leader to lead and grow our EMEA AI FDE team. In this role, you will lead customers on their AI/ML transformation with Databricks, push the boundaries of our product, recruit and develop top data scientists/machine learning engineers, and manage a portfolio of key EMEA accounts. You will report directly to the Head of EMEA AI FDE.&nbsp; The impact you will have: Lead and scale a world-class AI/ML professional services team, including hiring, mentoring, and building a team structure to support long-term growth and execution at scale Develop and expand executive relationships with EMEA customers and partners (including VP+, CIO/CDO-level stakeholders), acting as a trusted advisor during complex technical engagements and AI transformations Align with Field Engineering and Sales Leaders to define joint strategies for strategic accounts and ensure strong delivery coordination across functions Lead strategic AI PS initiatives, practice development, and standardised delivery processes; design scalable engagement models and reusable solutions for repeatability across the global team Shape cross-functional collaboration by influencing Product, R&amp;D, and GTM\u2014ensuring voice-of-customer insights and delivery learnings help inform the product roadmap and GTM strategy Own OKRs for AI-services led accounts, revenue, utilisation, and public references Represent Databricks as a thought leader in AI/ML What we look for: Extensive experience managing, hiring, and building a team of high-performing data scientists/ML engineers and leaders, with a track record of scaling organisations through developing scalable processes and cultivating leaders Ability to scope, guide, and sell technical engagements, manage escalations, and ensure successful delivery in enterprise environments Deep technical expertise in ML, GenAI, and data science, and curiosity to continue to stay up-to-date in this ever-changing field Experience leading teams building cutting-edge production ML solutions in cloud environments (AWS, Azure, or GCP) Proven success in developing a strategy with senior executive stakeholders to define program-level goals, align technical vision, and build trust throughout complex enterprise engagements Demonstrated experience in cross-functional leadership roles, collaborating with Sales, Product, and GTM teams to drive business impact through AI/ML \u201cCompany-first\u201d mindset Graduate degree in a quantitative discipline (Computer Science, Engineering, Statistics, Operations Research, etc.",
+    "notes": "Dept: Professional Services Operations. Via Greenhouse board.",
+    "first_seen": "2026-11-15",
     "last_seen": "2026-11-15"
   },
   {
@@ -561,6 +617,20 @@
   },
   {
     "company": "JetBrains N.V.",
+    "job_title": "Founding Tech Lead (GrowthBricks)",
+    "location": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Paphos, Cyprus; Remote, Germany; Warsaw, Poland",
+    "careers_url": "https://job-boards.eu.greenhouse.io/jetbrains?field_11295787101%5B%5D=25001123101&offices%5B%5D=4029436101",
+    "job_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4977893101",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-29",
+    "description": "Founding Tech Lead (GrowthBricks) Are you a hands-on engineer who loves zero-to-one challenges? Do you want to build systems with real context and memory that do more than reason, use tools, and drive actual business outcomes?&nbsp; About JetBrains We create intelligent software development tools for developers and teams. More than 15 million users, over 300,000 companies, and 88 of the Fortune Global Top 100 rely on our products to solve real, complex problems. Our mission is simple: make development teams more productive and AI adoptable at scale. GrowthBricks is a new project at JetMinds, backed by JetBrains, designed to give GTM teams and AI agents a shared business brain. Business context usually gets fragmented across CRMs, documents, dashboards, and people's heads. GrowthBricks brings that context together so agents and people can make decisions and execute effectively across the sales, marketing, and product stack. About GrowthBricks GrowthBricks is a shared business brain for GTM teams and AI agents. It brings together the context that usually lives across CRM, docs, dashboards, tools, and people\u2019s heads: who we sell to, why customers buy, what matters now, what we tried, and what worked. Agents and people use that context to decide what to do next and execute across the GTM stack. GrowthBricks is a new project at JetMinds, backed by JetBrains. About the role We\u2019re looking for a hands-on Founding Tech Lead to build GrowthBricks from zero. You\u2019ll work directly with the product founder and own the technical side of the product: architecture, core systems, integrations, and the agent layer. The core challenge is turning fragmented, changing business context into reliable memory and agent actions across tools and measuring whether those actions actually drive business outcomes. You\u2019ll write a lot of the early code yourself, make the key technical decisions, and shape the product as we learn what works. What you\u2019ll work on Design the core architecture: business context, agents, tools, integrations, and feedback loops. Build agentic workflows that can reason over company context and act across CRM, sales, marketing, and product systems. Build context extractors from GTM team artifacts like sales calls, emails, internal documents, CRM state, marketing campaigns, etc. Work on prompting, context management, memory, tool use, and orchestration. Connect GrowthBricks to the existing GTM stack rather than rebuilding everything around it. Decide where to use MCP, APIs, frameworks, or third-party tools and where a custom solution is worth it. Prototype fast, discard weak ideas, and turn the useful ones into product primitives. We expect that you Are a strong hands-on engineer who enjoys zero-to-one work. Have built with LLMs, agents, or agentic workflows used by real people, and improved them based on failures, evaluations, and user feedback. Understand how context, prompting, tools, and agent behavior fit together. Can design backend systems, APIs, da",
+    "notes": "Dept: GrowthBricks. Via Greenhouse board.",
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "JetBrains N.V.",
     "job_title": "(Senior) Machine Learning Developer (Junie)",
     "location": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia",
     "careers_url": "https://job-boards.eu.greenhouse.io/jetbrains?field_11295787101%5B%5D=25001123101&offices%5B%5D=4029436101",
@@ -575,6 +645,20 @@
   },
   {
     "company": "JetBrains N.V.",
+    "job_title": "Senior Product Manager \u2013 JetBrains Air (Agentic Development in IDEs)",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://job-boards.eu.greenhouse.io/jetbrains?field_11295787101%5B%5D=25001123101&offices%5B%5D=4029436101",
+    "job_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/5005323101",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-20",
+    "description": "Are you comfortable navigating complex software systems, working with coding agents, and defining what makes developer tools actually useful? Do you want to shape how developers and AI work together inside IDEs? About JetBrains We create intelligent software development tools for developers and teams. More than 15 million users, over 300,000 companies, and 88 of the Fortune Global Top 100 rely on our products to solve real, complex problems. Our mission is simple: make development teams more productive and AI adoptable at scale. What you\u2019ll do Agentic development is changing how software gets built. Developers no longer just chat with AI \u2013 they delegate tasks, run parallel agent sessions, and steer autonomous changes. As agents take on more work, reviewing and owning the output is becoming the hardest part of the process.&nbsp; JetBrains Air is our open system for agentic development. It brings tools like Codex, GitHub Copilot, Claude Agent, Gemini, and Junie directly into JetBrains IDEs, providing an agentic-first user experience. We are looking for a Senior Product Manager to lead key areas of Air. You\u2019ll take ownership of high-impact workflows, work closely with cross-functional teams (including software engineers, designers, ML researchers, analysts, DevRel, and product marketing), and turn technical complexity into clear product direction. Day to day, you will: Take end-to-end ownership of key parts of Air in JetBrains IDEs, driving work from problem framing and discovery to delivery, adoption, and iteration. Define and refine core agentic workflows, including task delegation, session monitoring, steering, and code review. Model complex user flows, system states, permissions, and integration schemes to guide engineering and design decisions. Maintain a transparent roadmap that balances quick improvements with long-term strategic investments. Define telemetry, design experiments, analyze product data, and make evidence-based roadmap decisions. Study how developers interact with leading AI agents and tools to inform product priorities. Engage with the Agent Client Protocol (ACP) ecosystem and collaborate with partners building on it. Partner with enterprise sales and support teams to address governance, privacy, and control requirements. What you\u2019ll bring A systems-thinking mindset that easily breaks down complex architectures, workflows, and dependencies. A data-driven approach to product decisions, including hands-on experience querying and analyzing telemetry. Active personal experience using coding agents and clear perspectives on where current AI tools succeed and fail. Strong product intuition for complex technical user experiences and developer workflows. Clear, concise, and collaborative communication skills with the ability to explain complex technical concepts simply and build alignment across diverse groups of stakeholders. Comfort navigating fast-changing technical landscapes with high ambiguity. What you\u2019ll need Proven experience ",
+    "notes": "Dept: AI DevTools Experience Product. Via Greenhouse board.",
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "JetBrains N.V.",
     "job_title": "Staff Software Developer (IAM)",
     "location": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia",
     "careers_url": "https://job-boards.eu.greenhouse.io/jetbrains?field_11295787101%5B%5D=25001123101&offices%5B%5D=4029436101",
@@ -585,6 +669,20 @@
     "description": "At JetBrains, code is our passion. Ever since we started back in 2000, we have strived to create the strongest and most effective developer tools in the world. Today, we are evolving beyond standalone tools toward a unified, AI-native platform for software development. AI is no longer just an assistant inside the editor \u2013 it is becoming an active participant in how software is planned, built, reviewed, and operated across teams and organizations. This shift brings challenges that cannot be solved at the level of individual tools alone, challenges that involve governance, security, cost control, observability, and coordination between humans and autonomous agents. The JetBrains Platform team (JCP) is building the foundation that connects developer workflows, team-level collaboration, and organizational control into a single coherent system. The platform is both deeply integrated with JetBrains products and designed to work across teams, products, and environments. We\u2019re now looking for an experienced Software Engineer to join an identity management and access team in JCP. The team owns several services responsible for authentication and authorization, as well as for managing organizations, user memberships, groups, and workspaces. All these form a foundational dependency for the rest of the platform. We also supply and support robust authentication components used by YouTrack, IDE Services, License Vault, Qodana, and other JetBrains products. In this role, you will: Own the entire SDLC: codebase, architecture, and operations Maintain and evolve the services in Kotlin and a little bit of Go, ensuring reliability and performance as the platform grows Design and implement new features across the identity, organization, membership, group, and workspace domains Review and integrate PRs from other platform teams Manage integrations with other JCP platform components and connected applications We will be happy to have you on our team if you:&nbsp; Have 7+ years of JVM development experience, preferably with Kotlin Know how to approach performance problems on JVM and Postgres Are experienced in building and operating SaaS production services in a distributed, multi-tenant environment Can fluently navigate a modern devops stack: K8S, OpenTelemetry, Grafana Have a track record of taking over and improving existing production services Nice to have: Prior experience with identity management protocols, such as OAuth 2.0, OIDC, SAML 2.0, or SCIM 2.0 If you have designed and evolved domain models for organizational or identity systems Cybersecurity experience: estimating risks, recognizing common vulnerability antipatterns, and promoting best SSDLC practices Hands-on experience with Go Why join JetBrains?&nbsp; Strong base salary. We offer competitive pay that reflects your skills and experience. Flexible work location. Enjoy the freedom to work from home or from the office. Remote work. Spend up to 30 days per year working remotely from abroad. Extra time off. ",
     "notes": "Dept: JCP Core Foundation IAM. Via Greenhouse board.",
     "first_seen": "2026-09-04",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "JetBrains N.V.",
+    "job_title": "Team Lead Kotlin Infrastructure",
+    "location": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland",
+    "careers_url": "https://job-boards.eu.greenhouse.io/jetbrains?field_11295787101%5B%5D=25001123101&offices%5B%5D=4029436101",
+    "job_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4937064101",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "Are you an engineering leader who views developer infrastructure not as a collection of scripts, but as a core product that enables engineering craft at scale? Do you want to help shape long-term platform strategy and remove friction for hundreds of developers? Then you may be the person we're looking for to lead the Kotlin Infrastructure team at JetBrains. About JetBrains We create intelligent software development tools for developers and teams. More than 15 million users, over 300,000 companies, and 88 of the Fortune Global Top 100 rely on our products to solve real, complex problems. Our mission is simple: make development teams more productive and AI adoptable at scale. What you\u2019ll do The Kotlin Infrastructure team enables development across the Kotlin repository by building and evolving the engineering infrastructure behind Kotlin development. The team is responsible for developer experience, build infrastructure, CI/CD, release infrastructure, internal tooling, and engineering processes that help Kotlin teams create, test, and deliver software efficiently. We're looking for a Team Lead who will help the team scale its impact across the Kotlin organization and the broader JetBrains engineering ecosystem. You'll shape infrastructure strategy, be in charge of technical leadership, drive initiatives execution across multiple teams, and help Kotlin infrastructure evolve as an engineering platform. Day to day, you will: Engineering leadership Define and drive the long-term evolution of Kotlin infrastructure.&nbsp;Provide technical leadership. Own planning and prioritization across infrastructure initiatives, balancing immediate needs with long-term investments. Drive initiatives that improve development productivity and the developer experience across the Kotlin engineering ecosystem. Support engineers through coaching, feedback, and hiring. Participate in cross-team collaboration to evolve the Kotlin infrastructure and engineering platforms. Infrastructure platform Guide the evolution of infrastructure supporting Kotlin development, including: Developer experience across local development, code review, CI, and merge workflows. Kotlin build architecture and build performance. CI/CD systems, release infrastructure, artifact publication, and engineering workflows. Internal tooling, engineering automation, and development infrastructure management. Secure engineering infrastructure, including dependency management, reproducible builds, secrets, access management, build agents, and development environments. What you\u2019ll bring An engineering mindset that values systemic efficiency and developer empathy over rigid processes. The autonomy to make decisions close to the problem and accountability for the team\u2019s choices. Strong communication skills, with the ability to navigate architectural debates and align diverse engineering stakeholders. A commitment to quality and refusal to cut corners on platform stability for short-term fixes. The resilience to gu",
+    "notes": "Dept: Kotlin Build Infrastructure. Via Greenhouse board.",
+    "first_seen": "2026-11-15",
     "last_seen": "2026-11-15"
   },
   {
@@ -737,6 +835,20 @@
     "date_posted": "2026-11-12",
     "notes": "Via iCIMS/Jibe API.",
     "first_seen": "2026-11-12",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Picnic Technologies B.V.",
+    "job_title": "Tech Lead Java",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://jobs.picnic.app/en/jobs",
+    "job_url": "https://jobs.picnic.app/en/jobs/engineering/tech-lead-java/amsterdam/north-holland/netherlands",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via Picnic RSC slug extraction.",
+    "first_seen": "2026-11-15",
     "last_seen": "2026-11-15"
   },
   {
@@ -1086,6 +1198,20 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
+    "job_title": "Senior Android Developer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053634/Senior-Android-Developer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Takeaway.com Group B.V.",
     "job_title": "Senior IOS Developer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
@@ -1100,16 +1226,16 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Android Developer",
+    "job_title": "Java Fullstack Engineer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053634/Senior-Android-Developer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053194/Java-Fullstack-Engineer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-27",
+    "first_seen": "2026-11-15",
     "last_seen": "2026-11-15"
   },
   {
@@ -1207,6 +1333,20 @@
     "date_posted": null,
     "notes": "Via Workday API.",
     "first_seen": "2026-11-03",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Bol.com B.V.",
+    "job_title": "DevOps Engineer - ShopCore Backend",
+    "location": "Utrecht, Netherlands",
+    "careers_url": "https://careers.bol.com/en/jobs/",
+    "job_url": "https://job-boards.greenhouse.io/bolcomen/jobs/8789398002",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-09",
+    "description": "Job Application for DevOps Engineer - ShopCore Backend at bol.com EN Back to jobs DevOps Engineer - ShopCore Backend Utrecht Apply x Create a Job Alert Interested in building your career at bol.com EN? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Email * Phone Country Phone Resume/CV Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Cover Letter Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf LinkedIn Profile Wat je met ons wilt delen Google Analytics Client ID Google Analytics Client ID for Measurement Protocol [cid] CRM consent Select... Website Google Analytics Session ID Google Analytics Session ID Submit application Powered by Greenhouse",
+    "notes": "Dept: Technology. Via Greenhouse board.",
+    "first_seen": "2026-10-15",
     "last_seen": "2026-11-15"
   },
   {
@@ -1379,6 +1519,20 @@
   },
   {
     "company": "Nationale Postcode Loterij N.V.",
+    "job_title": "Braze Technical Lead \u2013 CRM & MarTech\nGroup Tech\nHybride\nBekijk vacature",
+    "location": "Netherlands",
+    "careers_url": "https://www.werkendoejebij.nl/vacatures",
+    "job_url": "https://www.werkendoejebij.nl/vacatures/braze-technical-lead-crm-martech-edinburgh-374545",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Nationale Postcode Loterij N.V.",
     "job_title": "Senior Full Stack Developer E-commerce\nGroup Tech\nHybride\nBekijk vacature",
     "location": "Netherlands",
     "careers_url": "https://www.werkendoejebij.nl/vacatures",
@@ -1403,6 +1557,20 @@
     "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don\u2019t have job titles. Instead, it\u2019s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company\u2014from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You\u2019ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what\u2019s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Canc\u00fan Co-working : If you\u2019re not located near one of our main hubs, we offer a monthly co-working stipend. About the role You\u2019ll build the tools that make Studio a video editor people want to live in. These include transitions, color grading and elements libraries all built on top of our in-house engine. You\u2019ll also build presets, so a user can get the effect they want without tweaking 20 individual controls. The work mixes greenfield features with polish on the existing editor. An example of the polish i",
     "notes": "Via Ashby API.",
     "first_seen": "2026-11-06",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "ElevenLabs",
+    "job_title": "Developer Experience Engineer",
+    "location": "Remote",
+    "careers_url": "https://jobs.ashbyhq.com/elevenlabs",
+    "job_url": "https://jobs.ashbyhq.com/ElevenLabs/d16a7ad6-ffbd-4655-8716-4872263f99ce",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-23",
+    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don\u2019t have job titles. Instead, it\u2019s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company\u2014from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You\u2019ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what\u2019s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Canc\u00fan Co-working : If you\u2019re not located near one of our main hubs, we offer a monthly co-working stipend. About the role We're looking for a Developer Experience Engineer to join us in our goal of making the ElevenLabs developer experience the gold standard other companies look up to. You'll help design, build and maintain our open source projects to drive developer adoption. Whether it's our server and client side SDKs or MCP server, you'll be directly involved in the developer journey for new and exist",
+    "notes": "Via Ashby API.",
+    "first_seen": "2026-11-15",
     "last_seen": "2026-11-15"
   },
   {
@@ -1574,20 +1742,6 @@
     "last_seen": "2026-11-15"
   },
   {
-    "company": "Bending Spoons",
-    "job_title": "Software engineer, summer intern\n\nMilan (Italy), London (UK), Madrid (Spain), or Warsaw (Poland)",
-    "location": "Netherlands",
-    "careers_url": "https://jobs.bendingspoons.com/",
-    "job_url": "https://jobs.bendingspoons.com/positions/6abcc9f826f91ee39d3040c4",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-11-15"
-  },
-  {
     "company": "Van Lanschot Kempen N.V.",
     "job_title": "Full-Stack Developer",
     "location": "Amsterdam",
@@ -1599,6 +1753,20 @@
     "description": "",
     "notes": "Via XHR interception (Playwright).",
     "first_seen": "2026-11-09",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Van Lanschot Kempen N.V.",
+    "job_title": "Fullstack Engineer iOS \u2014 Client and AI Analytics",
+    "location": "Amsterdam",
+    "careers_url": "https://careers.vanlanschotkempen.com/en-nl/vacancies",
+    "job_url": "https://careers.vanlanschotkempen.com/en-nl/vacancies/fullstack-engineer-ios-%E2%80%94-client-and-ai-analytics",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-11-15",
     "last_seen": "2026-11-15"
   },
   {
@@ -1645,6 +1813,20 @@
   },
   {
     "company": "Van Lanschot Kempen N.V.",
+    "job_title": "Junior .Net Developer",
+    "location": "Amsterdam",
+    "careers_url": "https://careers.vanlanschotkempen.com/en-nl/vacancies",
+    "job_url": "https://careers.vanlanschotkempen.com/en-nl/vacancies/junior-,-d-,net-developer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Van Lanschot Kempen N.V.",
     "job_title": "Senior Dynamics Engineer - Digital Innovation & Analytics",
     "location": "Amsterdam",
     "careers_url": "https://careers.vanlanschotkempen.com/en-nl/vacancies",
@@ -1655,6 +1837,20 @@
     "description": "",
     "notes": "Via XHR interception (Playwright).",
     "first_seen": "2026-11-12",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Codit Nederland B.V.",
+    "job_title": "Medior Azure Developer (.NET & C#)",
+    "location": "Netherlands",
+    "careers_url": "https://careers.codit.eu/jobs",
+    "job_url": "https://careers.codit.eu/jobs/8303896-medior-azure-developer-net-c",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-15",
     "last_seen": "2026-11-15"
   },
   {
@@ -1711,6 +1907,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-12",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Sigma Software Group",
+    "job_title": "SOFTWARE ARCHITECT (ADTECH)\nAlbania\nBrazil\nBulgaria\nEurope\nLatin America\nPoland\nRomania\nSpain\nUkraine\nEngineering\nAPPLY",
+    "location": "Netherlands",
+    "careers_url": "https://career.sigma.software/",
+    "job_url": "https://career.sigma.software/vacancy/software-architect-5/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-15",
     "last_seen": "2026-11-15"
   },
   {
@@ -1976,16 +2186,16 @@
     "last_seen": "2026-11-15"
   },
   {
-    "company": "Philips Electronics Nederland B.V.",
-    "job_title": "Internship: Full Stack Developer in Finance Domain",
-    "location": "Eindhoven",
-    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
-    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556",
+    "company": "Rabobank Nederland",
+    "job_title": "Tech Lead Global Data & Analytics Platform",
+    "location": "Utrecht Croeselaan 18",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Tech-Lead-Manager-F_JR_00145391",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
     "notes": "Via Workday API.",
-    "first_seen": "2026-10-08",
+    "first_seen": "2026-11-15",
     "last_seen": "2026-11-15"
   },
   {
@@ -2100,6 +2310,20 @@
   },
   {
     "company": "Cooperative VGZ U.A.",
+    "job_title": "Cloud Engineer Citadel\nEindhoven\nData & IT\nHBO\nBekijk vacature\nCloud Engineer Citadel",
+    "location": "Netherlands",
+    "careers_url": "https://werkenbijvgz.nl/vacature-overzicht/",
+    "job_url": "https://werkenbijvgz.nl/vacature/cooperatie-vgz/cloud-engineer-citadel/?jobid=1941&pubid=4257",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Cooperative VGZ U.A.",
     "job_title": "Senior Software Developer\nArnhem\nData & IT\nHBO\nBekijk vacature\nSenior Software Developer",
     "location": "Netherlands",
     "careers_url": "https://werkenbijvgz.nl/vacature-overzicht/",
@@ -2136,6 +2360,20 @@
     "relocation_support": null,
     "date_posted": "2026-11-05",
     "description": "Do you like staying close to the code while also deciding how a team builds its systems? As Tech Lead for our Customer Care team, you set the technical direction for the AI tools that hundreds of thousands of energy and internet customers actually talk to. If that sounds like the right mix for you, keep reading. What you'll do As Tech Lead for Customer Care, you own the technical direction of the team building our customer-facing AI stack: an LLM-powered chatbot with voice as a core capability, the Knowledge Base/RAG pipeline that feeds it, and the tooling and feedback loop the team uses to keep improving both. Real customers with real questions about their energy bill or internet contract get answers your team builds. That's the weight of it, and the fun of it. Day to day, this looks like: Translating product and domain challenges into clear technical approaches that balance speed, quality, and long-term stability. Being in the code and in the room: reviewing designs, pairing with engineers, and coaching them through harder decisions instead of making those decisions for them. Keeping services observable, secure, resilient, and genuinely production-ready on Kubernetes. Working closely with our architect on where this team's systems end and the rest of the domain begins. Making the team's day-to-day better through tooling, CI/CD, and testing practices that pay off over months, not just this sprint. Building a culture where people want to keep learning and take ownership of what they ship. About the team The team builds the suite of AI tools that supports our customers: a chatbot with voice as a core capability, the Knowledge Base/RAG pipeline behind it, and the feedback loop that keeps improving both. It's a small team in the in customer care domain, working alongside an internal architect, a QA engineer, and an external delivery partner. You report to the Engineering Manager, who owns people and direction, while you run delivery day to day, coach engineers who own their own solutions, and work out with the architect how domain-wide direction gets built inside the team. The team is early enough that you'll shape real decisions instead of inheriting them.",
+    "notes": "Via Recruitee API.",
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Dawn Technology B.V.",
+    "job_title": "Infrastructure Engineer",
+    "location": "Hilversum, Nederland",
+    "careers_url": "https://dawntechnology.recruitee.com/",
+    "job_url": "https://werkenbijdawn.tech/o/infrastructure-engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-21",
+    "description": "Infrastructure Engineer \u2013 Maatwerk Software met Impact Wij weten dat wat op het eerste gezicht eenvoudig lijkt, vaak complexer is dan men denkt. En wij begrijpen dat technologie geen barri\u00e8re mag zijn, maar juist de verbinding naar een bestendige maatschappij. Bij Dawn Technology bouwen we niet zomaar digitale oplossingen. We ontwikkelen hoogwaardige maatwerk software die het leven van mensen verrijkt. Achter elke krachtige applicatie staat een stabiele en schaalbare cloudinfrastructuur. We maken geen compromissen op kwaliteit en zoeken altijd naar de best mogelijke oplossing, tot in de kleinste details. Om onze groeiambities te realiseren zoeken we een Infrastructure Engineer . Iemand die zelfstandig complete IT-omgevingen ontwerpt, bouwt en automatiseert. Je pakt complexe migraties van A tot Z op en bouwt met visie aan een ijzersterk platform. Jouw rol Als Infrastructure Engineer ben je verantwoordelijk voor het volledige proces van requirements tot oplevering. Je ontwerpt, bouwt en automatiseert moderne IT-infrastructuur voor uitdagende klantprojecten. Met tools zoals Terraform en Ansible til je onze automatisering naar het hoogste niveau. Je begeleidt complexe klantmigraties van A tot Z met oog voor detail. Daarnaast borg je een uitstekende overdracht en heldere documentatie voor je collega's. Zo cre\u00eber je voorspelbare, veilige en toekomstbestendige omgevingen voor maatschappelijk relevante organisaties. Wat je zal gaan doen: Ontwerpen en opbouwen van schaalbare IT-infrastructuur op basis van klantvereisten. Automatiseren van omgevingen en processen met Terraform, Ansible en scripting. Zelfstandig uitvoeren en begeleiden van complexe klantmigraties. Inrichten van krachtige cloud- en Linux-omgevingen op platformen zoals Scaleway, AWS en Azure, volgens de nieuwste standaarden. Opstellen van heldere documentatie en verzorgen van een vlekkeloze kennisoverdracht. Waarborgen van de veiligheid, capaciteit en performance van het platform. Adviseren van klanten en collega's over slimme infrastructurele keuzes. Na succesvolle oplevering draag je de omgeving over aan onze Hosting Engineers, die het dagelijkse beheer overnemen. Jij richt je vervolgens op het volgende project.",
     "notes": "Via Recruitee API.",
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15"
@@ -2181,6 +2419,50 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Databricks",
+    "job_title": "Software Engineering Intern (2027 Start) - Amsterdam",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://www.databricks.com/company/careers/open-positions?department=Engineering&location=Netherlands%7CAmsterdam%2C%20Netherlands",
+    "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2023-09-01",
+    "description": "P-969 At Databricks, we are passionate about helping data teams solve the world's toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We're hiring across all of our teams, including full stack, backend, infrastructure, systems, tools, cloud, databases, and customer-facing products. You will have a dedicated mentor and will join our 2027 intern cohort where you'll connect with engineers, other interns, and leaders from across the company. We are hiring Software Engineering Interns across multiple offices. Please apply for the single location that you're the most interested in, and we will discuss more with you as you move through the process. We can only consider one application in 30 days.&nbsp; The impact you will have: Work with a team to build features for the Databricks platform Manage your project end-to-end, including design, code, and feedback Learn about building a platform that scales quickly while maintaining quality and security What we look for: You will graduate between fall 2027 and Summer 2028 with a degree in Computer Science, Engineering, or related subject You have implementation skills with a general purpose program language, such as Python, Java, or C++ You have good knowledge of algorithms, data structures, and OOP principles You are excited to solve ambiguous problems with a collaborative team This is a Summer 12-week internship. Co-ops are only available to students enrolled in a co-op program. About Databricks Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 \u2014 rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . Our Commitment to Diversity and Inclusion At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identi",
+    "notes": "Dept: University Recruiting - Engineering. Via Greenhouse board.",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-11-15",
+    "stale": true
+  },
+  {
+    "company": "Bending Spoons",
+    "job_title": "Software engineer, summer intern\n\nMilan (Italy), London (UK), Madrid (Spain), or Warsaw (Poland)",
+    "location": "Netherlands",
+    "careers_url": "https://jobs.bendingspoons.com/",
+    "job_url": "https://jobs.bendingspoons.com/positions/6abcc9f826f91ee39d3040c4",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-11-15",
+    "stale": true
+  },
+  {
+    "company": "Philips Electronics Nederland B.V.",
+    "job_title": "Internship: Full Stack Developer in Finance Domain",
+    "location": "Eindhoven",
+    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+    "job_url": "https://philips.wd3.myworkdayjobs.com/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-11-15",
+    "stale": true
   },
   {
     "company": "TomTom International B.V.",
