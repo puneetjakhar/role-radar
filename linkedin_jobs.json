@@ -994,6 +994,20 @@
     "last_seen": "2026-11-15"
   },
   {
+    "company": "Enreach NL",
+    "job_title": "Artificial Intelligence Engineer",
+    "location": "Almere, Flevoland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4490300612",
+    "job_url": "https://www.linkedin.com/jobs/view/4490300612",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15"
+  },
+  {
     "company": "Sogeti",
     "job_title": "AI Engineer",
     "location": "Rotterdam, South Holland, Netherlands",
@@ -1201,20 +1215,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-15"
-  },
-  {
-    "company": "Picnic Technologies",
-    "job_title": "Staff AI Engineer - Agentic Shopping",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4463610105",
-    "job_url": "https://www.linkedin.com/jobs/view/4463610105",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-08",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-09-04",
     "last_seen": "2026-11-15"
   },
   {
@@ -1524,6 +1524,21 @@
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Picnic Technologies",
+    "job_title": "Staff AI Engineer - Agentic Shopping",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4463610105",
+    "job_url": "https://www.linkedin.com/jobs/view/4463610105",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-15",
+    "stale": true
   },
   {
     "company": "Lemonade",
