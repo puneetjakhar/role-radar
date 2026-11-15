@@ -868,17 +868,17 @@
     "last_seen": "2026-11-15"
   },
   {
-    "company": "FDE Times",
-    "job_title": "Senior Software Engineer - AI Compute, Together Cloud",
+    "company": "Wypoon Technologies",
+    "job_title": "AI Platform Engineer \u2013 Azure & AI Infrastructure (Relocation Provided)",
     "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4486693288",
-    "job_url": "https://www.linkedin.com/jobs/view/4486693288",
+    "careers_url": "https://www.linkedin.com/jobs/view/4487128825",
+    "job_url": "https://www.linkedin.com/jobs/view/4487128825",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-11-08",
+    "date_posted": "2026-11-09",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-08",
+    "first_seen": "2026-11-09",
     "last_seen": "2026-11-15"
   },
   {
@@ -1526,6 +1526,21 @@
     "last_seen": "2026-11-15"
   },
   {
+    "company": "FDE Times",
+    "job_title": "Senior Software Engineer - AI Compute, Together Cloud",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4486693288",
+    "job_url": "https://www.linkedin.com/jobs/view/4486693288",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-15",
+    "stale": true
+  },
+  {
     "company": "Path\u00e9 Nederland",
     "job_title": "Senior Software Engineer (Apps)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -2092,21 +2107,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-12",
-    "stale": true
-  },
-  {
-    "company": "Wypoon Technologies",
-    "job_title": "AI Platform Engineer \u2013 Azure & AI Infrastructure (Relocation Provided)",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4487128825",
-    "job_url": "https://www.linkedin.com/jobs/view/4487128825",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-09",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-09",
     "last_seen": "2026-11-12",
     "stale": true
   },
