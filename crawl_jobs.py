@@ -39,16 +39,37 @@ except ImportError:
 
 # ── Target role keywords (case-insensitive substring match) ──────────────────
 TARGET_ROLES = [
-    'senior software engineer', 'senior java', 'ai engineer', 'ml engineer',
-    'machine learning engineer', 'senior platform engineer', 'senior backend',
-    'staff engineer', 'staff software', 'principal engineer', 'principal software',
-    'backend engineer', 'platform engineer', 'java developer', 'java engineer',
-    'software engineer', 'senior developer', 'senior engineer',
+    # Software / backend
+    'software engineer', 'software developer', 'software architect', 'senior developer', 'senior engineer',
+    'backend engineer', 'backend developer', 'back-end engineer', 'back-end developer', 'back end engineer',
+    'back end developer', 'senior backend', 'senior software engineer',
     'full stack engineer', 'full stack developer', 'full-stack engineer', 'full-stack developer',
+    'fullstack engineer', 'fullstack developer', 'product engineer', 'founding engineer',
+    'member of technical staff', 'tech lead', 'technical lead', 'lead engineer', 'lead developer',
+    # Languages
+    'senior java', 'java developer', 'java engineer', 'java software', 'kotlin',
+    'python developer', 'python engineer', 'c# developer', 'c# engineer', '.net developer', '.net engineer',
+    # Platform / cloud / reliability
+    'platform engineer', 'senior platform engineer', 'cloud engineer', 'infrastructure engineer',
+    'site reliability', 'reliability engineer', 'kubernetes', 'developer experience',
+    'developer productivity', 'engineering productivity', 'developer platform',
+    # AI
+    'ai engineer', 'ml engineer', 'machine learning engineer', 'ai developer', 'ai platform', 'ai/ml',
+    'generative ai', 'gen ai', 'agentic', 'applied ai', 'forward deployed',
+    # Senior IC
+    'staff engineer', 'staff software', 'principal engineer', 'principal software',
 ]
+# Short tokens need word boundaries ("sre" must not match inside another word).
+_SHORT_ROLE_RE = re.compile(r'\b(sre|sde|mlops|llmops|llm|genai|devops|devsecops)\b', re.IGNORECASE)
+# Not relevant at his level: internships, working-student and thesis postings.
+_NOT_TARGET_RE = re.compile(
+    r'\bintern(ship)?s?\b|\bstage\b|\bstagiair\w*|\bwerkstudent\b|working\s+student|\bthesis\b|\bafstudeer\w*',
+    re.IGNORECASE,
+)
 
 # Seniority × craft compound match — catches "Senior Python Engineer", "Lead iOS Developer", etc.
-_SENIORITY_KW = {'senior', 'principal', 'staff', 'lead', 'head of engineering', 'engineering manager'}
+_SENIORITY_KW = {'senior', 'sr.', 'sr ', 'medior', 'principal', 'staff', 'lead', 'founding',
+                 'head of engineering', 'engineering manager'}
 _CRAFT_KW = {'engineer', 'developer', 'programmer', 'architect', 'devops', 'sre', 'data engineer'}
 
 # ── NL location keywords ──────────────────────────────────────────────────────
@@ -162,7 +183,9 @@ def is_nl(location: str) -> bool:
 
 def is_target_role(title: str) -> bool:
     t = (title or '').lower()
-    if any(kw in t for kw in TARGET_ROLES):
+    if _NOT_TARGET_RE.search(t):
+        return False
+    if any(kw in t for kw in TARGET_ROLES) or _SHORT_ROLE_RE.search(t):
         return True
     # Compound match: seniority + craft (catches "Senior Python Engineer", "Lead iOS Developer")
     has_seniority = any(s in t for s in _SENIORITY_KW)
@@ -1123,7 +1146,7 @@ def fetch_workday(company: dict) -> list[dict]:
 
     all_jobs = []
     # Search multiple terms to catch NL roles
-    for search_term in ['netherlands', 'amsterdam', 'engineer']:
+    for search_term in ['netherlands', 'amsterdam', 'engineer', 'developer', 'architect', 'devops']:
         offset = 0
         limit = 20
         while True:
@@ -1251,13 +1274,20 @@ FETCHERS = {
 # ── LinkedIn via JobSpy ───────────────────────────────────────────────────────
 
 LINKEDIN_SEARCHES = [
-    'senior software engineer',
-    'senior backend engineer',
-    'platform engineer',
-    'AI engineer',
-    'staff engineer',
+    # Software / backend
+    'senior software engineer', 'software engineer', 'senior backend engineer', 'backend engineer',
+    'staff software engineer', 'tech lead software', 'full stack engineer',
+    # Languages
+    'java developer', 'senior java engineer', 'python engineer', 'kotlin engineer', '.NET developer',
+    # Platform / cloud / reliability
+    'platform engineer', 'devops engineer', 'site reliability engineer', 'cloud engineer',
+    'kubernetes engineer', 'developer experience engineer',
+    # AI
+    'AI engineer', 'machine learning engineer', 'MLOps engineer', 'generative AI engineer',
+    'agentic AI engineer', 'forward deployed engineer',
 ]
-LINKEDIN_RESULTS_PER_SEARCH = 25
+LINKEDIN_SITES = ['linkedin', 'indeed']
+LINKEDIN_RESULTS_PER_SEARCH = 50
 LINKEDIN_HOURS_OLD = 168  # 1 week
 
 def fetch_linkedin_jobs(force: bool = False) -> list[dict]:
@@ -1277,9 +1307,10 @@ def fetch_linkedin_jobs(force: bool = False) -> list[dict]:
         print(f'  → LinkedIn search: "{term}"')
         try:
             return scrape_jobs(
-                site_name=['linkedin'],
+                site_name=LINKEDIN_SITES,
                 search_term=term,
                 location='Netherlands',
+                country_indeed='Netherlands',
                 results_wanted=LINKEDIN_RESULTS_PER_SEARCH,
                 hours_old=LINKEDIN_HOURS_OLD,
                 linkedin_fetch_description=False,
@@ -1302,7 +1333,10 @@ def fetch_linkedin_jobs(force: bool = False) -> list[dict]:
             continue
         seen_urls.add(url)
         title = str(row.get('title', ''))
-        if not re.search(r'\b(engineer|developer|architect|scientist|analyst|platform|backend|fullstack|data|ml|ai|devops|sre|cloud)\b', title, re.I):
+        if not re.search(r'\b(engineer|developer|architect|scientist|analyst|platform|backend|fullstack|data|ml|ai|devops|sre|cloud'
+                         r'|sde|mlops|llm|genai|programmer|technical staff|tech lead|technical lead)\b', title, re.I):
+            continue
+        if _NOT_TARGET_RE.search(title):
             continue
         all_jobs.append({
             'company': str(row.get('company', '')),
