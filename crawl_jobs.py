@@ -2206,6 +2206,13 @@ COMPANIES = [
      "recruitee_board": "hypersolid",
      "careers_url": "https://hypersolid.recruitee.com/"},
 
+
+    # ── Added 2026-11-15 from target list ──
+    {"ind_name": "Budget Thuis B.V.", "type": "recruitee", "recruitee_board": "budgetthuis", "careers_url": "https://budgetthuis.recruitee.com/"},
+    {"ind_name": "Dawn Technology B.V.", "type": "recruitee", "recruitee_board": "dawntechnology", "careers_url": "https://dawntechnology.recruitee.com/"},
+    {"ind_name": "Mainblades B.V.", "type": "recruitee", "recruitee_board": "mainblades", "careers_url": "https://mainblades.recruitee.com/"},
+    {"ind_name": "Advidi B.V.", "type": "html", "careers_url": "https://advidi.com/careers/"},
+    {"ind_name": "Simple Life App", "type": "html", "careers_url": "https://jobs.simple.life/jobs"},
 ]
 
 # ── Main ──────────────────────────────────────────────────────────────────────
