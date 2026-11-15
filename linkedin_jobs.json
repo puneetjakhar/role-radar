@@ -532,20 +532,6 @@
     "last_seen": "2026-11-15"
   },
   {
-    "company": "Lemonade",
-    "job_title": "Senior Backend Engineer, Pricing Platform",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4488026152",
-    "job_url": "https://www.linkedin.com/jobs/view/4488026152",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-08",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-15"
-  },
-  {
     "company": "Together AI",
     "job_title": "Senior or Staff Software Engineer, Inference / Compute Infrastructure Engineering",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -879,6 +865,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-11-09",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "eBay",
+    "job_title": "Tech Lead Machine Learning Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4464249849",
+    "job_url": "https://www.linkedin.com/jobs/view/4464249849",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-15",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-09-12",
     "last_seen": "2026-11-15"
   },
   {
@@ -1218,17 +1218,17 @@
     "last_seen": "2026-11-15"
   },
   {
-    "company": "Optiver",
-    "job_title": "AI Engineer",
+    "company": "Adyen",
+    "job_title": "Staff Software Engineer - Fraud Intelligence",
     "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4423662270",
-    "job_url": "https://www.linkedin.com/jobs/view/4423662270",
+    "careers_url": "https://www.linkedin.com/jobs/view/4446003399",
+    "job_url": "https://www.linkedin.com/jobs/view/4446003399",
     "visa_support": null,
     "relocation_support": null,
-    "date_posted": "2026-11-08",
+    "date_posted": "2026-11-15",
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-27",
+    "first_seen": "2026-08-02",
     "last_seen": "2026-11-15"
   },
   {
@@ -1289,20 +1289,6 @@
   },
   {
     "company": "Adyen",
-    "job_title": "Staff Engineer - Observability",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4454943163",
-    "job_url": "https://www.linkedin.com/jobs/view/4454943163",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-13",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-11-15"
-  },
-  {
-    "company": "Adyen",
     "job_title": "Staff Engineer - Banking Products",
     "location": "Amsterdam, North Holland, Netherlands",
     "careers_url": "https://www.linkedin.com/jobs/view/4454274124",
@@ -1341,6 +1327,20 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-06",
+    "last_seen": "2026-11-15"
+  },
+  {
+    "company": "Energie Data Services Nederland (EDSN) B.V.",
+    "job_title": "Staff Engineer",
+    "location": "Amersfoort, Utrecht, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4440109939",
+    "job_url": "https://www.linkedin.com/jobs/view/4440109939",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-12",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-20",
     "last_seen": "2026-11-15"
   },
   {
@@ -1512,6 +1512,51 @@
     "last_seen": "2026-11-15"
   },
   {
+    "company": "Lemonade",
+    "job_title": "Senior Backend Engineer, Pricing Platform",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4488026152",
+    "job_url": "https://www.linkedin.com/jobs/view/4488026152",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-15",
+    "stale": true
+  },
+  {
+    "company": "Optiver",
+    "job_title": "AI Engineer",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4423662270",
+    "job_url": "https://www.linkedin.com/jobs/view/4423662270",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-08",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-11-15",
+    "stale": true
+  },
+  {
+    "company": "Adyen",
+    "job_title": "Staff Engineer - Observability",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "careers_url": "https://www.linkedin.com/jobs/view/4454943163",
+    "job_url": "https://www.linkedin.com/jobs/view/4454943163",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-11-13",
+    "description": "",
+    "notes": "Via LinkedIn / JobSpy.",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-11-15",
+    "stale": true
+  },
+  {
     "company": "JetBrains",
     "job_title": "Staff Software Developer (IAM)",
     "location": "Amsterdam, North Holland, Netherlands",
@@ -1523,7 +1568,8 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-09-04",
-    "last_seen": "2026-11-15"
+    "last_seen": "2026-11-15",
+    "stale": true
   },
   {
     "company": "FDE Times",
@@ -1882,21 +1928,6 @@
     "description": "",
     "notes": "Via LinkedIn / JobSpy.",
     "first_seen": "2026-08-12",
-    "last_seen": "2026-11-13",
-    "stale": true
-  },
-  {
-    "company": "Energie Data Services Nederland (EDSN) B.V.",
-    "job_title": "Staff Engineer",
-    "location": "Amersfoort, Utrecht, Netherlands",
-    "careers_url": "https://www.linkedin.com/jobs/view/4440109939",
-    "job_url": "https://www.linkedin.com/jobs/view/4440109939",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-11-12",
-    "description": "",
-    "notes": "Via LinkedIn / JobSpy.",
-    "first_seen": "2026-07-20",
     "last_seen": "2026-11-13",
     "stale": true
   },
