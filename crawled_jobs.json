@@ -57,20 +57,6 @@
   },
   {
     "company": "Adyen N.V.",
-    "job_title": "Java Software Engineer -\u00a0Java Application Core Components",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
-    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/7720026",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-13",
-    "description": "Software Engineer II -&nbsp;Java Application Core Components&nbsp; This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. &nbsp; Software Engineer - Java Application Core Components (JACC) Adyen provides a global, unified platform built by Java application teams across the company. The Java Application Core Components (JACC) team plays a key role in this: we build and maintain the shared frameworks and components that define how other Adyen teams design, structure, and deploy their Java applications. As part of JACC, you will build and maintain the core Java tools and components used across all of Adyen, shaping how other engineering teams build their services. You'll work on some of the largest ongoing efforts in the company, including 3 large-scale migrations that will shape the future of Adyen's application architecture. You'll join a lean team of 6 Java experts, working in a Kanban-like way with minimal process overhead, and gain real influence over the architecture of one of the leading players in the payments space. What you will do Design, build, and evolve the internal and open source Java frameworks and components used by every Java application team at Adyen. Play an active role in one or more of the team's 3 large-scale migrations that are reshaping Adyen's application architecture. Provide hands-on technical guidance to other engineering teams, by guiding them on how the frameworks and libraries we provide can be used to solve Adyen's business problems. Design and evolve workflows used by other engineering teams across Adyen, working closely with them to identify pain points and improvement opportunities. Collaborate with partner platform teams (Kubernetes infrastructure, deployment, security) to make sure our components integrate well across Adyen's tech stack. Advocate for best practices across Adyen and define boundaries/guidance on how the frameworks/libraries we maintain can be used. This should be achieved by creating code validation rules, running workshops and giving presentations to other development teams. What you bring 4+ years of experience with Java backend development Strong skills in core Java and code/API design Track record of building high-quality software, with testing at all levels A communicative, proactive team player Nice to have Experience with Kubernetes/cloud migrations, legacy application modernization, security-related work or ",
-    "notes": "Dept: Development. Via Greenhouse board.",
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "company": "Adyen N.V.",
     "job_title": "Senior AI Research Engineer",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
@@ -1294,6 +1280,20 @@
     "last_seen": "2026-11-17"
   },
   {
+    "company": "ABN AMRO Bank N.V.",
+    "job_title": "Senior DevOps Engineer",
+    "location": "Amsterdam",
+    "careers_url": "https://www.werkenbijabnamro.nl/en/vacancies?category=IT",
+    "job_url": "",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via XHR interception (Playwright).",
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17"
+  },
+  {
     "company": "Flow Traders B.V.",
     "job_title": "AI Engineering Manager",
     "location": "Amsterdam, Netherlands",
@@ -1613,6 +1613,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-12",
+    "last_seen": "2026-11-17"
+  },
+  {
+    "company": "N.V. Eneco",
+    "job_title": "Senior OT Network Engineer\nEneco - Rotterdam\n40 uur\nSoftware Engineering\nBekijk vacature",
+    "location": "Netherlands",
+    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
+    "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-ot-network-engineer-2956",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-15",
     "last_seen": "2026-11-17"
   },
   {
@@ -2076,19 +2090,6 @@
   },
   {
     "company": "Rabobank Nederland",
-    "job_title": "Senior Data Engineer",
-    "location": "Utrecht Croeselaan 18",
-    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
-    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Senior-Data-Engineer_JR_00144482-1",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-11-17"
-  },
-  {
-    "company": "Rabobank Nederland",
     "job_title": "DevOps Engineer SaaS Security & Integration",
     "location": "Utrecht Croeselaan 18",
     "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
@@ -2098,6 +2099,19 @@
     "date_posted": null,
     "notes": "Via Workday API.",
     "first_seen": "2026-11-15",
+    "last_seen": "2026-11-17"
+  },
+  {
+    "company": "Rabobank Nederland",
+    "job_title": "Sr Solution Architect",
+    "location": "Eindhoven Fellenoord 17",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Eindhoven-Fellenoord-17/Sr-Solution-Architect_JR_00145347-1",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-11-17",
     "last_seen": "2026-11-17"
   },
   {
@@ -2321,6 +2335,35 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-17"
+  },
+  {
+    "company": "Adyen N.V.",
+    "job_title": "Java Software Engineer -\u00a0Java Application Core Components",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
+    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/7720026",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-13",
+    "description": "Software Engineer II -&nbsp;Java Application Core Components&nbsp; This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. &nbsp; Software Engineer - Java Application Core Components (JACC) Adyen provides a global, unified platform built by Java application teams across the company. The Java Application Core Components (JACC) team plays a key role in this: we build and maintain the shared frameworks and components that define how other Adyen teams design, structure, and deploy their Java applications. As part of JACC, you will build and maintain the core Java tools and components used across all of Adyen, shaping how other engineering teams build their services. You'll work on some of the largest ongoing efforts in the company, including 3 large-scale migrations that will shape the future of Adyen's application architecture. You'll join a lean team of 6 Java experts, working in a Kanban-like way with minimal process overhead, and gain real influence over the architecture of one of the leading players in the payments space. What you will do Design, build, and evolve the internal and open source Java frameworks and components used by every Java application team at Adyen. Play an active role in one or more of the team's 3 large-scale migrations that are reshaping Adyen's application architecture. Provide hands-on technical guidance to other engineering teams, by guiding them on how the frameworks and libraries we provide can be used to solve Adyen's business problems. Design and evolve workflows used by other engineering teams across Adyen, working closely with them to identify pain points and improvement opportunities. Collaborate with partner platform teams (Kubernetes infrastructure, deployment, security) to make sure our components integrate well across Adyen's tech stack. Advocate for best practices across Adyen and define boundaries/guidance on how the frameworks/libraries we maintain can be used. This should be achieved by creating code validation rules, running workshops and giving presentations to other development teams. What you bring 4+ years of experience with Java backend development Strong skills in core Java and code/API design Track record of building high-quality software, with testing at all levels A communicative, proactive team player Nice to have Experience with Kubernetes/cloud migrations, legacy application modernization, security-related work or ",
+    "notes": "Dept: Development. Via Greenhouse board.",
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-11-17",
+    "stale": true
+  },
+  {
+    "company": "Rabobank Nederland",
+    "job_title": "Senior Data Engineer",
+    "location": "Utrecht Croeselaan 18",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Senior-Data-Engineer_JR_00144482-1",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-11-17",
+    "stale": true
   },
   {
     "company": "TomTom International B.V.",
@@ -2822,21 +2865,6 @@
     "location": "Netherlands",
     "careers_url": "https://www.werkenbijeneco.nl/vacatures",
     "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-backend-engineer-net-quality-engineering-3310",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-15",
-    "last_seen": "2026-11-16",
-    "stale": true
-  },
-  {
-    "company": "N.V. Eneco",
-    "job_title": "Senior OT Network Engineer\nEneco - Rotterdam\n40 uur\nSoftware Engineering\nBekijk vacature",
-    "location": "Netherlands",
-    "careers_url": "https://www.werkenbijeneco.nl/vacatures",
-    "job_url": "https://www.werkenbijeneco.nl/vacatures/senior-ot-network-engineer-2956",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
