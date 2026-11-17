@@ -261,20 +261,28 @@ def build_rows(scored):
         )
     return rows
 
+SOURCE_ORDER = ['LinkedIn', 'Company career pages', 'Indeed']
+
+def job_source(job) -> str:
+    url = (job.get('job_url') or job.get('url') or '').lower()
+    src = (job.get('source') or '').lower()
+    if 'linkedin.com' in url or src == 'linkedin':
+        return 'LinkedIn'
+    if 'indeed.' in url or src == 'indeed':
+        return 'Indeed'
+    return 'Company career pages'
+
+def group_by_source(scored):
+    """[(section name, [(job, score), ...] sorted by score desc), ...], empty sections skipped."""
+    groups = {name: [] for name in SOURCE_ORDER}
+    for job, pct in scored:
+        groups[job_source(job)].append((job, pct))
+    return [(name, sorted(g, key=lambda x: x[1], reverse=True)) for name, g in groups.items() if g]
+
 def build_email(heading, subheading, scored):
-    rows = build_rows(scored)
-    header_col = '#2E74B5'
-    return f'''<!DOCTYPE html>
-<html><head><meta charset="utf-8"></head>
-<body style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;background:#f8fafc;margin:0;padding:20px">
-  <div style="max-width:840px;margin:0 auto;background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
-    <div style="background:{header_col};padding:22px 28px">
-      <h1 style="margin:0;color:#fff;font-size:20px">{heading}</h1>
-      <p style="margin:5px 0 0;color:#dbeafe;font-size:13px">{subheading}</p>
-    </div>
-    <div style="padding:20px 28px">
-      <a href="{DASHBOARD_URL}" style="display:inline-block;background:{header_col};color:#fff;padding:8px 20px;border-radius:8px;text-decoration:none;font-weight:600;margin-bottom:20px">Open Dashboard</a>
-      <table style="width:100%;border-collapse:collapse">
+    def _table(group):
+        rows = build_rows(group)
+        return f'''      <table style="width:100%;border-collapse:collapse">
         <thead>
           <tr style="background:#f1f5f9">
             <th style="padding:9px 8px;text-align:left;font-size:11px;color:#64748b;font-weight:600;text-transform:uppercase">Match</th>
@@ -286,7 +294,24 @@ def build_email(heading, subheading, scored):
           </tr>
         </thead>
         <tbody>{rows}</tbody>
-      </table>
+      </table>'''
+    sections = ''.join(
+        f'<h2 style="margin:22px 0 8px;font-size:16px;color:#2E74B5">{name} '
+        f'<span style="color:#94a3b8;font-weight:400">({len(g)})</span></h2>' + _table(g)
+        for name, g in group_by_source(scored)
+    )
+    header_col = '#2E74B5'
+    return f'''<!DOCTYPE html>
+<html><head><meta charset="utf-8"></head>
+<body style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;background:#f8fafc;margin:0;padding:20px">
+  <div style="max-width:840px;margin:0 auto;background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.08)">
+    <div style="background:{header_col};padding:22px 28px">
+      <h1 style="margin:0;color:#fff;font-size:20px">{heading}</h1>
+      <p style="margin:5px 0 0;color:#dbeafe;font-size:13px">{subheading}</p>
+    </div>
+    <div style="padding:20px 28px">
+      <a href="{DASHBOARD_URL}" style="display:inline-block;background:{header_col};color:#fff;padding:8px 20px;border-radius:8px;text-decoration:none;font-weight:600;margin-bottom:20px">Open Dashboard</a>
+{sections}
     </div>
   </div>
 </body></html>'''
@@ -356,7 +381,7 @@ def run_daily(all_jobs, seen):
     today = datetime.now(timezone.utc).strftime('%b %d, %Y')
     html = build_email(
         f'Daily Report: {len(scored)} jobs in the last 24 hours',
-        f'{today} | Scored by Claude AI | Sorted by match',
+        f'{today} | Scored by Claude AI | Grouped by source, sorted by match',
         scored,
     )
     send_email(f'Daily job report | {len(scored)} jobs | {today}', html)
