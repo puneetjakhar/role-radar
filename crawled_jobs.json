@@ -602,20 +602,6 @@
     "last_seen": "2026-11-18"
   },
   {
-    "company": "JetBrains N.V.",
-    "job_title": "Staff Software Developer (IAM)",
-    "location": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia",
-    "careers_url": "https://job-boards.eu.greenhouse.io/jetbrains?field_11295787101%5B%5D=25001123101&offices%5B%5D=4029436101",
-    "job_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4963991101",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-09-04",
-    "description": "At JetBrains, code is our passion. Ever since we started back in 2000, we have strived to create the strongest and most effective developer tools in the world. Today, we are evolving beyond standalone tools toward a unified, AI-native platform for software development. AI is no longer just an assistant inside the editor \u2013 it is becoming an active participant in how software is planned, built, reviewed, and operated across teams and organizations. This shift brings challenges that cannot be solved at the level of individual tools alone, challenges that involve governance, security, cost control, observability, and coordination between humans and autonomous agents. The JetBrains Platform team (JCP) is building the foundation that connects developer workflows, team-level collaboration, and organizational control into a single coherent system. The platform is both deeply integrated with JetBrains products and designed to work across teams, products, and environments. We\u2019re now looking for an experienced Software Engineer to join an identity management and access team in JCP. The team owns several services responsible for authentication and authorization, as well as for managing organizations, user memberships, groups, and workspaces. All these form a foundational dependency for the rest of the platform. We also supply and support robust authentication components used by YouTrack, IDE Services, License Vault, Qodana, and other JetBrains products. In this role, you will: Own the entire SDLC: codebase, architecture, and operations Maintain and evolve the services in Kotlin and a little bit of Go, ensuring reliability and performance as the platform grows Design and implement new features across the identity, organization, membership, group, and workspace domains Review and integrate PRs from other platform teams Manage integrations with other JCP platform components and connected applications We will be happy to have you on our team if you:&nbsp; Have 7+ years of JVM development experience, preferably with Kotlin Know how to approach performance problems on JVM and Postgres Are experienced in building and operating SaaS production services in a distributed, multi-tenant environment Can fluently navigate a modern devops stack: K8S, OpenTelemetry, Grafana Have a track record of taking over and improving existing production services Nice to have: Prior experience with identity management protocols, such as OAuth 2.0, OIDC, SAML 2.0, or SCIM 2.0 If you have designed and evolved domain models for organizational or identity systems Cybersecurity experience: estimating risks, recognizing common vulnerability antipatterns, and promoting best SSDLC practices Hands-on experience with Go Why join JetBrains?&nbsp; Strong base salary. We offer competitive pay that reflects your skills and experience. Flexible work location. Enjoy the freedom to work from home or from the office. Remote work. Spend up to 30 days per year working remotely from abroad. Extra time off. ",
-    "notes": "Dept: JCP Core Foundation IAM. Via Greenhouse board.",
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-11-18"
-  },
-  {
     "company": "Flexport Group B.V.",
     "job_title": "Engineering Manager, Customs",
     "location": "Amsterdam, Netherlands",
@@ -1141,10 +1127,10 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior IOS Developer",
+    "job_title": "Senior Android Developer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053633/Senior-IOS-Developer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053634/Senior-Android-Developer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -1155,10 +1141,10 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Android Developer",
+    "job_title": "Senior IOS Developer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053634/Senior-Android-Developer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053633/Senior-IOS-Developer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -1685,6 +1671,34 @@
     "last_seen": "2026-11-18"
   },
   {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Global Banking & Markets - Software Engineer - Systematic Market Making - Analyst/ Associate - Bengaluru\nBengaluru\u00b7India",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/185273",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Data Engineer - Global Banking&Markets - Warsaw-Vice President-Software Engineering\nWarsaw\u00b7Poland\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/170130",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18"
+  },
+  {
     "company": "N.V. Eneco",
     "job_title": "Senior Software Engineer Salesforce\nEneco - Rotterdam\n32 - 40 uur\nSoftware Engineering\nBekijk vacature",
     "location": "Netherlands",
@@ -1892,20 +1906,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-18"
-  },
-  {
-    "company": "Sigma Software Group",
-    "job_title": "SENIOR DEVOPS ENGINEER (DEFENCETECH)\nLviv\nUkraine\nAWS\nDevOps\nEngineering\nAPPLY",
-    "location": "Netherlands",
-    "careers_url": "https://career.sigma.software/",
-    "job_url": "https://career.sigma.software/vacancy/senior-devops-engineer-23/",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-11-16",
     "last_seen": "2026-11-18"
   },
   {
@@ -2364,6 +2364,36 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-18"
+  },
+  {
+    "company": "JetBrains N.V.",
+    "job_title": "Staff Software Developer (IAM)",
+    "location": "Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; London, United Kingdom; Madrid, Spain; Munich, Germany; Paphos, Cyprus; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia",
+    "careers_url": "https://job-boards.eu.greenhouse.io/jetbrains?field_11295787101%5B%5D=25001123101&offices%5B%5D=4029436101",
+    "job_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4963991101",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-09-04",
+    "description": "At JetBrains, code is our passion. Ever since we started back in 2000, we have strived to create the strongest and most effective developer tools in the world. Today, we are evolving beyond standalone tools toward a unified, AI-native platform for software development. AI is no longer just an assistant inside the editor \u2013 it is becoming an active participant in how software is planned, built, reviewed, and operated across teams and organizations. This shift brings challenges that cannot be solved at the level of individual tools alone, challenges that involve governance, security, cost control, observability, and coordination between humans and autonomous agents. The JetBrains Platform team (JCP) is building the foundation that connects developer workflows, team-level collaboration, and organizational control into a single coherent system. The platform is both deeply integrated with JetBrains products and designed to work across teams, products, and environments. We\u2019re now looking for an experienced Software Engineer to join an identity management and access team in JCP. The team owns several services responsible for authentication and authorization, as well as for managing organizations, user memberships, groups, and workspaces. All these form a foundational dependency for the rest of the platform. We also supply and support robust authentication components used by YouTrack, IDE Services, License Vault, Qodana, and other JetBrains products. In this role, you will: Own the entire SDLC: codebase, architecture, and operations Maintain and evolve the services in Kotlin and a little bit of Go, ensuring reliability and performance as the platform grows Design and implement new features across the identity, organization, membership, group, and workspace domains Review and integrate PRs from other platform teams Manage integrations with other JCP platform components and connected applications We will be happy to have you on our team if you:&nbsp; Have 7+ years of JVM development experience, preferably with Kotlin Know how to approach performance problems on JVM and Postgres Are experienced in building and operating SaaS production services in a distributed, multi-tenant environment Can fluently navigate a modern devops stack: K8S, OpenTelemetry, Grafana Have a track record of taking over and improving existing production services Nice to have: Prior experience with identity management protocols, such as OAuth 2.0, OIDC, SAML 2.0, or SCIM 2.0 If you have designed and evolved domain models for organizational or identity systems Cybersecurity experience: estimating risks, recognizing common vulnerability antipatterns, and promoting best SSDLC practices Hands-on experience with Go Why join JetBrains?&nbsp; Strong base salary. We offer competitive pay that reflects your skills and experience. Flexible work location. Enjoy the freedom to work from home or from the office. Remote work. Spend up to 30 days per year working remotely from abroad. Extra time off. ",
+    "notes": "Dept: JCP Core Foundation IAM. Via Greenhouse board.",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-18",
+    "stale": true
+  },
+  {
+    "company": "Sigma Software Group",
+    "job_title": "SENIOR DEVOPS ENGINEER (DEFENCETECH)\nLviv\nUkraine\nAWS\nDevOps\nEngineering\nAPPLY",
+    "location": "Netherlands",
+    "careers_url": "https://career.sigma.software/",
+    "job_url": "https://career.sigma.software/vacancy/senior-devops-engineer-23/",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
+    "stale": true
   },
   {
     "company": "Bol.com B.V.",
