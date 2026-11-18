@@ -1672,34 +1672,6 @@
     "last_seen": "2026-11-18"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "GBM - Prime Services Custody Engineering - Bengaluru - Vice President - Software Engineering\nBengaluru\u00b7India\n\u00b7Vice Presi",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/183217",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-11-18"
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "GBM - TxB Platform Eng - Bengaluru - Vice President - Software Engineering\nBengaluru\u00b7India\n\u00b7Vice President",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/176088",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-11-18"
-  },
-  {
     "company": "Van Lanschot Kempen N.V.",
     "job_title": "Full-Stack Developer",
     "location": "Amsterdam",
@@ -2106,6 +2078,19 @@
     "last_seen": "2026-11-18"
   },
   {
+    "company": "Rabobank Nederland",
+    "job_title": "Junior DevOps Engineer | Azure Platform Engineering |IT Early career program",
+    "location": "Utrecht Croeselaan 18",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Junior-DevOps-Engineer---Azure-Platform-Engineering--IT-Early-career-program_JR_00147909",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-18"
+  },
+  {
     "company": "Tebi B.V.",
     "job_title": "Senior Fullstack Mobile Engineer ",
     "location": "Amsterdam",
@@ -2302,6 +2287,36 @@
     "last_seen": "2026-11-18"
   },
   {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "GBM - Prime Services Custody Engineering - Bengaluru - Vice President - Software Engineering\nBengaluru\u00b7India\n\u00b7Vice Presi",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/183217",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-11-18",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "GBM - TxB Platform Eng - Bengaluru - Vice President - Software Engineering\nBengaluru\u00b7India\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/176088",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-11-18",
+    "stale": true
+  },
+  {
     "company": "NVIDIA Netherlands B.V.",
     "job_title": "Senior Software System Architect, AI Factory Management",
     "location": "Netherlands, Remote",
@@ -2356,20 +2371,6 @@
     "date_posted": null,
     "notes": "Via Workday API.",
     "first_seen": "2026-07-21",
-    "last_seen": "2026-11-17",
-    "stale": true
-  },
-  {
-    "company": "Rabobank Nederland",
-    "job_title": "Junior DevOps Engineer | Azure Platform Engineering |IT Early career program",
-    "location": "Utrecht Croeselaan 18",
-    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
-    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Junior-DevOps-Engineer---Azure-Platform-Engineering--IT-Early-career-program_JR_00147909",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-11-11",
     "last_seen": "2026-11-17",
     "stale": true
   },
