@@ -1280,19 +1280,6 @@
     "last_seen": "2026-11-18"
   },
   {
-    "company": "NVIDIA Netherlands B.V.",
-    "job_title": "Senior Software System Architect, AI Factory Management",
-    "location": "Netherlands, Remote",
-    "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
-    "job_url": "https://nvidia.wd5.myworkdayjobs.com/job/Netherlands-Remote/Senior-Software-System-Architect--AI-Factory-Management_JR2029083",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-18"
-  },
-  {
     "company": "Bol.com B.V.",
     "job_title": "DevOps Engineer - ShopCore Backend",
     "location": "Utrecht, Netherlands",
@@ -1836,6 +1823,20 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-12",
+    "last_seen": "2026-11-18"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "GBM - Prime Services Custody Engineering - Bengaluru - Vice President - Software Engineering\nBengaluru\u00b7India\n\u00b7Vice Presi",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/183217",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-09-01",
     "last_seen": "2026-11-18"
   },
   {
@@ -2427,17 +2428,16 @@
     "last_seen": "2026-11-18"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "GBM - Prime Services Custody Engineering - Bengaluru - Vice President - Software Engineering\nBengaluru\u00b7India\n\u00b7Vice Presi",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/183217",
+    "company": "NVIDIA Netherlands B.V.",
+    "job_title": "Senior Software System Architect, AI Factory Management",
+    "location": "Netherlands, Remote",
+    "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "job_url": "https://nvidia.wd5.myworkdayjobs.com/job/Netherlands-Remote/Senior-Software-System-Architect--AI-Factory-Management_JR2029083",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-09-01",
+    "notes": "Via Workday API.",
+    "first_seen": "2026-11-03",
     "last_seen": "2026-11-18",
     "stale": true
   },
