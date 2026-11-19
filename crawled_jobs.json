@@ -351,7 +351,7 @@
   },
   {
     "company": "Databricks",
-    "job_title": "Forward Deployed Engineer",
+    "job_title": "Forward Deployed Engineer - full Stack",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://www.databricks.com/company/careers/open-positions?department=Engineering&location=Netherlands%7CAmsterdam%2C%20Netherlands",
     "job_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002",
@@ -1143,10 +1143,10 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior IOS Developer",
+    "job_title": "Senior Android Developer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053633/Senior-IOS-Developer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053634/Senior-Android-Developer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -1157,10 +1157,10 @@
   },
   {
     "company": "Takeaway.com Group B.V.",
-    "job_title": "Senior Android Developer",
+    "job_title": "Senior IOS Developer",
     "location": "Netherlands",
     "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053634/Senior-Android-Developer",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053633/Senior-IOS-Developer",
     "visa_support": null,
     "relocation_support": null,
     "date_posted": null,
@@ -1646,34 +1646,6 @@
     "last_seen": "2026-11-19"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Internal Audit, Public Equities Engineering Auditor, Senior Vice President, Salt Lake City\nSalt Lake City\u00b7United States\n",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/181510",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-11-19"
-  },
-  {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "The Core Engineering, Associate, Software Engineering, SLC\nSalt Lake City\u00b7United States\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/174505",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-06-09",
-    "last_seen": "2026-11-19"
-  },
-  {
     "company": "N.V. Eneco",
     "job_title": "Senior .NET/C# Engineer (B2C)\nEneco - Rotterdam\n40 uur\nTech\nBekijk vacature",
     "location": "Netherlands",
@@ -1982,6 +1954,19 @@
     "last_seen": "2026-11-19"
   },
   {
+    "company": "Genesys Cloud Services B.V.",
+    "job_title": "Principal AI Solutions Architect, Customer Success",
+    "location": "Netherlands",
+    "careers_url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys",
+    "job_url": "https://genesys.wd1.myworkdayjobs.com/job/Netherlands/Principal-AI-Solutions-Architect--Customer-Success_JR111659-1",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-11-19"
+  },
+  {
     "company": "Fivetran Netherlands B.V.",
     "job_title": "Senior Staff Software Engineer, SAP Connectors",
     "location": "Amsterdam, North Holland, Netherlands, EMEA",
@@ -2274,6 +2259,36 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-19"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Internal Audit, Public Equities Engineering Auditor, Senior Vice President, Salt Lake City\nSalt Lake City\u00b7United States\n",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/181510",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-11-19",
+    "stale": true
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "The Core Engineering, Associate, Software Engineering, SLC\nSalt Lake City\u00b7United States\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/174505",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-11-19",
+    "stale": true
   },
   {
     "company": "Booking.com B.V.",
@@ -2598,20 +2613,6 @@
     "date_posted": null,
     "notes": "Via Workday API.",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-18",
-    "stale": true
-  },
-  {
-    "company": "Genesys Cloud Services B.V.",
-    "job_title": "Principal AI Solutions Architect, Customer Success",
-    "location": "Netherlands",
-    "careers_url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys",
-    "job_url": "https://genesys.wd1.myworkdayjobs.com/job/Netherlands/Principal-AI-Solutions-Architect--Customer-Success_JR111659-1",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-07-21",
     "last_seen": "2026-11-18",
     "stale": true
   },
