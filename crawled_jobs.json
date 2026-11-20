@@ -1254,6 +1254,19 @@
     "last_seen": "2026-11-20"
   },
   {
+    "company": "NVIDIA Netherlands B.V.",
+    "job_title": "Senior Software System Architect, AI Factory Management",
+    "location": "Netherlands, Remote",
+    "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "job_url": "https://nvidia.wd5.myworkdayjobs.com/job/Netherlands-Remote/Senior-Software-System-Architect--AI-Factory-Management_JR2029083",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-20"
+  },
+  {
     "company": "Bol.com B.V.",
     "job_title": "DevOps Engineer - ShopCore Backend",
     "location": "Utrecht, Netherlands",
@@ -2346,20 +2359,6 @@
     "description": "About myTomorrows myTomorrows is a global health tech company dedicated to breaking down barriers for patients seeking treatment options. We strive to enable earlier and better treatment access by bridging the gap between those searching for possible options, and the companies who develop them. We work closely with patients, healthcare professionals, trial sites, patient advocacy groups, and BioPharma \u2013 connecting key stakeholders in the drug development ecosystem. We\u2019ve developed a cutting-edge AI-powered technology platform that simplifies and streamlines access to drugs in development. To support our users and clients, we have a range of industry-expert specialized teams ready to help. Our services include clinical trial patient recruitment, Expanded Access Program management and Real-World Data collection. With a global footprint spanning 134 countries, to date we\u2019ve supported over 17,000 patients, 3,000 physicians and 350 sites, earning the trust of 60+ BioPharma companies. In October 2025, we closed a \u20ac25M investment with Avego Healthcare Capital to fuel our global ambitions and scale the business. Join us in shaping the future of treatment access - making tomorrow\u2019s therapies accessible for people who need them today. The Opportunity: Senior Engineering Manager As an Engineering Manager at myTomorrows, you will lead Backend, Frontend, Full Stack and QA engineers building the platforms that help patients find their treatment options. Our Expanded Access Program (EAP) platform and Clinical Trials (CT) platform connect patients and healthcare professionals with treatments in development and give our BioPharma Partners the tools to run their programs and trials. You\u2019ll shape how these platforms grow, building a high-performing team that ships well-designed, scalable, secure and compliant software, and delivers it on time. You won\u2019t do it alone. You\u2019ll partner closely with Product, Design, EAP and CT Operations, and our Platform colleagues in DevOps, Security and Data. Together, you\u2019ll turn ambitious company goals into product outcomes that make a real difference in patients\u2019 lives. Given that most of our team is located in the Netherlands, we only consider candidates for this position who live within commuting distance of our office in Amsterdam. What you\u2019ll do in this role: Lead, mentor and manage a team of Backend, Frontend, Full Stack and QA engineers. Foster a collaborative, inclusive and high-performing culture. Own engineering delivery for your areas of the EAP and CT platforms, from discovery through to release and operation in production. Partner with Product Managers and Designers to shape the roadmap, refine priorities, and plan and execute features and improvements. Provide technical leadership in architecture and design, ensuring solutions are robust, maintainable, scalable and secure. Work with engineers on decisions about tools, frameworks and approaches. Champion engineering best practices: proactive exploration AI-enabled and a",
     "notes": "Via Ashby API.",
     "first_seen": "2026-11-18",
-    "last_seen": "2026-11-20",
-    "stale": true
-  },
-  {
-    "company": "NVIDIA Netherlands B.V.",
-    "job_title": "Senior Software System Architect, AI Factory Management",
-    "location": "Netherlands, Remote",
-    "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
-    "job_url": "https://nvidia.wd5.myworkdayjobs.com/job/Netherlands-Remote/Senior-Software-System-Architect--AI-Factory-Management_JR2029083",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-11-03",
     "last_seen": "2026-11-20",
     "stale": true
   },
