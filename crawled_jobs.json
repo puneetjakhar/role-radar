@@ -1253,6 +1253,19 @@
     "last_seen": "2026-11-23"
   },
   {
+    "company": "NVIDIA Netherlands B.V.",
+    "job_title": "Senior Software System Architect, AI Factory Management",
+    "location": "Netherlands, Remote",
+    "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "job_url": "https://nvidia.wd5.myworkdayjobs.com/job/Netherlands-Remote/Senior-Software-System-Architect--AI-Factory-Management_JR2029083",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-23"
+  },
+  {
     "company": "Bol.com B.V.",
     "job_title": "DevOps Engineer - ShopCore Backend",
     "location": "Utrecht, Netherlands",
@@ -2079,32 +2092,6 @@
     "last_seen": "2026-11-23"
   },
   {
-    "company": "Rabobank Nederland",
-    "job_title": "INFRA/DevOps Engineer \u2013 Squad BlackICE",
-    "location": "Utrecht Croeselaan 18",
-    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
-    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/INFRA-DevOps-Engineer---Squad-BlackICE_JR_00145328-1",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-11-18",
-    "last_seen": "2026-11-23"
-  },
-  {
-    "company": "Rabobank Nederland",
-    "job_title": "Junior DevOps Engineer IAM | Early Career Program IT | Utrecht",
-    "location": "Utrecht Croeselaan 18",
-    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
-    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Junior-DevOps-Engineer-IAM---Early-Career-Program-IT---Utrecht_JR_00148260",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-11-23",
-    "last_seen": "2026-11-23"
-  },
-  {
     "company": "Tebi B.V.",
     "job_title": "Senior Fullstack Mobile Engineer ",
     "location": "Amsterdam",
@@ -2315,6 +2302,34 @@
     "last_seen": "2026-11-23"
   },
   {
+    "company": "Rabobank Nederland",
+    "job_title": "INFRA/DevOps Engineer \u2013 Squad BlackICE",
+    "location": "Utrecht Croeselaan 18",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/INFRA-DevOps-Engineer---Squad-BlackICE_JR_00145328-1",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-23",
+    "stale": true
+  },
+  {
+    "company": "Rabobank Nederland",
+    "job_title": "Junior DevOps Engineer IAM | Early Career Program IT | Utrecht",
+    "location": "Utrecht Croeselaan 18",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Junior-DevOps-Engineer-IAM---Early-Career-Program-IT---Utrecht_JR_00148260",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "stale": true
+  },
+  {
     "company": "Genesys Cloud Services B.V.",
     "job_title": "Principal AI Solutions Architect, Customer Success",
     "location": "Netherlands",
@@ -2505,20 +2520,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-18",
-    "last_seen": "2026-11-23",
-    "stale": true
-  },
-  {
-    "company": "NVIDIA Netherlands B.V.",
-    "job_title": "Senior Software System Architect, AI Factory Management",
-    "location": "Netherlands, Remote",
-    "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
-    "job_url": "https://nvidia.wd5.myworkdayjobs.com/job/Netherlands-Remote/Senior-Software-System-Architect--AI-Factory-Management_JR2029083",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-11-03",
     "last_seen": "2026-11-23",
     "stale": true
   },
