@@ -1184,20 +1184,6 @@
     "last_seen": "2026-11-23"
   },
   {
-    "company": "Takeaway.com Group B.V.",
-    "job_title": "Site Reliability Engineer",
-    "location": "Netherlands",
-    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
-    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053286/Site-Reliability-Engineer",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-11-20",
-    "last_seen": "2026-11-23"
-  },
-  {
     "company": "GitLab Netherlands B.V.",
     "job_title": "Staff Forward Deployed Engineer, EMEA",
     "location": "Remote Ireland; Remote, Austria; Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
@@ -1912,6 +1898,19 @@
     "last_seen": "2026-11-23"
   },
   {
+    "company": "Genesys Cloud Services B.V.",
+    "job_title": "Principal AI Solutions Architect, Customer Success",
+    "location": "Netherlands",
+    "careers_url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys",
+    "job_url": "https://genesys.wd1.myworkdayjobs.com/job/Netherlands/Principal-AI-Solutions-Architect--Customer-Success_JR111659-1",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-11-23"
+  },
+  {
     "company": "Fivetran Netherlands B.V.",
     "job_title": "Senior Staff Software Engineer, SAP Connectors",
     "location": "Amsterdam, North Holland, Netherlands, EMEA",
@@ -2248,6 +2247,21 @@
     "last_seen": "2026-11-23"
   },
   {
+    "company": "Takeaway.com Group B.V.",
+    "job_title": "Site Reliability Engineer",
+    "location": "Netherlands",
+    "careers_url": "https://careers.justeattakeaway.com/global/en/c/tech-product-jobs",
+    "job_url": "https://careers.justeattakeaway.com/global/en/job/R_053286/Site-Reliability-Engineer",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
+    "stale": true
+  },
+  {
     "company": "Brunel Nederland B.V.",
     "job_title": "Engineering Lead (Civil & Structural)\n\nQatar\n\nAcademic Bachelor\n\nNot applicable\n\nResponsible for overseeing Civil/Struct",
     "location": "Netherlands",
@@ -2333,20 +2347,6 @@
     "description": "",
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-05-29",
-    "last_seen": "2026-11-23",
-    "stale": true
-  },
-  {
-    "company": "Genesys Cloud Services B.V.",
-    "job_title": "Principal AI Solutions Architect, Customer Success",
-    "location": "Netherlands",
-    "careers_url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys",
-    "job_url": "https://genesys.wd1.myworkdayjobs.com/job/Netherlands/Principal-AI-Solutions-Architect--Customer-Success_JR111659-1",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-07-21",
     "last_seen": "2026-11-23",
     "stale": true
   },
