@@ -1659,20 +1659,6 @@
     "last_seen": "2026-11-24"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Engineering-Seattle, WA-Vice President, Software Engineering Higher testing\nWashington\u00b7United States\n\u00b7Vice President",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/189062",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-24"
-  },
-  {
     "company": "Van Lanschot Kempen N.V.",
     "job_title": "Full-Stack Developer",
     "location": "Amsterdam",
@@ -2107,32 +2093,6 @@
     "last_seen": "2026-11-24"
   },
   {
-    "company": "Rabobank Nederland",
-    "job_title": "Junior DevOps Engineer IAM | Early Career Program IT | Utrecht",
-    "location": "Utrecht Croeselaan 18",
-    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
-    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Junior-DevOps-Engineer-IAM---Early-Career-Program-IT---Utrecht_JR_00148260",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-11-23",
-    "last_seen": "2026-11-24"
-  },
-  {
-    "company": "Rabobank Nederland",
-    "job_title": "INFRA/DevOps Engineer \u2013 Squad BlackICE",
-    "location": "Utrecht Croeselaan 18",
-    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
-    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/INFRA-DevOps-Engineer---Squad-BlackICE_JR_00145328-1",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "notes": "Via Workday API.",
-    "first_seen": "2026-11-18",
-    "last_seen": "2026-11-24"
-  },
-  {
     "company": "Tebi B.V.",
     "job_title": "Senior Fullstack Mobile Engineer ",
     "location": "Amsterdam",
@@ -2341,6 +2301,49 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-24"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Engineering-Seattle, WA-Vice President, Software Engineering Higher testing\nWashington\u00b7United States\n\u00b7Vice President",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/189062",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-24",
+    "stale": true
+  },
+  {
+    "company": "Rabobank Nederland",
+    "job_title": "Junior DevOps Engineer IAM | Early Career Program IT | Utrecht",
+    "location": "Utrecht Croeselaan 18",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/Junior-DevOps-Engineer-IAM---Early-Career-Program-IT---Utrecht_JR_00148260",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
+    "stale": true
+  },
+  {
+    "company": "Rabobank Nederland",
+    "job_title": "INFRA/DevOps Engineer \u2013 Squad BlackICE",
+    "location": "Utrecht Croeselaan 18",
+    "careers_url": "https://rabobank.wd3.myworkdayjobs.com/jobs",
+    "job_url": "https://rabobank.wd3.myworkdayjobs.com/job/Utrecht-Croeselaan-18/INFRA-DevOps-Engineer---Squad-BlackICE_JR_00145328-1",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "notes": "Via Workday API.",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-24",
+    "stale": true
   },
   {
     "company": "Revolut Netherlands B.V.",
