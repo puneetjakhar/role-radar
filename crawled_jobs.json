@@ -1589,20 +1589,6 @@
     "last_seen": "2026-11-26"
   },
   {
-    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
-    "job_title": "Wealth Management-Birmingham-Associate-Software Engineering\nBirmingham\u00b7United Kingdom\n\u00b7Associate",
-    "location": "Netherlands",
-    "careers_url": "https://higher.gs.com/roles",
-    "job_url": "https://higher.gs.com/roles/189474",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": null,
-    "description": "",
-    "notes": "Via DOM link heuristic (Playwright).",
-    "first_seen": "2026-11-25",
-    "last_seen": "2026-11-26"
-  },
-  {
     "company": "N.V. Eneco",
     "job_title": "Senior Engineering Manager - Data and Agent Operations\nEneco - Rotterdam\nData & AI\nBekijk vacature",
     "location": "Netherlands",
@@ -2203,6 +2189,21 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-26"
+  },
+  {
+    "company": "Goldman Sachs Bank Europe SE, Amsterdam Branch",
+    "job_title": "Wealth Management-Birmingham-Associate-Software Engineering\nBirmingham\u00b7United Kingdom\n\u00b7Associate",
+    "location": "Netherlands",
+    "careers_url": "https://higher.gs.com/roles",
+    "job_url": "https://higher.gs.com/roles/189474",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": null,
+    "description": "",
+    "notes": "Via DOM link heuristic (Playwright).",
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-26",
+    "stale": true
   },
   {
     "company": "Adyen N.V.",
