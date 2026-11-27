@@ -113,6 +113,20 @@
   },
   {
     "company": "Adyen N.V.",
+    "job_title": "Software Engineer (Full-Stack)",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
+    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/8105757",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-10-09",
+    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. About Our Team As a Fullstack Engineer in the Merchant Fraud Prevention group, you will build and maintain fraud detection and mitigation features across both frontend and backend systems. Working alongside product managers, designers, and data teams, you will turn product requirements into merchant-facing interfaces and backend services. You will deliver end-to-end features, write clean code across the full stack, and help improve the overall fraud prevention platform. What You'll Do: Design, build, and deploy frontend features across the Merchant Fraud Prevention group, including risk profile configuration, rule builders, analytics dashboards and case management tools. Work across the full stack, with backend work focused on small features, bug fixes, and implementing and exposing APIs for frontend consumption.&nbsp; Design, implement and maintain component libraries as part of a comprehensive design system. Ensure web applications meet accessibility standards and support a global customer base providing the best possible user experience.&nbsp; Who You Are: You\u2019re a Software Engineer with 4 or more years of experience in JavaScript and TypeScript; deep familiarity with Vue.js is strongly preferred. Experience in fullstack environments, including reading and contributing to backend API layers and writing performant SQL queries; familiarity with Java or other statically-typed backend languages,&nbsp; and with database schema changes, including larger migrations requiring team alignment, is a plus. Expertise in designing and using component libraries, including defining and implementing design systems. Working experience with micro-frontend architectures and building highly scalable frontend solutions. Strong understanding of Software Engineering fundamentals, including testing practices (unit, integration, and end-to-end), CI/CD pipelines, and an interest in building reliable, maintainable systems Our Diversity, Equity and Inclusion commitments&nbsp; Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them - voices like yours. No matter who you are or where you\u2019re from, we welcome you to be yo",
+    "notes": "Dept: Development. Via Greenhouse board.",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-11-27"
+  },
+  {
+    "company": "Adyen N.V.",
     "job_title": "Software Engineer (Java) - Screening Team",
     "location": "Amsterdam, Netherlands",
     "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
@@ -1884,20 +1898,6 @@
     "last_seen": "2026-11-27"
   },
   {
-    "company": "Celonis Netherlands B.V.",
-    "job_title": "Senior Value Engineer - Public Sector",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://job-boards.greenhouse.io/celonis",
-    "job_url": "https://job-boards.greenhouse.io/celonis/jobs/7817305003?gh_jid=7817305003",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-08-04",
-    "description": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model \u2014 which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet. The Team: Value Engineering is responsible for our largest Fortune 500 customers and owns their transformation journey by working on the very frontier of what\u2019s possible with data and AI on the Celonis Platform. Partnering closely with the Sales team, Value Engineering is responsible for ensuring that the Celonis Platform is deployed to tackle the most strategic business challenges, fits into the right place in our customers\u2019 technology stack and most importantly generates strong ROI through deep and broad deployments. The Role: As a Senior Value Engineer, you will spearhead AI and data-driven business transformation within the Public sector in the Netherlands by contributing to your customer\u2019s end-to-end value journey using the Celonis Context Model. Working alongside Lead and Principal VEs, you will combine technical execution with consulting and project management. As an AI-fluent operator, your core mandate is to orchestrate complex roadmaps and execute targeted transformation initiatives that improve how these businesses operate across their Citizen administration and services ecosystems. The work you\u2019ll do: Value Selling &amp; Realization: Uncover the real issues by peeling back layers of organizational complexity. Own the Outcome from first discovery through realized ROI for your process areas. Tell the Value Story by crafting powerful executive narratives and leading business value workshops. Stakeholder Management: Cultivate powerful executive sponsorship across core business units to champion transformation programs. Co-own change management with customer leaders and design CoE roadmaps that build self-sufficiency. Program Management: Steer Global Transformations across complex workstreams. Own and implement AI-driven account planning and AI-assisted project management. Automate executive governance (QBRs, SteerCos) with minimal manual friction. Platform &amp; AI Fluency: Act as an AI-fluent operator, utilizing AI tools for rapid technical outputs while partnering with Applied Value Engineers for deep-dive solution builds. Champion platform adoption. Scale Value &amp; Innovation: Build a strategic expansion roadmap embedding Celonis as a strategic platform to drive adoption. Provide feedback to R&amp;D ",
-    "notes": "Dept: Value Engineering. Via Greenhouse board.",
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-11-27"
-  },
-  {
     "company": "HousingAnywhere Netherlands B.V.",
     "job_title": "Engineering Manager",
     "location": "Rotterdam, Zuid-Holland, Netherlands",
@@ -2120,6 +2120,21 @@
     "notes": "Via DOM link heuristic (Playwright).",
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-27"
+  },
+  {
+    "company": "Celonis Netherlands B.V.",
+    "job_title": "Senior Value Engineer - Public Sector",
+    "location": "Amsterdam, Netherlands",
+    "careers_url": "https://job-boards.greenhouse.io/celonis",
+    "job_url": "https://job-boards.greenhouse.io/celonis/jobs/7817305003?gh_jid=7817305003",
+    "visa_support": null,
+    "relocation_support": null,
+    "date_posted": "2026-08-04",
+    "description": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model \u2014 which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet. The Team: Value Engineering is responsible for our largest Fortune 500 customers and owns their transformation journey by working on the very frontier of what\u2019s possible with data and AI on the Celonis Platform. Partnering closely with the Sales team, Value Engineering is responsible for ensuring that the Celonis Platform is deployed to tackle the most strategic business challenges, fits into the right place in our customers\u2019 technology stack and most importantly generates strong ROI through deep and broad deployments. The Role: As a Senior Value Engineer, you will spearhead AI and data-driven business transformation within the Public sector in the Netherlands by contributing to your customer\u2019s end-to-end value journey using the Celonis Context Model. Working alongside Lead and Principal VEs, you will combine technical execution with consulting and project management. As an AI-fluent operator, your core mandate is to orchestrate complex roadmaps and execute targeted transformation initiatives that improve how these businesses operate across their Citizen administration and services ecosystems. The work you\u2019ll do: Value Selling &amp; Realization: Uncover the real issues by peeling back layers of organizational complexity. Own the Outcome from first discovery through realized ROI for your process areas. Tell the Value Story by crafting powerful executive narratives and leading business value workshops. Stakeholder Management: Cultivate powerful executive sponsorship across core business units to champion transformation programs. Co-own change management with customer leaders and design CoE roadmaps that build self-sufficiency. Program Management: Steer Global Transformations across complex workstreams. Own and implement AI-driven account planning and AI-assisted project management. Automate executive governance (QBRs, SteerCos) with minimal manual friction. Platform &amp; AI Fluency: Act as an AI-fluent operator, utilizing AI tools for rapid technical outputs while partnering with Applied Value Engineers for deep-dive solution builds. Champion platform adoption. Scale Value &amp; Innovation: Build a strategic expansion roadmap embedding Celonis as a strategic platform to drive adoption. Provide feedback to R&amp;D ",
+    "notes": "Dept: Value Engineering. Via Greenhouse board.",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-11-27",
+    "stale": true
   },
   {
     "company": "Brunel Nederland B.V.",
@@ -2917,21 +2932,6 @@
     "description": "Job Application for Senior Product Designer \u2013 Agentic Shopping at bol.com EN Back to jobs New Senior Product Designer \u2013 Agentic Shopping Utrecht Apply x Create a Job Alert Interested in building your career at bol.com EN? Get future opportunities sent straight to your email. Create alert Apply for this job * indicates a required field Autofill my application First Name * Last Name * Preferred First Name Email * Phone Country Phone Resume/CV Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf Cover Letter Attach Attach Dropbox Google Drive Enter manually Enter manually Accepted file types: pdf, doc, docx, txt, rtf LinkedIn Profile Potfolio What would you like to share Google Analytics Client ID Google Analytics Client ID for Measurement Protocol [cid] CRM consent Select... Submit application Powered by Greenhouse",
     "notes": "Dept: Design. Via Greenhouse board.",
     "first_seen": "2026-11-23",
-    "last_seen": "2026-11-24",
-    "stale": true
-  },
-  {
-    "company": "Adyen N.V.",
-    "job_title": "Software Engineer (Full-Stack)",
-    "location": "Amsterdam, Netherlands",
-    "careers_url": "https://careers.adyen.com/vacancies?location=Amsterdam&team=Development",
-    "job_url": "https://job-boards.greenhouse.io/adyen/jobs/8105757",
-    "visa_support": null,
-    "relocation_support": null,
-    "date_posted": "2026-10-09",
-    "description": "This is Adyen Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp; For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster. About Our Team As a Fullstack Engineer in the Merchant Fraud Prevention group, you will build and maintain fraud detection and mitigation features across both frontend and backend systems. Working alongside product managers, designers, and data teams, you will turn product requirements into merchant-facing interfaces and backend services. You will deliver end-to-end features, write clean code across the full stack, and help improve the overall fraud prevention platform. What You'll Do: Design, build, and deploy frontend features across the Merchant Fraud Prevention group, including risk profile configuration, rule builders, analytics dashboards and case management tools. Work across the full stack, with backend work focused on small features, bug fixes, and implementing and exposing APIs for frontend consumption.&nbsp; Design, implement and maintain component libraries as part of a comprehensive design system. Ensure web applications meet accessibility standards and support a global customer base providing the best possible user experience.&nbsp; Who You Are: You\u2019re a Software Engineer with 4 or more years of experience in JavaScript and TypeScript; deep familiarity with Vue.js is strongly preferred. Experience in fullstack environments, including reading and contributing to backend API layers and writing performant SQL queries; familiarity with Java or other statically-typed backend languages,&nbsp; and with database schema changes, including larger migrations requiring team alignment, is a plus. Expertise in designing and using component libraries, including defining and implementing design systems. Working experience with micro-frontend architectures and building highly scalable frontend solutions. Strong understanding of Software Engineering fundamentals, including testing practices (unit, integration, and end-to-end), CI/CD pipelines, and an interest in building reliable, maintainable systems Our Diversity, Equity and Inclusion commitments&nbsp; Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them - voices like yours. No matter who you are or where you\u2019re from, we welcome you to be yo",
-    "notes": "Dept: Development. Via Greenhouse board.",
-    "first_seen": "2026-10-09",
     "last_seen": "2026-11-24",
     "stale": true
   },
